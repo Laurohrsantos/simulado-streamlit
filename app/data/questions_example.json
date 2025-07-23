@@ -1,0 +1,36 @@
+{
+  "area_conhecimento_1": [
+    {
+      "id": "q1",
+      "questao": "Qual é a capital da França?",
+      "alternativas": [
+        {"texto": "Berlim", "correta": false},
+        {"texto": "Madri", "correta": false},
+        {"texto": "Paris", "correta": true},
+        {"texto": "Roma", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "Qual é o maior oceano do mundo?",
+      "alternativas": [
+        {"texto": "Atlântico", "correta": false},
+        {"texto": "Índico", "correta": false},
+        {"texto": "Ártico", "correta": false},
+        {"texto": "Pacífico", "correta": true}
+      ]
+    }
+  ],
+  "area_conhecimento_2": [
+    {
+      "id": "q3",
+      "questao": "Quem escreveu 'Dom Quixote'?",
+      "alternativas": [
+        {"texto": "Machado de Assis", "correta": false},
+        {"texto": "Miguel de Cervantes", "correta": true},
+        {"texto": "William Shakespeare", "correta": false},
+        {"texto": "Gabriel García Márquez", "correta": false}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "Língua Portuguesa": [
+    {
+      "id": "LP_001",
+      "questao": "No contexto da Língua Portuguesa, a correta identificação do gênero textual é fundamental para a compreensão do sentido e da organização interna de um texto. Qual das opções a seguir apresenta uma característica distintiva do gênero textual narrativo?",
+      "alternativas": [
+        {"texto": "Predominância de verbos no imperativo, visando instruir o leitor sobre como realizar uma tarefa específica.", "correta": false},
+        {"texto": "Foco na exposição de dados e fatos de forma objetiva, com o intuito de informar o leitor sobre um determinado assunto.", "correta": false},
+        {"texto": "Apresentação de uma sequência de eventos que se desenvolvem no tempo e no espaço, envolvendo personagens e um enredo.", "correta": true},
+        {"texto": "Defesa de um ponto de vista por meio de argumentos e contra-argumentos, buscando persuadir o leitor sobre uma tese.", "correta": false},
+        {"texto": "Descrição detalhada de características físicas ou psicológicas de pessoas, objetos ou ambientes, sem progressão temporal.", "correta": false}
+      ]
+    }    
+  ],
+  "Estatística": [
+    {
+      "id": "EST_001",
+      "questao": "No estudo de medidas de tendência central, a média aritmética é amplamente utilizada para representar um conjunto de dados. Contudo, em certas situações, outras medidas podem ser mais apropriadas. Qual das alternativas a seguir descreve corretamente uma situação em que a mediana seria uma medida de tendência central mais representativa do que a média aritmética?",
+      "alternativas": [
+        {"texto": "Quando os dados apresentam uma distribuição simétrica e sem a presença de valores extremos (outliers).", "correta": false},
+        {"texto": "Em conjuntos de dados nos quais a soma de todos os valores é o principal foco de análise, independentemente da dispersão.", "correta": false},
+        {"texto": "Quando o conjunto de dados possui valores discrepantes (outliers) que podem distorcer significativamente o valor da média aritmética.", "correta": true},
+        {"texto": "Para dados de natureza qualitativa ordinal, onde a ordenação dos valores é mais relevante do que seus valores numéricos absolutos.", "correta": false},
+        {"texto": "Em situações onde se deseja identificar o valor que ocorre com maior frequência em um conjunto de dados, independentemente de sua posição central.", "correta": false}
+      ]
+    }
+  ],
+  "Administração Pública": [
+    {
+      "id": "ADM_001",
+      "questao": "A evolução dos modelos de gestão pública no Brasil reflete a busca por maior eficiência e responsividade do Estado. Nesse contexto, a Nova Gestão Pública (NGP) surge como um paradigma que se contrapõe, em diversos aspectos, ao modelo burocrático. Qual das alternativas a seguir apresenta uma característica central da Nova Gestão Pública?",
+      "alternativas": [
+        {"texto": "Ênfase na hierarquia e na formalização dos processos, com foco na rigidez das normas e no controle de meios.", "correta": false},
+        {"texto": "Priorização da estabilidade do servidor público e da padronização dos procedimentos, visando à impessoalidade e à previsibilidade.", "correta": false},
+        {"texto": "Foco na gestão por resultados, na descentralização de competências e na introdução de mecanismos de mercado na administração pública.", "correta": true},
+        {"texto": "Centralização das decisões e na manutenção de estruturas organizacionais rígidas, com pouca autonomia para as unidades setoriais.", "correta": false},
+        {"texto": "Valorização da estabilidade do emprego público e da carreira, com ênfase na segurança jurídica e na minimização de riscos.", "correta": false}
+      ]
+    }
+  ],
+    "Controle Externo": [
+      {
+        "id": "CON_001",
+        "questao": "No âmbito do Controle Externo, a Constituição Federal estabelece as competências dos Tribunais de Contas, órgãos essenciais para a fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União, dos Estados, do Distrito Federal e dos Municípios. Dentre as competências constitucionais dos Tribunais de Contas, qual das opções a seguir apresenta uma atribuição que se destaca pela sua relevância na prevenção de irregularidades e na garantia da legalidade dos atos administrativos?",
+        "alternativas": [
+          {"texto": "Apreciação da legalidade dos atos de admissão de pessoal, a qualquer título, na administração direta e indireta, incluídas as fundações instituídas e mantidas pelo poder público, excetuadas as nomeações para cargo de provimento em comissão.", "correta": false},
+          {"texto": "Julgamento das contas dos administradores e demais responsáveis por bens e valores públicos da administração direta e indireta, incluídas as fundações e sociedades instituídas e mantidas pelo poder público, e das contas daqueles que derem causa a perda, extravio ou outra irregularidade de que resulte prejuízo ao erário.", "correta": false},
+          {"texto": "Emissão de parecer prévio sobre as contas que o Presidente da República, o Governador de Estado, o Prefeito ou o Presidente da Câmara Municipal devem prestar anualmente.", "correta": true},
+          {"texto": "Realização de auditorias e inspeções de natureza contábil, financeira, orçamentária, operacional e patrimonial nas unidades administrativas dos Poderes Legislativo, Executivo e Judiciário, e demais entidades referidas no inciso II do art. 71 da Constituição Federal.", "correta": false},
+          {"texto": "Aplicação aos responsáveis, em caso de ilegalidade de despesa ou irregularidade de contas, das sanções previstas em lei, que estabelecerá, entre outras cominações, multa proporcional ao dano causado ao erário.", "correta": false}
+        ]
+      }
+    ],
+    "Noções de Contabilidade Pública": [
+      {
+        "id": "CP_001",
+        "questao": "No âmbito das Noções de Contabilidade Aplicada ao Setor Público (CASP), a compreensão dos regimes contábeis é crucial para o correto registro e apresentação das informações financeiras. Dentre os regimes contábeis aplicados ao setor público, qual das alternativas a seguir descreve corretamente o regime de competência?",
+        "alternativas": [
+          {"texto": "Registra as receitas e despesas no momento do seu recebimento ou pagamento, independentemente do fato gerador.", "correta": false},
+          {"texto": "Considera apenas as receitas efetivamente arrecadadas e as despesas efetivamente pagas, sem levar em conta o período a que se referem.", "correta": false},
+          {"texto": "Reconhece as receitas no momento em que são auferidas e as despesas no momento em que são incorridas, independentemente do recebimento ou pagamento.", "correta": true},
+          {"texto": "Utiliza uma combinação de critérios, registrando as receitas pelo regime de caixa e as despesas pelo regime de competência.", "correta": false},
+          {"texto": "Aplica-se exclusivamente às entidades da administração indireta que possuem autonomia financeira e orçamentária.", "correta": false}
+        ]
+      }
+    ],
+    "Noções de Análise de Dados e de Inteligência Artificial": [
+      {
+        "id": "IA_001",
+        "questao": "No campo da Análise de Dados e Inteligência Artificial, a compreensão das técnicas de aprendizado de máquina é fundamental para a extração de insights e a tomada de decisões. Dentre as técnicas de aprendizado de máquina mencionadas, qual delas é mais adequada para identificar grupos ou segmentos em um conjunto de dados sem rótulos pré-definidos?",
+        "alternativas": [
+          {"texto": "Classificação, que visa categorizar novos dados com base em um modelo treinado com dados rotulados.", "correta": false},
+          {"texto": "Regressão, utilizada para prever um valor contínuo com base em variáveis de entrada.", "correta": false},
+          {"texto": "Detecção de anomalias, focada em identificar padrões que não se conformam ao comportamento esperado.", "correta": false},
+          {"texto": "Agrupamento (clustering), que organiza dados em grupos com base em suas similaridades intrínsecas.", "correta": true},
+          {"texto": "Aprendizado por reforço, que treina agentes para tomar decisões sequenciais em um ambiente dinâmico.", "correta": false}
+        ]
+      }
+    ],
+    "Direito Constitucional": [
+      {
+        "id": "DC_001",
+        "questao": "A Constituição Federal de 1988, em sua supremacia, estabelece os pilares do ordenamento jurídico brasileiro. A aplicabilidade das normas constitucionais é um tema de grande relevância, distinguindo-se entre normas de eficácia plena, contida e limitada. Qual das alternativas a seguir descreve corretamente uma norma constitucional de eficácia contida?",
+        "alternativas": [
+          {"texto": "Aquela que, desde a promulgação da Constituição, produz ou tem possibilidade de produzir todos os seus efeitos, independentemente de norma regulamentadora.", "correta": false},
+          {"texto": "Aquela que, desde a promulgação da Constituição, produz todos os seus efeitos, mas que pode ter sua abrangência restringida por lei infraconstitucional.", "correta": true},
+          {"texto": "Aquela que, para produzir todos os seus efeitos, depende de lei posterior que a regulamente, não possuindo aplicabilidade imediata.", "correta": false},
+          {"texto": "Aquela que estabelece princípios e programas a serem desenvolvidos pelo legislador infraconstitucional, sem criar direitos subjetivos imediatos.", "correta": false},
+          {"texto": "Aquela que possui aplicabilidade imediata e integral, não podendo ser restringida ou complementada por qualquer ato normativo.", "correta": false}
+        ]
+      }
+    ],
+    "Direito Administrativo": [
+      {
+        "id": "DA_001",
+        "questao": "No Direito Administrativo, os atos administrativos são manifestações unilaterais da vontade da Administração Pública que produzem efeitos jurídicos. A validade, extinção e invalidação desses atos são temas cruciais para a compreensão da atuação estatal. Qual das alternativas a seguir apresenta uma forma de extinção do ato administrativo que ocorre por razões de conveniência e oportunidade, sem que haja vício de legalidade no ato original?",
+        "alternativas": [
+          {"texto": "Anulação, que ocorre quando o ato administrativo nasce com vício de legalidade, sendo desfeito com efeitos retroativos (ex tunc).", "correta": false},
+          {"texto": "Cassação, que se dá quando o beneficiário do ato administrativo descumpre as condições que lhe foram impostas para a sua manutenção.", "correta": false},
+          {"texto": "Revogação, que é a supressão de um ato administrativo válido e perfeito, por razões de oportunidade e conveniência da Administração Pública, com efeitos prospectivos (ex nunc).", "correta": true},
+          {"texto": "Caducidade, que ocorre quando uma lei nova retira a possibilidade de manutenção do ato administrativo, tornando-o incompatível com o novo ordenamento jurídico.", "correta": false},
+          {"texto": "Convalidação, que é o saneamento de um ato administrativo que nasceu com vício sanável, tornando-o válido e eficaz.", "correta": false}
+        ]
+      }
+    ],
+    "Direito Financeiro": [
+      {
+        "id": "DF_001",
+        "questao": "No âmbito do Direito Financeiro, a Lei de Responsabilidade Fiscal (Lei Complementar nº 101/2000) estabelece normas de finanças públicas voltadas para a responsabilidade na gestão fiscal. Dentre os instrumentos previstos por essa lei para garantir a transparência e o controle da gestão fiscal, qual das alternativas a seguir apresenta um mecanismo que visa aprimorar a prestação de contas e o acesso da sociedade às informações orçamentárias e financeiras?",
+        "alternativas": [
+          {"texto": "A obrigatoriedade de publicação do Relatório de Gestão Fiscal (RGF) e do Relatório Resumido da Execução Orçamentária (RREO), com ampla divulgação, inclusive por meios eletrônicos.", "correta": true},
+          {"texto": "A permissão para que os entes da federação contraiam dívidas sem limites preestabelecidos, desde que haja autorização legislativa específica para cada operação.", "correta": false},
+          {"texto": "A dispensa de apresentação de metas fiscais anuais, permitindo maior flexibilidade na gestão orçamentária em períodos de instabilidade econômica.", "correta": false},
+          {"texto": "A vedação total de transferências voluntárias entre os entes da federação, independentemente do cumprimento de requisitos de transparência e adimplência.", "correta": false},
+          {"texto": "A exclusão da responsabilidade dos gestores públicos em caso de descumprimento das metas fiscais, desde que comprovada a ocorrência de eventos imprevisíveis.", "correta": false}
+        ]
+      }
+    ],
+    "Direito Civil": [
+      {
+        "id": "DCIV_001",
+        "questao": "No Direito Civil, a classificação dos bens é fundamental para a compreensão de seus regimes jurídicos e das relações que sobre eles recaem. Dentre as classificações existentes, os bens públicos se distinguem dos bens particulares por suas características peculiares. Qual das alternativas a seguir apresenta uma característica distintiva dos bens de uso comum do povo?",
+        "alternativas": [
+          {"texto": "São aqueles que constituem o patrimônio das pessoas jurídicas de direito público, como os imóveis utilizados para sedes de órgãos públicos.", "correta": false},
+          {"texto": "São os bens que podem ser objeto de propriedade privada, desde que observadas as disposições legais e as restrições urbanísticas.", "correta": false},
+          {"texto": "São aqueles destinados à utilização geral pela coletividade, como ruas, praças e rios, e que não podem ser alienados enquanto conservarem essa destinação.", "correta": true},
+          {"texto": "São os bens que, embora pertencentes a pessoas jurídicas de direito público, não possuem destinação pública específica, podendo ser alienados na forma da lei.", "correta": false},
+          {"texto": "São aqueles que, por sua natureza, não podem ser divididos sem alteração de sua substância, como um cavalo ou um diamante.", "correta": false}
+        ]
+      }
+    ],
+    "Direito Processual Civil": [
+      {
+        "id": "DPC_001",
+        "questao": "No Direito Processual Civil, os princípios que regem o processo são fundamentais para assegurar a justiça e a legalidade das decisões judiciais. Dentre esses princípios, o contraditório e a ampla defesa são pilares do devido processo legal. Qual das alternativas a seguir descreve corretamente a aplicação do princípio do contraditório no processo civil?",
+        "alternativas": [
+          {"texto": "A garantia de que as partes terão conhecimento de todos os atos processuais e a oportunidade de se manifestar sobre eles, influenciando na formação do convencimento do juiz.", "correta": true},
+          {"texto": "A prerrogativa de que o juiz pode decidir com base em seu livre convencimento, sem a necessidade de fundamentar suas decisões em provas produzidas pelas partes.", "correta": false},
+          {"texto": "A possibilidade de as partes apresentarem recursos ilimitados contra as decisões judiciais, visando à protelação do processo.", "correta": false},
+          {"texto": "A obrigatoriedade de que todas as provas sejam produzidas exclusivamente por meio de documentos escritos, vedando-se a prova testemunhal.", "correta": false},
+          {"texto": "A dispensa da participação do Ministério Público em todas as fases do processo, mesmo quando houver interesse público envolvido.", "correta": false}
+        ]
+      }
+    ],
+    "Auditoria Governamental": [
+      {
+        "id": "AG_001",
+        "questao": "No contexto da Auditoria Governamental, as Normas Brasileiras de Auditoria do Setor Público (NBASP) fornecem a estrutura e os princípios para a condução de auditorias eficazes. Dentre os tipos de auditoria previstos, a auditoria operacional se destaca por seu foco específico. Qual das alternativas a seguir descreve corretamente o principal objetivo de uma auditoria operacional?",
+        "alternativas": [
+          {"texto": "Verificar a conformidade das demonstrações financeiras com as normas contábeis aplicáveis e a fidedignidade dos registros contábeis.", "correta": false},
+          {"texto": "Avaliar a legalidade e a legitimidade dos atos de gestão orçamentária, financeira e patrimonial, bem como a aplicação dos recursos públicos.", "correta": false},
+          {"texto": "Examinar a economicidade, eficiência e eficácia das operações, programas e atividades governamentais, buscando identificar oportunidades de melhoria.", "correta": true},
+          {"texto": "Atestar a regularidade dos processos de licitação e contratação, garantindo a observância dos princípios da administração pública.", "correta": false},
+          {"texto": "Analisar a adequação dos controles internos e a segurança dos sistemas de informação utilizados pela entidade auditada.", "correta": false}
+        ]
+      }
+    ],
+    "Contabilidade Geral": [
+      {
+        "id": "CG_001",
+        "questao": "No âmbito da Contabilidade Geral, o patrimônio de uma entidade é composto por bens, direitos e obrigações. A equação fundamental do patrimônio (Ativo = Passivo + Patrimônio Líquido) reflete a estrutura financeira da empresa. Dentre os componentes patrimoniais, qual das alternativas a seguir representa um bem que, por sua natureza, não se destina à venda, mas sim à manutenção das atividades da empresa?",
+        "alternativas": [
+          {"texto": "Estoques de mercadorias para revenda, que representam bens destinados à comercialização no curso normal das operações.", "correta": false},
+          {"texto": "Contas a receber de clientes, que configuram direitos da empresa sobre terceiros decorrentes de vendas a prazo.", "correta": false},
+          {"texto": "Máquinas e equipamentos utilizados na produção, que são bens de uso e representam investimentos de longo prazo da empresa.", "correta": true},
+          {"texto": "Empréstimos bancários a pagar, que correspondem a obrigações da empresa com instituições financeiras.", "correta": false},
+          {"texto": "Aplicações financeiras de curto prazo, que são investimentos com alta liquidez e baixo risco.", "correta": false}
+        ]
+      }
+    ],
+    "Contabilidade Pública": [
+      {
+        "id": "CP_002",
+        "questao": "No contexto da Contabilidade Aplicada ao Setor Público (CASP), as Demonstrações Contábeis Aplicadas ao Setor Público (DCASP) são instrumentos essenciais para a transparência e a prestação de contas da gestão pública. Dentre as demonstrações exigidas, o Balanço Orçamentário tem um papel específico. Qual das alternativas a seguir descreve corretamente o principal objetivo do Balanço Orçamentário?",
+        "alternativas": [
+          {"texto": "Demonstrar as variações qualitativas e quantitativas do patrimônio líquido da entidade ao longo do exercício financeiro.", "correta": false},
+          {"texto": "Evidenciar as receitas e despesas orçamentárias, comparando a previsão com a execução, e o resultado orçamentário do período.", "correta": true},
+          {"texto": "Apresentar a posição financeira da entidade em um determinado momento, evidenciando seus ativos, passivos e patrimônio líquido.", "correta": false},
+          {"texto": "Detalhar os fluxos de caixa da entidade, classificando-os em operacionais, de investimento e de financiamento.", "correta": false},
+          {"texto": "Informar sobre a riqueza gerada pela entidade e sua distribuição entre os diversos agentes econômicos.", "correta": false}
+        ]
+      }
+    ],
+    "Noções de Direito Penal": [
+      {
+        "id": "DPEN_001",
+        "questao": "Noções de Direito Penal: Os crimes contra a administração pública são de suma importância para a integridade do serviço público. Dentre os crimes praticados por funcionário público contra a administração em geral, qual das alternativas a seguir descreve corretamente o crime de peculato?",
+        "alternativas": [
+          {"texto": "Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida.", "correta": false},
+          {"texto": "Apropriar-se o funcionário público de dinheiro, valor ou qualquer outro bem móvel, público ou particular, de que tem a posse em razão do cargo, ou desviá-lo, em proveito próprio ou alheio.", "correta": true},
+          {"texto": "Retardar ou deixar de praticar, indevidamente, ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal.", "correta": false},
+          {"texto": "Patrocinar, direta ou indiretamente, interesse privado perante a administração pública, valendo-se da qualidade de funcionário.", "correta": false},
+          {"texto": "Revelar fato de que tem ciência em razão do cargo e que deva permanecer em segredo, ou facilitar-lhe a revelação.", "correta": false}
+        ]
+      }
+    ],
+    "Noções de Direito Tributário": [
+      {
+        "id": "DT_001",
+        "questao": "No Sistema Tributário Nacional, a Constituição Federal estabelece os princípios gerais da tributação e a repartição de competências tributárias entre os entes federativos. Dentre os princípios constitucionais tributários, qual das alternativas a seguir descreve corretamente o princípio da anterioridade anual?",
+        "alternativas": [
+          {"texto": "A vedação de cobrança de tributos em relação a fatos geradores ocorridos antes do início da vigência da lei que os instituiu ou aumentou.", "correta": false},
+          {"texto": "A exigência de que a lei que institui ou aumenta tributo seja publicada antes do exercício financeiro em que passará a ser cobrado.", "correta": true},
+          {"texto": "A proibição de instituir tributos que não sejam uniformes em todo o território nacional ou que impliquem distinção ou preferência em favor de determinado Estado ou Município.", "correta": false},
+          {"texto": "A limitação do poder de tributar, de modo que nenhum tributo possa ser cobrado em valor superior ao custo do serviço público específico e divisível.", "correta": false},
+          {"texto": "A vedação de cobrança de tributos antes de decorridos noventa dias da data da publicação da lei que os instituiu ou aumentou.", "correta": false}
+        ]
+      }
+    ],
+    "Noções de Direito Previdenciário e de Avaliação Atuarial": [
+      {
+        "id": "DPREV_001",
+        "questao": "Noções de Direito Previdenciário e de Avaliação Atuarial: No contexto dos Regimes Próprios de Previdência Social (RPPS), a avaliação atuarial é um instrumento essencial para garantir o equilíbrio financeiro e atuarial dos planos de benefícios. Dentre as premissas e hipóteses atuariais utilizadas nesse processo, qual das alternativas a seguir representa uma premissa demográfica?",
+        "alternativas": [
+          {"texto": "A taxa de juros real utilizada para o cálculo dos valores presentes dos benefícios e contribuições futuras.", "correta": false},
+          {"texto": "O índice de reajuste dos benefícios, que reflete a inflação esperada para o período de pagamento.", "correta": false},
+          {"texto": "A tábua de mortalidade, que estima a probabilidade de óbito dos participantes em cada idade, influenciando o cálculo das reservas matemáticas.", "correta": true},
+          {"texto": "A taxa de crescimento salarial dos servidores ativos, que impacta o valor das contribuições futuras.", "correta": false},
+          {"texto": "O custo administrativo do regime, que representa as despesas operacionais para a gestão do plano.", "correta": false}
+        ]
+      }
+    ]
+}
