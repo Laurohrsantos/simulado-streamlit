@@ -3,6 +3,29 @@ from utils.json_validator import validate_questions_json
 import json
 import random
 import time
+import os
+
+def load_and_set_questions(questions_data, success_message, st):
+    """
+    Valida os dados das questões e, se forem válidos,
+    atualiza o estado da sessão para iniciar um novo simulado.
+    """
+    is_valid, message = validate_questions_json(questions_data)
+    if is_valid:
+        st.success(success_message)
+        st.session_state.questions_data = questions_data
+        # Resetar estado do quiz e outras configurações
+        st.session_state.quiz_started = False
+        st.session_state.quiz_finished = False
+        st.session_state.results_calculated = False
+        st.session_state.current_question_index = 0
+        st.session_state.user_answers = []
+        st.session_state.selected_questions_for_quiz = []
+        st.session_state.shuffled_alternatives = {}
+        if "questions_data" in st.session_state:
+            st.session_state.selected_areas = list(st.session_state.questions_data.keys())
+    else:
+        st.error(f"Erro de validação: {message}")
 
 def main():
     st.set_page_config(layout="wide")
@@ -17,7 +40,8 @@ def main():
         st.session_state.results_calculated = False
 
     st.sidebar.title("Navegação Principal")
-    page = st.sidebar.radio("Ir para", ["Administração", "Simulação"])
+    # --- NOVO: Adicionada a página "Banco de Questões" ---
+    page = st.sidebar.radio("Ir para", ["Administração", "Banco de Questões", "Simulação"])
 
     if page == "Administração":
         st.header("Área Administrativa")
@@ -28,33 +52,18 @@ def main():
             try:
                 file_content = uploaded_file.read().decode("utf-8")
                 questions_data = json.loads(file_content)
-                is_valid, message = validate_questions_json(questions_data)
-                
-                if is_valid:
-                    st.success("Arquivo JSON validado e carregado com sucesso!")
-                    st.session_state.questions_data = questions_data
-                    # Resetar estado do quiz e outras configurações
-                    st.session_state.quiz_started = False
-                    st.session_state.quiz_finished = False
-                    st.session_state.results_calculated = False
-                    st.session_state.current_question_index = 0
-                    st.session_state.user_answers = []
-                    st.session_state.selected_questions_for_quiz = []
-                    st.session_state.shuffled_alternatives = {}
-                    if "questions_data" in st.session_state:
-                        st.session_state.selected_areas = list(st.session_state.questions_data.keys())
-
-                else:
-                    st.error(f"Erro de validação: {message}")
+                load_and_set_questions(
+                    questions_data, 
+                    "Arquivo JSON validado e carregado com sucesso!", 
+                    st
+                )
             except json.JSONDecodeError:
                 st.error("Erro ao decodificar o JSON. Verifique a sintaxe do arquivo.")
             except Exception as e:
                 st.error(f"Erro inesperado: {str(e)}")
-        elif "questions_data" not in st.session_state:
-            st.info("Faça o upload de um arquivo JSON válido para começar.")
         
         st.subheader("Configurações do Simulado")
-
+        # ... (O resto da página de Administração continua igual)
         max_questions = 100 
         if "questions_data" in st.session_state and st.session_state.questions_data:
             try:
@@ -124,22 +133,57 @@ def main():
                 if selection_before_render != st.session_state.selected_areas:
                     st.rerun()
 
+    # --- NOVA PÁGINA: BANCO DE QUESTÕES ---
+    elif page == "Banco de Questões":
+        st.header("Carregar Banco de Questões Local")
+        
+        # Pega o diretório do script atual (src/app.py)
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+
+        # Sobe um nível para o diretório 'app'
+        parent_dir = os.path.dirname(current_dir)
+
+        # Constrói o caminho para o diretório 'data'
+        DATA_DIR = os.path.join(parent_dir, 'data')
+        
+        try:
+            # Lista apenas arquivos .json no diretório
+            available_files = [f for f in os.listdir(DATA_DIR) if f.endswith('.json')]
+            
+            if not available_files:
+                st.warning(f"Nenhum banco de questões (.json) encontrado no diretório '{DATA_DIR}/'.")
+                st.info("Para usar esta funcionalidade, adicione arquivos de questões em formato JSON na pasta 'data' do seu projeto.")
             else:
-                st.warning("Nenhuma área encontrada no JSON.")
-                st.session_state.selected_areas = []
-        else:
-            st.info("Carregue um arquivo JSON para selecionar áreas.")
-            st.session_state.selected_areas = []
+                selected_file = st.selectbox("Selecione um banco de questões:", available_files)
+                
+                if st.button("Carregar Banco Selecionado", type="primary"):
+                    file_path = os.path.join(DATA_DIR, selected_file)
+                    try:
+                        with open(file_path, "r", encoding="utf-8") as f:
+                            questions_data = json.load(f)
+                        load_and_set_questions(
+                            questions_data,
+                            f"Banco de questões '{selected_file}' carregado com sucesso!",
+                            st
+                        )
+                    except json.JSONDecodeError:
+                        st.error(f"Erro ao decodificar o JSON no arquivo '{selected_file}'. Verifique a sintaxe.")
+                    except Exception as e:
+                        st.error(f"Erro inesperado ao carregar o arquivo: {str(e)}")
+
+        except Exception as e:
+            st.error(f"Não foi possível acessar o diretório de dados: {str(e)}")
+
 
     elif page == "Simulação":
         st.header("Simulação de Prova")
 
         if "questions_data" not in st.session_state or not st.session_state.questions_data:
-            st.warning("Carregue um banco de questões na área administrativa.")
+            st.warning("Carregue um banco de questões na área de Administração ou no Banco de Questões.")
             return
 
         if not st.session_state.get("selected_areas"):
-            st.warning("Selecione as áreas de conhecimento na área administrativa.")
+            st.warning("Selecione as áreas de conhecimento na área de Administração.")
             return
 
         if not st.session_state.quiz_started:
@@ -179,8 +223,15 @@ def main():
             cols = st.sidebar.columns(5) 
             for i in range(len(questions)):
                 col = cols[i % 5]
-                button_label = f"✅ {i+1}" if st.session_state.user_answers[i] is not None else str(i + 1)
-                button_type = "primary" if i == current_index else "secondary"
+                is_answered = st.session_state.user_answers[i] is not None
+                is_current = i == current_index
+
+                button_label = f"{i+1}" if is_current else (f"{i+1} \u2713" if is_answered else str(i + 1))
+                
+                if is_current:
+                    button_type = "primary"
+                else:
+                    button_type = "primary" if is_answered else "secondary"
                 
                 if col.button(button_label, key=f"nav_{i}", type=button_type, use_container_width=True):
                     st.session_state.current_question_index = i
@@ -239,14 +290,13 @@ def main():
         elif st.session_state.quiz_finished:
             if not st.session_state.results_calculated:
                 correct = 0
-                area_performance = {} # Dicionário para rastrear acertos/total por área
+                area_performance = {} 
                 st.session_state.results = []
                 
                 for i, q_info in enumerate(questions):
                     q = q_info['question']
                     area = q_info['area']
 
-                    # Inicializa a área no dicionário de desempenho se não existir
                     if area not in area_performance:
                         area_performance[area] = {'correct': 0, 'total': 0}
                     area_performance[area]['total'] += 1
@@ -268,7 +318,6 @@ def main():
                 
                 st.session_state.correct_count = correct
                 
-                # Processa o desempenho para criar recomendações detalhadas
                 study_recommendations = []
                 for area, stats in area_performance.items():
                     if stats['correct'] < stats['total']:
@@ -289,15 +338,13 @@ def main():
             mins, secs = int(elapsed_time // 60), int(elapsed_time % 60)
             st.write(f"**Tempo total:** {mins:02d}m {secs:02d}s")
 
-            # --- SEÇÃO DE RECOMENDAÇÕES DE ESTUDO APRIMORADA ---
             st.subheader("Recomendações de Estudo")
             if not st.session_state.study_recommendations:
-                st.success("Parabéns! Você acertou todas as questões. Continue com o ótimo trabalho! 🚀")
+                st.success("Parabéns! Você acertou todas as questões. Continue com o ótimo trabalho! �")
             else:
                 st.warning("Foco nos estudos! Sugerimos revisar os seguintes tópicos com base no seu desempenho:")
                 for recommendation in st.session_state.study_recommendations:
                     st.markdown(f"- {recommendation}")
-            # --- FIM DA SEÇÃO ---
 
             st.subheader("Revisão das Questões")
             for i, result in enumerate(st.session_state.results):
@@ -316,7 +363,6 @@ def main():
                             st.info(f"- {alt['texto']}")
 
             if st.button("Fazer Novo Simulado", type="primary"):
-                # Limpa todos os estados relacionados ao quiz para um novo começo
                 for key in ['quiz_started', 'quiz_finished', 'results_calculated', 'current_question_index', 'user_answers', 'selected_questions_for_quiz', 'shuffled_alternatives', 'results', 'correct_count', 'study_recommendations']:
                     if key in st.session_state:
                         del st.session_state[key]
