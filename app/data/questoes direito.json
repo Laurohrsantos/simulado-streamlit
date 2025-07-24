@@ -1,0 +1,750 @@
+{
+  "Direito Constitucional - Princípios Fundamentais e Direitos e Garantias Fundamentais": [
+    {
+      "id": "DCPF_001",
+      "questao": "O princípio constitucional da dignidade da pessoa humana:",
+      "alternativas": [
+        {"texto": "Constitui fundamento da República Federativa do Brasil, mas não pode ser invocado diretamente para a proteção de direitos individuais.", "correta": false},
+        {"texto": "É cláusula pétrea da Constituição e fundamenta tanto a organização estatal quanto a proteção de direitos individuais e coletivos.", "correta": true},
+        {"texto": "Aplica-se apenas nas relações entre particulares, não tendo eficácia vertical contra o Estado.", "correta": false},
+        {"texto": "Pode ser relativizado quando em conflito com interesses de segurança nacional.", "correta": false},
+        {"texto": "Está previsto apenas como objetivo fundamental da República, não possuindo status de princípio constitucional.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCPF_002",
+      "questao": "A inviolabilidade do direito à vida, prevista no art. 5º da CF/88:",
+      "alternativas": [
+        {"texto": "Impede absolutamente a pena de morte em qualquer circunstância.", "correta": false},
+        {"texto": "Admite exceção apenas nos casos de guerra declarada, nos termos do art. 84, XIX.", "correta": true},
+        {"texto": "Permite a eutanásia quando autorizada por comissão médica.", "correta": false},
+        {"texto": "Não se aplica ao nascituro, conforme entendimento do STF.", "correta": false},
+        {"texto": "É relativa em casos de legítima defesa de terceiros.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCPF_003",
+      "questao": "O princípio da isonomia na Constituição Federal de 1988:",
+      "alternativas": [
+        {"texto": "Proíbe qualquer distinção entre brasileiros natos e naturalizados.", "correta": false},
+        {"texto": "Exige tratamento igualitário apenas perante a lei, não se aplicando à administração pública.", "correta": false},
+        {"texto": "Admite diferenciações razoáveis e proporcionais, desde que justificadas pelo interesse coletivo.", "correta": true},
+        {"texto": "É absoluto, não permitindo qualquer forma de discriminação, mesmo que positiva.", "correta": false},
+        {"texto": "Aplica-se apenas aos direitos políticos, não aos direitos civis.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCPF_004",
+      "questao": "A liberdade de manifestação do pensamento, prevista no art. 5º, IV, da CF/88:",
+      "alternativas": [
+        {"texto": "É absoluta, não admitindo qualquer forma de censura prévia.", "correta": false},
+        {"texto": "Pode ser relativizada para proteger outros direitos fundamentais, como a honra e a privacidade.", "correta": true},
+        {"texto": "Não se aplica a manifestações em redes sociais e meios digitais.", "correta": false},
+        {"texto": "Dispensa o direito de resposta quando ofendidos são autoridades públicas.", "correta": false},
+        {"texto": "Permite a divulgação de segredos de Estado quando em interesse público.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCPF_005",
+      "questao": "O direito de propriedade na Constituição Federal:",
+      "alternativas": [
+        {"texto": "É garantido em sua forma absoluta, sem possibilidade de desapropriação.", "correta": false},
+        {"texto": "Deve atender sua função social, podendo ser relativizado pelo poder público.", "correta": true},
+        {"texto": "Não se aplica a estrangeiros residentes no país.", "correta": false},
+        {"texto": "É inviolável apenas para propriedades urbanas, não rurais.", "correta": false},
+        {"texto": "Prevalece sempre sobre interesses ambientais e coletivos.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCPF_006",
+      "questao": "A garantia constitucional do devido processo legal:",
+      "alternativas": [
+        {"texto": "Aplica-se apenas ao processo judicial, não ao administrativo.", "correta": false},
+        {"texto": "Assegura o contraditório e a ampla defesa em qualquer processo, judicial ou administrativo.", "correta": true},
+        {"texto": "Dispensa a motivação das decisões em processos sumários.", "correta": false},
+        {"texto": "Não se aplica a processos disciplinares de servidores públicos.", "correta": false},
+        {"texto": "Permite a inversão do ônus da prova em qualquer caso de interesse público.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Administrativo - Regime Jurídico Administrativo e Princípios": [
+    {
+      "id": "DARJ_001",
+      "questao": "O princípio da legalidade na administração pública:",
+      "alternativas": [
+        {"texto": "Permite atuação discricionária ampla, desde que não expressamente vedada por lei.", "correta": false},
+        {"texto": "Exige que todo ato administrativo esteja fundamentado em previsão legal expressa.", "correta": true},
+        {"texto": "É relativizado em situações de emergência ou calamidade pública.", "correta": false},
+        {"texto": "Aplica-se apenas aos atos vinculados, não aos discricionários.", "correta": false},
+        {"texto": "Não se estende às entidades da administração indireta.", "correta": false}
+      ]
+    },
+    {
+      "id": "DARJ_002",
+      "questao": "O princípio da impessoalidade na administração pública:",
+      "alternativas": [
+        {"texto": "Proíbe a publicidade de atos administrativos que beneficiem servidores.", "correta": false},
+        {"texto": "Determina que os atos administrativos devem ser praticados sem distinção de pessoas, visando apenas ao interesse público.", "correta": true},
+        {"texto": "Impede a nomeação de parentes para quaisquer cargos públicos.", "correta": false},
+        {"texto": "Dispensa a motivação dos atos administrativos quando praticados por autoridade superior.", "correta": false},
+        {"texto": "É aplicável apenas nas licitações, não nos demais atos administrativos.", "correta": false}
+      ]
+    },
+    {
+      "id": "DARJ_003",
+      "questao": "O princípio da moralidade administrativa:",
+      "alternativas": [
+        {"texto": "Está restrito ao combate da corrupção, não abrangendo outras condutas.", "correta": false},
+        {"texto": "Exige que o administrador público aja conforme padrões éticos e de boa-fé, além da estrita legalidade.", "correta": true},
+        {"texto": "Não pode ser invocado para anular atos administrativos, apenas para responsabilizar agentes.", "correta": false},
+        {"texto": "É sinônimo de legalidade estrita, não possuindo conteúdo autônomo.", "correta": false},
+        {"texto": "Aplica-se apenas aos agentes políticos, não aos servidores públicos em geral.", "correta": false}
+      ]
+    },
+    {
+      "id": "DARJ_004",
+      "questao": "O princípio da publicidade dos atos administrativos:",
+      "alternativas": [
+        {"texto": "É absoluto, não admitindo qualquer restrição.", "correta": false},
+        {"texto": "Pode ser relativizado para proteger direitos fundamentais como a intimidade e a segurança nacional.", "correta": true},
+        {"texto": "Dispensa a divulgação de atos que envolvam dados pessoais.", "correta": false},
+        {"texto": "Não se aplica a contratos administrativos celebrados pela administração.", "correta": false},
+        {"texto": "Exige publicação apenas no diário oficial, não em outros meios.", "correta": false}
+      ]
+    },
+    {
+      "id": "DARJ_005",
+      "questao": "O princípio da eficiência na administração pública:",
+      "alternativas": [
+        {"texto": "Permite a demissão sumária de servidores que não atendam a metas de produtividade.", "correta": false},
+        {"texto": "Exige que a administração atue com economicidade, qualidade e produtividade.", "correta": true},
+        {"texto": "Justifica a redução de direitos dos servidores públicos para melhorar resultados.", "correta": false},
+        {"texto": "É aplicável apenas às empresas públicas e sociedades de economia mista.", "correta": false},
+        {"texto": "Dispensa a observância de formalidades legais em nome da agilidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "DARJ_006",
+      "questao": "O regime jurídico administrativo caracteriza-se pela:",
+      "alternativas": [
+        {"texto": "Igualdade entre administração e administrados nas relações jurídicas.", "correta": false},
+        {"texto": "Supremacia do interesse público sobre o privado e pela indisponibilidade dos interesses públicos.", "correta": true},
+        {"texto": "Aplicação subsidiária do direito privado quando mais favorável ao particular.", "correta": false},
+        {"texto": "Presunção de veracidade apenas dos atos discricionários, não dos vinculados.", "correta": false},
+        {"texto": "Autonomia da vontade da administração na definição de seus fins e meios.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Constitucional - Organização do Estado e Poderes": [
+    {
+      "id": "DCOE_001",
+      "questao": "A autonomia dos Municípios na Federação brasileira:",
+      "alternativas": [
+        {"texto": "É idêntica à dos Estados-membros, com competências legislativas plenas.", "correta": false},
+        {"texto": "Compreende auto-organização, autogoverno e autoadministração, mas com competências legislativas restritas.", "correta": true},
+        {"texto": "Depende de autorização expressa do Estado-membro para exercer suas competências.", "correta": false},
+        {"texto": "Não inclui a capacidade de criar tributos próprios.", "correta": false},
+        {"texto": "É meramente administrativa, sem qualquer aspecto político.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCOE_002",
+      "questao": "As intervenções federais nos Estados-membros:",
+      "alternativas": [
+        {"texto": "Podem ser decretadas livremente pelo Presidente da República para garantir a governabilidade.", "correta": false},
+        {"texto": "Estão previstas na Constituição como exceção, em hipóteses taxativas e com controle político pelo Congresso Nacional.", "correta": true},
+        {"texto": "Dispensam a apreciação pelo Congresso Nacional quando decretadas para repelir invasão estrangeira.", "correta": false},
+        {"texto": "Podem ser decretadas pelo STF sem participação do Poder Executivo.", "correta": false},
+        {"texto": "São instrumento ordinário de correção de desvios administrativos estaduais.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCOE_003",
+      "questao": "O Poder Legislativo federal é exercido pelo Congresso Nacional, que se compõe:",
+      "alternativas": [
+        {"texto": "Exclusivamente pela Câmara dos Deputados, nos termos do princípio democrático.", "correta": false},
+        {"texto": "Pela Câmara dos Deputados e pelo Senado Federal, com competências distintas e complementares.", "correta": true},
+        {"texto": "Pelo Senado Federal apenas para matérias específicas como tratados internacionais.", "correta": false},
+        {"texto": "Por comissões mistas, sem necessidade de votação em plenário.", "correta": false},
+        {"texto": "Pela Câmara dos Deputados, com participação eventual do Senado em casos de veto presidencial.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCOE_004",
+      "questao": "As competências privativas da União incluem:",
+      "alternativas": [
+        {"texto": "Legislar sobre direito urbanístico e proteção ao patrimônio histórico-cultural.", "correta": false},
+        {"texto": "Emitir moeda e estabelecer diretrizes para a educação nacional.", "correta": true},
+        {"texto": "Organizar e manter a polícia civil e a polícia militar.", "correta": false},
+        {"texto": "Instituir regiões metropolitanas e aglomerações urbanas.", "correta": false},
+        {"texto": "Explorar diretamente serviços locais de gás canalizado.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCOE_005",
+      "questao": "O controle externo da administração pública federal é exercido:",
+      "alternativas": [
+        {"texto": "Exclusivamente pelo Poder Judiciário, por meio do TCU.", "correta": false},
+        {"texto": "Pelo Congresso Nacional, com auxílio do Tribunal de Contas da União.", "correta": true},
+        {"texto": "Pelo Ministério Público da União, sem participação de outros órgãos.", "correta": false},
+        {"texto": "Pelo Poder Executivo, através da Controladoria-Geral da União.", "correta": false},
+        {"texto": "Pelo TCU de forma independente, sem vinculação ao Legislativo.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCOE_006",
+      "questao": "O Poder Judiciário tem como função precípua:",
+      "alternativas": [
+        {"texto": "Administrar conflitos de interesses e aplicar o direito ao caso concreto.", "correta": true},
+        {"texto": "Elaborar normas gerais para orientar a administração pública.", "correta": false},
+        {"texto": "Fiscalizar preventivamente os atos do Poder Executivo.", "correta": false},
+        {"texto": "Representar judicialmente os interesses da União.", "correta": false},
+        {"texto": "Exercer atividades típicas de polícia administrativa.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Administrativo - Organização Administrativa e Atos Administrativos": [
+    {
+      "id": "DAOA_001",
+      "questao": "A descentralização administrativa ocorre quando:",
+      "alternativas": [
+        {"texto": "O Estado transfere a execução de atividades para outras pessoas jurídicas, com personalidade própria.", "correta": true},
+        {"texto": "Há distribuição interna de competências dentro do mesmo órgão público.", "correta": false},
+        {"texto": "A União delega atribuições aos Estados sem criar novas entidades.", "correta": false},
+        {"texto": "Servidores públicos recebem delegação para praticar atos específicos.", "correta": false},
+        {"texto": "A administração direta repassa funções à administração indireta sem personalidade jurídica distinta.", "correta": false}
+      ]
+    },
+    {
+      "id": "DAOA_002",
+      "questao": "As autarquias caracterizam-se por:",
+      "alternativas": [
+        {"texto": "Possuir personalidade jurídica de direito privado e regime trabalhista celetista.", "correta": false},
+        {"texto": "Ser criadas por lei específica e ter regime jurídico predominantemente público.", "correta": true},
+        {"texto": "Exercer atividade econômica em regime de concorrência com o setor privado.", "correta": false},
+        {"texto": "Ter autonomia financeira plena, sem controle pelo Tribunal de Contas.", "correta": false},
+        {"texto": "Poder ser extinta por ato administrativo do Chefe do Executivo.", "correta": false}
+      ]
+    },
+    {
+      "id": "DAOA_003",
+      "questao": "Os requisitos essenciais do ato administrativo são:",
+      "alternativas": [
+        {"texto": "Competência, finalidade, forma, motivo e objeto.", "correta": true},
+        {"texto": "Legalidade, impessoalidade, moralidade, publicidade e eficiência.", "correta": false},
+        {"texto": "Presunção de legitimidade, imperatividade e autoexecutoriedade.", "correta": false},
+        {"texto": "Vinculação, discricionariedade e coercibilidade.", "correta": false},
+        {"texto": "Motivação, publicação e registro em diário oficial.", "correta": false}
+      ]
+    },
+    {
+      "id": "DAOA_004",
+      "questao": "A presunção de legitimidade dos atos administrativos:",
+      "alternativas": [
+        {"texto": "Dispensa a comprovação de legalidade perante o Judiciário.", "correta": false},
+        {"texto": "É relativa e pode ser desconstituída por via judicial ou administrativa.", "correta": true},
+        {"texto": "Aplica-se apenas aos atos discricionários, não aos vinculados.", "correta": false},
+        {"texto": "Torna os atos administrativos imunes a qualquer forma de controle.", "correta": false},
+        {"texto": "É absoluta para atos praticados por autoridades de alto escalão.", "correta": false}
+      ]
+    },
+    {
+      "id": "DAOA_005",
+      "questao": "A anulação de um ato administrativo ilegal:",
+      "alternativas": [
+        {"texto": "Depende sempre de decisão judicial, não podendo ser feita pela própria administração.", "correta": false},
+        {"texto": "Pode ser realizada pela administração ou pelo Judiciário, com efeitos retroativos (ex tunc).", "correta": true},
+        {"texto": "Prescreve em cinco anos, contados da prática do ato.", "correta": false},
+        {"texto": "Exige indenização prévia ao particular que tenha se beneficiado do ato.", "correta": false},
+        {"texto": "É cabível apenas quando comprovado dolo ou fraude do agente público.", "correta": false}
+      ]
+    },
+    {
+      "id": "DAOA_006",
+      "questao": "As organizações sociais na administração pública:",
+      "alternativas": [
+        {"texto": "São pessoas jurídicas de direito público integrantes da administração indireta.", "correta": false},
+        {"texto": "São entidades privadas sem fins lucrativos que celebram contrato de gestão com o poder público.", "correta": true},
+        {"texto": "Têm natureza de empresa pública e regime jurídico de direito privado.", "correta": false},
+        {"texto": "Podem ser criadas por decreto do Chefe do Executivo, sem necessidade de lei.", "correta": false},
+        {"texto": "Estão sujeitas ao regime de licitações da Lei 8.666/1993.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Constitucional - Controle de Constitucionalidade e Fiscalização Contábil, Financeira e Orçamentária": [
+    {
+      "id": "DCCF_001",
+      "questao": "O controle concentrado de constitucionalidade no Brasil é exercido principalmente por meio de:",
+      "alternativas": [
+        {"texto": "Ação popular e mandado de segurança coletivo.", "correta": false},
+        {"texto": "Ação direta de inconstitucionalidade e ação declaratória de constitucionalidade.", "correta": true},
+        {"texto": "Reclamação constitucional e habeas corpus.", "correta": false},
+        {"texto": "Mandado de injunção e ação civil pública.", "correta": false},
+        {"texto": "Representação interventiva e arguição de descumprimento de preceito fundamental.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCCF_002",
+      "questao": "A fiscalização contábil, financeira e orçamentária da União será exercida pelo Congresso Nacional:",
+      "alternativas": [
+        {"texto": "Com o auxílio exclusivo da Controladoria-Geral da União.", "correta": false},
+        {"texto": "Por meio de comissões parlamentares de inquérito, sem participação de outros órgãos.", "correta": false},
+        {"texto": "Com o auxílio do Tribunal de Contas da União, nos termos da Constituição.", "correta": true},
+        {"texto": "Diretamente, sem necessidade de órgãos auxiliares.", "correta": false},
+        {"texto": "Com assessoria técnica do Banco Central e do Ministério da Economia.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCCF_003",
+      "questao": "O efeito vinculante das decisões do STF em controle concentrado:",
+      "alternativas": [
+        {"texto": "Atinge apenas as partes diretamente envolvidas no processo.", "correta": false},
+        {"texto": "Vincula todos os órgãos do Judiciário e da administração pública direta e indireta.", "correta": true},
+        {"texto": "Depende de regulamentação por lei complementar para produzir efeitos.", "correta": false},
+        {"texto": "É restrito aos casos de ação declaratória de constitucionalidade.", "correta": false},
+        {"texto": "Não se aplica aos Tribunais de Contas e ao Ministério Público.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCCF_004",
+      "questao": "A arguição de descumprimento de preceito fundamental (ADPF):",
+      "alternativas": [
+        {"texto": "Só pode ser proposta contra atos do Poder Executivo federal.", "correta": false},
+        {"texto": "É cabível para evitar lesão a preceito fundamental resultante de ato do poder público.", "correta": true},
+        {"texto": "Substitui todos os outros meios de controle de constitucionalidade.", "correta": false},
+        {"texto": "Não pode ser utilizada para questionar leis municipais.", "correta": false},
+        {"texto": "Tem efeitos apenas entre as partes, sem caráter erga omnes.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCCF_005",
+      "questao": "O parecer prévio do Tribunal de Contas sobre as contas do Presidente da República:",
+      "alternativas": [
+        {"texto": "Tem caráter vinculante para o Congresso Nacional.", "correta": false},
+        {"texto": "É meramente opinativo, cabendo ao Congresso a decisão final.", "correta": true},
+        {"texto": "Dispensa a apreciação pelo Poder Legislativo quando favorável.", "correta": false},
+        {"texto": "Pode ser dispensado por decisão da maioria simples do Congresso.", "correta": false},
+        {"texto": "Substitui o processo de impeachment por crime de responsabilidade fiscal.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCCF_006",
+      "questao": "O controle difuso de constitucionalidade:",
+      "alternativas": [
+        {"texto": "É exercido exclusivamente pelo STF em procedimento específico.", "correta": false},
+        {"texto": "Pode ser realizado por qualquer juiz ou tribunal no caso concreto.", "correta": true},
+        {"texto": "Exige sempre a participação do Procurador-Geral da República.", "correta": false},
+        {"texto": "Produz efeitos erga omnes independentemente de declaração do STF.", "correta": false},
+        {"texto": "É cabível apenas contra leis federais, não estaduais ou municipais.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Administrativo - Poderes da Administração e Licitações": [
+    {
+      "id": "DAPL_001",
+      "questao": "O poder hierárquico da administração pública:",
+      "alternativas": [
+        {"texto": "Permite a delegação e avocação de competências entre órgãos e agentes.", "correta": true},
+        {"texto": "É absoluto, não admitindo qualquer forma de controle judicial.", "correta": false},
+        {"texto": "Aplica-se apenas nas relações entre União, Estados e Municípios.", "correta": false},
+        {"texto": "Dispensa a observância do princípio da legalidade nas relações internas.", "correta": false},
+        {"texto": "É incompatível com a autonomia de entidades da administração indireta.", "correta": false}
+      ]
+    },
+    {
+      "id": "DAPL_002",
+      "questao": "O poder de polícia administrativa:",
+      "alternativas": [
+        {"texto": "É discricionário, não podendo ser controlado pelo Judiciário.", "correta": false},
+        {"texto": "Deve observar a proporcionalidade entre a restrição imposta e o interesse público protegido.", "correta": true},
+        {"texto": "Pode ser exercido por particulares mediante delegação por contrato.", "correta": false},
+        {"texto": "Confere à administração poder de punir crimes e contravenções.", "correta": false},
+        {"texto": "É idêntico ao poder de polícia judiciária exercido pelas polícias civis.", "correta": false}
+      ]
+    },
+    {
+      "id": "DAPL_003",
+      "questao": "A licitação tem como princípio fundamental:",
+      "alternativas": [
+        {"texto": "A garantia de contratação do menor preço em qualquer circunstância.", "correta": false},
+        {"texto": "A seleção da proposta mais vantajosa para a administração, considerando preço e outros fatores.", "correta": true},
+        {"texto": "A prioridade absoluta para microempresas e empresas de pequeno porte.", "correta": false},
+        {"texto": "A dispensa de formalidades para contratos de pequeno valor.", "correta": false},
+        {"texto": "A vinculação da administração à proposta vencedora, sem possibilidade de desistência.", "correta": false}
+      ]
+    },
+    {
+      "id": "DAPL_004",
+      "questao": "A modalidade de licitação denominada pregão:",
+      "alternativas": [
+        {"texto": "É obrigatória para aquisições de bens e serviços comuns acima do limite da dispensa.", "correta": false},
+        {"texto": "Pode ser realizado na forma eletrônica ou presencial, com disputa de preços em sessão pública.", "correta": true},
+        {"texto": "Aplica-se apenas a obras e serviços de engenharia.", "correta": false},
+        {"texto": "Dispensa a habilitação prévia dos licitantes.", "correta": false},
+        {"texto": "Não admite recurso contra o resultado.", "correta": false}
+      ]
+    },
+    {
+      "id": "DAPL_005",
+      "questao": "A dispensa de licitação:",
+      "alternativas": [
+        {"texto": "Pode ser justificada por qualquer motivo de conveniência administrativa.", "correta": false},
+        {"texto": "É cabível apenas nas hipóteses legais expressas, devidamente motivadas.", "correta": true},
+        {"texto": "Depende sempre de autorização legislativa específica.", "correta": false},
+        {"texto": "Não se aplica a contratos com organizações sociais.", "correta": false},
+        {"texto": "Permite a contratação direta de empresas inidôneas em casos emergenciais.", "correta": false}
+      ]
+    },
+    {
+      "id": "DAPL_006",
+      "questao": "O poder disciplinar da administração:",
+      "alternativas": [
+        {"texto": "É exercido apenas pelo Judiciário, nos processos administrativos disciplinares.", "correta": false},
+        {"texto": "Permite a aplicação de penalidades a servidores por infrações funcionais.", "correta": true},
+        {"texto": "Dispensa o contraditório e ampla defesa em casos de falta grave.", "correta": false},
+        {"texto": "Não se aplica a agentes políticos e ocupantes de cargos em comissão.", "correta": false},
+        {"texto": "É incompatível com o princípio da proporcionalidade das sanções.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Financeiro - Orçamento Público e Princípios Orçamentários": [
+    {
+      "id": "DFOP_001",
+      "questao": "O princípio orçamentário da unidade estabelece que:",
+      "alternativas": [
+        {"texto": "Todos os orçamentos da administração direta e indireta devem ser consolidados em um único documento.", "correta": false},
+        {"texto": "Cada ente federativo deve ter apenas um orçamento, que inclua todas as receitas e despesas.", "correta": true},
+        {"texto": "O orçamento deve ser votado em bloco, sem discussão de cada programa.", "correta": false},
+        {"texto": "As receitas e despesas devem ser classificadas de forma uniforme em todos os entes.", "correta": false},
+        {"texto": "O Poder Executivo é o único responsável pela elaboração do orçamento.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFOP_002",
+      "questao": "O princípio da exclusividade orçamentária:",
+      "alternativas": [
+        {"texto": "Veda a inclusão na lei orçamentária de matéria estranha à previsão de receita e à fixação de despesa.", "correta": true},
+        {"texto": "Impede a realização de despesas não previstas no orçamento em qualquer hipótese.", "correta": false},
+        {"texto": "Restringe a discussão do orçamento à comissão especial, sem participação plenária.", "correta": false},
+        {"texto": "Proíbe a criação de impostos por meio da lei orçamentária.", "correta": false},
+        {"texto": "Reserva ao Chefe do Poder Executivo a iniciativa exclusiva das leis orçamentárias.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFOP_003",
+      "questao": "O Plano Plurianual (PPA):",
+      "alternativas": [
+        {"texto": "É aprovado anualmente pelo Poder Legislativo, com vigência coincidente com o exercício financeiro.", "correta": false},
+        {"texto": "Estabelece diretrizes, objetivos e metas da administração pública para um período de quatro anos.", "correta": true},
+        {"texto": "Tem natureza meramente indicativa, não vinculando a execução orçamentária.", "correta": false},
+        {"texto": "Dispensa a compatibilização com a Lei de Diretrizes Orçamentárias e a Lei Orçamentária Anual.", "correta": false},
+        {"texto": "É de iniciativa exclusiva do Poder Legislativo, sem participação do Executivo.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFOP_004",
+      "questao": "Os créditos adicionais suplementares:",
+      "alternativas": [
+        {"texto": "Podem ser abertos por decreto do Chefe do Executivo, sem necessidade de autorização legislativa.", "correta": false},
+        {"texto": "Destinam-se a reforço de dotação orçamentária já existente, com autorização legislativa.", "correta": true},
+        {"texto": "São os únicos que exigem indicação da fonte de recursos.", "correta": false},
+        {"texto": "Têm natureza de crédito extraordinário, para despesas urgentes e imprevisíveis.", "correta": false},
+        {"texto": "Não estão sujeitos ao limite de empenho estabelecido na LOA.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFOP_005",
+      "questao": "O princípio da não-afetação de receitas:",
+      "alternativas": [
+        {"texto": "Veda a vinculação de receitas de impostos a órgão, fundo ou despesa, salvo exceções constitucionais.", "correta": true},
+        {"texto": "Impede a cobrança de taxas pela prestação de serviços públicos específicos.", "correta": false},
+        {"texto": "Proíbe a destinação de recursos públicos para o setor privado em qualquer hipótese.", "correta": false},
+        {"texto": "Dispensa a aplicação mínima em educação e saúde, conforme determina a Constituição.", "correta": false},
+        {"texto": "Restringe a arrecadação tributária ao valor estritamente necessário para cobrir as despesas orçadas.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFOP_006",
+      "questao": "A Lei de Diretrizes Orçamentárias (LDO):",
+      "alternativas": [
+        {"texto": "Estabelece metas fiscais para os três exercícios seguintes, incluindo a relação entre receitas e despesas.", "correta": false},
+        {"texto": "Compreende as metas e prioridades da administração, orientando a elaboração da lei orçamentária anual.", "correta": true},
+        {"texto": "É aprovada bienalmente, coincidindo com o mandato dos governantes.", "correta": false},
+        {"texto": "Dispõe sobre alterações na legislação tributária, criando novos impostos quando necessário.", "correta": false},
+        {"texto": "Tem natureza meramente política, sem força vinculante para o Executivo.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Administrativo - Contratos Administrativos e Serviços Públicos": [
+    {
+      "id": "DACS_001",
+      "questao": "As cláusulas exorbitantes nos contratos administrativos:",
+      "alternativas": [
+        {"texto": "São nulas de pleno direito por violarem o princípio da igualdade contratual.", "correta": false},
+        {"texto": "Conferem à administração prerrogativas especiais em razão do interesse público.", "correta": true},
+        {"texto": "Aplicam-se apenas a contratos de prestação de serviços, não de obras.", "correta": false},
+        {"texto": "Dependem de aceitação expressa do contratado para produzirem efeitos.", "correta": false},
+        {"texto": "São incompatíveis com a teoria da imprevisão nos contratos administrativos.", "correta": false}
+      ]
+    },
+    {
+      "id": "DACS_002",
+      "questao": "A teoria do fato do príncipe nos contratos administrativos:",
+      "alternativas": [
+        {"texto": "Justifica a rescisão unilateral pelo particular sem direito a indenização.", "correta": false},
+        {"texto": "Aplica-se quando medida geral da administração afeta o equilíbrio econômico-financeiro do contrato.", "correta": true},
+        {"texto": "Permite ao contratado descumprir obrigações em caso de alteração de cenário econômico.", "correta": false},
+        {"texto": "Dispensa a comprovação de prejuízo para caracterizar o direito à revisão.", "correta": false},
+        {"texto": "É sinônimo de força maior, independendo de ato da administração.", "correta": false}
+      ]
+    },
+    {
+      "id": "DACS_003",
+      "questao": "Os serviços públicos adequados devem atender aos seguintes requisitos:",
+      "alternativas": [
+        {"texto": "Continuidade, qualidade, regularidade, segurança e atualidade.", "correta": false},
+        {"texto": "Eficiência, segurança, continuidade, regularidade e modicidade tarifária.", "correta": true},
+        {"texto": "Universalidade, gratuidade, uniformidade e imediatidade.", "correta": false},
+        {"texto": "Lucratividade, expansão, flexibilidade e autossustentação.", "correta": false},
+        {"texto": "Obrigatoriedade, exclusividade, centralização e invariabilidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "DACS_004",
+      "questao": "A concessão de serviço público:",
+      "alternativas": [
+        {"texto": "Transfere a propriedade do bem público ao concessionário.", "correta": false},
+        {"texto": "É sempre precedida de autorização legislativa específica.", "correta": false},
+        {"texto": "Obriga o concessionário a prestar o serviço diretamente, sem subcontratação.", "correta": false},
+        {"texto": "Envolve delegação de sua execução, com remuneração mediante tarifa paga pelo usuário.", "correta": true},
+        {"texto": "Dispensa licitação quando há único interessado habilitado.", "correta": false}
+      ]
+    },
+    {
+      "id": "DACS_005",
+      "questao": "A extinção antecipada de contrato administrativo por interesse da administração:",
+      "alternativas": [
+        {"texto": "Depende de prévia indenização integral ao contratado pelos lucros cessantes.", "correta": false},
+        {"texto": "Deve ser motivada e assegura ao contratado direito a indenização pelos prejuízos comprovados.", "correta": true},
+        {"texto": "É ato discricionário, não sujeito a controle judicial.", "correta": false},
+        {"texto": "Só é possível com anuência prévia do Ministério Público.", "correta": false},
+        {"texto": "Equipara-se à rescisão por inadimplemento do contratado.", "correta": false}
+      ]
+    },
+    {
+      "id": "DACS_006",
+      "questao": "O regime de execução indireta de serviços públicos mediante permissão:",
+      "alternativas": [
+        {"texto": "Exige licitação e constitui vínculo jurídico de natureza contratual.", "correta": false},
+        {"texto": "É realizado por ato unilateral e precário, podendo ser extinto a qualquer tempo.", "correta": true},
+        {"texto": "Só pode ser conferido a empresas públicas e sociedades de economia mista.", "correta": false},
+        {"texto": "Confere ao permissionário os mesmos direitos do concessionário.", "correta": false},
+        {"texto": "Dispensa a fiscalização pela administração concedente.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Financeiro - Lei de Responsabilidade Fiscal (arts. 1º ao 28)": [
+    {
+      "id": "DFLR1_001",
+      "questao": "O conceito de 'equilíbrio das contas públicas' na LRF significa:",
+      "alternativas": [
+        {"texto": "Proibição absoluta de qualquer forma de endividamento público.", "correta": false},
+        {"texto": "Compatibilidade entre receitas e despesas, com limites para dívida e pessoal.", "correta": true},
+        {"texto": "Necessidade de superávit primário em todos os exercícios financeiros.", "correta": false},
+        {"texto": "Igualdade aritmética entre arrecadação tributária e investimentos públicos.", "correta": false},
+        {"texto": "Proibição de realização de despesas com pessoal que excedam 50% da receita corrente líquida.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFLR1_002",
+      "questao": "As metas fiscais anuais devem estabelecer:",
+      "alternativas": [
+        {"texto": "Apenas o limite máximo para gastos com pessoal.", "correta": false},
+        {"texto": "Apenas o resultado primário e nominal do exercício.", "correta": false},
+        {"texto": "O resultado primário, a evolução da dívida pública e as despesas com pessoal.", "correta": true},
+        {"texto": "Exclusivamente o valor máximo para concessão de benefícios fiscais.", "correta": false},
+        {"texto": "Somente os parâmetros para aumento real de servidores públicos.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFLR1_003",
+      "questao": "O Relatório Resumido da Execução Orçamentária (RREO) deve ser publicado:",
+      "alternativas": [
+        {"texto": "Anualmente, junto com a prestação de contas do governante.", "correta": false},
+        {"texto": "Trimestralmente, até 30 dias após o encerramento de cada período.", "correta": true},
+        {"texto": "Semestralmente, com informações consolidadas sobre receitas e despesas.", "correta": false},
+        {"texto": "Mensalmente, em formato simplificado para o cidadão comum.", "correta": false},
+        {"texto": "Apenas quando solicitado pelo Tribunal de Contas ou Legislativo.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFLR1_004",
+      "questao": "A LRF estabelece que a despesa total com pessoal não pode exceder:",
+      "alternativas": [
+        {"texto": "60% da receita corrente líquida para Estados e Municípios.", "correta": true},
+        {"texto": "50% da receita tributária líquida para todos os entes federativos.", "correta": false},
+        {"texto": "40% do orçamento fiscal para a União, Estados e Municípios.", "correta": false},
+        {"texto": "30% da receita primária para Municípios com menos de 100 mil habitantes.", "correta": false},
+        {"texto": "Não há limite constitucional para gastos com pessoal.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFLR1_005",
+      "questao": "A concessão de garantia pela União a Estados e Municípios:",
+      "alternativas": [
+        {"texto": "É livre, desde que autorizada pelo Senado Federal.", "correta": false},
+        {"texto": "Depende de lei específica e observância de condições estabelecidas na LRF.", "correta": true},
+        {"texto": "Pode ser concedida por medida provisória em casos de emergência.", "correta": false},
+        {"texto": "Não está sujeita a qualquer limite ou condição prévia.", "correta": false},
+        {"texto": "É vedada em qualquer hipótese pela Constituição Federal.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFLR1_006",
+      "questao": "A LRF veda a realização de despesas com pessoal que ultrapassem os limites legais, exceto:",
+      "alternativas": [
+        {"texto": "Nos últimos seis meses do mandato do governante.", "correta": false},
+        {"texto": "Para pagamento de indenizações por demissão de servidores.", "correta": true},
+        {"texto": "Em caso de aumento real do salário mínimo nacional.", "correta": false},
+        {"texto": "Quando autorizado por lei estadual ou municipal específica.", "correta": false},
+        {"texto": "Para contratação temporária de pessoal em períodos eleitorais.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Administrativo - Responsabilidade Civil do Estado e Controle da Administração": [
+    {
+      "id": "DARC_001",
+      "questao": "A responsabilidade civil do Estado por atos de seus agentes é:",
+      "alternativas": [
+        {"texto": "Subjetiva, exigindo comprovação de culpa ou dolo do agente público.", "correta": false},
+        {"texto": "Objetiva, fundamentada na teoria do risco administrativo, independente de culpa.", "correta": true},
+        {"texto": "Solidária entre o Estado e o agente causador do dano.", "correta": false},
+        {"texto": "Excluída quando há culpa concorrente da vítima.", "correta": false},
+        {"texto": "Relativa, dependendo da hierarquia do agente no serviço público.", "correta": false}
+      ]
+    },
+    {
+      "id": "DARC_002",
+      "questao": "O controle interno da administração pública tem como objetivo:",
+      "alternativas": [
+        {"texto": "Substituir o controle externo exercido pelo Poder Legislativo.", "correta": false},
+        {"texto": "Avaliar o cumprimento das metas previstas no plano plurianual e a execução dos programas de governo.", "correta": true},
+        {"texto": "Fiscalizar exclusivamente os atos do Poder Judiciário.", "correta": false},
+        {"texto": "Realizar auditorias contábeis apenas nas empresas estatais.", "correta": false},
+        {"texto": "Controlar apenas os processos licitatórios de grande valor.", "correta": false}
+      ]
+    },
+    {
+      "id": "DARC_003",
+      "questao": "A responsabilidade do Estado por omissão:",
+      "alternativas": [
+        {"texto": "Só ocorre quando há dever jurídico específico de agir e a omissão for ilegal.", "correta": true},
+        {"texto": "É sempre excluída quando o dano decorre de ato de terceiro.", "correta": false},
+        {"texto": "Depende de comprovação de dolo ou culpa grave do agente omisso.", "correta": false},
+        {"texto": "Não gera direito a indenização, apenas à cessação da omissão.", "correta": false},
+        {"texto": "Aplica-se apenas aos Poderes Executivo e Legislativo, não ao Judiciário.", "correta": false}
+      ]
+    },
+    {
+      "id": "DARC_004",
+      "questao": "O controle externo da administração pública é exercido:",
+      "alternativas": [
+        {"texto": "Pelo Poder Judiciário, através do Tribunal de Contas.", "correta": false},
+        {"texto": "Pelo Congresso Nacional, com auxílio do Tribunal de Contas da União.", "correta": true},
+        {"texto": "Exclusivamente pelo Ministério Público, através de ações civis públicas.", "correta": false},
+        {"texto": "Pela Controladoria-Geral da União, nos três Poderes.", "correta": false},
+        {"texto": "Pelo Poder Executivo, através de auditorias internas.", "correta": false}
+      ]
+    },
+    {
+      "id": "DARC_005",
+      "questao": "A ação de improbidade administrativa prevista na Lei nº 8.429/1992:",
+      "alternativas": [
+        {"texto": "Depende de prévia condenação penal do agente público.", "correta": false},
+        {"texto": "Pode resultar na perda de bens e suspensão de direitos políticos.", "correta": true},
+        {"texto": "É cabível apenas contra agentes políticos, não contra servidores públicos.", "correta": false},
+        {"texto": "Exige dolo específico de enriquecimento ilícito para sua configuração.", "correta": false},
+        {"texto": "Prescreve em dois anos, contados da prática do ato ímprobo.", "correta": false}
+      ]
+    },
+    {
+      "id": "DARC_006",
+      "questao": "O direito de regresso do Estado contra o agente público:",
+      "alternativas": [
+        {"texto": "É cabível apenas quando comprovado dolo ou culpa do agente.", "correta": true},
+        {"texto": "Prescreve em um ano, contado do pagamento da indenização pelo Estado.", "correta": false},
+        {"texto": "Depende de prévia autorização judicial para ser exercido.", "correta": false},
+        {"texto": "Não se aplica a servidores estáveis.", "correta": false},
+        {"texto": "É excluído quando o dano decorre de ato omissivo.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Financeiro - Lei de Responsabilidade Fiscal (arts. 29 ao 75)": [
+    {
+      "id": "DFLR2_001",
+      "questao": "A LRF estabelece que a despesa com pessoal ativo e inativo não pode exceder:",
+      "alternativas": [
+        {"texto": "60% da receita corrente líquida para Estados e Municípios.", "correta": false},
+        {"texto": "49% da receita corrente líquida para a União.", "correta": false},
+        {"texto": "60% da receita corrente líquida para Estados e 60% para Municípios.", "correta": false},
+        {"texto": "Os percentuais variam conforme o ente: 50% para União, 60% para Estados e Municípios.", "correta": true},
+        {"texto": "Não há diferença de percentuais entre os entes federativos.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFLR2_002",
+      "questao": "As operações de crédito por antecipação de receita orçamentária:",
+      "alternativas": [
+        {"texto": "Podem ser realizadas livremente para cobrir despesas correntes.", "correta": false},
+        {"texto": "Devem ser liquidadas até o encerramento do exercício financeiro em que forem realizadas.", "correta": true},
+        {"texto": "Não estão sujeitas a limites, desde que autorizadas pelo Legislativo.", "correta": false},
+        {"texto": "Podem ser renovadas automaticamente por até três exercícios consecutivos.", "correta": false},
+        {"texto": "São vedadas pela LRF em qualquer hipótese.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFLR2_003",
+      "questao": "Os limites constitucionais para a dívida consolidada dos Estados e Municípios são estabelecidos:",
+      "alternativas": [
+        {"texto": "Pelo Senado Federal, nos termos da LRF.", "correta": true},
+        {"texto": "Pelo Banco Central, conforme a política monetária.", "correta": false},
+        {"texto": "Pela Lei Orçamentária Anual de cada ente federativo.", "correta": false},
+        {"texto": "Pelo Tribunal de Contas da União, em parecer prévio.", "correta": false},
+        {"texto": "Pelo Ministério da Economia, por meio de portaria.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFLR2_004",
+      "questao": "A LRF veda ao ente federativo que esteja em descumprimento dos limites de despesa com pessoal:",
+      "alternativas": [
+        {"texto": "Receber transferências voluntárias de outros entes.", "correta": false},
+        {"texto": "Realizar operações de crédito, exceto as renegociações da dívida.", "correta": true},
+        {"texto": "Contratar servidores temporários para áreas essenciais.", "correta": false},
+        {"texto": "Pagar horas extras aos servidores em atividade.", "correta": false},
+        {"texto": "Receber quaisquer recursos federais, inclusive constitucionais.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFLR2_005",
+      "questao": "O Relatório de Gestão Fiscal (RGF) deve conter, entre outras informações:",
+      "alternativas": [
+        {"texto": "Apenas dados sobre receitas arrecadadas no período.", "correta": false},
+        {"texto": "Exclusivamente as despesas com pessoal e encargos sociais.", "correta": false},
+        {"texto": "As metas fiscais comparadas com os resultados alcançados e a evolução do patrimônio líquido.", "correta": true},
+        {"texto": "Somente informações sobre operações de crédito realizadas.", "correta": false},
+        {"texto": "Apenas demonstrativos de restos a pagar processados.", "correta": false}
+      ]
+    },
+    {
+      "id": "DFLR2_006",
+      "questao": "A LRF estabelece que a concessão de garantia pela União a Estados e Municípios está condicionada a:",
+      "alternativas": [
+        {"texto": "Aprovação prévia pelo Tribunal de Contas da União.", "correta": false},
+        {"texto": "Existência de lei específica e comprovação de capacidade de pagamento.", "correta": true},
+        {"texto": "Autorização do Banco Central, independentemente de outros requisitos.", "correta": false},
+        {"texto": "Aprovação pelo Conselho Monetário Nacional.", "correta": false},
+        {"texto": "Anuência do Ministério Público Federal.", "correta": false}
+      ]
+    }
+  ]
+}

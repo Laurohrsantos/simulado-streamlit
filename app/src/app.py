@@ -226,7 +226,7 @@ def main():
                 is_answered = st.session_state.user_answers[i] is not None
                 is_current = i == current_index
 
-                button_label = f"{i+1}" if is_current else (f"{i+1} \u2713" if is_answered else str(i + 1))
+                button_label = f"{i+1}" if is_current else ("\u2713" if is_answered else str(i + 1))
                 
                 if is_current:
                     button_type = "primary"
