@@ -1,0 +1,686 @@
+{
+  "Contabilidade Geral - Princípios e Estrutura Conceitual Básica": [
+    {
+      "id": "CGPCB_001",
+      "questao": "O princípio da Competência determina que:",
+      "alternativas": [
+        {"texto": "As receitas e despesas devem ser registradas apenas quando efetivamente recebidas ou pagas.", "correta": false},
+        {"texto": "Os efeitos das transações devem ser reconhecidos nos períodos a que se referem, independente do recebimento ou pagamento.", "correta": true},
+        {"texto": "As demonstrações contábeis devem ser elaboradas com estrito respeito à legislação tributária.", "correta": false},
+        {"texto": "Os ativos devem ser avaliados pelo menor valor entre custo e mercado.", "correta": false},
+        {"texto": "As despesas devem ser reconhecidas quando pagas, e as receitas quando recebidas.", "correta": false}
+      ]
+    },
+    {
+      "id": "CGPCB_002",
+      "questao": "O Princípio da Prudência, na Contabilidade Geral:",
+      "alternativas": [
+        {"texto": "Permite a subavaliação sistemática dos ativos para fins de redução tributária.", "correta": false},
+        {"texto": "Determina o registro do menor valor para os ativos e do maior para os passivos, quando houver alternativas igualmente válidas.", "correta": true},
+        {"texto": "É incompatível com as Normas Internacionais de Contabilidade.", "correta": false},
+        {"texto": "Dispensa a constituição de provisões para riscos futuros.", "correta": false},
+        {"texto": "Aplica-se apenas às sociedades de grande porte.", "correta": false}
+      ]
+    },
+    {
+      "id": "CGPCB_003",
+      "questao": "A estrutura conceitual básica da contabilidade inclui:",
+      "alternativas": [
+        {"texto": "Princípios, normas técnicas e legislação societária.", "correta": false},
+        {"texto": "Objetivos, características qualitativas e elementos das demonstrações contábeis.", "correta": true},
+        {"texto": "Regras fiscais, planos de contas e sistemas de escrituração.", "correta": false},
+        {"texto": "Procedimentos de auditoria, controles internos e sistemas de informação.", "correta": false},
+        {"texto": "Teorias econômicas, modelos matemáticos e projeções estatísticas.", "correta": false}
+      ]
+    },
+    {
+      "id": "CGPCB_004",
+      "questao": "O Princípio da Entidade Contábil estabelece que:",
+      "alternativas": [
+        {"texto": "As demonstrações devem ser consolidadas abrangendo todas as empresas do grupo.", "correta": false},
+        {"texto": "O patrimônio da empresa não se confunde com o dos sócios ou acionistas.", "correta": true},
+        {"texto": "Todas as transações devem ser registradas em moeda estrangeira para fins de comparabilidade.", "correta": false},
+        {"texto": "As operações devem ser contabilizadas pelo seu valor justo de mercado.", "correta": false},
+        {"texto": "A entidade deve adotar sempre o mesmo método contábil para todas as transações.", "correta": false}
+      ]
+    },
+    {
+      "id": "CGPCB_005",
+      "questao": "A característica qualitativa da 'Representação Fidedigna' nas demonstrações contábeis pressupõe:",
+      "alternativas": [
+        {"texto": "Que as informações sejam completas, neutras e livres de erros materiais.", "correta": true},
+        {"texto": "A utilização exclusiva de critérios conservadores na avaliação patrimonial.", "correta": false},
+        {"texto": "A priorização da forma sobre a substância nas transações complexas.", "correta": false},
+        {"texto": "A apresentação de dados sempre otimistas sobre a situação da entidade.", "correta": false},
+        {"texto": "A uniformização de todos os critérios contábeis independentemente do setor de atuação.", "correta": false}
+      ]
+    }
+  ],
+  "Administração Financeira e Orçamentária - Receita e Despesa Pública": [
+    {
+      "id": "AFORP_001",
+      "questao": "As receitas correntes na classificação orçamentária incluem:",
+      "alternativas": [
+        {"texto": "Operações de crédito e alienação de bens.", "correta": false},
+        {"texto": "Tributárias, de contribuições, patrimoniais e de serviços.", "correta": true},
+        {"texto": "Apenas as receitas tributárias e as transferências correntes.", "correta": false},
+        {"texto": "Venda de ativos financeiros e amortização de empréstimos.", "correta": false},
+        {"texto": "Receitas de capital destinadas a cobrir despesas ordinárias.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFORP_002",
+      "questao": "O estágio da despesa pública denominado 'empenho' consiste em:",
+      "alternativas": [
+        {"texto": "O pagamento efetivo ao credor pelo bem ou serviço fornecido.", "correta": false},
+        {"texto": "A verificação da conformidade do bem ou serviço recebido com o contrato.", "correta": false},
+        {"texto": "O registro da obrigação de pagamento assumida pela entidade.", "correta": true},
+        {"texto": "A liberação de recursos financeiros para o fornecedor.", "correta": false},
+        {"texto": "A inscrição em restos a pagar não processados.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFORP_003",
+      "questao": "As receitas de capital, segundo a classificação orçamentária, são aquelas que:",
+      "alternativas": [
+        {"texto": "Provêm normalmente da atividade-fim da entidade.", "correta": false},
+        {"texto": "Aumentam o patrimônio líquido sem correspondente aumento de ativo.", "correta": false},
+        {"texto": "Representam ingressos destinados a atender despesas correntes.", "correta": false},
+        {"texto": "Provêm da realização de recursos financeiros oriundos de constituição de dívidas ou conversão de ativos.", "correta": true},
+        {"texto": "São classificadas como intra-orçamentárias.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFORP_004",
+      "questao": "A despesa pública classificada como 'investimento' tem como característica:",
+      "alternativas": [
+        {"texto": "Ser sempre realizada por meio de contratação de terceiros.", "correta": false},
+        {"texto": "Gerar um bem de capital ou aumentar a vida útil de um ativo existente.", "correta": true},
+        {"correta": false, "texto": "Ter caráter continuado e permanente na estrutura organizacional."},
+        {"texto": "Ser classificada obrigatoriamente como despesa de capital.", "correta": false},
+        {"texto": "Não estar sujeita a limites orçamentários.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFORP_005",
+      "questao": "A Lei nº 4.320/64 estabelece que a despesa orçamentária será classificada por:",
+      "alternativas": [
+        {"texto": "Natureza, finalidade e elemento apenas.", "correta": false},
+        {"texto": "Categoria econômica, grupo de natureza e elemento.", "correta": true},
+        {"texto": "Função, subfunção e programa exclusivamente.", "correta": false},
+        {"texto": "Fonte de recursos e unidade orçamentária.", "correta": false},
+        {"texto": "Modalidade de aplicação e esfera orçamentária.", "correta": false}
+      ]
+    }
+  ],
+  "Contabilidade Geral - Demonstrações Contábeis": [
+    {
+      "id": "CGDC_001",
+      "questao": "O Balanço Patrimonial evidencia:",
+      "alternativas": [
+        {"texto": "As receitas e despesas do período, permitindo apurar o resultado.", "correta": false},
+        {"texto": "Os fluxos de caixa gerados pelas atividades operacionais, de investimento e financiamento.", "correta": false},
+        {"texto": "A posição financeira e patrimonial da entidade em determinada data.", "correta": true},
+        {"texto": "As mutações ocorridas no patrimônio líquido durante o exercício.", "correta": false},
+        {"texto": "A origem e aplicação de recursos no período.", "correta": false}
+      ]
+    },
+    {
+      "id": "CGDC_002",
+      "questao": "A Demonstração do Resultado do Exercício (DRE) tem como objetivo principal:",
+      "alternativas": [
+        {"texto": "Apresentar as mutações no patrimônio líquido decorrentes do resultado do período.", "correta": false},
+        {"texto": "Demonstrar a formação do resultado líquido do período através do confronto entre receitas e despesas.", "correta": true},
+        {"texto": "Evidenciar os fluxos de caixa gerados pelas atividades operacionais.", "correta": false},
+        {"texto": "Mostrar a posição financeira da empresa em determinada data.", "correta": false},
+        {"texto": "Informar sobre as obrigações contingentes e compromissos assumidos.", "correta": false}
+      ]
+    },
+    {
+      "id": "CGDC_003",
+      "questao": "Na Demonstração dos Fluxos de Caixa (DFC), os pagamentos de juros sobre empréstimos são classificados como:",
+      "alternativas": [
+        {"texto": "Atividades de investimento.", "correta": false},
+        {"texto": "Atividades operacionais.", "correta": true},
+        {"texto": "Atividades de financiamento.", "correta": false},
+        {"texto": "Atividades não operacionais.", "correta": false},
+        {"texto": "Atividades extraordinárias.", "correta": false}
+      ]
+    },
+    {
+      "id": "CGDC_004",
+      "questao": "A Demonstração das Mutações do Patrimônio Líquido (DMPL) deve evidenciar:",
+      "alternativas": [
+        {"texto": "Apenas os ajustes de avaliação patrimonial ocorridos no período.", "correta": false},
+        {"texto": "Exclusivamente a distribuição de dividendos aos acionistas.", "correta": false},
+        {"texto": "Todas as alterações ocorridas nas contas do patrimônio líquido durante o exercício.", "correta": true},
+        {"texto": "Somente os resultados abrangentes não reconhecidos na DRE.", "correta": false},
+        {"texto": "Apenas as movimentações nas reservas de capital.", "correta": false}
+      ]
+    },
+    {
+      "id": "CGDC_005",
+      "questao": "As Notas Explicativas às demonstrações contábeis têm como propósito:",
+      "alternativas": [
+        {"texto": "Substituir informações que deveriam constar nas demonstrações principais.", "correta": false},
+        {"texto": "Complementar e detalhar as informações apresentadas nas demonstrações contábeis.", "correta": true},
+        {"texto": "Apresentar apenas os critérios contábeis adotados pela entidade.", "correta": false},
+        {"texto": "Demonstrar exclusivamente as transações com partes relacionadas.", "correta": false},
+        {"texto": "Evidenciar apenas as contingências trabalhistas e fiscais.", "correta": false}
+      ]
+    }
+  ],
+  "Administração Financeira e Orçamentária - Créditos Adicionais e Restos a Pagar": [
+    {
+      "id": "AFOCA_001",
+      "questao": "Os créditos adicionais suplementares destinam-se a:",
+      "alternativas": [
+        {"texto": "Reforçar dotação orçamentária insuficiente para atender despesas previstas.", "correta": true},
+        {"correta": false, "texto": "Cobertura de despesas urgentes e imprevisíveis."},
+        {"texto": "Atender a despesas não previstas no orçamento.", "correta": false},
+        {"texto": "Realizar investimentos em obras públicas de grande vulto.", "correta": false},
+        {"texto": "Pagar pessoal contratado temporariamente.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOCA_002",
+      "questao": "Os restos a pagar processados correspondem a:",
+      "alternativas": [
+        {"texto": "Despesas empenhadas e não pagas até o final do exercício, cujo objeto já foi entregue.", "correta": true},
+        {"texto": "Obrigações assumidas mas não empenhadas no exercício.", "correta": false},
+        {"texto": "Despesas pagas antecipadamente no exercício anterior.", "correta": false},
+        {"texto": "Dívidas flutuantes contraídas pelo ente público.", "correta": false},
+        {"texto": "Operações de crédito a serem liquidadas no exercício seguinte.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOCA_003",
+      "questao": "Os créditos adicionais especiais diferenciam-se dos suplementares porque:",
+      "alternativas": [
+        {"texto": "Podem ser abertos por decreto do Chefe do Executivo.", "correta": false},
+        {"texto": "Destinam-se a despesas não previstas no orçamento.", "correta": true},
+        {"texto": "Não exigem indicação da fonte de recursos.", "correta": false},
+        {"texto": "Têm tramitação simplificada no Poder Legislativo.", "correta": false},
+        {"texto": "São os únicos que podem ser reabertos no exercício seguinte.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOCA_004",
+      "questao": "A Lei nº 4.320/64 estabelece que os restos a pagar não processados:",
+      "alternativas": [
+        {"texto": "Devem ser inscritos no exercício seguinte como despesas de exercícios anteriores.", "correta": false},
+        {"texto": "Correspondem a obrigações empenhadas mas não liquidadas até o encerramento do exercício.", "correta": true},
+        {"texto": "São pagos automaticamente no primeiro trimestre do exercício subsequente.", "correta": false},
+        {"texto": "Não podem ser inscritos no orçamento do ano seguinte.", "correta": false},
+        {"texto": "Equivalem a dívidas fundadas do ente público.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOCA_005",
+      "questao": "Os créditos adicionais extraordinários:",
+      "alternativas": [
+        {"texto": "Podem ser abertos por decreto do Executivo em caso de guerra ou calamidade pública.", "correta": true},
+        {"texto": "Destinam-se exclusivamente ao pagamento de pessoal.", "correta": false},
+        {"texto": "Não estão sujeitos a qualquer tipo de controle externo.", "correta": false},
+        {"texto": "Dispensam a indicação da fonte de recursos.", "correta": false},
+        {"texto": "Têm tramitação idêntica aos créditos suplementares.", "correta": false}
+      ]
+    }
+  ],
+  "Contabilidade Pública - MCASP e Estrutura Conceitual": [
+    {
+      "id": "CPME_001",
+      "questao": "O Manual de Contabilidade Aplicada ao Setor Público (MCASP) tem como principal objetivo:",
+      "alternativas": [
+        {"texto": "Substituir a legislação orçamentária e financeira vigente.", "correta": false},
+        {"texto": "Orientar a execução orçamentária sem considerar o regime contábil.", "correta": false},
+        {"texto": "Padronizar os procedimentos contábeis públicos conforme as normas brasileiras de contabilidade aplicadas ao setor público.", "correta": true},
+        {"texto": "Estabelecer regras específicas para contabilidade das empresas estatais.", "correta": false},
+        {"texto": "Criar um sistema contábil paralelo ao previsto na Lei nº 4.320/64.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPME_002",
+      "questao": "Na estrutura conceitual da contabilidade aplicada ao setor público, o patrimônio público é composto por:",
+      "alternativas": [
+        {"texto": "Bens, direitos e obrigações da administração direta apenas.", "correta": false},
+        {"texto": "Ativos, passivos e patrimônio líquido, conforme conceitos do setor privado.", "correta": false},
+        {"texto": "Bens, direitos, obrigações e situações não patrimoniais que possam vir a afetar o patrimônio.", "correta": true},
+        {"texto": "Apenas os bens corpóreos de uso comum do povo e de uso especial.", "correta": false},
+        {"texto": "Exclusivamente os valores disponíveis em caixa e equivalentes de caixa.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPME_003",
+      "questao": "O regime contábil adotado para registro das variações patrimoniais no setor público é o:",
+      "alternativas": [
+        {"texto": "Regime de caixa, para todas as receitas e despesas.", "correta": false},
+        {"texto": "Regime misto, com receitas pelo regime de caixa e despesas pelo regime de competência.", "correta": false},
+        {"texto": "Regime de competência, para os fatos que alteram o patrimônio público.", "correta": true},
+        {"texto": "Regime de caixa modificado, com ajustes ao final do exercício.", "correta": false},
+        {"texto": "Regime híbrido, definido caso a caso pelo ordenador de despesas.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPME_004",
+      "questao": "Segundo o MCASP, as mutações no patrimônio público decorrentes de transações sem contraprestação são classificadas como:",
+      "alternativas": [
+        {"texto": "Variações ativas e passivas.", "correta": false},
+        {"texto": "Variações patrimoniais quantitativas.", "correta": false},
+        {"texto": "Variações patrimoniais aumentativas e diminutivas.", "correta": true},
+        {"texto": "Transações orçamentárias e extra-orçamentárias.", "correta": false},
+        {"texto": "Mutações financeiras e não financeiras.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPME_005",
+      "questao": "O princípio da competência na contabilidade pública, conforme o MCASP, determina que:",
+      "alternativas": [
+        {"texto": "As receitas devem ser reconhecidas quando recebidas em numerário.", "correta": false},
+        {"texto": "As despesas devem ser registradas quando pagas, independentemente do período a que se referem.", "correta": false},
+        {"texto": "Os efeitos das transações devem ser reconhecidos nos períodos a que se referem, independentemente do recebimento ou pagamento.", "correta": true},
+        {"texto": "Os registros contábeis devem seguir estritamente o regime de caixa orçamentário.", "correta": false},
+        {"texto": "As variações patrimoniais qualitativas dispensam reconhecimento contábil.", "correta": false}
+      ]
+    }
+  ],
+  "Administração Financeira e Orçamentária - Programação e Execução Orçamentária e Financeira": [
+    {
+      "id": "AFOP_001",
+      "questao": "A programação orçamentária e financeira tem como objetivo principal:",
+      "alternativas": [
+        {"texto": "Substituir o processo de elaboração da lei orçamentária anual.", "correta": false},
+        {"texto": "Estabelecer o cronograma de desembolso compatível com a disponibilidade de caixa.", "correta": true},
+        {"texto": "Criar reservas de contingência para eventuais superávits.", "correta": false},
+        {"texto": "Limitar a atuação dos ordenadores de despesa.", "correta": false},
+        {"texto": "Dispensar a realização de licitações para pequenos valores.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOP_002",
+      "questao": "O cronograma de desembolso na execução orçamentária deve observar:",
+      "alternativas": [
+        {"texto": "Apenas as prioridades políticas do governo.", "correta": false},
+        {"texto": "Exclusivamente a disponibilidade de recursos no último trimestre.", "correta": false},
+        {"texto": "A programação financeira e a capacidade de arrecadação.", "correta": true},
+        {"texto": "Somente as despesas obrigatórias de caráter continuado.", "correta": false},
+        {"texto": "A previsão de empenho, independentemente da liquidação.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOP_003",
+      "questao": "A execução orçamentária da despesa compreende as seguintes fases:",
+      "alternativas": [
+        {"texto": "Planejamento, aprovação e controle.", "correta": false},
+        {"texto": "Fixação, execução e avaliação.", "correta": false},
+        {"texto": "Empenho, liquidação e pagamento.", "correta": true},
+        {"texto": "Programação, descentralização e execução.", "correta": false},
+        {"texto": "Alocação, mensuração e evidenciação.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOP_004",
+      "questao": "A descentralização de créditos orçamentários:",
+      "alternativas": [
+        {"texto": "Depende de autorização legislativa específica para cada operação.", "correta": false},
+        {"texto": "É ato administrativo que transfere a unidades executoras a competência para realizar despesas.", "correta": true},
+        {"texto": "Pode ser realizada sem qualquer formalidade por servidores designados.", "correta": false},
+        {"texto": "Equivale à abertura de créditos adicionais.", "correta": false},
+        {"texto": "Dispensa o controle pelos órgãos de contabilidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOP_005",
+      "questao": "A programação financeira deve considerar como elemento essencial:",
+      "alternativas": [
+        {"texto": "A previsão de recebimento de transferências voluntárias.", "correta": false},
+        {"texto": "O cronograma de realização da receita e o fluxo de desembolsos.", "correta": true},
+        {"texto": "Apenas as despesas com pessoal e encargos sociais.", "correta": false},
+        {"texto": "Exclusivamente os restos a pagar do exercício anterior.", "correta": false},
+        {"texto": "Os limites globais para contratação de operações de crédito.", "correta": false}
+      ]
+    }
+  ],
+  "Contabilidade Pública - Plano de Contas e Lançamentos Típicos": [
+    {
+      "id": "CPPC_001",
+      "questao": "O Plano de Contas Aplicado ao Setor Público (PCASP) está estruturado em:",
+      "alternativas": [
+        {"texto": "Ativos, passivos, receitas e despesas apenas.", "correta": false},
+        {"texto": "Classes que representam os aspectos orçamentário, patrimonial, de controle e compensação.", "correta": true},
+        {"texto": "Contas sintéticas e analíticas de acordo com a Lei nº 4.320/64.", "correta": false},
+        {"texto": "Grupos de contas exclusivamente para registro de bens públicos.", "correta": false},
+        {"texto": "Sistemas independentes para cada poder da República.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPPC_002",
+      "questao": "No PCASP, a classe 1 - Ativo compreende:",
+      "alternativas": [
+        {"texto": "Apenas os bens corpóreos e direitos a receber de curto prazo.", "correta": false},
+        {"texto": "Todos os recursos controlados pela entidade com potencial de gerar benefícios futuros.", "correta": true},
+        {"texto": "Exclusivamente as disponibilidades financeiras e aplicações.", "correta": false},
+        {"texto": "Somente os bens de uso comum do povo e de uso especial.", "correta": false},
+        {"texto": "Os valores a receber decorrentes de operações de crédito.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPPC_003",
+      "questao": "O lançamento contábil típico para registro do empenho de despesa é:",
+      "alternativas": [
+        {"texto": "Débito: Despesa Empenhada / Crédito: Fornecedores.", "correta": false},
+        {"texto": "Débito: Restos a Pagar / Crédito: Disponibilidades.", "correta": false},
+        {"texto": "Débito: Despesa Orçamentária / Crédito: Empenhos a Liquidar.", "correta": true},
+        {"texto": "Débito: Resultado do Exercício / Crédito: Provisão para Pagamento.", "correta": false},
+        {"texto": "Débito: Variação Patrimonial Diminutiva / Crédito: Passivo Financeiro.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPPC_004",
+      "questao": "No registro da arrecadação de receita tributária, o lançamento contábil adequado é:",
+      "alternativas": [
+        {"texto": "Débito: Disponibilidades / Crédito: Receita Orçamentária.", "correta": false},
+        {"texto": "Débito: Tributos a Recolher / Crédito: Receita a Arrecadar.", "correta": false},
+        {"texto": "Débito: Variação Patrimonial Aumentativa / Crédito: Passivo Financeiro.", "correta": false},
+        {"texto": "Débito: Disponibilidades / Crédito: Variação Patrimonial Aumentativa.", "correta": true},
+        {"texto": "Débito: Receita Orçamentária / Crédito: Resultado do Exercício.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPPC_005",
+      "questao": "A conta 'Restos a Pagar Processados' no PCASP está classificada no:",
+      "alternativas": [
+        {"texto": "Ativo Financeiro, como direito a pagar no exercício seguinte.", "correta": false},
+        {"texto": "Passivo Financeiro, como obrigação a pagar no exercício seguinte.", "correta": true},
+        {"texto": "Passivo Permanente, como dívida consolidada da entidade.", "correta": false},
+        {"texto": "Contas de Compensação, como registro de natureza extra-orçamentária.", "correta": false},
+        {"texto": "Patrimônio Líquido, como reserva para contingências.", "correta": false}
+      ]
+    }
+  ],
+  "Administração Financeira e Orçamentária - Descentralização de Créditos e Suprimento de Fundos": [
+    {
+      "id": "AFOD_001",
+      "questao": "A descentralização de créditos orçamentários tem como finalidade principal:",
+      "alternativas": [
+        {"texto": "Criar novas dotações orçamentárias não previstas na LOA.", "correta": false},
+        {"texto": "Transferir a unidades executoras a competência para empenhar e liquidar despesas.", "correta": true},
+        {"texto": "Substituir o processo de abertura de créditos adicionais.", "correta": false},
+        {"texto": "Permitir a realização de despesas sem empenho prévio.", "correta": false},
+        {"texto": "Dispensar a licitação para pequenas despesas.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOD_002",
+      "questao": "O suprimento de fundos caracteriza-se por:",
+      "alternativas": [
+        {"texto": "Ser uma modalidade de adiantamento para pagamento de despesas previamente definidas.", "correta": true},
+        {"texto": "Constituir uma transferência voluntária de recursos a outros entes.", "correta": false},
+        {"texto": "Equivaler a uma operação de crédito de curto prazo.", "correta": false},
+        {"texto": "Dispensar qualquer forma de prestação de contas.", "correta": false},
+        {"texto": "Ser utilizado exclusivamente para despesas de capital.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOD_003",
+      "questao": "A prestação de contas do suprimento de fundos deve ocorrer:",
+      "alternativas": [
+        {"texto": "Apenas ao final do exercício financeiro.", "correta": false},
+        {"texto": "No prazo estabelecido no ato de concessão, mediante comprovação das despesas realizadas.", "correta": true},
+        {"texto": "Somente quando solicitada pelo Tribunal de Contas.", "correta": false},
+        {"texto": "De forma simplificada, sem necessidade de documentos comprobatórios.", "correta": false},
+        {"texto": "A cada três meses, independentemente do valor do suprimento.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOD_004",
+      "questao": "A descentralização de créditos para unidades orçamentárias:",
+      "alternativas": [
+        {"texto": "Depende de autorização legislativa específica para cada caso.", "correta": false},
+        {"texto": "É realizada por portaria do ordenador de despesas, dentro dos limites legais.", "correta": true},
+        {"texto": "Pode ser feita por qualquer servidor designado pelo gestor.", "correta": false},
+        {"texto": "Equivale à criação de novas dotações orçamentárias.", "correta": false},
+        {"texto": "Dispensa o registro contábil da operação.", "correta": false}
+      ]
+    },
+    {
+      "id": "AFOD_005",
+      "questao": "Os recursos do suprimento de fundos não podem ser utilizados para:",
+      "alternativas": [
+        {"texto": "Pagamento de despesas de pequeno vulto e urgência.", "correta": false},
+        {"texto": "Aquisição de material de consumo necessário ao funcionamento da unidade.", "correta": false},
+        {"texto": "Pagamento de serviços de terceiros contratados por licitação.", "correta": true},
+        {"texto": "Despesas com locomoção e estadia de servidores em serviço oficial.", "correta": false},
+        {"texto": "Pagamento de diárias e passagens dentro dos limites legais.", "correta": false}
+      ]
+    }
+  ],
+  "Contabilidade Pública - Demonstrações Contábeis Aplicadas ao Setor Público": [
+    {
+      "id": "CPDC_001",
+      "questao": "O Balanço Orçamentário na contabilidade pública tem como objetivo principal:",
+      "alternativas": [
+        {"texto": "Demonstrar a situação patrimonial da entidade em determinado momento.", "correta": false},
+        {"texto": "Evidenciar o resultado orçamentário do exercício, confrontando receitas e despesas previstas e realizadas.", "correta": true},
+        {"texto": "Apresentar os fluxos de caixa gerados pelas atividades operacionais.", "correta": false},
+        {"texto": "Demonstrar as mutações ocorridas no patrimônio líquido durante o exercício.", "correta": false},
+        {"texto": "Evidenciar exclusivamente as despesas empenhadas e não pagas.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPDC_002",
+      "questao": "A Demonstração das Variações Patrimoniais (DVP) evidencia:",
+      "alternativas": [
+        {"texto": "Apenas as receitas e despesas orçamentárias do período.", "correta": false},
+        {"texto": "As mutações qualitativas e quantitativas no patrimônio líquido.", "correta": true},
+        {"texto": "Exclusivamente os atos potenciais que possam vir a afetar o patrimônio.", "correta": false},
+        {"texto": "Somente os efeitos da inflação sobre os ativos permanentes.", "correta": false},
+        {"texto": "A composição do ativo imobilizado e suas depreciações acumuladas.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPDC_003",
+      "questao": "O Balanço Financeiro diferencia-se do Balanço Patrimonial por:",
+      "alternativas": [
+        {"texto": "Incluir apenas as contas de natureza orçamentária.", "correta": false},
+        {"texto": "Evidenciar os recebimentos e pagamentos, independentemente da competência.", "correta": true},
+        {"texto": "Apresentar exclusivamente as disponibilidades financeiras.", "correta": false},
+        {"texto": "Não considerar os restos a pagar e os recursos a receber.", "correta": false},
+        {"texto": "Ser elaborado apenas pelas entidades da administração indireta.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPDC_004",
+      "questao": "A Demonstração dos Fluxos de Caixa no setor público deve apresentar separadamente:",
+      "alternativas": [
+        {"texto": "As operações de crédito e amortizações da dívida pública.", "correta": false},
+        {"texto": "Os fluxos das atividades orçamentárias, não orçamentárias e de financiamento.", "correta": false},
+        {"texto": "Os fluxos das atividades operacionais, de investimento e de financiamento.", "correta": true},
+        {"texto": "Apenas os pagamentos realizados e os recebimentos efetuados no período.", "correta": false},
+        {"texto": "Exclusivamente as variações das disponibilidades financeiras.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPDC_005",
+      "questao": "A Nota Explicativa às demonstrações contábeis no setor público deve conter, obrigatoriamente:",
+      "alternativas": [
+        {"texto": "Apenas os critérios contábeis adotados para avaliação patrimonial.", "correta": false},
+        {"texto": "Informações sobre as políticas contábeis, contingências e outros dados relevantes não evidenciados nas demonstrações.", "correta": true},
+        {"texto": "Exclusivamente a composição da dívida pública consolidada.", "correta": false},
+        {"texto": "Somente os eventos subsequentes à data de encerramento do exercício.", "correta": false},
+        {"texto": "Apenas as retificações de erros de exercícios anteriores.", "correta": false}
+      ]
+    }
+  ],
+  "Economia - Microeconomia (Demanda, Oferta, Equilíbrio de Mercado)": [
+    {
+      "id": "ECME_001",
+      "questao": "A curva de demanda de um bem é afetada negativamente por:",
+      "alternativas": [
+        {"texto": "Aumento da renda dos consumidores.", "correta": false},
+        {"texto": "Redução do preço de bens substitutos.", "correta": true},
+        {"texto": "Diminuição do preço do próprio bem.", "correta": false},
+        {"texto": "Melhoria nas preferências dos consumidores pelo bem.", "correta": false},
+        {"texto": "Expectativa de aumento futuro do preço do bem.", "correta": false}
+      ]
+    },
+    {
+      "id": "ECME_002",
+      "questao": "O equilíbrio de mercado ocorre quando:",
+      "alternativas": [
+        {"texto": "A quantidade demandada é igual à quantidade ofertada a um determinado preço.", "correta": true},
+        {"texto": "O preço do bem atinge seu valor histórico mínimo.", "correta": false},
+        {"texto": "Todos os consumidores estão satisfeitos com o preço praticado.", "correta": false},
+        {"texto": "O governo estabelece um preço máximo para o produto.", "correta": false},
+        {"texto": "As empresas decidem coordenar seus preços para maximizar lucros.", "correta": false}
+      ]
+    },
+    {
+      "id": "ECME_003",
+      "questao": "Um bem é considerado inferior quando:",
+      "alternativas": [
+        {"texto": "Sua demanda diminui quando a renda dos consumidores aumenta.", "correta": true},
+        {"texto": "Apresenta qualidade abaixo dos padrões do mercado.", "correta": false},
+        {"texto": "É produzido por empresas com baixa produtividade.", "correta": false},
+        {"texto": "Tem preço abaixo da média de mercado.", "correta": false},
+        {"texto": "Não atende às especificações técnicas mínimas.", "correta": false}
+      ]
+    },
+    {
+      "id": "ECME_004",
+      "questao": "O excedente do consumidor representa:",
+      "alternativas": [
+        {"texto": "A diferença entre o preço máximo que o consumidor estaria disposto a pagar e o preço de mercado.", "correta": true},
+        {"texto": "O estoque de produtos não vendidos no mercado.", "correta": false},
+        {"texto": "A quantidade de bens que os consumidores adquirem além de suas necessidades.", "correta": false},
+        {"texto": "Os lucros extraordinários obtidos pelos produtores em situações de escassez.", "correta": false},
+        {"texto": "A parcela da produção destinada à exportação.", "correta": false}
+      ]
+    },
+    {
+      "id": "ECME_005",
+      "questao": "A elasticidade-preço da demanda mede:",
+      "alternativas": [
+        {"texto": "A sensibilidade da quantidade demandada em relação a variações no preço do bem.", "correta": true},
+        {"texto": "A velocidade com que os preços se ajustam no mercado.", "correta": false},
+        {"texto": "O grau de concentração de uma indústria.", "correta": false},
+        {"texto": "A relação entre preços de bens complementares.", "correta": false},
+        {"texto": "A capacidade dos produtores em repassar custos aos preços.", "correta": false}
+      ]
+    }
+  ],
+  "Contabilidade Pública - Análise das Demonstrações Contábeis": [
+    {
+      "id": "CPAD_001",
+      "questao": "A análise horizontal das demonstrações contábeis no setor público tem como objetivo:",
+      "alternativas": [
+        {"texto": "Avaliar a evolução das contas ao longo do tempo, identificando tendências.", "correta": true},
+        {"texto": "Comparar a estrutura de ativos e passivos em determinado momento.", "correta": false},
+        {"texto": "Verificar o cumprimento de limites legais para despesas com pessoal.", "correta": false},
+        {"texto": "Analisar a relação entre contas patrimoniais e orçamentárias.", "correta": false},
+        {"texto": "Identificar exclusivamente as variações nos resultados orçamentários.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPAD_002",
+      "questao": "O índice de liquidez corrente na análise das demonstrações contábeis públicas é calculado por:",
+      "alternativas": [
+        {"texto": "Ativo Circulante / Passivo Circulante.", "correta": true},
+        {"texto": "Disponibilidades / Passivo Circulante.", "correta": false},
+        {"texto": "Ativo Total / Passivo Total.", "correta": false},
+        {"texto": "Receita Corrente Líquida / Despesa Total.", "correta": false},
+        {"texto": "Superávit Financeiro / Receita Orçamentária.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPAD_003",
+      "questao": "A análise vertical do Balanço Patrimonial permite verificar:",
+      "alternativas": [
+        {"texto": "A participação percentual de cada conta em relação ao total do ativo ou passivo.", "correta": true},
+        {"texto": "O crescimento nominal das contas ao longo de vários exercícios.", "correta": false},
+        {"texto": "O grau de endividamento da entidade em relação ao PIB.", "correta": false},
+        {"texto": "A evolução real das receitas e despesas orçamentárias.", "correta": false},
+        {"texto": "O cumprimento das metas fiscais estabelecidas na LDO.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPAD_004",
+      "questao": "O resultado patrimonial nas demonstrações contábeis públicas evidencia:",
+      "alternativas": [
+        {"texto": "Apenas o superávit ou déficit orçamentário do exercício.", "correta": false},
+        {"texto": "Exclusivamente as variações quantitativas no patrimônio líquido.", "correta": false},
+        {"texto": "O aumento ou diminuição do patrimônio líquido, decorrente das variações patrimoniais.", "correta": true},
+        {"texto": "Somente os atos potenciais que possam vir a afetar o patrimônio.", "correta": false},
+        {"texto": "A diferença entre receitas e despesas previdenciárias.", "correta": false}
+      ]
+    },
+    {
+      "id": "CPAD_005",
+      "questao": "A análise da execução orçamentária deve considerar principalmente:",
+      "alternativas": [
+        {"texto": "Apenas o cumprimento das metas de superávit primário.", "correta": false},
+        {"texto": "O confronto entre as previsões e a realização da receita e despesa.", "correta": true},
+        {"texto": "Exclusivamente os restos a pagar inscritos no exercício.", "correta": false},
+        {"texto": "Somente as despesas com investimentos realizadas.", "correta": false},
+        {"texto": "A evolução nominal das dotações orçamentárias.", "correta": false}
+      ]
+    }
+  ],
+  "Economia - Macroeconomia (Política Fiscal, Monetária e Cambial)": [
+    {
+      "id": "ECMM_001",
+      "questao": "A política fiscal expansionista caracteriza-se por:",
+      "alternativas": [
+        {"texto": "Aumento de impostos e redução dos gastos públicos.", "correta": false},
+        {"texto": "Redução de impostos e/ou aumento dos gastos públicos.", "correta": true},
+        {"texto": "Elevação da taxa básica de juros e restrição ao crédito.", "correta": false},
+        {"texto": "Contração da base monetária e aumento do compulsório.", "correta": false},
+        {"texto": "Intervenções no mercado cambial para valorizar a moeda.", "correta": false}
+      ]
+    },
+    {
+      "id": "ECMM_002",
+      "questao": "O efeito 'crowding-out' (deslocamento) ocorre quando:",
+      "alternativas": [
+        {"texto": "O aumento dos gastos públicos reduz o investimento privado.", "correta": true},
+        {"texto": "A política monetária expansionista reduz a taxa de juros.", "correta": false},
+        {"texto": "A entrada de capitais estrangeiros desvaloriza a moeda nacional.", "correta": false},
+        {"texto": "A inflação reduz o poder de compra dos salários.", "correta": false},
+        {"texto": "O setor público amplia sua participação na economia.", "correta": false}
+      ]
+    },
+    {
+      "id": "ECMM_003",
+      "questao": "A política monetária contracionista tem como principal instrumento:",
+      "alternativas": [
+        {"texto": "Redução dos impostos sobre consumo.", "correta": false},
+        {"texto": "Aumento dos gastos com infraestrutura.", "correta": false},
+        {"texto": "Elevação da taxa de juros básica.", "correta": true},
+        {"texto": "Desvalorização cambial.", "correta": false},
+        {"texto": "Redução do salário mínimo.", "correta": false}
+      ]
+    },
+    {
+      "id": "ECMM_004",
+      "questao": "A taxa de câmbio flutuante é determinada:",
+      "alternativas": [
+        {"texto": "Exclusivamente pelo Banco Central.", "correta": false},
+        {"texto": "Pela oferta e demanda no mercado de divisas.", "correta": true},
+        {"texto": "Por acordo entre os países membros do FMI.", "correta": false},
+        {"texto": "Com base no valor das reservas internacionais.", "correta": false},
+        {"texto": "Pela paridade do poder de compra entre as moedas.", "correta": false}
+      ]
+    },
+    {
+      "id": "ECMM_005",
+      "questao": "O déficit primário nas contas públicas representa:",
+      "alternativas": [
+        {"texto": "A diferença negativa entre receitas e despesas, excluindo os juros da dívida.", "correta": true},
+        {"texto": "O total da dívida pública em relação ao PIB.", "correta": false},
+        {"texto": "A soma dos juros e amortizações da dívida pública.", "correta": false},
+        {"texto": "O resultado negativo das empresas estatais.", "correta": false},
+        {"texto": "A diferença entre exportações e importações.", "correta": false}
+      ]
+    }
+  ]
+}
