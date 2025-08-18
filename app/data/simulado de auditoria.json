@@ -1,0 +1,554 @@
+{
+  "Auditoria Governamental - Conceitos, Normas e Técnicas": [
+    {
+      "id": "AG_CT_001",
+      "questao": "Qual norma internacional estabelece diretrizes para auditoria governamental, sendo amplamente adotada pelos Tribunais de Contas brasileiros?",
+      "alternativas": [
+        {"texto": "ISO 9001", "correta": false},
+        {"texto": "ISSAI (INTOSAI)", "correta": true},
+        {"texto": "NIAS (Normas Internacionais de Auditoria)", "correta": false},
+        {"texto": "COSO Framework", "correta": false},
+        {"texto": "BASEL III", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_CT_002",
+      "questao": "Segundo as Normas Brasileiras de Auditoria do Setor Público (NBASP), qual é o objetivo primordial da auditoria governamental?",
+      "alternativas": [
+        {"texto": "Exclusivamente a detecção de fraudes e irregularidades", "correta": false},
+        {"texto": "Assegurar a economicidade, eficiência e eficácia da gestão pública", "correta": true},
+        {"texto": "Substituir o controle interno das entidades auditadas", "correta": false},
+        {"texto": "Validar políticas públicas independentemente de critérios legais", "correta": false},
+        {"texto": "Emitir pareceres com efeito vinculante absoluto", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_CT_003",
+      "questao": "Qual técnica de auditoria consiste na comparação sistemática de dados de diferentes fontes para identificar inconsistências?",
+      "alternativas": [
+        {"texto": "Amostragem estatística", "correta": false},
+        {"texto": "Walkthrough", "correta": false},
+        {"texto": "Cruzamento de dados (data analytics)", "correta": true},
+        {"texto": "Entrevista focalizada", "correta": false},
+        {"texto": "Teste de observação direta", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_CT_004",
+      "questao": "Conforme o TCU, qual dispositivo legal regulamenta especificamente as competências e procedimentos da auditoria governamental na esfera federal?",
+      "alternativas": [
+        {"texto": "Lei 8.666/1993", "correta": false},
+        {"texto": "Lei Complementar 101/2000 (LRF)", "correta": false},
+        {"texto": "Lei 8.429/1992 (Improbidade)", "correta": false},
+        {"texto": "Lei 8.443/1992", "correta": true},
+        {"texto": "Lei 14.133/2021 (Licitações)", "correta": false}
+      ]
+    }
+  ],
+  "Controle Externo - Tribunais de Contas (Natureza, Competência e Jurisdição)": [
+    {
+      "id": "CE_TC_001",
+      "questao": "Segundo a Constituição Federal, qual é a natureza institucional dos Tribunais de Contas?",
+      "alternativas": [
+        {"texto": "Órgãos integrantes do Poder Judiciário", "correta": false},
+        {"texto": "Entidades vinculadas ao Poder Executivo", "correta": false},
+        {"texto": "Autarquias especiais com autonomia funcional", "correta": false},
+        {"texto": "Órgãos auxiliares do Congresso Nacional", "correta": true},
+        {"texto": "Fundações públicas de direito privado", "correta": false}
+      ]
+    },
+    {
+      "id": "CE_TC_002",
+      "questao": "Qual das seguintes atribuições é competência exclusiva do Tribunal de Contas da União (TCU)?",
+      "alternativas": [
+        {"texto": "Fiscalizar municípios que utilizam exclusivamente recursos municipais", "correta": false},
+        {"texto": "Apreciar contas de governadores de estado", "correta": false},
+        {"texto": "Emitir parecer prévio sobre as contas do Presidente da República", "correta": true},
+        {"texto": "Julgar contas de prefeitos de capitais estaduais", "correta": false},
+        {"texto": "Fiscalizar entidades privadas sem recursos públicos", "correta": false}
+      ]
+    },
+    {
+      "id": "CE_TC_003",
+      "questao": "No âmbito da jurisdição dos Tribunais de Contas Estaduais (TCEs), qual é o alcance territorial de sua competência?",
+      "alternativas": [
+        {"texto": "Todo o território nacional quando envolvidos recursos federais", "correta": false},
+        {"texto": "Apenas nos municípios onde existam Tribunais de Contas Municipais", "correta": false},
+        {"texto": "Exclusivamente sobre órgãos da administração direta estadual", "correta": false},
+        {"texto": "Em todo o território do respectivo estado, incluindo municípios", "correta": true},
+        {"texto": "Apenas na capital do estado e regiões metropolitanas", "correta": false}
+      ]
+    },
+    {
+      "id": "CE_TC_004",
+      "questao": "Qual característica define a natureza híbrida dos Tribunais de Contas, conforme jurisprudência do STF?",
+      "alternativas": [
+        {"texto": "Exercício simultâneo de funções legislativas e executivas", "correta": false},
+        {"texto": "Composição paritária entre membros do Judiciário e Ministério Público", "correta": false},
+        {"texto": "Associação de funções administrativas, jurisdicionais e consultivas", "correta": true},
+        {"texto": "Subordinação hierárquica a dois Poderes simultaneamente", "correta": false},
+        {"texto": "Competência para legislar sobre matéria contábil", "correta": false}
+      ]
+    }
+  ],
+  "Auditoria Governamental - Planejamento e Execução de Auditoria": [
+    {
+      "id": "AG_PE_001",
+      "questao": "Na fase de planejamento de auditoria governamental, qual é o principal objetivo da análise preliminar de riscos?",
+      "alternativas": [
+        {"texto": "Definir o quadro de pessoal da equipe de auditoria", "correta": false},
+        {"texto": "Estabelecer o orçamento total da auditoria", "correta": false},
+        {"texto": "Identificar áreas críticas e vulnerabilidades para direcionar os trabalhos", "correta": true},
+        {"texto": "Determinar a data final para emissão do relatório", "correta": false},
+        {"texto": "Selecionar aleatoriamente os documentos a serem analisados", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_PE_002",
+      "questao": "Durante a execução de auditoria, qual técnica é utilizada para validar a existência física e as condições de bens públicos?",
+      "alternativas": [
+        {"texto": "Análise de regressão", "correta": false},
+        {"texto": "Cálculo de amostragem estatística", "correta": false},
+        {"texto": "Confronto de assinaturas em documentos", "correta": false},
+        {"texto": "Inspeção in loco", "correta": true},
+        {"texto": "Pesquisa de satisfação com usuários", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_PE_003",
+      "questao": "Qual elemento deve constar obrigatoriamente no Plano de Auditoria, conforme as normas do TCU?",
+      "alternativas": [
+        {"texto": "Lista nominal de todos os servidores da entidade auditada", "correta": false},
+        {"texto": "Previsão de penalidades a serem aplicadas", "correta": false},
+        {"texto": "Metodologia e critérios de auditoria a serem adotados", "correta": true},
+        {"texto": "Orçamento detalhado de despesas da entidade auditada", "correta": false},
+        {"texto": "Cronograma de férias dos auditores", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_PE_004",
+      "questao": "Na fase de execução, o que caracteriza os testes substantivos em auditoria governamental?",
+      "alternativas": [
+        {"texto": "Verificação da conformidade com procedimentos internos", "correta": false},
+        {"texto": "Análise da estrutura organizacional da entidade", "correta": false},
+        {"texto": "Avaliação direta da exatidão de registros e transações", "correta": true},
+        {"texto": "Aplicação de questionários à alta administração", "correta": false},
+        {"texto": "Revisão de atas de reuniões colegiadas", "correta": false}
+      ]
+    }
+  ],
+  "Controle Externo - Lei Orgânica do TCE-PE": [
+    {
+      "id": "CE_TCEPE_001",
+      "questao": "Conforme a Lei Orgânica do TCE-PE (Lei Estadual nº 12.600/2004), qual é o prazo para emissão do parecer prévio sobre as contas do Governador do Estado?",
+      "alternativas": [
+        {"texto": "30 dias", "correta": false},
+        {"texto": "60 dias", "correta": true},
+        {"texto": "90 dias", "correta": false},
+        {"texto": "120 dias", "correta": false},
+        {"texto": "180 dias", "correta": false}
+      ]
+    },
+    {
+      "id": "CE_TCEPE_002",
+      "questao": "Segundo a Lei Orgânica do TCE-PE, em que situação pode ocorrer o arquivamento de Tomada de Contas Especial?",
+      "alternativas": [
+        {"texto": "Quando o gestor apresentar defesa fundamentada", "correta": false},
+        {"texto": "Após decorrido o prazo de 5 anos do fato gerador", "correta": false},
+        {"texto": "Se comprovado o ressarcimento integral do dano ao erário", "correta": true},
+        {"texto": "Caso o valor envolvido seja inferior a 10 salários mínimos", "correta": false},
+        {"texto": "Quando o processo envolver servidores aposentados", "correta": false}
+      ]
+    },
+    {
+      "id": "CE_TCEPE_003",
+      "questao": "Conforme a legislação pernambucana, qual é o prazo para pagamento de multas aplicadas pelo TCE-PE após o trânsito em julgado da decisão?",
+      "alternativas": [
+        {"texto": "5 dias úteis", "correta": false},
+        {"texto": "10 dias úteis", "correta": false},
+        {"texto": "15 dias", "correta": true},
+        {"texto": "30 dias", "correta": false},
+        {"texto": "60 dias", "correta": false}
+      ]
+    },
+    {
+      "id": "CE_TCEPE_004",
+      "questao": "De acordo com a Lei 12.600/2004, o TCE-PE possui competência para decidir sobre:",
+      "alternativas": [
+        {"texto": "Concessão de aposentadorias e pensões de servidores estaduais", "correta": true},
+        {"texto": "Nomeação de secretários municipais", "correta": false},
+        {"texto": "Validação de diplomas de vereadores", "correta": false},
+        {"texto": "Homologação de concursos públicos municipais", "correta": false},
+        {"texto": "Aprovação de planos diretores municipais", "correta": false}
+      ]
+    }
+  ],
+  "Auditoria Governamental - Relatórios e Pareceres de Auditoria": [
+    {
+      "id": "AG_RP_001",
+      "questao": "Qual tipo de parecer de auditoria é emitido quando identificadas irregularidades parcialmente sanáveis?",
+      "alternativas": [
+        {"texto": "Parecer favorável com ressalvas", "correta": true},
+        {"texto": "Parecer desfavorável", "correta": false},
+        {"texto": "Parecer com abstenção de opinião", "correta": false},
+        {"texto": "Parecer adverso qualificado", "correta": false},
+        {"texto": "Parecer liminar", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_RP_002",
+      "questao": "No relatório de auditoria governamental, qual elemento é essencial para validade jurídica dos achados?",
+      "alternativas": [
+        {"texto": "Linguagem técnica complexa", "correta": false},
+        {"texto": "Referência expressa a dispositivos legais violados", "correta": true},
+        {"texto": "Sugestões de promoção para servidores", "correta": false},
+        {"texto": "Opiniões pessoais do auditor", "correta": false},
+        {"texto": "Comparações com entidades privadas", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_RP_003",
+      "questao": "Qual princípio assegura que o auditado tenha direito de se manifestar sobre os achados antes da conclusão do relatório?",
+      "alternativas": [
+        {"texto": "Sigilo funcional", "correta": false},
+        {"texto": "Contraditório e ampla defesa", "correta": true},
+        {"texto": "Impessoalidade administrativa", "correta": false},
+        {"texto": "Eficiência processual", "correta": false},
+        {"texto": "Economia processual", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_RP_004",
+      "questao": "Segundo as normas ISSAI, qual seção do relatório de auditoria deve conter a metodologia e critérios utilizados?",
+      "alternativas": [
+        {"texto": "Cabeçalho e identificação", "correta": false},
+        {"texto": "Objetivo e escopo", "correta": true},
+        {"texto": "Recomendações finais", "correta": false},
+        {"texto": "Anexos documentais", "correta": false},
+        {"texto": "Resumo executivo", "correta": false}
+      ]
+    }
+  ],
+  "Controle Externo - Regimento Interno do TCE-PE": [
+    {
+      "id": "CE_RI_001",
+      "questao": "Conforme o Regimento Interno do TCE-PE, qual é o prazo para apresentação de defesa em processos de Tomada de Contas Especial?",
+      "alternativas": [
+        {"texto": "5 dias úteis", "correta": false},
+        {"texto": "10 dias úteis", "correta": false},
+        {"texto": "15 dias úteis", "correta": true},
+        {"texto": "20 dias úteis", "correta": false},
+        {"texto": "30 dias úteis", "correta": false}
+      ]
+    },
+    {
+      "id": "CE_RI_002",
+      "questao": "No TCE-PE, qual órgão é responsável pela fiscalização da conduta funcional dos servidores do tribunal?",
+      "alternativas": [
+        {"texto": "Presidência", "correta": false},
+        {"texto": "Conselho Superior", "correta": false},
+        {"texto": "Corregedoria", "correta": true},
+        {"texto": "Secretaria Geral de Controle Externo", "correta": false},
+        {"texto": "Procuradoria Geral", "correta": false}
+      ]
+    },
+    {
+      "id": "CE_RI_003",
+      "questao": "Segundo o Regimento Interno, como são priorizadas as auditorias no TCE-PE?",
+      "alternativas": [
+        {"texto": "Ordem alfabética dos municípios", "correta": false},
+        {"texto": "Cronologia de instauração", "correta": false},
+        {"texto": "Critérios de materialidade e risco", "correta": true},
+        {"texto": "Sorteio aleatório", "correta": false},
+        {"texto": "Preferência por áreas urbanas", "correta": false}
+      ]
+    },
+    {
+      "id": "CE_RI_004",
+      "questao": "Qual instância decisória máxima no TCE-PE, conforme seu Regimento Interno?",
+      "alternativas": [
+        {"texto": "Câmaras Isoladas", "correta": false},
+        {"texto": "Conselheiros Relatores", "correta": false},
+        {"texto": "Plenário", "correta": true},
+        {"texto": "Corregedoria-Geral", "correta": false},
+        {"texto": "Comissões Técnicas", "correta": false}
+      ]
+    }
+  ],
+  "Auditoria Governamental - Controle Interno e Externo": [
+    {
+      "id": "AG_CI_001",
+      "questao": "Qual órgão é responsável pelo controle interno no âmbito do Poder Executivo Federal?",
+      "alternativas": [
+        {"texto": "Tribunal de Contas da União (TCU)", "correta": false},
+        {"texto": "Controladoria-Geral da União (CGU)", "correta": true},
+        {"texto": "Ministério Público Federal (MPF)", "correta": false},
+        {"texto": "Advocacia-Geral da União (AGU)", "correta": false},
+        {"texto": "Secretaria do Tesouro Nacional (STN)", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_CI_002",
+      "questao": "Conforme o art. 74 da CF, qual é uma das funções essenciais do controle interno?",
+      "alternativas": [
+        {"texto": "Substituir o controle externo em casos de urgência", "correta": false},
+        {"texto": "Aplicar sanções a agentes públicos", "correta": false},
+        {"texto": "Julgar contas de administradores", "correta": false},
+        {"texto": "Avaliar o cumprimento de metas do PPA", "correta": true},
+        {"texto": "Emitir parecer prévio sobre contas do Presidente", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_CI_003",
+      "questao": "Qual característica diferencia essencialmente o controle externo do controle interno?",
+      "alternativas": [
+        {"texto": "Capacidade de aplicar sanções administrativas", "correta": false},
+        {"texto": "Natureza preventiva das ações", "correta": false},
+        {"texto": "Vinculação ao Poder Legislativo", "correta": true},
+        {"texto": "Análise de documentos contábeis", "correta": false},
+        {"texto": "Foco em processos licitatórios", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_CI_004",
+      "questao": "Como se caracteriza a relação entre controle interno e externo na administração pública?",
+      "alternativas": [
+        {"texto": "Subordinação hierárquica do interno ao externo", "correta": false},
+        {"texto": "Independência funcional absoluta", "correta": false},
+        {"texto": "Complementaridade e cooperação técnica", "correta": true},
+        {"texto": "Sobreposição de competências", "correta": false},
+        {"texto": "Substituição recíproca em caso de vacância", "correta": false}
+      ]
+    }
+  ],
+  "Administração Pública - Governança e Accountability": [
+    {
+      "id": "AP_GA_001",
+      "questao": "Qual documento estabelece as diretrizes de governança pública na administração federal?",
+      "alternativas": [
+        {"texto": "Lei 8.666/1993", "correta": false},
+        {"texto": "Lei Complementar 101/2000 (LRF)", "correta": false},
+        {"texto": "Decreto 9.203/2017", "correta": true},
+        {"texto": "Lei 12.846/2013 (Anticorrupção)", "correta": false},
+        {"texto": "Portaria CGU 1.089/2018", "correta": false}
+      ]
+    },
+    {
+      "id": "AP_GA_002",
+      "questao": "Qual dos seguintes elementos é considerado um pilar essencial da governança pública?",
+      "alternativas": [
+        {"texto": "Centralização decisória", "correta": false},
+        {"texto": "Estabilidade funcional absoluta", "correta": false},
+        {"texto": "Transparência ativa", "correta": true},
+        {"texto": "Discricionariedade administrativa ampla", "correta": false},
+        {"texto": "Hierarquização rígida", "correta": false}
+      ]
+    },
+    {
+      "id": "AP_GA_003",
+      "questao": "O que caracteriza a accountability vertical na administração pública?",
+      "alternativas": [
+        {"texto": "Fiscalização entre Poderes do Estado", "correta": false},
+        {"texto": "Controle realizado por órgãos de cúpula", "correta": false},
+        {"texto": "Responsabilização perante a sociedade", "correta": true},
+        {"texto": "Prestação de contas a órgãos superiores hierárquicos", "correta": false},
+        {"texto": "Monitoramento por entidades internacionais", "correta": false}
+      ]
+    },
+    {
+      "id": "AP_GA_004",
+      "questao": "Qual instrumento é utilizado para implementar práticas de governança em órgãos públicos?",
+      "alternativas": [
+        {"texto": "Comitês de Governança", "correta": true},
+        {"texto": "Portarias de nomeação", "correta": false},
+        {"texto": "Editais de licitação", "correta": false},
+        {"texto": "Regimentos disciplinares", "correta": false},
+        {"texto": "Processos de aposentadoria", "correta": false}
+      ]
+    }
+  ],
+  "Auditoria Governamental - Auditoria Operacional": [
+    {
+      "id": "AG_AO_001",
+      "questao": "Qual é o foco principal da auditoria operacional?",
+      "alternativas": [
+        {"texto": "Verificação de conformidade legal", "correta": false},
+        {"texto": "Análise de demonstrações contábeis", "correta": false},
+        {"texto": "Avaliação de eficiência, eficácia e economicidade", "correta": true},
+        {"texto": "Investigação de fraudes específicas", "correta": false},
+        {"texto": "Validação de ativos patrimoniais", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_AO_002",
+      "questao": "O que avalia especificamente o critério de economicidade em auditoria operacional?",
+      "alternativas": [
+        {"texto": "Cumprimento de metas quantitativas", "correta": false},
+        {"texto": "Relação custo-benefício dos recursos utilizados", "correta": true},
+        {"texto": "Velocidade na execução de processos", "correta": false},
+        {"texto": "Impacto social das políticas públicas", "correta": false},
+        {"texto": "Aderência a procedimentos internos", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_AO_003",
+      "questao": "Qual técnica é especialmente útil em auditoria operacional para avaliar programas sociais?",
+      "alternativas": [
+        {"texto": "Confronto de balanços contábeis", "correta": false},
+        {"texto": "Análise de indicadores de desempenho", "correta": true},
+        {"texto": "Verificação de assinaturas em documentos", "correta": false},
+        {"texto": "Teste de inventário físico", "correta": false},
+        {"texto": "Validação de cálculos tributários", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_AO_004",
+      "questao": "O que distingue a auditoria operacional da auditoria de conformidade?",
+      "alternativas": [
+        {"texto": "Uso de amostragem estatística", "correta": false},
+        {"texto": "Necessidade de formação técnica específica", "correta": false},
+        {"texto": "Foco em resultados versus foco em regras", "correta": true},
+        {"texto": "Aplicabilidade apenas no setor público", "correta": false},
+        {"texto": "Base legal diferenciada", "correta": false}
+      ]
+    }
+  ],
+  "Administração Pública - Transparência e Controle Social": [
+    {
+      "id": "AP_TC_001",
+      "questao": "Qual lei regulamenta o acesso a informações públicas no Brasil?",
+      "alternativas": [
+        {"texto": "Lei 9.784/1999", "correta": false},
+        {"texto": "Lei 12.527/2011 (LAI)", "correta": true},
+        {"texto": "Lei 8.429/1992", "correta": false},
+        {"texto": "Lei 14.133/2021", "correta": false},
+        {"texto": "Lei Complementar 131/2009", "correta": false}
+      ]
+    },
+    {
+      "id": "AP_TC_002",
+      "questao": "O que caracteriza a transparência ativa na administração pública?",
+      "alternativas": [
+        {"texto": "Divulgação proativa de informações", "correta": true},
+        {"texto": "Resposta a pedidos específicos de cidadãos", "correta": false},
+        {"texto": "Sigilo de dados por decisão judicial", "correta": false},
+        {"texto": "Publicação exclusiva em diários oficiais", "correta": false},
+        {"texto": "Restrição a informações estratégicas", "correta": false}
+      ]
+    },
+    {
+      "id": "AP_TC_003",
+      "questao": "Qual instrumento é um exemplo de controle social direto?",
+      "alternativas": [
+        {"texto": "Ações judiciais movidas pelo MP", "correta": false},
+        {"texto": "Auditorias do TCU", "correta": false},
+        {"texto": "Conselhos Municipais de Saúde", "correta": true},
+        {"texto": "Corregedorias internas", "correta": false},
+        {"texto": "Processos administrativos disciplinares", "correta": false}
+      ]
+    },
+    {
+      "id": "AP_TC_004",
+      "questao": "Qual é o prazo máximo para resposta a pedidos de informação pela LAI?",
+      "alternativas": [
+        {"texto": "10 dias, prorrogáveis por mais 5", "correta": false},
+        {"texto": "15 dias, prorrogáveis por mais 15", "correta": false},
+        {"texto": "20 dias, prorrogáveis por mais 10", "correta": true},
+        {"texto": "30 dias, sem possibilidade de prorrogação", "correta": false},
+        {"texto": "45 dias, prorrogáveis por mais 15", "correta": false}
+      ]
+    }
+  ],
+  "Auditoria Governamental - Auditoria de Conformidade": [
+    {
+      "id": "AG_AC_001",
+      "questao": "Qual é o objetivo central da auditoria de conformidade?",
+      "alternativas": [
+        {"texto": "Avaliar o impacto social de políticas públicas", "correta": false},
+        {"texto": "Verificar a economicidade na aplicação de recursos", "correta": false},
+        {"texto": "Assegurar o cumprimento de normas e procedimentos", "correta": true},
+        {"texto": "Analisar a eficiência operacional de programas", "correta": false},
+        {"texto": "Identificar oportunidades de inovação gerencial", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_AC_002",
+      "questao": "Qual técnica é essencial em auditoria de conformidade para licitações?",
+      "alternativas": [
+        {"texto": "Análise de indicadores de desempenho", "correta": false},
+        {"texto": "Pesquisa de satisfação de usuários", "correta": false},
+        {"texto": "Confronto documental de editais e atas", "correta": true},
+        {"texto": "Avaliação de impacto ambiental", "correta": false},
+        {"texto": "Testes de estresse financeiro", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_AC_003",
+      "questao": "Qual situação configura uma não conformidade grave em auditoria de conformidade?",
+      "alternativas": [
+        {"texto": "Falta de atualização cadastral", "correta": false},
+        {"texto": "Pagamento sem empenho prévio", "correta": true},
+        {"texto": "Atraso na prestação de contas", "correta": false},
+        {"texto": "Divergência em relatórios descritivos", "correta": false},
+        {"texto": "Uso de modelo de documento não padronizado", "correta": false}
+      ]
+    },
+    {
+      "id": "AG_AC_004",
+      "questao": "Qual norma estabelece os principais critérios para auditoria de conformidade no setor público?",
+      "alternativas": [
+        {"texto": "ISSAI 100 (Princípios Fundamentais)", "correta": false},
+        {"texto": "ISSAI 300 (Auditoria de Desempenho)", "correta": false},
+        {"texto": "ISSAI 400 (Auditoria de Conformidade)", "correta": true},
+        {"texto": "ISSAI 500 (Auditoria Integrada)", "correta": false},
+        {"texto": "ISSAI 600 (Auditoria Ambiental)", "correta": false}
+      ]
+    }
+  ],
+  "Administração Pública - Gestão de Processos e Gestão de Projetos": [
+    {
+      "id": "AP_GP_001",
+      "questao": "Qual documento estabelece a Política Nacional de Gestão de Processos na administração pública federal?",
+      "alternativas": [
+        {"texto": "Lei 13.460/2017", "correta": false},
+        {"texto": "Decreto 9.758/2019", "correta": true},
+        {"texto": "Portaria MPOG 560/2015", "correta": false},
+        {"texto": "Instrução Normativa SLTI 01/2010", "correta": false},
+        {"texto": "Resolução CNJ 125/2010", "correta": false}
+      ]
+    },
+    {
+      "id": "AP_GP_002",
+      "questao": "O que caracteriza essencialmente a gestão de projetos na administração pública?",
+      "alternativas": [
+        {"texto": "Natureza contínua e repetitiva", "correta": false},
+        {"texto": "Temporalidade com início e fim definidos", "correta": true},
+        {"texto": "Foco exclusivo em resultados financeiros", "correta": false},
+        {"texto": "Subordinação a rotinas estabelecidas", "correta": false},
+        {"texto": "Independência de recursos orçamentários", "correta": false}
+      ]
+    },
+    {
+      "id": "AP_GP_003",
+      "questao": "Qual metodologia é mais indicada para projetos de TI no setor público, segundo a SLTI?",
+      "alternativas": [
+        {"texto": "Cascata tradicional", "correta": false},
+        {"texto": "Scrum (metodologia ágil)", "correta": true},
+        {"texto": "Six Sigma", "correta": false},
+        {"texto": "Lean manufacturing", "correta": false},
+        {"texto": "Teoria das Restrições", "correta": false}
+      ]
+    },
+    {
+      "id": "AP_GP_004",
+      "questao": "Qual ferramenta de gestão de projetos define papéis de responsabilidade (Responsável, Aprovador, Consultado, Informado)?",
+      "alternativas": [
+        {"texto": "Diagrama de Gantt", "correta": false},
+        {"texto": "Matriz RACI", "correta": true},
+        {"texto": "Canvas de Projetos", "correta": false},
+        {"texto": "SWOT Analysis", "correta": false},
+        {"texto": "5W2H", "correta": false}
+      ]
+    }
+  ]
+}
