@@ -1,0 +1,554 @@
+{
+  "Direito Penal - Crimes contra a Administração Pública": [
+    {
+      "id": "DP-01",
+      "questao": "José, servidor público, solicita vantagem econômica de Carlos, em troca de praticar ato funcional a que está obrigado. Diante do caso, assinale a opção que indica o crime praticado por José.",
+      "alternativas": [
+        {"texto": "Peculato.", "correta": false},
+        {"texto": "Concussão.", "correta": true},
+        {"texto": "Corrupção passiva.", "correta": false},
+        {"texto": "Prevaricação.", "correta": false},
+        {"texto": "Emprego irregular de verba pública.", "correta": false}
+      ]
+    },
+    {
+      "id": "DP-02",
+      "questao": "Um servidor público, no exercício de sua função, deixa de repassar aos cofres públicos valores que recebeu a título de taxa de serviço, apropriando-se deles. Essa conduta tipifica o crime de:",
+      "alternativas": [
+        {"texto": "Peculato culposo.", "correta": false},
+        {"texto": "Peculato-desvio.", "correta": false},
+        {"texto": "Peculato furto.", "correta": false},
+        {"texto": "Peculato apropriação.", "correta": true},
+        {"texto": "Concussão.", "correta": false}
+      ]
+    },
+    {
+      "id": "DP-03",
+      "questao": "A conduta de retardar ou deixar de praticar indevidamente ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal, caracteriza o crime de:",
+      "alternativas": [
+        {"texto": "Corrupção passiva.", "correta": false},
+        {"texto": "Prevaricação.", "correta": true},
+        {"texto": "Condescendência criminosa.", "correta": false},
+        {"texto": "Advocacia administrativa.", "correta": false},
+        {"texto": "Peculato.", "correta": false}
+      ]
+    },
+    {
+      "id": "DP-04",
+      "questao": "Oferecer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício, configura:",
+      "alternativas": [
+        {"texto": "Corrupção ativa.", "correta": true},
+        {"texto": "Corrupção passiva (na modalidade 'receber').", "correta": false},
+        {"texto": "Tráfico de influência.", "correta": false},
+        {"texto": "Concussão.", "correta": false},
+        {"texto": "Advocacia administrativa.", "correta": false}
+      ]
+    }
+  ],
+  "Legislação Específica - Lei de Improbidade Administrativa": [
+    {
+      "id": "LIA-01",
+      "questao": "De acordo com a Lei de Improbidade Administrativa, a ação de improbidade que importa enriquecimento ilícito:",
+      "alternativas": [
+        {"texto": "Prescreve em 5 anos.", "correta": false},
+        {"texto": "Sujeita o agente à pena de multa civil e à perda da função pública.", "correta": false},
+        {"texto": "Sujeita o agente à perda dos bens ou valores acrescidos ilicitamente ao patrimônio.", "correta": true},
+        {"texto": "Sujeita o agente apenas à suspensão dos direitos políticos.", "correta": false},
+        {"texto": "Não se aplica a particulares que participem do ato ímprobo.", "correta": false}
+      ]
+    },
+    {
+      "id": "LIA-02",
+      "questao": "As sanções aplicáveis aos agentes públicos pela prática de ato de improbidade administrativa, nos termos da Lei nº 8.429/1992, NÃO incluem:",
+      "alternativas": [
+        {"texto": "Perda da função pública.", "correta": false},
+        {"texto": "Suspensão dos direitos políticos de 8 a 10 anos.", "correta": false},
+        {"texto": "Pena de prisão.", "correta": true},
+        {"texto": "Proibição de contratar com o Poder Público.", "correta": false},
+        {"texto": "Multa civil.", "correta": false}
+      ]
+    },
+    {
+      "id": "LIA-03",
+      "questao": "A ação de improbidade administrativa, de acordo com a Lei nº 8.429/1992, tem prazo prescricional de:",
+      "alternativas": [
+        {"texto": "3 anos.", "correta": false},
+        {"texto": "5 anos.", "correta": true},
+        {"texto": "10 anos.", "correta": false},
+        {"texto": "20 anos.", "correta": false},
+        {"texto": "Não prescreve.", "correta": false}
+      ]
+    },
+    {
+      "id": "LIA-04",
+      "questao": "De acordo com a Lei de Improbidade Administrativa, constitui ato ímprobo que causa lesão ao erário:",
+      "alternativas": [
+        {"texto": "Receber vantagem econômica para praticar ato de ofício.", "correta": false},
+        {"texto": "Realizar operação financeira sem observância das normas legais.", "correta": true},
+        {"texto": "Deixar de prestar contas quando obrigatório.", "correta": false},
+        {"texto": "Utilizar informações privilegiadas para benefício próprio.", "correta": false},
+        {"texto": "Nomear parente para cargo em comissão.", "correta": false}
+      ]
+    }
+  ],
+  "Direito Penal - Crimes de Responsabilidade": [
+    {
+      "id": "DCR-01",
+      "questao": "Os crimes de responsabilidade do Presidente da República, previstos na Lei nº 1.079/1950, são processados e julgados:",
+      "alternativas": [
+        {"texto": "Pelo Supremo Tribunal Federal (STF).", "correta": false},
+        {"texto": "Pelo Superior Tribunal de Justiça (STJ).", "correta": false},
+        {"texto": "Pela Câmara dos Deputados, em processo de impeachment.", "correta": false},
+        {"texto": "Pelo Senado Federal, após admissão pela Câmara.", "correta": true},
+        {"texto": "Pelo Tribunal de Justiça do Distrito Federal.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCR-02",
+      "questao": "Segundo a Lei nº 1.079/1950, constitui crime de responsabilidade do Presidente da República:",
+      "alternativas": [
+        {"texto": "A prática de homicídio culposo.", "correta": false},
+        {"texto": "Omitir-se na arrecadação de tributos federais.", "correta": false},
+        {"texto": "Proceder de modo incompatível com a dignidade, a honra e o decoro do cargo.", "correta": true},
+        {"texto": "A prática de injúria contra outro chefe de Estado.", "correta": false},
+        {"texto": "Não comparecer a uma solenidade pública.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCR-03",
+      "questao": "Em relação aos crimes de responsabilidade dos Ministros de Estado, é correto afirmar que:",
+      "alternativas": [
+        {"texto": "São julgados exclusivamente pelo STF.", "correta": false},
+        {"texto": "Prescrevem em 5 anos, contados da prática do ato.", "correta": false},
+        {"texto": "Configuram-se pela prática de atos atentatórios à Constituição Federal.", "correta": true},
+        {"texto": "Equiparam-se aos crimes comuns para todos os efeitos penais.", "correta": false},
+        {"texto": "Não podem resultar em perda do cargo.", "correta": false}
+      ]
+    },
+    {
+      "id": "DCR-04",
+      "questao": "O crime de responsabilidade que consiste em utilizar-se o Presidente da República do cargo para atentar contra a liberdade de votação, tipifica-se como:",
+      "alternativas": [
+        {"texto": "Atentado contra o livre exercício do Poder Legislativo.", "correta": true},
+        {"texto": "Atentado contra a soberania nacional.", "correta": false},
+        {"texto": "Infração à lei orçamentária.", "correta": false},
+        {"texto": "Atentado contra o exercício dos direitos políticos.", "correta": false},
+        {"texto": "Violação de direito individual.", "correta": false}
+      ]
+    }
+  ],
+  "Legislação Específica - Lei Anticorrupção": [
+    {
+      "id": "LAC-01",
+      "questao": "A Lei Anticorrupção (Lei 12.846/2013) estabelece a responsabilidade objetiva das pessoas jurídicas por atos lesivos à Administração Pública. Isso significa que:",
+      "alternativas": [
+        {"texto": "É necessária a comprovação de dolo ou culpa da pessoa jurídica.", "correta": false},
+        {"texto": "É necessária a comprovação de dolo ou culpa de seus administradores.", "correta": false},
+        {"texto": "Basta a comprovação do fato e do nexo de causalidade, independente de culpa.", "correta": true},
+        {"texto": "A pessoa jurídica só responde se houver condenação criminal do representante legal.", "correta": false},
+        {"texto": "A responsabilidade é solidária com a do agente público corrompido.", "correta": false}
+      ]
+    },
+    {
+      "id": "LAC-02",
+      "questao": "Entre as sanções administrativas aplicáveis à pessoa jurídica pela prática de atos contra a administração pública nacional ou estrangeira, na Lei Anticorrupção, NÃO se inclui:",
+      "alternativas": [
+        {"texto": "Multa de até 20% do faturamento bruto do último exercício.", "correta": false},
+        {"texto": "Dissolução compulsória da pessoa jurídica.", "correta": false},
+        {"texto": "Suspensão parcial de suas atividades.", "correta": false},
+        {"texto": "Proibição de receber incentivos fiscals.", "correta": false},
+        {"texto": "Prisão de seus administradores.", "correta": true}
+      ]
+    },
+    {
+      "id": "LAC-03",
+      "questao": "De acordo com a Lei Anticorrupção, a existência de mecanismos e procedimentos internos de integridade, auditoria e incentivo à denúncia de irregularidades pode:",
+      "alternativas": [
+        {"texto": "Impedir a responsabilização da pessoa jurídica.", "correta": false},
+        {"texto": "Eliminar a responsabilidade penal dos administradores.", "correta": false},
+        {"texto": "Afastar a obrigação de reparação do dano.", "correta": false},
+        {"texto": "Atenuar a sanção aplicável.", "correta": true},
+        {"texto": "Suspender o prazo prescricional.", "correta": false}
+      ]
+    },
+    {
+      "id": "LAC-04",
+      "questao": "A Lei Anticorrupção (Lei 12.846/2013) aplica-se a atos lesivos praticados contra:",
+      "alternativas": [
+        {"texto": "Apenas a administração pública nacional.", "correta": false},
+        {"texto": "Apenas a administração pública direta.", "correta": false},
+        {"texto": "A administração pública nacional e estrangeira.", "correta": true},
+        {"texto": "Apenas entidades da administração indireta.", "correta": false},
+        {"texto": "Exclusivamente empresas estatais federais.", "correta": false}
+      ]
+    }
+  ],
+  "Matemática Financeira - Juros Simples e Compostos": [
+    {
+      "id": "MF-01",
+      "questao": "Um capital de R$ 5.000,00 foi aplicado a juros simples por 18 meses à taxa de 12% ao ano. O montante obtido foi de:",
+      "alternativas": [
+        {"texto": "R$ 5.600,00", "correta": false},
+        {"texto": "R$ 5.750,00", "correta": false},
+        {"texto": "R$ 5.900,00", "correta": true},
+        {"texto": "R$ 6.050,00", "correta": false},
+        {"texto": "R$ 6.200,00", "correta": false}
+      ]
+    },
+    {
+      "id": "MF-02",
+      "questao": "Um investimento de R$ 10.000,00 foi aplicado a juros compostos de 5% ao mês. Qual será o montante após 3 meses?",
+      "alternativas": [
+        {"texto": "R$ 11.500,00", "correta": false},
+        {"texto": "R$ 11.576,25", "correta": true},
+        {"texto": "R$ 11.600,00", "correta": false},
+        {"texto": "R$ 12.000,00", "correta": false},
+        {"texto": "R$ 12.500,00", "correta": false}
+      ]
+    },
+    {
+      "id": "MF-03",
+      "questao": "Qual a taxa de juros simples mensal equivalente à taxa de 36% ao ano?",
+      "alternativas": [
+        {"texto": "2,0% ao mês", "correta": false},
+        {"texto": "2,5% ao mês", "correta": false},
+        {"texto": "3,0% ao mês", "correta": true},
+        {"texto": "3,5% ao mês", "correta": false},
+        {"texto": "4,0% ao mês", "correta": false}
+      ]
+    },
+    {
+      "id": "MF-04",
+      "questao": "Um capital aplicado a juros compostos doubles em 5 anos. Qual a taxa anual aproximada dessa aplicação? (Use: 2^(1/5) ≈ 1,1487)",
+      "alternativas": [
+        {"texto": "10,0% ao ano", "correta": false},
+        {"texto": "12,0% ao ano", "correta": false},
+        {"texto": "14,87% ao ano", "correta": true},
+        {"texto": "15,5% ao ano", "correta": false},
+        {"texto": "20,0% ao ano", "correta": false}
+      ]
+    }
+  ],
+  "Legislação Específica - Lei de Acesso à Informação": [
+    {
+      "id": "LAI-01",
+      "questao": "De acordo com a Lei de Acesso à Informação (Lei 12.527/2011), a divulgação de informações de interesse público:",
+      "alternativas": [
+        {"texto": "Depende de prévia solicitação do interessado.", "correta": false},
+        {"texto": "Deve ser feita independentemente de solicitações.", "correta": true},
+        {"texto": "É facultativa para a administração pública.", "correta": false},
+        {"texto": "Só pode ser realizada após autorização judicial.", "correta": false},
+        {"texto": "Está restrita às informações classificadas como ultrassecretas.", "correta": false}
+      ]
+    },
+    {
+      "id": "LAI-02",
+      "questao": "Conforme a Lei de Acesso à Informação, o prazo máximo para classificação de informação como ultrassecreta é de:",
+      "alternativas": [
+        {"texto": "5 anos", "correta": false},
+        {"texto": "10 anos", "correta": false},
+        {"texto": "15 anos", "correta": false},
+        {"texto": "25 anos", "correta": true},
+        {"texto": "30 anos", "correta": false}
+      ]
+    },
+    {
+      "id": "LAI-03",
+      "questao": "A Lei de Acesso à Informação estabelece que o pedido de acesso à informação deve ser respondido em até:",
+      "alternativas": [
+        {"texto": "10 dias, prorrogáveis por mais 10.", "correta": false},
+        {"texto": "15 dias, prorrogáveis por mais 15.", "correta": false},
+        {"texto": "20 dias, prorrogáveis por mais 10.", "correta": true},
+        {"texto": "30 dias, sem possibilidade de prorrogação.", "correta": false},
+        {"texto": "45 dias, prorrogáveis por mais 15.", "correta": false}
+      ]
+    },
+    {
+      "id": "LAI-04",
+      "questao": "São hipóteses de restrição de acesso à informação, EXCETO:",
+      "alternativas": [
+        {"texto": "Informações pessoais.", "correta": false},
+        {"texto": "Informações sigilosas por lei.", "correta": false},
+        {"texto": "Informações que possam por em risco a segurança da sociedade.", "correta": false},
+        {"texto": "Informações sobre andamento de processos administrativos.", "correta": true},
+        {"texto": "Informações que coloquem em risco a segurança do Estado.", "correta": false}
+      ]
+    }
+  ],
+  "Matemática Financeira - Taxas e Descontos": [
+    {
+      "id": "MF-05",
+      "questao": "Um título de R$ 2.000,00 com vencimento para 60 dias foi descontado à taxa de 3% ao mês, segundo uma operação de desconto comercial simples. O valor do desconto foi de:",
+      "alternativas": [
+        {"texto": "R$ 100,00", "correta": false},
+        {"texto": "R$ 112,00", "correta": false},
+        {"texto": "R$ 120,00", "correta": true},
+        {"texto": "R$ 130,00", "correta": false},
+        {"texto": "R$ 140,00", "correta": false}
+      ]
+    },
+    {
+      "id": "MF-06",
+      "questao": "Qual a taxa efetiva mensal de uma operação de desconto comercial simples realizada à taxa de 4% ao mês para um título com prazo de 30 dias?",
+      "alternativas": [
+        {"texto": "4,00%", "correta": false},
+        {"texto": "4,17%", "correta": true},
+        {"texto": "4,25%", "correta": false},
+        {"texto": "4,50%", "correta": false},
+        {"texto": "5,00%", "correta": false}
+      ]
+    },
+    {
+      "id": "MF-07",
+      "questao": "A taxa nominal de 24% ao ano com capitalização mensal corresponde a uma taxa efetiva anual de aproximadamente:",
+      "alternativas": [
+        {"texto": "24,00%", "correta": false},
+        {"texto": "25,82%", "correta": false},
+        {"texto": "26,82%", "correta": true},
+        {"texto": "27,50%", "correta": false},
+        {"texto": "28,00%", "correta": false}
+      ]
+    },
+    {
+      "id": "MF-08",
+      "questao": "Um banco oferece desconto racional composto à taxa de 2% ao mês. Para um título de R$ 5.000,00 com vencimento em 3 meses, o valor atual é de aproximadamente:",
+      "alternativas": [
+        {"texto": "R$ 4.712,98", "correta": true},
+        {"texto": "R$ 4.750,00", "correta": false},
+        {"texto": "R$ 4.800,00", "correta": false},
+        {"texto": "R$ 4.850,00", "correta": false},
+        {"texto": "R$ 4.900,00", "correta": false}
+      ]
+    }
+  ],
+  "Legislação Específica - Lei das Estatais": [
+    {
+      "id": "LE-01",
+      "questao": "De acordo com a Lei das Estatais (Lei 13.303/2016), as empresas estatais devem observar os princípios da:",
+      "alternativas": [
+        {"texto": "Economicidade e finalidade social.", "correta": false},
+        {"texto": "Legalidade, impessoalidade e eficiência.", "correta": false},
+        {"texto": "Publicidade, moralidade e razoabilidade.", "correta": false},
+        {"texto": "Governança corporativa e gestão de riscos.", "correta": true},
+        {"texto": "Sigilo comercial e competitividade.", "correta": false}
+      ]
+    },
+    {
+      "id": "LE-02",
+      "questao": "Conforme a Lei das Estatais, a contratação de dirigentes de empresas estatais deve observar:",
+      "alternativas": [
+        {"texto": "Exclusivamente critérios de indicação política.", "correta": false},
+        {"texto": "Processo seletivo simplificado interno.", "correta": false},
+        {"texto": "Processo seletivo público e análise de currículo.", "correta": false},
+        {"texto": "Processo seletivo público de provas e títulos.", "correta": true},
+        {"texto": "Nomeação direta pelo Presidente da República.", "correta": false}
+      ]
+    },
+    {
+      "id": "LE-03",
+      "questao": "A Lei das Estatais estabelece que as empresas públicas e sociedades de economia mista devem publicar anualmente:",
+      "alternativas": [
+        {"texto": "Apenas as demonstrações financeiras auditadas.", "correta": false},
+        {"texto": "Relatório de gestão e plano de negócios.", "correta": false},
+        {"texto": "Relatório de sustentabilidade ambiental.", "correta": false},
+        {"texto": "Relatório de gestão e demonstrações financeiras.", "correta": true},
+        {"texto": "Apenas o balanço patrimonial simplificado.", "correta": false}
+      ]
+    },
+    {
+      "id": "LE-04",
+      "questao": "De acordo com a Lei 13.303/2016, as estatais ficam obrigadas a licitar quando a contratação:",
+      "alternativas": [
+        {"texto": "For de qualquer valor, independente do objeto.", "correta": false},
+        {"texto": "Ultrapassar o valor de R$ 50.000,00.", "correta": false},
+        {"texto": "Ultrapassar o valor de R$ 100.000,00.", "correta": false},
+        {"texto": "Ultrapassar o valor estabelecido em decreto.", "correta": true},
+        {"texto": "Envolver serviços de engenharia.", "correta": false}
+      ]
+    }
+  ],
+  "Raciocínio Lógico - Lógica Proposicional e Argumentativa": [
+    {
+      "id": "RL-01",
+      "questao": "Considere as proposições: P: 'João é estudante'; Q: 'Maria é professora'. A proposição 'Se João é estudante, então Maria não é professora' é logicamente equivalente a:",
+      "alternativas": [
+        {"texto": "P ∧ ¬Q", "correta": false},
+        {"texto": "P ∨ ¬Q", "correta": false},
+        {"texto": "¬P ∨ ¬Q", "correta": true},
+        {"texto": "P → Q", "correta": false},
+        {"texto": "Q → P", "correta": false}
+      ]
+    },
+    {
+      "id": "RL-02",
+      "questao": "A negação da proposição 'Todos os políticos são honestos' é:",
+      "alternativas": [
+        {"texto": "Nenhum político é honesto.", "correta": false},
+        {"texto": "Algum político não é honesto.", "correta": true},
+        {"texto": "Todos os políticos são desonestos.", "correta": false},
+        {"texto": "Algum político é honesto.", "correta": false},
+        {"texto": "Existe pelo menos um político honesto.", "correta": false}
+      ]
+    },
+    {
+      "id": "RL-03",
+      "questao": "Considere o argumento: 'Se chove, então a rua fica molhada. A rua está molhada. Portanto, choveu.' Este argumento é:",
+      "alternativas": [
+        {"texto": "Válido.", "correta": false},
+        {"texto": "Inválido (falácia da afirmação do consequente).", "correta": true},
+        {"texto": "Inválido (falácia da negação do antecedente).", "correta": false},
+        {"texto": "Válido somente se não houver sol.", "correta": false},
+        {"texto": "Válido somente à noite.", "correta": false}
+      ]
+    },
+    {
+      "id": "RL-04",
+      "questao": "A proposição 'Não é verdade que Pedro é médico ou Carlos é engenheiro' é logicamente equivalente a:",
+      "alternativas": [
+        {"texto": "Pedro não é médico e Carlos não é engenheiro.", "correta": true},
+        {"texto": "Pedro é médico ou Carlos não é engenheiro.", "correta": false},
+        {"texto": "Se Pedro não é médico, então Carlos é engenheiro.", "correta": false},
+        {"texto": "Pedro não é médico ou Carlos não é engenheiro.", "correta": false},
+        {"texto": "Carlos é engenheiro e Pedro não é médico.", "correta": false}
+      ]
+    }
+  ],
+  "Legislação Específica - Novo Marco Legal das Licitações (Lei 14.133/2021)": [
+    {
+      "id": "NML-01",
+      "questao": "O Novo Marco Legal das Licitações unificou as modalidades licitatórias em:",
+      "alternativas": [
+        {"texto": "Concorrência, tomada de preços e convite.", "correta": false},
+        {"texto": "Pregão, concurso e leilão.", "correta": false},
+        {"texto": "Licitação competitiva, diálogo competitivo e concurso.", "correta": false},
+        {"texto": "Licitação competitiva, leilão, concurso e diálogo competitivo.", "correta": true},
+        {"texto": "Apenas licitação eletrônica.", "correta": false}
+      ]
+    },
+    {
+      "id": "NML-02",
+      "questao": "De acordo com a Lei 14.133/2021, a fase de lances em pregão:",
+      "alternativas": [
+        {"texto": "Foi mantida exatamente como na lei anterior.", "correta": false},
+        {"texto": "Foi abolida de todas as modalidades licitatórias.", "correta": false},
+        {"texto": "Foi substituída pela fase de negociação.", "correta": false},
+        {"texto": "Passou a ser facultativa para todos os casos.", "correta": false},
+        {"texto": "Foi substituída pela fase de disputa por preço.", "correta": true}
+      ]
+    },
+    {
+      "id": "NML-03",
+      "questao": "A Lei 14.133/2021 estabelece como regra geral para a definição do vencedor da licitação o critério de:",
+      "alternativas": [
+        {"texto": "Menor preço.", "correta": false},
+        {"texto": "Maior desconto.", "correta": false},
+        {"texto": "Melhor técnica.", "correta": false},
+        {"texto": "Técnica e preço.", "correta": true},
+        {"texto": "Maior retorno econômico.", "correta": false}
+      ]
+    },
+    {
+      "id": "NML-04",
+      "questao": "No Novo Marco Legal, o prazo máximo de vigência do contrato é de:",
+      "alternativas": [
+        {"texto": "60 meses.", "correta": true},
+        {"texto": "48 meses.", "correta": false},
+        {"texto": "36 meses.", "correta": false},
+        {"texto": "24 meses.", "correta": false},
+        {"texto": "12 meses.", "correta": false}
+      ]
+    }
+  ],
+  "Raciocínio Lógico - Análise Combinatória e Probabilidade": [
+    {
+      "id": "RL-05",
+      "questao": "De quantas maneiras diferentes 5 pessoas podem se sentar em um banco com 5 lugares?",
+      "alternativas": [
+        {"texto": "25", "correta": false},
+        {"texto": "60", "correta": false},
+        {"texto": "120", "correta": true},
+        {"texto": "240", "correta": false},
+        {"texto": "3125", "correta": false}
+      ]
+    },
+    {
+      "id": "RL-06",
+      "questao": "Em uma urna há 5 bolas vermelhas, 3 bolas azuis e 2 bolas verdes. Qual a probabilidade de se retirar uma bola azul?",
+      "alternativas": [
+        {"texto": "0,1", "correta": false},
+        {"texto": "0,2", "correta": false},
+        {"texto": "0,3", "correta": true},
+        {"texto": "0,4", "correta": false},
+        {"texto": "0,5", "correta": false}
+      ]
+    },
+    {
+      "id": "RL-07",
+      "questao": "Quantos anagramas possui a palavra 'PROVA'?",
+      "alternativas": [
+        {"texto": "24", "correta": false},
+        {"texto": "60", "correta": false},
+        {"texto": "120", "correta": true},
+        {"texto": "240", "correta": false},
+        {"texto": "720", "correta": false}
+      ]
+    },
+    {
+      "id": "RL-08",
+      "questao": "Lançando-se dois dados honestos, qual a probabilidade de a soma dos resultados ser 7?",
+      "alternativas": [
+        {"texto": "1/6", "correta": true},
+        {"texto": "1/9", "correta": false},
+        {"texto": "1/12", "correta": false},
+        {"texto": "1/18", "correta": false},
+        {"texto": "1/36", "correta": false}
+      ]
+    }
+  ],
+  "Legislação Específica - Regime Próprio de Previdência Social": [
+    {
+      "id": "RPPS-01",
+      "questao": "O Regime Próprio de Previdência Social (RPPS) é destinado aos servidores:",
+      "alternativas": [
+        {"texto": "Apenas federais.", "correta": false},
+        {"texto": "Apenas estaduais.", "correta": false},
+        {"texto": "Apenas municipais.", "correta": false},
+        {"texto": "Públicos titulares de cargo efetivo.", "correta": true},
+        {"texto": "De empresas estatais.", "correta": false}
+      ]
+    },
+    {
+      "id": "RPPS-02",
+      "questao": "A idade mínima para aposentadoria por tempo de contribuição no RPPS, após a Reforma da Previdência, é de:",
+      "alternativas": [
+        {"texto": "60 anos para homens e 55 anos para mulheres.", "correta": false},
+        {"texto": "65 anos para homens e 62 anos para mulheres.", "correta": false},
+        {"texto": "65 anos para homens e 60 anos para mulheres.", "correta": false},
+        {"texto": "Não há idade mínima, apenas tempo de contribuição.", "correta": false},
+        {"texto": "65 anos para homens e 61 anos para mulheres.", "correta": true}
+      ]
+    },
+    {
+      "id": "RPPS-03",
+      "questao": "A alíquota de contribuição previdenciária do servidor público no RPPS:",
+      "alternativas": [
+        {"texto": "É fixa em 11% para todos os servidores.", "correta": false},
+        {"texto": "É progressiva em função da remuneração.", "correta": true},
+        {"texto": "É determinada livremente por cada ente federativo.", "correta": false},
+        {"texto": "É igual à alíquota do regime geral.", "correta": false},
+        {"texto": "Não pode exceder 8% do salário de contribuição.", "correta": false}
+      ]
+    },
+    {
+      "id": "RPPS-04",
+      "questao": "O pedido de aposentadoria no RPPS deve ser protocolizado:",
+      "alternativas": [
+        {"texto": "Com até 90 dias de antecedência do preenchimento dos requisitos.", "correta": true},
+        {"texto": "Apenas após o completo preenchimento de todos os requisitos.", "correta": false},
+        {"texto": "Com 180 dias de antecedência.", "correta": false},
+        {"texto": "A qualquer momento, independente do tempo de serviço.", "correta": false},
+        {"texto": "Somente através de advogado particular.", "correta": false}
+      ]
+    }
+  ]
+}
