@@ -1,0 +1,226 @@
+{
+  "lingua_portuguesa": [
+    {
+      "id": "q1",
+      "questao": "No trecho 'É imperioso que o gestor público *esteja* atento às normas', o emprego do modo subjuntivo do verbo 'estar' justifica-se por expressar:",
+      "alternativas": [
+        {"texto": "uma certeza em relação ao fato.", "correta": false},
+        {"texto": "uma ordem direta e imperativa.", "correta": false},
+        {"texto": "uma dúvida ou possibilidade.", "correta": true, "justificativa": "O modo subjuntivo é usado após expressões que indicam necessidade, dúvida ou possibilidade, como 'imperioso que'."},
+        {"texto": "um fato já consumado no passado.", "correta": false},
+        {"texto": "uma ação habitual no presente.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "Assinale a alternativa em que o termo destacado exerce função sintática de objeto indireto:",
+      "alternativas": [
+        {"texto": "Os servidores *públicos* cumpriam seu dever.", "correta": false},
+        {"texto": "O tribunal *julgou* o processo com celeridade.", "correta": false},
+        {"texto": "Necessitamos *de recursos* para o projeto.", "correta": true, "justificativa": "O termo 'de recursos' completa o sentido de um verbo que exige preposição ('necessitar de'), caracterizando objeto indireto."},
+        {"texto": "A auditoria, *trabalho minucioso*, foi concluída.", "correta": false},
+        {"texto": "Chegaram *finalmente* os documentos aguardados.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "Quanto à regência verbal, está INCORRETO o que se afirma em:",
+      "alternativas": [
+        {"texto": "O relatório *informou* os dados ao tribunal.", "correta": false},
+        {"texto": "O gestor *responde* aos questionamentos da corte.", "correta": false},
+        {"texto": "Os advogados *aspiraram* o cargo com entusiasmo.", "correta": true, "justificativa": "O verbo 'aspirar', no sentido de 'desejar', é transitivo indireto e exige a preposição A: 'aspiraram AO cargo'."},
+        {"texto": "Todos *obedeceram* às determinações legais.", "correta": false},
+        {"texto": "A equipe *visou* ao cumprimento das metas.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "Assinale a alternativa em que a colocação pronominal está de acordo com a norma-padrão:",
+      "alternativas": [
+        {"texto": "Não *se ouviram* os argumentos com atenção.", "correta": true, "justificativa": "A próclise é obrigatória na presença de palavra de sentido negativo ('não'), que atrai o pronome átono."},
+        {"texto": "*Envio-lhe* agora os documentos solicitados.", "correta": false},
+        {"texto": "Espero que *se equipe* melhor o tribunal.", "correta": false},
+        {"texto": "Aqueles processos *arquivar-se-ão* amanhã.", "correta": false},
+        {"texto": "Só *se defenderá* o interesse público assim.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "O período 'O servidor é competente; logo, foi promovido.' apresenta uma relação de:",
+      "alternativas": [
+        {"texto": "conclusão.", "correta": true, "justificativa": "A conjunção 'logo' é uma coordenativa conclusiva, indicando que a segunda oração é uma conclusão da primeira."},
+        {"texto": "conformidade.", "correta": false},
+        {"texto": "explicação.", "correta": false},
+        {"texto": "oposição.", "correta": false},
+        {"texto": "alternância.", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "A função da linguagem predominante em um edital de concurso público é:",
+      "alternativas": [
+        {"texto": "emotiva, pois expressa sentimentos.", "correta": false},
+        {"texto": "fática, pois testa o canal de comunicação.", "correta": false},
+        {"texto": "poética, pois preocupa-se com a forma.", "correta": false},
+        {"texto": "referencial, pois informa com objetividade.", "correta": true, "justificativa": "Textos normativos e informativos, como editais, privilegiam a função referencial, focada no contexto e na transmissão clara e objetiva da informação."},
+        {"texto": "conativa, pois busca persuadir o leitor.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "No que concerne à pontuação, assinale a alternativa correta:",
+      "alternativas": [
+        {"texto": "O servidor, que cumpriu suas metas, será premiado.", "correta": true, "justificativa": "O uso das vírgulas está correto para isolar a oração adjetiva explicativa 'que cumpriu suas metas'."},
+        {"texto": "Os documentos, chegaram com atraso.", "correta": false},
+        {"texto": "É necessário, que todos leiam o edital.", "correta": false},
+        {"texto": "O tribunal analisou, os processos e emitiu os pareceres.", "correta": false},
+        {"texto": "A reunião será às 14h, no auditório principal.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "A expressão 'à medida que', no contexto 'À medida que os trabalhos avançavam, novas demandas surgiam.', pode ser substituída, sem alteração de sentido, por:",
+      "alternativas": [
+        {"texto": "pelo fato de que.", "correta": false},
+        {"texto": "ao passo que.", "correta": true, "justificativa": "'À medida que' e 'ao passo que' são locuções conjuntivas que expressam proporção/gradualidade, indicando que duas ações ocorrem simultaneamente e de forma progressiva."},
+        {"texto": "a não ser que.", "correta": false},
+        {"texto": "uma vez que.", "correta": false},
+        {"texto": "embora.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "A crase está empregada corretamente em:",
+      "alternativas": [
+        {"texto": "Refiro-me *à* processos judiciais.", "correta": false},
+        {"texto": "A ata foi levada *à* presidência.", "correta": true, "justificativa": "Ocorre crase antes de palavra feminina específica ('presidência') que está determinada. O teste 'fui à presidência / fui ao departamento' confirma."},
+        {"texto": "Todos devem assistir *à* palestra.", "correta": false},
+        {"texto": "Chegamos *à* Brasília pela manhã.", "correta": false},
+        {"texto": "A equipe voltou *à* trabalho.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "A figura de linguagem presente na frase 'A *voz* das *razões* foi ouvida no julgamento.' é:",
+      "alternativas": [
+        {"texto": "Metonímia.", "correta": false},
+        {"texto": "Ironia.", "correta": false},
+        {"texto": "Hipérbole.", "correta": false},
+        {"texto": "Personificação.", "correta": true, "justificativa": "Há personificação (prosopopeia) ao se atribuir a entidades abstratas ('razões') uma característica humana ('voz') e a ação de 'ser ouvida'."},
+        {"texto": "Antítese.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "A concordância verbal está inteiramente correta em:",
+      "alternativas": [
+        {"texto": "*Fazem* cinco anos que o concurso foi realizado.", "correta": false},
+        {"texto": "*Houveram* muitos recursos contra o edital.", "correta": false},
+        {"texto": "*É* preciso que se cumpram as etapas.", "correta": true, "justificativa": "O verbo 'ser' concorda com o termo seguinte ('etapas') quando 'que' é partícula expletiva. A forma 'cumpram' está no plural para concordar com 'etapas'."},
+        {"texto": "*Existe* várias possibilidades de appeal.", "correta": false},
+        {"texto": "*Vai* existir, em breve, novas nomeações.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "O processo de formação da palavra 'antissocial' é:",
+      "alternativas": [
+        {"texto": "justaposição.", "correta": false},
+        {"texto": "derivação prefixal.", "correta": true, "justificativa": "A palavra é formada pelo acréscimo do prefixo 'anti-' (contra) à palavra primitiva 'social', caracterizando a derivação prefixal."},
+        {"texto": "aglutinação.", "correta": false},
+        {"texto": "derivação sufixal.", "correta": false},
+        {"texto": "onomatopeia.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "A norma-padrão está plenamente observada na reescrita do segmento:",
+      "texto_base": "'Vi ele na sessão do tribunal ontem.'",
+      "alternativas": [
+        {"texto": "Eu vi ele na sessão do tribunal ontem.", "correta": false},
+        {"texto": "Vi-o na sessão do tribunal ontem.", "correta": true, "justificativa": "A forma correta do pronome oblíquo átono que substitui 'ele' após verbo terminado em vogal (na oralidade) é '-o'. A próclise ('Eu o vi') também seria aceitável, mas esta opção apresenta a ênclise corretamente."},
+        {"texto": "Vi-lhe na sessão do tribunal ontem.", "correta": false},
+        {"texto": "Foi visto por mim na sessão do tribunal ontem.", "correta": false},
+        {"texto": "Estive com ele na sessão do tribunal ontem.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "O trecho 'O parecer, *portanto*, foi conclusivo.' apresenta uma conjunção que expressa:",
+      "alternativas": [
+        {"texto": "adição.", "correta": false},
+        {"texto": "conclusão.", "correta": true, "justificativa": "A conjunção 'portanto' é um conectivo coordenativo conclusivo, usado para indicar que a oração que a contém é uma conclusão ou consequência do que foi dito antes."},
+        {"texto": "explicação.", "correta": false},
+        {"texto": "oposição.", "correta": false},
+        {"texto": "condição.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "A alternativa que contém um par de palavras antônimas é:",
+      "alternativas": [
+        {"texto": "eficiente - eficaz", "correta": false},
+        {"texto": "dubiedade - ambiguidade", "correta": false},
+        {"texto": "prudente - cauteloso", "correta": false},
+        {"texto": "íntegro - honesto", "correta": false},
+        {"texto": "acurado - negligente", "correta": true, "justificativa": "'Acurado' significa cuidadoso, minucioso, enquanto 'negligente' significa descuidado, que negligencia. Portanto, são antônimas."}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "A expressão sublinhada que NÃO constitui um campo semântico relacionado à administração pública é:",
+      "alternativas": [
+        {"texto": "licitação, contrato, adjudicação.", "correta": false},
+        {"texto": "prestação de contas, tomada de contas, auditoria.", "correta": false},
+        {"texto": "edital, inscrição, recurso.", "correta": false},
+        {"texto": "acórdão, sentença, decisão monocrática.", "correta": false},
+        {"texto": "florescer, germinar, brotar.", "correta": true, "justificativa": "Enquanto as demais opções apresentam palavras do universo jurídico-administrativo, 'florescer, germinar, brotar' pertencem ao campo semântico da botânica/natureza."}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A oração 'Embora o prazo fosse exíguo,' classifica-se como:",
+      "alternativas": [
+        {"texto": "coordenada sindética adversativa.", "correta": false},
+        {"texto": "subordinada adverbial concessiva.", "correta": true, "justificativa": "A oração é introduzida pela conjunção 'embora', que indica uma ideia de concessão (contrariedade à expectativa), caracterizando uma subordinada adverbial concessiva."},
+        {"texto": "subordinada adverbial causal.", "correta": false},
+        {"texto": "subordinada substantiva completiva nominal.", "correta": false},
+        {"texto": "coordenada sindética explicativa.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "A acentuação gráfica está correta em:",
+      "alternativas": [
+        {"texto": "O édital foi publicado.", "correta": false},
+        {"texto": "A audiência será pública.", "correta": true, "justificativa": "'Pública' é uma paroxítona terminada em ditongo, e essas são acentuadas. As regras de acentuação foram aplicadas corretamente nas demais palavras da frase."},
+        {"texto": "É um procedimento básico.", "correta": false},
+        {"texto": "O juiz proferiu a senténça.", "correta": false},
+        {"texto": "A lei prevê o benefício.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "Assinale a opção em que a substituição sugerida altera o sentido original da frase, considerando a semântica dos vocábulos.",
+      "texto_base": "O relator mostrou-se *sensato* em suas ponderações.",
+      "alternativas": [
+        {"texto": "ponderado", "correta": false},
+        {"texto": "prudente", "correta": false},
+        {"texto": "criterioso", "correta": false},
+        {"texto": "inteligente", "correta": true, "justificativa": "'Sensato' enfatiza a qualidade do bom senso, da prudência e da racionalidade prática. 'Inteligente' é um termo mais amplo, relacionado à capacidade intelectual. A substituição não é perfeita e pode alterar ligeiramente o foco do sentido."},
+        {"texto": "razoável", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "O período 'Os servidores que cumpriam metas extras receberam bonificação.' contém uma oração subordinada adjetiva:",
+      "alternativas": [
+        {"texto": "explicativa, pois acrescenta uma qualidade essencial aos servidores.", "correta": false},
+        {"texto": "explicativa, pois refere-se a todos os servidores.", "correta": false},
+        {"texto": "restritiva, pois delimita o grupo de servidores que recebeu a bonificação.", "correta": true, "justificativa": "A oração 'que cumpriam metas extras' restringe, especifica e identifica um subconjunto dentro do grupo 'servidores'. Sem ela, a frase daria a entender que todos os servidores receberam bonificação."},
+        {"texto": "restritiva, pois pode ser suprimida sem prejuízo de sentido.", "correta": false},
+        {"texto": "redundante, pois a informação já está contida no contexto.", "correta": false}
+      ]
+    }
+  ]
+}

@@ -6,7 +6,7 @@
       "alternativas": [
         {"texto": "Berlim", "correta": false},
         {"texto": "Madri", "correta": false},
-        {"texto": "Paris", "correta": true},
+        {"texto": "Paris", "correta": true, "justificativa": "Brasília foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do país."},
         {"texto": "Roma", "correta": false}
       ]
     },
@@ -17,7 +17,7 @@
         {"texto": "Atlântico", "correta": false},
         {"texto": "Índico", "correta": false},
         {"texto": "Ártico", "correta": false},
-        {"texto": "Pacífico", "correta": true}
+        {"texto": "Pacífico", "correta": true, "justificativa": "Brasília foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do país."}
       ]
     }
   ],
@@ -27,7 +27,7 @@
       "questao": "Quem escreveu 'Dom Quixote'?",
       "alternativas": [
         {"texto": "Machado de Assis", "correta": false},
-        {"texto": "Miguel de Cervantes", "correta": true},
+        {"texto": "Miguel de Cervantes", "correta": true, "justificativa": "Brasília foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do país."},
         {"texto": "William Shakespeare", "correta": false},
         {"texto": "Gabriel García Márquez", "correta": false}
       ]
