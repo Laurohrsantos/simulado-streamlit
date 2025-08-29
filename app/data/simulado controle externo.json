@@ -1,0 +1,224 @@
+{
+  "controle_externo_tce": [
+    {
+      "id": "q1",
+      "questao": "De acordo com a Constituição Federal, o controle externo da administração pública federal, a ser exercido pelo Congresso Nacional, é realizado com o auxílio de qual órgão?",
+      "alternativas": [
+        {"texto": "Do Supremo Tribunal Federal (STF).", "correta": false},
+        {"texto": "Da Controladoria-Geral da União (CGU).", "correta": false},
+        {"texto": "Do Tribunal de Contas da União (TCU).", "correta": true, "justificativa": "O art. 71 da CF estabelece que o controle externo, de competência do Congresso Nacional, é realizado com o auxílio do TCU. Esta é a relação de auxiliaridade técnica clássica."},
+        {"texto": "Do Ministério Público Federal (MPF).", "correta": false},
+        {"texto": "Do Conselho Nacional de Justiça (CNJ).", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "A natureza jurídica dos Tribunais de Contas no Brasil, conforme entendimento pacificado pelo STF, é de:",
+      "alternativas": [
+        {"texto": "Integrante do Poder Legislativo.", "correta": false},
+        {"texto": "Integrante do Poder Judiciário.", "correta": false},
+        {"texto": "Órgão independente e autônomo, com funções de controle e jurisdicionais.", "correta": true, "justificativa": "A Súmula Vinculante 3 do STF é clara ao afirmar que os Tribunais de Contas não integram o Poder Judiciário. São órgãos constitucionais autônomos com funções específicas de controle e natureza jurídica própria."},
+        {"texto": "Integrante do Poder Executivo.", "correta": false},
+        {"texto": "Órgão subordinado ao Ministério Público.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "O parecer prévio emitido pelo Tribunal de Contas sobre as contas anuais do Chefe do Poder Executivo:",
+      "alternativas": [
+        {"texto": "é meramente opinativo e não vincula o Poder Legislativo.", "correta": true, "justificativa": "Conforme o art. 35, III da CE/PE (e por simetria, o art. 31, §3º da CF para prefeitos), o parecer do TCE não vincula a Assembleia Legislativa, que pode, por maioria absoluta, rejeitar as contas do Governador mesmo com parecer favorável."},
+        {"texto": "vincula obrigatoriamente o Poder Legislativo, que deve acatá-lo.", "correta": false},
+        {"texto": "substitui a deliberação do Poder Legislativo.", "correta": false},
+        {"texto": "tem eficácia apenas após a homologação pelo STF.", "correta": false},
+        {"texto": "é dispensável se o gestor for bem avaliado pela população.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "O princípio da simetria concêntrica, aplicável aos Tribunais de Contas dos Estados, determina que:",
+      "alternativas": [
+        {"texto": "a estrutura dos TCEs deve ser idêntica à do TCU.", "correta": false},
+        {"texto": "as competências dos TCEs espelham, na esfera estadual, as do TCU.", "correta": true, "justificativa": "O princípio da simetria concêntrica, firmado pelo STF, significa que a organização e atribuições dos TCEs devem espelhar, no âmbito de sua competência (estados e municípios), as do TCU, garantindo unidade ao sistema de controle."},
+        {"texto": "os conselheiros dos TCEs devem ter a mesma origem dos ministros do TCU.", "correta": false},
+        {"texto": "as decisões do TCU vinculam todos os TCEs.", "correta": false},
+        {"texto": "o número de conselheiros deve ser o mesmo em todos os tribunais.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "Conforme a Constituição Federal, a fiscalização exercida com o auxílio do Tribunal de Contas abrange, EXCETO:",
+      "alternativas": [
+        {"texto": "fiscalização contábil.", "correta": false},
+        {"texto": "fiscalização financeira.", "correta": false},
+        {"texto": "fiscalização orçamentária.", "correta": false},
+        {"texto": "fiscalização patrimonial.", "correta": false},
+        {"texto": "fiscalização política.", "correta": true, "justificativa": "O art. 70 da CF enumera as modalidades de fiscalização: contábil, financeira, orçamentária, operacional e patrimonial. A 'fiscalização política' não é prevista; o controle é técnico, não partidário ou político."}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "De acordo com a Súmula Vinculante 347 do STF, os Tribunais de Contas:",
+      "alternativas": [
+        {"texto": "integram a estrutura do Poder Judiciário.", "correta": false},
+        {"texto": "podem decretar medidas cautelares para proteção do erário.", "correta": true, "justificativa": "A Súmula Vinculante 347 do STF estabelece expressamente que 'os Tribunais de Contas, no exercício de suas atribuições, podem decretar medidas cautelares, inclusive com o objetivo de sustar licitação e impedir a realização de despesa.'"},
+        {"texto": "não podem apreciar a constitucionalidade de leis.", "correta": false},
+        {"texto": "têm suas decisões insuscetíveis de revisão judicial.", "correta": false},
+        {"texto": "são competentes para processar e julgar juízes estaduais.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "A competência do Tribunal de Contas para apreciar a legalidade dos atos de admissão de pessoal, na forma da Constituição, gera:",
+      "alternativas": [
+        {"texto": "responsabilidade solidária do responsável pelo ilegalidade.", "correta": true, "justificativa": "O art. 71, X da CF (e art. 76, X da CE/PE) atribui ao TCU/TCE a competência para apreciar a legalidade dos atos de admissão de pessoal, sob pena de responsabilidade solidária da autoridade que autorizou o ato irregular."},
+        {"texto": "responsabilidade subsidiária do Tribunal de Contas.", "correta": false},
+        {"texto": "vinculação do Poder Judiciário à decisão do TC.", "correta": false},
+        {"texto": "impossibilidade de revisão do ato pelo Poder Executivo.", "correta": false},
+        {"texto": "dispensa de concurso público para os cargos envolvidos.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "O 'poder geral de cautela' atribuído aos Tribunais de Contas permite que eles, durante procedimento de fiscalização:",
+      "alternativas": [
+        {"texto": "alterem a lei orçamentária anual.", "correta": false},
+        {"texto": "nomeiem servidores sem concurso público.", "correta": false},
+        {"texto": "determinem a sustação de licitação ou de pagamento.", "correta": true, "justificativa": "Com base na Súmula Vinculante 347 do STF, o poder geral de cautela confere aos TCs a autoridade para adotar medidas provisórias urgentes, como sustar licitações ou impedir pagamentos, para evitar um dano irreparável ou de difícil reparação ao erário público."},
+        {"texto": "julguem definitivamente as contas do gestor.", "correta": false},
+        {"texto": "anulem leis aprovadas pelo Legislativo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "O art. 20 da Lei de Introdução às Normas do Direito Brasileiro (LINDB) determina que os órgãos públicos, inclusive os de controle, devem:",
+      "alternativas": [
+        {"texto": "priorizar sempre a formalidade sobre o resultado.", "correta": false},
+        {"texto": "considerar os efeitos práticos de suas decisões e evitar resultados absurdos.", "correta": true, "justificativa": "A LINBB (Lei 13.655/2018) introduziu a obrigatoriedade de os agentes públicos levarem em conta as consequências práticas de seus atos e decisões, combatendo o formalismo excessivo e buscando resultados que não sejam absurdos, impossíveis ou socialmente indesejáveis."},
+        {"texto": "sustentar a nulidade de qualquer ato com vício formal.", "correta": false},
+        {"texto": "dispensar o contraditório e a ampla defesa em processos administrativos.", "correta": false},
+        {"texto": "uniformizar sua atuação, ignorando as particularidades de cada caso.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "Segundo a Constituição do Estado de Pernambuco, o Tribunal de Contas do Estado é composto por:",
+      "alternativas": [
+        {"texto": "5 (cinco) Conselheiros.", "correta": false},
+        {"texto": "7 (sete) Conselheiros.", "correta": true, "justificativa": "O art. 77, caput, da Constituição do Estado de Pernambuco estabelece claramente que 'O Tribunal de Contas do Estado compõe-se de sete Conselheiros.' Esta é uma informação específica e crucial para a prova."},
+        {"texto": "9 (nove) Conselheiros.", "correta": false},
+        {"texto": "11 (onze) Conselheiros.", "correta": false},
+        {"texto": "13 (treze) Conselheiros.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "Conforme a CE/PE, entre os Conselheiros do TCE/PE, são escolhidos pela Assembleia Legislativa:",
+      "alternativas": [
+        {"texto": "3 membros, sendo 2 auditores e 1 membro do Ministério Público junto ao Tribunal.", "correta": true, "justificativa": "O art. 77, §1º, I da CE/PE dispõe que três Conselheiros são nomeados pela Assembleia Legislativa, sendo dois escolhidos entre os auditores e um entre os membros do Ministério Público junto ao Tribunal."},
+        {"texto": "4 membros, todos auditores de carreira.", "correta": false},
+        {"texto": "2 membros, indicados pelo Governador do Estado.", "correta": false},
+        {"texto": "a maioria absoluta dos membros.", "correta": false},
+        {"texto": "todos os membros, por votação secreta.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "O Ministério Público de Contas (MPC), perante o TCE/PE, tem como função precípua:",
+      "alternativas": [
+        {"texto": "substituir o Procurador-Geral do Estado em suas funções.", "correta": false},
+        {"texto": "fiscalizar a legalidade e defender o interesse público perante o Tribunal.", "correta": true, "justificativa": "Nos termos do art. 130 da CE/PE, o Ministério Público junto ao Tribunal de Contas é instituição essencial à função jurisdicional do Tribunal, atuando como fiscal da ordem jurídica e dos interesses públicos nele representados."},
+        {"texto": "representar judicialmente o Tribunal de Contas.", "correta": false},
+        {"texto": "conduzir as auditorias determinadas pelo Tribunal.", "correta": false},
+        {"texto": "indicar os Conselheiros para o TCE.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "O controle de constitucionalidade exercido pelo Tribunal de Contas caracteriza-se por ser:",
+      "alternativas": [
+        {"texto": "controle abstrato de normas, com eficácia erga omnes.", "correta": false},
+        {"texto": "controle concreto e incidental, no caso concreto.", "correta": true, "justificativa": "O controle de constitucionalidade pelo TC é incidental e concreto. Ele não declara a inconstitucionalidade da lei em tese (controle abstrato), mas se recusa a aplicar a norma que considera inconstitucional ao caso específico sob sua análise (ex: recusar a registro de uma despesa autorizada por lei inconstitucional)."},
+        {"texto": "controle preventivo, realizado antes da promulgação da lei.", "correta": false},
+        {"texto": "controle repressivo, de competência exclusiva do TC.", "correta": false},
+        {"texto": "controle político, realizado pelo Plenário do TC.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "O 'dever de representação' do Tribunal de Contas ocorre quando o Tribunal:",
+      "alternativas": [
+        {"texto": "julga as contas de um prefeito.", "correta": false},
+        {"texto": "emite parecer sobre as contas do Governador.", "correta": false},
+        {"texto": "identifica indícios de ilegalidade e representa ao MP para a ação cabível.", "correta": true, "justificativa": "O dever de representação é uma obrigação imposta ao TC (art. 71, XI da CF). Ao identificar qualquer ilegalidade ou irregularidade em sua fiscalização, o TC deve representar ao Ministério Público ou à autoridade administrativa competente para que sejam tomadas as providências legais (ex: propositura de Ação de Improbidade)."},
+        {"texto": "solicita informações ao Poder Executivo.", "correta": false},
+        {"texto": "realiza uma auditoria operacional.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "O princípio do devido processo legal aplicado ao processo de controle no TCE assegura, entre outros direitos:",
+      "alternativas": [
+        {"texto": "a dispensa de motivação das decisões para agilizar o julgamento.", "correta": false},
+        {"texto": "a presunção de veracidade absoluta dos autos de auditoria.", "correta": false},
+        {"texto": "a ampla defesa, o contraditório e a motivação das decisões.", "correta": true, "justificativa": "O devido processo legal é um princípio constitucional que se aplica a qualquer processo administrativo ou judicial. No TCE, ele garante aos jurisdicionados o direito ao contraditório e à ampla defesa, bem como a uma decisão fundamentada, assegurando um julgamento justo."},
+        {"texto": "a impossibilidade de revisão judicial das decisões do TC.", "correta": false},
+        {"texto": "a tramitação prioritária sobre todos os outros processos.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "A competência para julgar as contas dos administradores e responsáveis por dinheiros públicos, conferida ao TCE, resulta em decisão:",
+      "alternativas": [
+        {"texto": "de eficácia meramente opinativa.", "correta": false},
+        {"texto": "que vincula o Poder Executivo, mas não o Legislativo.", "correta": false},
+        {"texto": "com eficácia vinculante para a administração, mas revisível pelo Judiciário.", "correta": true, "justificativa": "As decisões do TCE que julgam as contas dos administradores têm eficácia vinculante para a administração pública, impondo obrigações. No entanto, como não integram o Poder Judiciário, suas decisões são passiveis de revisão pelo Judiciário, via Mandado de Segurança ou Ação Anulatória."},
+        {"texto": "que equivale a uma sentença penal condenatória.", "correta": false},
+        {"texto": "insuscetível de qualquer recurso ou impugnação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A Lei Orgânica do TCE/PE (Lei 12.600/2004) é o diploma legal que regula:",
+      "alternativas": [
+        {"texto": "apenas o regimento interno do Tribunal.", "correta": false},
+        {"texto": "apenas a estrutura do Ministério Público de Contas.", "correta": false},
+        {"texto": "a organização, competências e funcionamento do Tribunal.", "correta": true, "justificativa": "A Lei Orgânica é a lei estadual que detalha a estrutura, as competências, a composição, o funcionamento e a organização do TCE/PE, complementando e regulamentando as disposições gerais da Constituição Estadual."},
+        {"texto": "o processo de escolha dos Conselheiros pelo Governador.", "correta": false},
+        {"texto": "as atribuições do Governador do Estado perante o TCE.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "O controle exercido pelo TCE que avalia se um programa governamental alcançou seus objetivos de impacto na sociedade, verificando sua efetividade, é classificado como controle de:",
+      "alternativas": [
+        {"texto": "conformidade ou legalidade.", "correta": false},
+        {"texto": "economicidade.", "correta": false},
+        {"texto": "avaliação ou desempenho.", "correta": true, "justificativa": "O controle de avaliação (ou de desempenho/operacional) vai além da legalidade. Ele analisa os resultados dos programas sob os prismas da economicidade (otimização de recursos), eficiência (relação produto-recurso) e efetividade (atingimento do impacto social desejado)."},
+        {"texto": "formalidade.", "correta": false},
+        {"texto": "patrimonial.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "As regras específicas sobre a tramitação de processos, prazos e formação de julgados no TCE/PE estão previstas principalmente:",
+      "alternativas": [
+        {"texto": "na Constituição Federal.", "correta": false},
+        {"texto": "na Lei de Responsabilidade Fiscal.", "correta": false},
+        {"texto": "no Regimento Interno do Tribunal.", "correta": true, "justificativa": "O Regimento Interno é o ato normativo emanado do próprio Tribunal que estabelece as normas processuais detalhadas para o funcionamento de suas atividades fins, como a distribuição de processos, a instrução, a votação e os recursos internos."},
+        {"texto": "na Lei Orgânica do Município do Recife.", "correta": false},
+        {"texto": "em portaria do Presidente do Tribunal.", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A competência do TCE para fiscalizar a correta aplicação dos recursos repassados pelo Estado aos Municípios está prevista:",
+      "alternativas": [
+        {"texto": "apenas na Lei Orgânica do TCE/PE.", "correta": false},
+        {"texto": "apenas no Regimento Interno do TCE/PE.", "correta": false},
+        {"texto": "diretamente na Constituição Federal e, por simetria, na Estadual.", "correta": true, "justificativa": "O art. 71, V da CF/88 atribui ao TCU a competência para fiscalizar a aplicação de quaisquer recursos repassados pela União. Por força do princípio da simetria concêntrica (STF), essa competência é estendida aos TCEs para os repasses realizados pelos Estados aos seus Municípios, estando também prevista no art. 76, V da CE/PE."},
+        {"texto": "apenas em leis ordinárias específicas.", "correta": false},
+        {"texto": "na Lei de Introdução às Normas do Direito Brasileiro.", "correta": false}
+      ]
+    }
+  ]
+}

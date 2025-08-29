@@ -1,0 +1,224 @@
+{
+  "estatistica": [
+    {
+      "id": "q1",
+      "questao": "O Tribunal de Contas decidiu avaliar a eficiência do gasto com saúde em todos os municípios de Pernambuco. Para isso, selecionou aleatoriamente 50 municípios para uma análise aprofundada. Neste estudo, a população é:",
+      "alternativas": [
+        {"texto": "os 50 municípios selecionados.", "correta": false},
+        {"texto": "o estado de Pernambuco.", "correta": false},
+        {"texto": "a eficiência do gasto com saúde.", "correta": false},
+        {"texto": "todos os municípios de Pernambuco.", "correta": true, "justificativa": "População é o conjunto total de elementos sobre os quais se deseja inferir conhecimento. O interesse é em todos os municípios de PE; os 50 são apenas a amostra."},
+        {"texto": "todos os municípios brasileiros.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "Um analista do TCE classifica os processos por sua área: Educação, Saúde, Obras Públicas, etc. A variável 'área do processo' é classificada como:",
+      "alternativas": [
+        {"texto": "Quantitativa discreta.", "correta": false},
+        {"texto": "Quantitativa contínua.", "correta": false},
+        {"texto": "Qualitativa ordinal.", "correta": false},
+        {"texto": "Qualitativa nominal.", "correta": true, "justificativa": "A variável 'área' representa categorias (nomes) sem uma ordem hierárquica ou numérica intrínseca, caracterizando uma variável qualitativa nominal."},
+        {"texto": "Quantitativa ordinal.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "Os salários (em R$) de 5 estagiários são: R$ 1500, R$ 1450, R$ 1550, R$ 1600, R$ 14000. Sobre as medidas de tendência central, é correto afirmar:",
+      "alternativas": [
+        {"texto": "A média é a melhor medida para resumir esses dados.", "correta": false},
+        {"texto": "A moda é igual à mediana.", "correta": false},
+        {"texto": "A mediana é menos sensível ao valor de R$ 14.000 que a média.", "correta": true, "justificativa": "O valor de R$ 14.000 é um outlier que puxa a média para cima, distorcendo a tendência central. A mediana, que é o valor central (R$ 1550), não é afetada por valores extremos, sendo uma medida mais robusta."},
+        {"texto": "A amplitude é uma medida de tendência central adequada.", "correta": false},
+        {"texto": "Não existe moda nesse conjunto de dados.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "A média de salários de um setor é R$ 5.000 com desvio padrão de R$ 1.000. Outro setor tem média de R$ 20.000 e desvio padrão de R$ 1.500. Para comparar a variabilidade relativa dos salários entre os setores, a medida mais adequada é:",
+      "alternativas": [
+        {"texto": "A amplitude.", "correta": false},
+        {"texto": "A variância.", "correta": false},
+        {"texto": "O desvio padrão.", "correta": false},
+        {"texto": "O coeficiente de variação.", "correta": true, "justificativa": "O Coeficiente de Variação (CV) mede a dispersão relativa (em porcentagem), permitindo comparar conjuntos com unidades iguais mas médias muito diferentes. CV1 = (1000/5000)*100% = 20%; CV2 = (1500/20000)*100% = 7,5%. O primeiro setor tem maior variabilidade relativa."},
+        {"texto": "A diferença entre as médias.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "Em uma análise de tempo de resposta a solicitações, o 3º quartil (Q3) foi calculado em 15 dias. Isso significa que:",
+      "alternativas": [
+        {"texto": "25% das solicitações foram respondidas em até 15 dias.", "correta": false},
+        {"texto": "50% das solicitações foram respondidas em até 15 dias.", "correta": false},
+        {"texto": "75% das solicitações foram respondidas em até 15 dias.", "correta": true, "justificativa": "O terceiro quartil (Q3) é o valor que separa os 75% menores dados dos 25% maiores. Portanto, 75% dos tempos de resposta são inferiores ou iguais a 15 dias."},
+        {"texto": "A amplitude dos dados é de 15 dias.", "correta": false},
+        {"texto": "O tempo médio de resposta foi de 15 dias.", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "Um analista quer visualizar a distribuição percentual do orçamento anual do estado por secretaria. O gráfico mais adequado para representar esses dados é:",
+      "alternativas": [
+        {"texto": "Histograma.", "correta": false},
+        {"texto": "Diagrama de Dispersão.", "correta": false},
+        {"texto": "Gráfico de Linhas.", "correta": false},
+        {"texto": "Gráfico de Setores (Pizza).", "correta": true, "justificativa": "O Gráfico de Setores é ideal para representar composições, ou seja, como um todo (o orçamento) é dividido em partes (as secretarias), mostrando a proporção de cada uma em relação ao total."},
+        {"texto": "Polígono de Frequência.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "Ao analisar o diagrama de dispersão entre o valor aplicado em publicidade legal (X) e o número de acessos ao portal do TCE (Y), um analista observa que os pontos formam uma nuvem alongada que sobe da esquerda para a direita. Isso indica uma correlação:",
+      "alternativas": [
+        {"texto": "linear positiva.", "correta": true, "justificativa": "Uma nuvem de pontos alongada e com tendência de subir da esquerda (valores baixos de X) para a direita (valores altos de X) indica que, à medida que X aumenta, Y também tende a aumentar. Isso caracteriza uma correlação linear positiva."},
+        {"texto": "linear negativa.", "correta": false},
+        {"texto": "não linear.", "correta": false},
+        {"texto": "inexistente.", "correta": false},
+        {"texto": "espúria.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "A probabilidade de um processo selecionado aleatoriamente na área de saúde ser prioritário é de 0,2. Qual é a probabilidade de um processo NÃO ser prioritário?",
+      "alternativas": [
+        {"texto": "0,2", "correta": false},
+        {"texto": "0,8", "correta": true, "justificativa": "A probabilidade do evento complementar (não ser prioritário) é 1 - P(ser prioritário). Portanto, P(não prioritário) = 1 - 0,2 = 0,8."},
+        {"texto": "1,0", "correta": false},
+        {"texto": "0,0", "correta": false},
+        {"texto": "0,5", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "Um estudo encontrou uma forte correlação positiva (r = 0,95) entre o número de livros em uma biblioteca municipal e a taxa de criminalidade no município. É correto concluir que:",
+      "alternativas": [
+        {"texto": "Bibliotecas causam aumento da criminalidade.", "correta": false},
+        {"texto": "A criminalidade causa o aumento de bibliotecas.", "correta": false},
+        {"texto": "Há uma relação causal direta entre as variáveis.", "correta": false},
+        {"texto": "As duas variáveis tendem a aumentar juntas, mas correlação não implica causalidade.", "correta": true, "justificativa": "Esta é uma lição fundamental. Uma correlação forte apenas indica uma associação, não uma relação de causa e efeito. Um terceiro fator (ex.: tamanho da população do município) pode influenciar ambas as variáveis, criando uma correlação espúria."},
+        {"texto": "O coeficiente de correlação foi calculado incorretamente.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "A equação de regressão que modela o valor de um contrato (Y) em função do número de licitações (X) é Y = 10.000 + 15.000X. Interpreta-se que:",
+      "alternativas": [
+        {"texto": "O valor médio de um contrato sem licitações é zero.", "correta": false},
+        {"texto": "Cada licitação adicional aumenta o valor do contrato em R$ 10.000, em média.", "correta": false},
+        {"texto": "Cada licitação adicional aumenta o valor do contrato em R$ 15.000, em média.", "correta": true, "justificativa": "O coeficiente angular (b = 15.000) representa a mudança esperada na variável dependente (Y) para cada aumento de uma unidade na variável independente (X). Portanto, para cada licitação adicional, o valor do contrato aumenta, em média, R$ 15.000."},
+        {"texto": "O número de licitações não influencia o valor do contrato.", "correta": false},
+        {"texto": "O valor do contrato influencia o número de licitações.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "Um intervalo de confiança de 95% para a proporção de processos com irregularidades foi calculado como [0,10 ; 0,18]. A interpretação correta é:",
+      "alternativas": [
+        {"texto": "95% dos processos estão entre 10% e 18% irregulares.", "correta": false},
+        {"texto": "A proporção de processos irregulares é de 14%.", "correta": false},
+        {"texto": "Temos 95% de confiança de que a verdadeira proporção de processos irregulares na população está entre 10% e 18%.", "correta": true, "justificativa": "Esta é a interpretação clássica de um Intervalo de Confiança. Ele fornece uma faixa de valores plausíveis para o parâmetro populacional desconhecido (a verdadeira proporção), baseada na amostra coletada."},
+        {"texto": "5% dos processos não são irregulares.", "correta": false},
+        {"texto": "A probabilidade da proporção estar entre 10% e 18% é de 95%.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "O TCE testa a hipótese de que a média de desvio de recursos em obras públicas é maior que R$ 1 mi (H1: μ > 1.000.000). O software calculou um valor-p de 0,03 para o teste. Usando α=0,05, a conclusão é:",
+      "alternativas": [
+        {"texto": "Rejeitar H0. Há evidências estatísticas de que a média de desvio é maior que R$ 1 mi.", "correta": true, "justificativa": "Como o valor-p (0,03) é menor que o nível de significância α (0,05), rejeitamos a hipótese nula (H0). Isso fornece evidências estatísticas para apoiar a hipótese alternativa (H1: μ > 1.000.000)."},
+        {"texto": "Não rejeitar H0. A média de desvio é exatamente R$ 1 mi.", "correta": false},
+        {"texto": "Rejeitar H0. A média de desvio é menor que R$ 1 mi.", "correta": false},
+        {"texto": "Não rejeitar H0. Não há evidências de que a média de desvio seja maior que R$ 1 mi.", "correta": false},
+        {"texto": "O teste é inconclusivo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "Para auditar as escolas estaduais, o TCE primeiro listou todas as Gerências Regionais de Educação (GREs). Em seguida, selecionou aleatoriamente 5 GREs e auditou **todas** as escolas dentro delas. O método de amostragem usado foi:",
+      "alternativas": [
+        {"texto": "Amostragem Aleatória Simples.", "correta": false},
+        {"texto": "Amostragem Sistemática.", "correta": false},
+        {"texto": "Amostragem Estratificada.", "correta": false},
+        {"texto": "Amostragem por Conglomerados.", "correta": true, "justificativa": "Neste método, a população (escolas) é dividida em grupos heterogêneos e naturais (as GREs, que são os conglomerados). Alguns conglomerados são selecionados aleatoriamente e todos os elementos dentro deles são investigados."},
+        {"texto": "Amostragem por Conveniência.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "Um gráfico que mostra a evolução do déficit previdenciário do estado mês a month, ao longo de 5 anos, é um exemplo de:",
+      "alternativas": [
+        {"texto": "Série Temporal.", "correta": true, "justificativa": "Uma série temporal é um conjunto de observações de uma mesma variável (déficit) feitas em intervalos de tempo regulares e sequenciais (mês a mês), permitindo analisar sua evolução e comportamento ao longo do tempo."},
+        {"texto": "Dados de Corte Transversal.", "correta": false},
+        {"texto": "Dados Categóricos.", "correta": false},
+        {"texto": "Diagrama de Dispersão.", "correta": false},
+        {"texto": "Gráfico de Barras Compostas.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "Em uma distribuição simétrica de dados (formato de sino):",
+      "alternativas": [
+        {"texto": "A média é maior que a mediana.", "correta": false},
+        {"texto": "A moda é maior que a média.", "correta": false},
+        {"texto": "A média, a mediana e a moda são aproximadamente iguais.", "correta": true, "justificativa": "Em uma distribuição simétrica e unimodal, as três principais medidas de tendência central (média, mediana e moda) coincidem ou têm valores muito próximos, localizando-se no centro da distribuição."},
+        {"texto": "O desvio padrão é zero.", "correta": false},
+        {"texto": "O coeficiente de variação é negativo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "Se o desvio padrão de um conjunto de dados for zero, isso necessariamente significa que:",
+      "alternativas": [
+        {"texto": "a média é zero.", "correta": false},
+        {"texto": "a mediana é zero.", "correta": false},
+        {"texto": "todos os valores do conjunto são iguais.", "correta": true, "justificativa": "O desvio padrão mede o espalhamento dos dados em torno da média. Se ele é zero, não há variação alguma, indicando que todos os valores são idênticos entre si e, consequentemente, iguais à média."},
+        {"texto": "a moda é zero.", "correta": false},
+        {"texto": "o conjunto possui apenas um elemento.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "O P90 (90º percentil) dos valores de um convênio é R$ 500.000. Isso indica que:",
+      "alternativas": [
+        {"texto": "90% dos convênios têm valor igual a R$ 500.000.", "correta": false},
+        {"texto": "90% dos convênios têm valor maior que R$ 500.000.", "correta": false},
+        {"texto": "90% dos convênios têm valor menor ou igual a R$ 500.000.", "correta": true, "justificativa": "O P90 é o valor abaixo do qual estão 90% das observações. Portanto, 90% dos convênios têm valor de até R$ 500.000, e apenas 10% têm valor superior a esse."},
+        {"texto": "10% dos convênios têm valor menor que R$ 500.000.", "correta": false},
+        {"texto": "O valor médio dos convênios é R$ 500.000.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "Um histograma dos valores de diárias pagas por um órgão público apresenta uma cauda longa à direita. A relação entre média e mediana é, provavelmente:",
+      "alternativas": [
+        {"texto": "Média > Mediana", "correta": true, "justificativa": "Uma cauda longa à direita indica uma distribuição assimétrica positiva (à direita). Nesse tipo de distribuição, os valores extremamente altos (outliers) puxam a média para cima, fazendo com que ela seja maior que a mediana."},
+        {"texto": "Média < Mediana", "correta": false},
+        {"texto": "Média = Mediana", "correta": false},
+        {"texto": "Média = Moda", "correta": false},
+        {"texto": "Não é possível determinar.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "Em um teste de hipótese, o erro do Tipo I ocorre quando:",
+      "alternativas": [
+        {"texto": "Rejeitamos H0 quando H0 é verdadeira.", "correta": true, "justificativa": "O Erro Tipo I (falso positivo) é a probabilidade (α) de rejeitar a hipótese nula (H0) quando, na verdade, ela é correta."},
+        {"texto": "Não rejeitamos H0 quando H0 é falsa.", "correta": false},
+        {"texto": "Rejeitamos H0 quando H0 é falsa.", "correta": false},
+        {"texto": "Não rejeitamos H0 quando H0 é verdadeira.", "correta": false},
+        {"texto": "O valor-p é maior que α.", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "Um analista quer garantir que sua amostra de servidores tenha representantes de todos os níveis de cargos (fundamental, médio, superior) na mesma proporção em que aparecem na população. A técnica de amostragem mais indicada é:",
+      "alternativas": [
+        {"texto": "Aleatória Simples.", "correta": false},
+        {"texto": "Sistemática.", "correta": false},
+        {"texto": "Estratificada Proporcional.", "correta": true, "justificativa": "A Amostragem Estratificada é usada quando queremos garantir representatividade em subgrupos (estratos). A proporcional significa que o tamanho da amostra de cada estrato (nível de cargo) é proporcional ao seu tamanho na população."},
+        {"texto": "Por Conglomerados.", "correta": false},
+        {"texto": "Por Conveniência.", "correta": false}
+      ]
+    }
+  ]
+}

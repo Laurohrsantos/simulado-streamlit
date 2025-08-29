@@ -1,0 +1,224 @@
+{
+  "Crimes contra a Administração e a Fé Pública": [
+    {
+      "id": "q1",
+      "questao": "O crime praticado por funcionário público que consiste em se apropriar de dinheiro ou bem público de que tem posse em razão do cargo é o:",
+      "alternativas": [
+        {"texto": "A) Concussão", "correta": false},
+        {"texto": "B) Peculato", "correta": true, "justificativa": "Correto. O crime de peculato (art. 312 do CP) define-se exatamente pela apropriação indébita de bem ou valor público por aquele que já os detém legalmente devido ao seu cargo."},
+        {"texto": "C) Corrupção Passiva", "correta": false},
+        {"texto": "D) Prevaricação", "correta": false},
+        {"texto": "E) Falsidade Ideológica", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "Um servidor público, sabendo que um tributo já havia sido pago pelo contribuinte, exige o pagamento uma segunda vez, ameaçando aplicar uma multa. Neste caso, o crime praticado é:",
+      "alternativas": [
+        {"texto": "A) Peculato", "correta": false},
+        {"texto": "B) Concussão", "correta": true, "justificativa": "Correto. A concussão (art. 316 do CP) caracteriza-se pela exigência de vantagem indevida por parte do funcionário público. Exigir um tributo indevido (já pago) configura-se como exigência de vantagem indevida, tipificando o crime."},
+        {"texto": "C) Corrupção Passiva", "correta": false},
+        {"texto": "D) Excessão de Exação", "correta": false},
+        {"texto": "E) Prevaricação", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "A conduta de um funcionário que solicita uma 'contribuição' em dinheiro de um empresário para acelerar a análise de um processo administrativo caracteriza o crime de:",
+      "alternativas": [
+        {"texto": "A) Peculato", "correta": false},
+        {"texto": "B) Concussão", "correta": false},
+        {"texto": "C) Corrupção Passiva", "correta": true, "justificativa": "Correto. Na corrupção passiva (art. 317 do CP), o funcionário público solicita ou recebe vantagem indevida para praticar ou deixar de praticar um ato inerente ao seu cargo. Pedir dinheiro para 'acelerar' um processo é solicitar vantagem para praticar um ato de ofício."},
+        {"texto": "D) Falsidade Ideológica", "correta": false},
+        {"texto": "E) Advocacia Administrativa", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "A diferença fundamental entre a falsificação de documento público (art. 297 do CP) e a falsidade ideológica (art. 299 do CP) é que:",
+      "alternativas": [
+        {"texto": "A) Na falsificação, o agente é sempre funcionário público; na ideológica, pode ser qualquer pessoa.", "correta": false},
+        {"texto": "B) Na falsificação, o documento em si é falso; na ideológica, o documento é verdadeiro, mas seu conteúdo é falso.", "correta": true, "justificativa": "Correto. Esta é a distinção clássica. Na falsificação, cria-se um documento que não existe (ex.: uma certidão de nascimento falsa). Na falsidade ideológica, o documento é autêntico (ex.: um contrato verdadeiro), mas contém uma declaração falsa (ex.: um valor não real) ou omite a verdade."},
+        {"texto": "C) A falsidade ideológica é crime contra a administração pública, e a falsificação é contra a fé pública.", "correta": false},
+        {"texto": "D) A falsificação só se aplica a documentos físicos, enquanto a ideológica se aplica a documentos digitais.", "correta": false},
+        {"texto": "E) Na falsificação, há intenção de lucro; na ideológica, a intenção é apenas prejudicar.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "Um juiz, movido por interesse pessoal contra uma das partes, deixa de proferir a sentença de um processo dentro do prazo legal. Esta conduta caracteriza o crime de:",
+      "alternativas": [
+        {"texto": "A) Concussão", "correta": false},
+        {"texto": "B) Corrupção Passiva", "correta": false},
+        {"texto": "C) Prevaricação", "correta": true, "justificativa": "Correto. A prevaricação (art. 319 do CP) é o crime típico de autoridades judiciárias ou do MP. Caracteriza-se por retardar ou deixar de praticar um ato de ofício (não proferir a sentença) ou praticá-lo contra a lei, movido por interesse pessoal."},
+        {"texto": "D) Condescendência Criminosa", "correta": false},
+        {"texto": "E) Peculato", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "Um servidor concursado de um tribunal de contas, sem ter sido nomeado para tal, assume as funções de auditor e começa a analisar processos. Ele pratica o crime de:",
+      "alternativas": [
+        {"texto": "A) Usurpação de Função Pública", "correta": true, "justificativa": "Correto. O exercício funcional ilegal (ou usurpação de função pública - art. 328 do CP) ocorre quando alguém, sem estar devidamente nomeado ou empossado, exerce função pública. A posse é essencial para o exercício legal da função."},
+        {"texto": "B) Peculato", "correta": false},
+        {"texto": "C) Falsidade Ideológica", "correta": false},
+        {"texto": "D) Prevaricação", "correta": false},
+        {"texto": "E) Corrupção Passiva", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "O crime de inserir dados falsos em um sistema informatizado da administração pública, com o intuito de obter vantagem, está previsto no art. 313-A do CP e é uma modalidade de:",
+      "alternativas": [
+        {"texto": "A) Crime contra a Fé Pública", "correta": false},
+        {"texto": "B) Crime contra as Finanças Públicas", "correta": false},
+        {"texto": "C) Crime praticado por particular contra a Administração", "correta": false},
+        {"texto": "D) Crime praticado por funcionário público contra a Administração", "correta": true, "justificativa": "Correto. O art. 313-A está inserido no Capítulo dos Crimes Praticados por Funcionários Públicos contra a Administração em Geral. Sujeito ativo é o funcionário público que, valendo-se dessa condição, insere ou altera dados em sistema de informações."},
+        {"texto": "E) Crime de Furto", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "Mesmo sabendo que um documento é falso, um servidor público o utiliza para dar andamento a um processo administrativo. Além de outros crimes, ele comete:",
+      "alternativas": [
+        {"texto": "A) Falsificação de Documento Público", "correta": false},
+        {"texto": "B) Falsidade Ideológica", "correta": false},
+        {"texto": "C) Uso de Documento Falso", "correta": true, "justificativa": "Correto. O uso de documento falso (art. 304 do CP) é um crime autônomo. Basta que o agente, sabendo da falsidade do documento, dele faça uso. Não é necessário que ele próprio tenha falsificado o documento."},
+        {"texto": "D) Corrupção Passiva", "correta": false},
+        {"texto": "E) Peculato", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "Um prefeito deixa de aplicar uma multa administrativa devida a uma empresa construtora da qual é amigo. Neste caso, o crime praticado é:",
+      "alternativas": [
+        {"texto": "A) Concussão", "correta": false},
+        {"texto": "B) Corrupção Passiva", "correta": false},
+        {"texto": "C) Prevaricação", "correta": false},
+        {"texto": "D) Condescendência Criminosa", "correta": true, "justificativa": "Correto. A condescendência criminosa (art. 320 do CP) ocorre quando o funcionário público, por indulgência (favor, benevolência), deixa de responsabilizar seu subordinado que cometeu infração ou, neste caso, deixa de aplicar uma sanção devida a terceiro, configurando infração à sua duty."},
+        {"texto": "E) Advocacia Administrativa", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "Qual crime NÃO exige a qualidade de funcionário público para sua configuração?",
+      "alternativas": [
+        {"texto": "A) Peculato", "correta": false},
+        {"texto": "B) Prevaricação", "correta": false},
+        {"texto": "C) Falsidade Ideológica", "correta": true, "justificativa": "Correto. A falsidade ideológica (art. 299 do CP) é um crime contra a fé pública. Seu sujeito ativo pode ser qualquer pessoa, não apenas funcionário público. Já os crimes como peculato, prevaricação e concussão exigem que o agente seja funcionário público."},
+        {"texto": "D) Concussão", "correta": false},
+        {"texto": "E) Corrupção Passiva", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "Um servidor que, por descuido, deixa de restituir aos cofres públicos um valor adiantado para o pagamento de uma despesa que não se realizou, pratica:",
+      "alternativas": [
+        {"texto": "A) Peculato Doloso", "correta": false},
+        {"texto": "B) Peculato Culposo", "correta": true, "justificativa": "Correto. O peculato culposo (art. 313 do CP) ocorre quando o funcionário, por culpa (imperícia, imprudência ou negligência), deixa de repor ao erário valor do qual tinha posse em razão do cargo. Não há intenção de se apropriar, apenas descuido."},
+        {"texto": "C) Apropriação Indébita Previdenciária", "correta": false},
+        {"texto": "D) Prevaricação", "correta": false},
+        {"texto": "E) Nenhum crime, é apenas uma infração administrativa.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "Um servidor público, valendo-se de sua influência perante um colega de outro setor, consegue aprovar um projeto irregular de um familiar em troca de parte do lucro. Em relação ao servidor que usou de influência, configura-se o crime de:",
+      "alternativas": [
+        {"texto": "A) Corrupção Ativa", "correta": false},
+        {"texto": "B) Corrupção Passiva", "correta": true, "justificativa": "Correto. O servidor que solicita ou recebe vantagem (parte do lucro) para, usando de sua influência, fazer com que outro funcionário pratique um ato irregular (aprovar projeto), comete corrupção passiva (art. 317 do CP). A 'influência' está prevista no tipo penal."},
+        {"texto": "C) Concussão", "correta": false},
+        {"texto": "D) Tráfico de Influência", "correta": false},
+        {"texto": "E) Peculato", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "A conduta de exigir tributo que o funcionário sabe ser indevido é tipificada como:",
+      "alternativas": [
+        {"texto": "A) Concussão", "correta": false},
+        {"texto": "B) Excessão de Exação", "correta": true, "justificativa": "Correto. O excesso de exação (art. 316, §1º do CP) é a modalidade específica de concussão em que o funcionário exige tributo ou contribuição social que sabe indevido, ou exige valor maior que o legal, ou ainda, exige de forma abusiva."},
+        {"texto": "C) Corrupção Passiva", "correta": false},
+        {"texto": "D) Peculato", "correta": false},
+        {"texto": "E) Extorsão", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "Um auditor, ao elaborar um relatório de fiscalização, omite a constatação de uma irregularidade grave para beneficiar o ente fiscalizado. Esta conduta se enquadra primariamente em:",
+      "alternativas": [
+        {"texto": "A) Peculato", "correta": false},
+        {"texto": "B) Falsidade Ideológica", "correta": true, "justificativa": "Correto. O relatório é um documento público. Omitir uma declaração que deveria constar nele (a irregularidade grave) com a intenção de beneficiar outrem (o ente fiscalizado) é典型amente falsidade ideológica (art. 299 do CP)."},
+        {"texto": "C) Prevaricação", "correta": false},
+        {"texto": "D) Corrupção Passiva", "correta": false},
+        {"texto": "E) Advocacia Administrativa", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "O funcionário público que defende, perante a repartição onde trabalha, interesse privado de seu cunhado, pratica o crime de:",
+      "alternativas": [
+        {"texto": "A) Corrupção Passiva", "correta": false},
+        {"texto": "B) Concussão", "correta": false},
+        {"texto": "C) Prevaricação", "correta": false},
+        {"texto": "D) Advocacia Administrativa", "correta": true, "justificativa": "Correto. A advocacia administrativa (art. 321 do CP) ocorre quando o funcionário defende, perante a administração pública, interesse de particular perante o próprio órgão onde exerce função, salvo se for para pleitear benefício legal em causa própria ou de parente próximo."},
+        {"texto": "E) Violência Arbitrária", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "A violência praticada por um agente público, a pretexto de exercer suas funções, caracteriza o crime de:",
+      "alternativas": [
+        {"texto": "A) Lesão Corporal", "correta": false},
+        {"texto": "B) Abuso de Autoridade", "correta": false},
+        {"texto": "C) Concussão", "correta": false},
+        {"texto": "D) Violência Arbitrária", "correta": true, "justificativa": "Correto. A violência arbitrária (art. 322 do CP) é o crime específico em que o funcionário público pratica violência, seja no exercício da função, seja a pretexto de exercê-la."},
+        {"texto": "E) Prevaricação", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "O verbo nuclear do tipo penal da Corrupção Passiva é:",
+      "alternativas": [
+        {"texto": "A) Exigir", "correta": false},
+        {"texto": "B) Apropriar-se", "correta": false},
+        {"texto": "C) Solicitar ou Receber", "correta": true, "justificativa": "Correto. O art. 317 do CP define corrupção passiva como 'solicitar ou receber, para si ou para outrem, vantagem indevida, ou aceitar promessa de tal vantagem'. Portanto, 'solicitar' ou 'receber' são os verbos centrais da conduta."},
+        {"texto": "D) Falsificar", "correta": false},
+        {"texto": "E) Omitir", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "Um particular que, sem ser funcionário público, se aproveita de um erro de um servidor para se apropriar de valores públicos comete:",
+      "alternativas": [
+        {"texto": "A) Estelionato", "correta": true, "justificativa": "Correto. O peculato mediante erro de outrem (art. 313-A do CP) exige que o agente seja funcionário público. Se um particular se aproveita de um erro alheio para se apoderar de dinheiro público, a conduta se enquadra no crime de estelionato (art. 171 do CP), que é obter vantagem ilícita para si ou para outrem mediante ardil ou fraude."},
+        {"texto": "B) Peculato", "correta": false},
+        {"texto": "C) Peculato mediante Erro de Outrem", "correta": false},
+        {"texto": "D) Apropriação Indébita", "correta": false},
+        {"texto": "E) Falsidade Ideológica", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "Qual crime pressupõe necessariamente que o agente tenha a posse prévia do bem?",
+      "alternativas": [
+        {"texto": "A) Corrupção Passiva", "correta": false},
+        {"texto": "B) Concussão", "correta": false},
+        {"texto": "C) Peculato", "correta": true, "justificativa": "Correto. O peculato é um crime de apropriação. Diferente de um furto, no peculato o agente já tem a posse legal do bem público em razão do seu cargo. A conduta criminosa é desviar essa posse legal para usufruto próprio."},
+        {"texto": "D) Prevaricação", "correta": false},
+        {"texto": "E) Falsificação de Documento", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A conduta de fazer uso de um diploma universitário falso para assumir um cargo público que exige nível superior configura, em relação ao uso do documento:",
+      "alternativas": [
+        {"texto": "A) Falsificação de Documento Público", "correta": false},
+        {"texto": "B) Falsidade Ideológica", "correta": false},
+        {"texto": "C) Uso de Documento Falso", "correta": true, "justificativa": "Correto. O diploma, mesmo sendo falso, é um documento. Fazer uso dele, sabendo de sua falsidade, para obter uma vantagem (assumir o cargo público) configura perfeitamente o crime autônomo de uso de documento falso (art. 304 do CP)."},
+        {"texto": "D) Estelionato", "correta": false},
+        {"texto": "E) Exercício Funcional Ilegal", "correta": false}
+      ]
+    }
+  ]
+}

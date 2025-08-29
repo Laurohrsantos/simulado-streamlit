@@ -1,0 +1,224 @@
+{
+  "Contabilidade Pública": [
+    {
+      "id": "q1",
+      "questao": "O principal objetivo da Contabilidade Aplicada ao Setor Público (CASP) é:",
+      "alternativas": [
+        {"texto": "A) Apurar o lucro tributável dos entes governamentais.", "correta": false},
+        {"texto": "B) Controlar a gestão patrimonial e fornecer informações para a prestação de contas e tomada de decisão.", "correta": true, "justificativa": "Correto. A CASP tem foco no controle, na transparência e no fornecimento de informações para usuários internos e externos, como a sociedade e os órgãos de controle, diferentemente da contabilidade empresarial, que visa o lucro."},
+        {"texto": "C) Registrar apenas a execução orçamentária de receitas e despesas.", "correta": false},
+        {"texto": "D) Substituir o sistema de controle interno dos Tribunais de Contas.", "correta": false},
+        {"texto": "E) Determinar a política de dividendos do governo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "Qual princípio orçamentário determina que a Lei Orçamentária Anual (LOA) deve conter todas as receitas e todas as despesas do ente público?",
+      "alternativas": [
+        {"texto": "A) Princípio da Anualidade", "correta": false},
+        {"texto": "B) Princípio da Universalidade", "correta": true, "justificativa": "Correto. O Princípio da Universalidade estabelece que o orçamento deve incorporar todas as receitas e despesas, sem exceções, dando uma visão completa da programação financeira e orçamentária do ente."},
+        {"texto": "C) Princípio da Unidade", "correta": false},
+        {"texto": "D) Princípio do Equilíbrio", "correta": false},
+        {"texto": "E) Princípio da Especialização", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "As Normas Brasileiras de Contabilidade aplicadas ao Setor Público (NBC TSP) são emitidas por qual órgão?",
+      "alternativas": [
+        {"texto": "A) Tribunal de Contas da União (TCU)", "correta": false},
+        {"texto": "B) Secretaria do Tesouro Nacional (STN)", "correta": false},
+        {"texto": "C) Conselho Federal de Contabilidade (CFC)", "correta": true, "justificativa": "Correto. O CFC é o órgão normatizador da profissão contábil no Brasil e, portanto, é o responsável pela edição das NBC TSP, que constituem a estrutura de normatização contábil a ser observada pelo setor público."},
+        {"texto": "D) Controladoria-Geral da União (CGU)", "correta": false},
+        {"texto": "E) Congresso Nacional", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "O Plano de Contas Aplicado ao Setor Público (PCASP) é organizado para registrar os eventos sob a perspectiva:",
+      "alternativas": [
+        {"texto": "A) Orçamentária, financeira e patrimonial.", "correta": true, "justificativa": "Correto. O PCASP é estruturado para integrar os registros dos três subsistemas: Orçamentário (receitas e despesas), Financeiro (disponibilidades) e Patrimonial (ativo, passivo e PL), garantindo a visão completa da gestão."},
+        {"texto": "B) Apenas orçamentária.", "correta": false},
+        {"texto": "C) Apenas econômica.", "correta": false},
+        {"texto": "D) Apenas fiscal.", "correta": false},
+        {"texto": "E) Exclusivamente de caixa.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "No setor público, o registro de uma despesa no momento do empenho é realizado sob qual regime contábil?",
+      "alternativas": [
+        {"texto": "A) Regime de Caixa", "correta": false},
+        {"texto": "B) Regime de Competência", "correta": true, "justificativa": "Correto. O empenho é o primeiro estágio da despesa e representa o nascimento da obrigação para o ente público. De acordo com o Regime de Competência, a despesa é reconhecida nesse momento, e não no pagamento."},
+        {"texto": "C) Regime Misto", "correta": false},
+        {"texto": "D) Regime de Exercício", "correta": false},
+        {"texto": "E) Regime de Caixa Orçamentário", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "Uma praça pública é classificada, para fins contábeis, como um bem:",
+      "alternativas": [
+        {"texto": "A) De Uso Especial", "correta": false},
+        {"texto": "B) Dominial", "correta": false},
+        {"texto": "C) De Uso Comum do Povo", "correta": true, "justificativa": "Correto. Os bens de uso comum do povo, como praças, ruas e estradas, são aqueles destinados ao uso coletivo pela população. Eles não são avaliados e monetizados no patrimônio público."},
+        {"texto": "D) De Valor Cultural", "correta": false},
+        {"texto": "E) Misto", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "Qual demonstrativo contábil tem por objetivo evidenciar a confrontação entre a previsão e a execução da receita e da despesa orçamentárias?",
+      "alternativas": [
+        {"texto": "A) Balanço Patrimonial", "correta": false},
+        {"texto": "B) Demonstração dos Fluxos de Caixa", "correta": false},
+        {"texto": "C) Balanço Orçamentário", "correta": true, "justificativa": "Correto. O Balanço Orçamentário é o demonstrativo que evidencia como a execução (realizado) se comparou com a previsão (aprovado) para as receitas e despesas constantes no orçamento."},
+        {"texto": "D) Demonstração das Variações Patrimoniais", "correta": false},
+        {"texto": "E) Balanço Financeiro", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "As despesas empenhadas mas não pagas até o final do exercício financeiro são classificadas como:",
+      "alternativas": [
+        {"texto": "A) Despesas de Exercícios Anteriores", "correta": false},
+        {"texto": "B) Restos a Pagar", "correta": true, "justificativa": "Correto. Restos a Pagar são as despesas empenhadas (ou seja, assumidas como obrigação) dentro do exercício financeiro, mas cujo pagamento só ocorrerá no exercício seguinte."},
+        {"texto": "C) Suprimentos de Fundos", "correta": false},
+        {"texto": "D) Dívida Flutuante", "correta": false},
+        {"texto": "E) Despesas Liquidadas", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "A Demonstração Contábil que equivale à Demonstração do Resultado do Exercício (DRE) na contabilidade empresarial é a:",
+      "alternativas": [
+        {"texto": "A) Demonstração dos Fluxos de Caixa (DFC)", "correta": false},
+        {"texto": "B) Demonstração das Variações Patrimoniais (DVP)", "correta": true, "justificativa": "Correto. A DVP evidencia as Variações Patrimoniais Aumentativas (VPA - 'receitas') e Diminutivas (VPD - 'despesas'), mostrando o resultado que causou a mudança no Patrimônio Líquido no período, análogo à função da DRE."},
+        {"texto": "C) Demonstração do Valor Adicionado (DVA)", "correta": false},
+        {"texto": "D) Balanço Financeiro (BF)", "correta": false},
+        {"texto": "E) Balanço Orçamentário (BO)", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "O estágio da despesa em que se verifica que o fornecedor cumpriu suas obrigações contratuais, entregando o bem ou serviço, é o estágio de:",
+      "alternativas": [
+        {"texto": "A) Empenho", "correta": false},
+        {"texto": "B) Liquidação", "correta": true, "justificativa": "Correto. A Liquidação é a fase em que se apura o direito do credor, verificando se o objeto do empenho (bem ou serviço) foi efetivamente entregue ou executado conforme o contrato."},
+        {"texto": "C) Pagamento", "correta": false},
+        {"texto": "D) Programação", "correta": false},
+        {"texto": "E) Fixação", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "O crédito adicional utilizado para reforçar uma dotação orçamentária já existente na Lei Orçamentária é classificado como:",
+      "alternativas": [
+        {"texto": "A) Crédito Extraordinário", "correta": false},
+        {"texto": "B) Crédito Especial", "correta": false},
+        {"texto": "C) Crédito Suplementar", "correta": true, "justificativa": "Correto. O Crédito Suplementar é destinado precisely to supplement or increase the amount of an existing budget allocation (dotação) that has proven to be insufficient."},
+        {"texto": "D) Crédito de Abertura", "correta": false},
+        {"texto": "E) Crédito de Reabertura", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "O controle externo da execução orçamentária e financeira da administração pública é exercido, com auxílio dos Tribunais de Contas, pelo:",
+      "alternativas": [
+        {"texto": "A) Poder Executivo", "correta": false},
+        {"texto": "B) Poder Judiciário", "correta": false},
+        {"texto": "C) Poder Legislativo", "correta": true, "justificativa": "Correto. A Constituição Federal atribui ao Poder Legislativo (Câmara dos Deputados, Senado, Assembleias Legislativas e Câmaras Municipais), com o auxílio técnico dos Tribunais de Contas, a competência para julgar as contas dos administradores públicos e fiscalizar a execução orçamentária."},
+        {"texto": "D) Ministério Público", "correta": false},
+        {"texto": "E) Controladoria-Geral da União (CGU)", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "Uma análise que avalia a participação percentual de cada elemento dentro de um demonstrativo contábil (ex.: percentual de cada despesa no total) é conhecida como:",
+      "alternativas": [
+        {"texto": "A) Análise Horizontal", "correta": false},
+        {"texto": "B) Análise Vertical", "correta": true, "justificativa": "Correto. A Análise Vertical (ou de estrutura) calcula o peso relativo de cada conta em relação a um total de referência (normalmente a receita total ou a despesa total) dentro do mesmo período, permitindo entender a composição do demonstrativo."},
+        {"texto": "C) Análise por Índices", "correta": false},
+        {"texto": "D) Análise Tendencial", "correta": false},
+        {"texto": "E) Análise de Liquidez", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "O princípio orçamentário que estabelece a necessidade de detalhamento das receitas e despesas por categorias e elementos é o princípio da:",
+      "alternativas": [
+        {"texto": "A) Anualidade", "correta": false},
+        {"texto": "B) Especialização", "correta": true, "justificativa": "Correto. O Princípio da Especialização determina que a lei orçamentária deve discriminar (especificar) as dotações por categoria (econômica, natureza, etc.) e elemento, vedando a existência de dotações globais genéricas, para proporcionar maior transparência e controle."},
+        {"texto": "C) Unidade", "correta": false},
+        {"texto": "D) Universalidade", "correta": false},
+        {"texto": "E) Exclusividade", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "No Balanço Patrimonial de um ente público, um empréstimo contraído junto a um banco internacional para financiar um projeto de infraestrutura deve ser classificado no:",
+      "alternativas": [
+        {"texto": "A) Ativo Realizável a Longo Prazo", "correta": false},
+        {"texto": "B) Passivo Financeiro", "correta": false},
+        {"texto": "C) Passivo Exigível a Longo Prazo", "correta": true, "justificativa": "Correto. Empréstimos e financiamentos são obrigações (Passivo Exigível). Como o projeto de infraestrutura tem maturação de longo prazo, é provável que o vencimento seja além de 12 meses, caracterizando-o como Exigível a Longo Prazo."},
+        {"texto": "D) Variação Patrimonial Diminutiva", "correta": false},
+        {"texto": "E) Patrimônio Líquido", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "As informações detalhadas sobre as políticas contábeis adotadas, a explicação de saldos de contas e a exposição de contingências são encontradas principalmente:",
+      "alternativas": [
+        {"texto": "A) No Balanço Orçamentário", "correta": false},
+        {"texto": "B) Na Demonstração dos Fluxos de Caixa", "correta": false},
+        {"texto": "C) No Relatório de Gestão Fiscal", "correta": false},
+        {"texto": "D) Nas Notas Explicativas", "correta": true, "justificativa": "Correto. As Notas Explicativas são uma parte integrante e essential das Demonstrações Contábeis. Elas complementam e detalham as informações apresentadas nos balanços, fornecendo o contexto e os critérios utilizados, o que é fundamental para a transparência e compreensão."},
+        {"texto": "E) No Anexo de Metas Fiscais", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A arrecadação de Imposto sobre Circulação de Mercadorias e Serviços (ICMS) é classificada, quanto à categoria econômica, como:",
+      "alternativas": [
+        {"texto": "A) Receita de Capital", "correta": false},
+        {"texto": "B) Receita Corrente", "correta": true, "justificativa": "Correto. O ICMS é um imposto, e os impostos são a principal fonte de Receitas Correntes. Receitas Correntes são aquelas provenientes do poder de império do Estado (tributária) ou da contraprestação de serviços, destinadas a cobrir despesas de custeio da máquina pública."},
+        {"texto": "C) Receita Intraorçamentária", "correta": false},
+        {"texto": "D) Receita Extraorçamentária", "correta": false},
+        {"texto": "E) Receita Patrimonial", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "O regime contábil que fundamenta a elaboração do Balanço Financeiro é o regime:",
+      "alternativas": [
+        {"texto": "A) de Competência", "correta": false},
+        {"texto": "B) de Caixa", "correta": true, "justificativa": "Correto. O Balanço Financeiro demonstra os ingressos e dispêndios de recursos sob a ótica financeira, ou seja, do caixa. Portanto, ele é elaborado com base no Regime de Caixa, registrando as transações no momento dos recebimentos e pagamentos efetivos."},
+        {"texto": "C) Misto", "correta": false},
+        {"texto": "D) de Exercício", "correta": false},
+        {"texto": "E) de Competência Orçamentária", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "Um indicador de liquidez que relaciona o Ativo Circulante com o Passivo Circulante, mostrando a capacidade de curto prazo do ente, é o índice de:",
+      "alternativas": [
+        {"texto": "A) Liquidez Seca", "correta": false},
+        {"texto": "B) Liquidez Corrente", "correta": true, "justificativa": "Correto. O Índice de Liquidez Corrente = Ativo Circulante / Passivo Circulante. Ele mede a capacidade de o ente honrar suas obrigações de curto prazo (Passivo Circulante) com seus recursos também de curto prazo (Ativo Circulante)."},
+        {"texto": "C) Liquidez Geral", "correta": false},
+        {"texto": "D) Endividamento", "correta": false},
+        {"texto": "E) Solvência Geral", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A função da contabilidade pública de fornecer informações úteis para que a sociedade avalie a atuação dos governantes é conhecida como função:",
+      "alternativas": [
+        {"texto": "A) Gerencial", "correta": false},
+        {"texto": "B) de Registro", "correta": false},
+        {"texto": "C) de Prestação de Contas (Accountability)", "correta": true, "justificativa": "Correto. A 'Prestação de Contas' (ou Accountability) é uma das funções primordiais da CASP. Ela visa à responsabilização dos gestores perante a sociedade, fornecendo transparência sobre a legalidade, legitimidade e economicidade do uso dos recursos públicos."},
+        {"texto": "D) de Planejamento", "correta": false},
+        {"texto": "E) de Controle Interno", "correta": false}
+      ]
+    }
+  ]
+}

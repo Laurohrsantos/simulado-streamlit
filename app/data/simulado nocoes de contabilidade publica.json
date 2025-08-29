@@ -1,0 +1,224 @@
+{
+  "contabilidade_publica": [
+    {
+      "id": "q1",
+      "questao": "O principal objetivo da Contabilidade Aplicada ao Setor Público (CASP), conforme as NBC TSP, é:",
+      "alternativas": [
+        {"texto": "Substituir o processo de elaboração da LOA.", "correta": false},
+        {"texto": "Fornecer informações úteis para a tomada de decisões, controle e prestação de contas.", "correta": true, "justificativa": "A estrutura conceitual das NBC TSP define que o objetivo da CASP é fornecer informações úteis para o controle interno e externo, a tomada de decisões dos gestores e a prestação de contas (accountability) à sociedade."},
+        {"texto": "Controlar exclusivamente a execução orçamentária.", "correta": false},
+        {"texto": "Restringir o acesso às informações financeiras do Estado.", "correta": false},
+        {"texto": "Padronizar apenas os registros de despesas correntes.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "O princípio orçamentário que determina que a Lei Orçamentária Anual (LOA) deve conter todas as receitas e todas as despesas do ente público é o da:",
+      "alternativas": [
+        {"texto": "Anualidade.", "correta": false},
+        {"texto": "Unidade.", "correta": false},
+        {"texto": "Universalidade.", "correta": true, "justificativa": "O princípio da universalidade, previsto na Lei 4.320/64, estabelece que a LOA deve conter a totalidade das receitas e despesas, sem exclusões, garantindo uma visão completa das finanças públicas."},
+        {"texto": "Especialização.", "correta": false},
+        {"texto": "Equilíbrio.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "De acordo com a Lei 4.320/64, o regime adotado para o reconhecimento das despesas no âmbito da execução orçamentária é o:",
+      "alternativas": [
+        {"texto": "Regime de Caixa.", "correta": false},
+        {"texto": "Regime de Competência.", "correta": true, "justificativa": "Para a execução orçamentária, a Lei 4.320/64 estabelece o regime misto: as receitas são reconhecidas pelo regime de caixa (no momento da arrecadação) e as despesas pelo regime de competência (no momento do empenho, quando surge a obrigação de pagar)."},
+        {"texto": "Regime Misto.", "correta": false},
+        {"texto": "Regime de Exercício.", "correta": false},
+        {"texto": "Regime de Competência Modificado.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "Para a contabilidade patrimonial, conforme as NBC TSP, o regime contábil utilizado é o:",
+      "alternativas": [
+        {"texto": "Regime de Caixa.", "correta": false},
+        {"texto": "Regime de Competência.", "correta": true, "justificativa": "As NBC TSP estabelecem que o regime contábil a ser aplicado é o regime de competência. Nele, as receitas e despesas são reconhecidas no período a que se referem, independentemente do recebimento ou pagamento, para apurar o resultado patrimonial real."},
+        {"texto": "Regime Misto.", "correta": false},
+        {"texto": "Regime Orçamentário.", "correta": false},
+        {"texto": "Regime de Caixa Modificado.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "A função principal do Plano de Contas Aplicado ao Setor Público (PCASP) é:",
+      "alternativas": [
+        {"texto": "Substituir a Lei de Responsabilidade Fiscal.", "correta": false},
+        {"texto": "Estabelecer as metas fiscais para o exercício seguinte.", "correta": false},
+        {"texto": "Padronizar a linguagem e os registros contábeis em todos os entes da Federação.", "correta": true, "justificativa": "O PCASP é um instrumento de padronização nacional. Ele estabelece uma estrutura única de contas para que todos os entes federativos classifiquem seus atos e fatos contábeis da mesma forma, permitindo a consolidação das contas nacionais e a comparabilidade das informações."},
+        {"texto": "Limitar a atuação dos Tribunais de Contas.", "correta": false},
+        {"texto": "Criar novas categorias de receita pública.", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "O estágio da despesa em que se verifica que o bem foi entregue ou o serviço foi realizado, reconhecendo o direito do credor a receber, é denominado:",
+      "alternativas": [
+        {"texto": "Empenho.", "correta": false},
+        {"texto": "Liquidação.", "correta": true, "justificativa": "A liquidação é o estágio da despesa em que se apura o direito do credor, verificando se a obrigação assumida no empenho (fornecimento de bem ou serviço) foi efetivamente cumprida, inclusive seu valor e a conformidade legal."},
+        {"texto": "Pagamento.", "correta": false},
+        {"texto": "Lançamento.", "correta": false},
+        {"texto": "Programação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "Despesas com aquisição de imóveis para instalação de uma nova unidade de saúde são classificadas, por sua natureza, como:",
+      "alternativas": [
+        {"texto": "Despesas Correntes.", "correta": false},
+        {"texto": "Despesas de Capital.", "correta": true, "justificativa": "Despesas de Capital são aquelas que resultam em acréscimo ao patrimônio público, como obras, aquisição de equipamentos e imóveis. A aquisição de um imóvel aumenta o ativo imobilizado do Estado, caracterizando-se como investimento, uma subcategoria das Despesas de Capital."},
+        {"texto": "Receitas Correntes.", "correta": false},
+        {"texto": "Receitas de Capital.", "correta": false},
+        {"texto": "Transferências Correntes.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "Os 'Restos a Pagar' representam:",
+      "alternativas": [
+        {"texto": "Despesas empenhadas no exercício e não pagas até o seu encerramento.", "correta": true, "justificativa": "Restos a Pagar são despesas empenhadas (ou seja, a obrigação legal de pagar foi assumida pela administração) dentro do exercício financeiro, mas que não foram pagas até 31 de dezembro. Eles representam um passivo financeiro a ser pago no exercício seguinte."},
+        {"texto": "Receitas previstas e não arrecadadas no exercício.", "correta": false},
+        {"texto": "Novas despesas autorizadas por créditos adicionais.", "correta": false},
+        {"texto": "O saldo positivo do Balanço Patrimonial.", "correta": false},
+        {"texto": "Despesas pagas antecipadamente.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "Um crédito adicional destinado a reforçar uma dotação orçamentária já existente e insuficiente é classificado como:",
+      "alternativas": [
+        {"texto": "Crédito Suplementar.", "correta": true, "justificativa": "O crédito suplementar é a espécie de crédito adicional destinado precisely to reforçar dotação orçamentária já existente na LOA e que se mostrou insuficiente para a realização da despesa planejada."},
+        {"texto": "Crédito Especial.", "correta": false},
+        {"texto": "Crédito Extraordinário.", "correta": false},
+        {"texto": "Crédito de Reabertura.", "correta": false},
+        {"texto": "Crédito de Anulação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "A demonstração contábil que evidencia, de forma comparativa, as receitas e despesas previstas na LOA em confronto com as realizadas é o:",
+      "alternativas": [
+        {"texto": "Balanço Patrimonial.", "correta": false},
+        {"texto": "Balanço Orçamentário.", "correta": true, "justificativa": "O Balanço Orçamentário (BO) é a demonstração que evidencia o resultado da execução orçamentária. Ele confronta a previsão da receita e a fixação da despesa (LOA) com a receita realizada e a despesa empenhada, mostrando se o orçamento foi cumprido."},
+        {"texto": "Balanço Financeiro.", "correta": false},
+        {"texto": "Demonstração das Variações Patrimoniais.", "correta": false},
+        {"texto": "Demonstração dos Fluxos de Caixa.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "A demonstração contábil que apresenta a situação estática do patrimônio público em uma determinada data, listando Ativo, Passivo e Patrimônio Líquido, é o:",
+      "alternativas": [
+        {"texto": "Balanço Orçamentário.", "correta": false},
+        {"texto": "Balanço Financeiro.", "correta": false},
+        {"texto": "Balanço Patrimonial.", "correta": true, "justificativa": "O Balanço Patrimonial (BP) é a demonstração contábil que evidencia a posição patrimonial e financeira da entidade em um momento específico (normalmente em 31 de dezembro). Ele é estruturado sob a equação fundamental: Ativo = Passivo + Patrimônio Líquido."},
+        {"texto": "Demonstração do Resultado do Exercício.", "correta": false},
+        {"texto": "Demonstração dos Fluxos de Caixa.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "A Demonstração das Variações Patrimoniais (DVP) tem por objetivo evidenciar as mutações que ocorreram no:",
+      "alternativas": [
+        {"texto": "Saldo de Caixa do exercício.", "correta": false},
+        {"texto": "Resultado Orçamentário.", "correta": false},
+        {"texto": "Patrimônio Líquido.", "correta": true, "justificativa": "A DVP demonstra as variações quantitativas e qualitativas que aumentaram ou diminuíram o Patrimônio Líquido no período, segregando-as em Variações Patrimoniais Aumentativas (VPAs) e Variações Patrimoniais Diminutivas (VPDs). Ela explica a mudança no PL entre dois balanços patrimoniais."},
+        {"texto": "Passivo Financeiro.", "correta": false},
+        {"texto": "Ativo Permanente.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "O empréstimo contraído por um município junto a um banco público para financiar uma obra é classificado, para fins de execução orçamentária, como:",
+      "alternativas": [
+        {"texto": "Receita Corrente.", "correta": false},
+        {"texto": "Receita de Capital.", "correta": true, "justificativa": "As operações de crédito (empréstimos e financiamentos) são classificadas como Receitas de Capital, pois representam ingressos de recursos que não provêm da atividade fim do Estado e que geram uma obrigação de pagamento futuro (dívida)."},
+        {"texto": "Despesa Corrente.", "correta": false},
+        {"texto": "Despesa de Capital.", "correta": false},
+        {"texto": "Transferência de Capital.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "Sob a ótica patrimonial das NBC TSP, o pagamento de um empréstimo é classificado como uma despesa:",
+      "alternativas": [
+        {"texto": "Efetiva, pois reduz o patrimônio líquido.", "correta": false},
+        {"texto": "Não Efetiva, pois reduz o ativo (caixa) e o passivo (empréstimo) simultaneamente.", "correta": true, "justificativa": "Despesas Não Efetivas são aquelas que não alteram o Patrimônio Líquido. O pagamento de um empréstimo reduz o Ativo (diminui o caixa) e reduz o Passivo (extingue a dívida) na mesma proporção, mantendo a equação patrimonial (A = P + PL) inalterada."},
+        {"texto": "Orçamentária, pois foi prevista na LOA.", "correta": false},
+        {"texto": "Extraordinária, por ser um evento raro.", "correta": false},
+        {"texto": "Corrente, por envolver fluxo financeiro.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "O princípio contábil que determina que o registro de um ativo deve ser feito pelo valor original da transação é o da:",
+      "alternativas": [
+        {"texto": "Competência.", "correta": false},
+        {"texto": "Oportunidade.", "correta": false},
+        {"texto": "Entidade.", "correta": false},
+        {"texto": "Registro pelo Valor Original.", "correta": true, "justificativa": "Este princípio estabelece que os componentes patrimoniais (ativos e passivos) devem ser registrados contabilmente pelos valores originais das transações, ou seja, pelos valores efetivamente pagos ou a pagar, servindo como base para avaliações subsequentes."},
+        {"texto": "Prudência.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "A fase da receita em que ocorre o fato gerador e é identificado o devedor é denominada:",
+      "alternativas": [
+        {"texto": "Previsão.", "correta": false},
+        {"texto": "Lançamento.", "correta": true, "justificativa": "O lançamento é o ato administrativo que, após a ocorrência do fato gerador, identifica o devedor, determina o valor da dívida e inscreve o montante devido como receita a ser arrecadada. É a contrapartida da receita ao empenho da despesa."},
+        {"texto": "Arrecadação.", "correta": false},
+        {"texto": "Recolhimento.", "correta": false},
+        {"texto": "Programação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A demonstração contábil que evidencia as entradas e saídas de recursos financeiros, classificando-as em atividades operacionais, de investimento e de financiamento, é a:",
+      "alternativas": [
+        {"texto": "Demonstração do Resultado do Exercício.", "correta": false},
+        {"texto": "Demonstração das Variações Patrimoniais.", "correta": false},
+        {"texto": "Demonstração dos Fluxos de Caixa.", "correta": true, "justificativa": "A Demonstração dos Fluxos de Caixa (DFC) evidencia as alterações no saldo de caixa e equivalentes de caixa de um período, agrupando-as em três categorias: fluxos das atividades Operacionais, de Investimento e de Financiamento."},
+        {"texto": "Balanço Financeiro.", "correta": false},
+        {"texto": "Balanço Orçamentário.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "Um valor recebido antecipadamente por um ente público para a prestação de um serviço futuro é reconhecido contabilmente, no momento do recebimento, como:",
+      "alternativas": [
+        {"texto": "Receita Orçamentária Corrente.", "correta": false},
+        {"texto": "Receita Patrimonial Efetiva.", "correta": false},
+        {"texto": "Passivo Financeiro.", "correta": true, "justificativa": "Sob o regime de competência, um adiantamento recebido não constitui receita, pois o serviço ainda não foi prestado (o fato gerador não ocorreu). Esse valor é registrado como um passivo (uma obrigação de prestar o serviço ou devolver o valor) até que a contraprestação seja realizada."},
+        {"texto": "Patrimônio Líquido.", "correta": false},
+        {"texto": "Ativo Compensado.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "O princípio orçamentário que veda a realização de despesa não autorizada previamente pela LOA é o da:",
+      "alternativas": [
+        {"texto": "Legalidade.", "correta": false},
+        {"texto": "Anualidade.", "correta": false},
+        {"texto": "Especialização.", "correta": false},
+        {"texto": "Universalidade.", "correta": false},
+        {"texto": "Exclusividade.", "correta": true, "justificativa": "O princípio da exclusividade, previsto no art. 165, §8º da CF, estabelece que a lei orçamentária não conterá dispositivo estranho à previsão da receita e à fixação da despesa. Isso significa que a LOA não pode 'autorizar' despesas por vias laterais, garantindo que toda despesa seja prevista e detalhada em seu texto."}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A despesa com o pagamento de salários do pessoal ativo da administração direta é classificada economicamente como:",
+      "alternativas": [
+        {"texto": "Despesa de Capital - Investimentos.", "correta": false},
+        {"texto": "Despesa Corrente - Pessoal e Encargos Sociais.", "correta": true, "justificativa": "Despesas Correntes são aquelas destinadas à manutenção e ao funcionamento dos serviços públicos. A despesa com salários do pessoal ativo se enquadra na categoria econômica 'Despesas Correntes' e na função 'Pessoal e Encargos Sociais'."},
+        {"texto": "Despesa Corrente - Transferências à Sociedade.", "correta": false},
+        {"texto": "Despesa de Capital - Inversões Financeiras.", "correta": false},
+        {"texto": "Despesa Financeira - Juros da Dívida.", "correta": false}
+      ]
+    }
+  ]
+}

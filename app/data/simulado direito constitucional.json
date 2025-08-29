@@ -1,0 +1,224 @@
+{
+  "direito_constitucional": [
+    {
+      "id": "q1",
+      "questao": "A Constituição Federal de 1988 é considerada formalmente rígida porque:",
+      "alternativas": [
+        {"texto": "seu conteúdo é imutável e não pode ser alterado por nenhum procedimento.", "correta": false},
+        {"texto": "seu processo de modificação é mais dificultoso que o das leis ordinárias.", "correta": true, "justificativa": "A rigidez constitucional decorre da existência de um processo legislativo especial e mais solene para a elaboração de emendas constitucionais (Art. 60 da CF), diferenciando-se do processo para leis ordinárias. Isso garante a supremacia da Constituição."},
+        {"texto": "foi elaborada por uma assembleia nacional constituinte.", "correta": false},
+        {"texto": "está escrita em um único documento solene.", "correta": false},
+        {"texto": "seu texto é extremamente detalhado e analítico.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "Uma norma constitucional que estabelece um programa de atuação futura do Estado, dependendo de regulamentação legislativa para produzir efeitos plenos, é classificada como norma de eficácia:",
+      "alternativas": [
+        {"texto": "plena.", "correta": false},
+        {"texto": "contida.", "correta": false},
+        {"texto": "limitada ou programática.", "correta": true, "justificativa": "As normas de eficácia limitada (ou programáticas) estabelecem diretrizes, programas e metas para o Estado, mas dependem da edição de uma lei integrativa infraconstitucional para que se tornem plenamente aplicáveis. Exemplo clássico: os direitos sociais do Art. 6º da CF."},
+        {"texto": "absoluta.", "correta": false},
+        {"texto": "imediata.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "O poder de elaborar uma nova Constituição, sendo inicial, soberano e ilimitado juridicamente, é denominado:",
+      "alternativas": [
+        {"texto": "Poder Constituinte Derivado Reformador.", "correta": false},
+        {"texto": "Poder Constituinte Derivado Decorrente.", "correta": false},
+        {"texto": "Poder Constituinte Originário.", "correta": true, "justificativa": "O Poder Constituinte Originário é o poder fundacional, que emana do povo (titular do poder) e é exercido para criar uma nova ordem constitucional. Ele é inicial, autônomo, incondicionado e ilimitado juridicamente, não devendo obediência a nenhuma forma anterior."},
+        {"texto": "Poder Reformista.", "correta": false},
+        {"texto": "Poder Legislativo Ordinário.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "O controle de constitucionalidade no qual qualquer juiz ou tribunal pode deixar de aplicar uma lei a um caso concreto por entendê-la incompatível com a Constituição é denominado:",
+      "alternativas": [
+        {"texto": "controle abstrato de constitucionalidade.", "correta": false},
+        {"texto": "controle concentrado.", "correta": false},
+        {"texto": "controle incidental ou difuso.", "correta": true, "justificativa": "No controle difuso (ou incidental), a questão da inconstitucionalidade é levantada dentro de um caso concreto em juízo. O juiz analisa a arguição e, se acolhida, declara a inconstitucionalidade apenas para aquele caso específico, sem revogar a lei do ordenamento. É um controle concreto."},
+        {"texto": "controle principal.", "correta": false},
+        {"texto": "controle por ação direta.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "A ação direta perante o STF que tem por objetivo declarar a inconstitucionalidade de uma lei ou ato normativo federal ou estadual, com efeito erga omnes e vinculante, é a:",
+      "alternativas": [
+        {"texto": "Arguição de Descumprimento de Preceito Fundamental (ADPF).", "correta": false},
+        {"texto": "Ação Declaratória de Constitucionalidade (ADC).", "correta": false},
+        {"texto": "Ação Direta de Inconstitucionalidade por Omissão (ADO).", "correta": false},
+        {"texto": "Ação Direta de Inconstitucionalidade (ADI).", "correta": true, "justificativa": "A ADI é a ação típica do controle concentrado abstrato. É proposta por um dos legitimados listados no Art. 103 da CF e tem por objetivo questionar a validade de uma lei ou ato normativo em tese, perante o STF. A decisão que acolhe a ADI tem eficácia contra todos (erga omnes) e efeito vinculante."},
+        {"texto": "Mandado de Injunção (MI).", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "De acordo com a Súmula Vinculante 3 do STF, os Tribunais de Contas:",
+      "alternativas": [
+        {"texto": "são órgãos de natureza constitucional autônoma, não integrando o Poder Judiciário.", "correta": true, "justificativa": "A Súmula Vinculante 3 do STF pacificou entendimento de que os Tribunais de Contas, embora exerçam função jurisdicional ao julgar contas, não integram a estrutura do Poder Judiciário. São órgãos constitucionais autônomos, com natureza jurídica própria, auxiliando o Poder Legislativo no controle externo."},
+        {"texto": "integram a estrutura do Poder Executivo para fins de controle interno.", "correta": false},
+        {"texto": "estão hierarquicamente subordinados ao Supremo Tribunal Federal.", "correta": false},
+        {"texto": "são órgãos do Poder Legislativo.", "correta": false},
+        {"texto": "suas decisões são irreversíveis pelo Poder Judiciário.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "A competência para fiscalizar a aplicação de recursos repassados pela União aos Estados e Municípios, nos termos da Constituição Federal, é do(a):",
+      "alternativas": [
+        {"texto": "Controladoria-Geral da União (CGU).", "correta": false},
+        {"texto": "Tribunal de Contas da União (TCU).", "correta": true, "justificativa": "O Art. 71, V, da CF/88 atribui expressamente ao TCU a competência para 'fiscalizar a aplicação de quaisquer recursos repassados pela União mediante convênio, acordo, ajuste ou outros instrumentos congêneres, a Estado, ao Distrito Federal ou a Município'. Por simetria, os TCEs fiscalizam os repassos feitos pelos Estados."},
+        {"texto": "Congresso Nacional.", "correta": false},
+        {"texto": "Ministério Público Federal.", "correta": false},
+        {"texto": "Presidência da República.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "O princípio constitucional que veda a utilização de tributo com efeito de confisco está relacionado à garantia fundamental de:",
+      "alternativas": [
+        {"texto": "inviolabilidade do direito à propriedade.", "correta": true, "justificativa": "O Art. 5º, XXII, da CF garante o direito de propriedade. O inciso XXIV do mesmo artigo estabelece que a lei estabelecerá o procedimento para desapropriação por necessidade ou utilidade pública, ou por interesse social, com justa e prévia indenização. O Art. 150, IV, veda o uso de tributo com efeito de confisco, que seria uma forma de desapropriação indireta e sem indenização, protegendo assim o núcleo essencial do direito de propriedade."},
+        {"texto": "livre iniciativa.", "correta": false},
+        {"texto": "isonomia tributária.", "correta": false},
+        {"texto": "anterioridade nonagesimal.", "correta": false},
+        {"texto": "irretroatividade tributária.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "A função institucional do Ministério Público, conforme a Constituição Federal, é:",
+      "alternativas": [
+        {"texto": "representar judicialmente a União.", "correta": false},
+        {"texto": "defender os necessitados judicialmente.", "correta": false},
+        {"texto": "fiscalizar o cumprimento da lei, defendendo a ordem jurídica e os interesses sociais.", "correta": true, "justificativa": "O Art. 127 da CF define o Ministério Público como instituição permanente essencial à função jurisdicional do Estado, incumbindo-lhe a defesa da ordem jurídica, do regime democrático e dos interesses sociais e individuais indisponíveis. Ele atua como 'fiscal da lei'."},
+        {"texto": "prestar consultoria jurídica aos Poderes Executivo e Legislativo.", "correta": false},
+        {"texto": "exercer o controle externo da atividade policial.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "A Arguição de Descumprimento de Preceito Fundamental (ADPF) tem como objeto:",
+      "alternativas": [
+        {"texto": "apenas leis ou atos normativos federais.", "correta": false},
+        {"texto": "apenas omissões legislativas inconstitucionais.", "correta": false},
+        {"texto": "evitar ou reparar lesão a preceito fundamental, decorrente de ato de qualquer poder público.", "correta": true, "justificativa": "A ADPF, prevista no Art. 102, §1º, e regulamentada pela Lei 9.882/99, é um instrumento amplo de controle concentrado. Seu objetivo é evitar ou reparar lesão a preceito fundamental (normas centrais da CF) resultante de ato do Poder Público (qualquer um dos Poderes e esferas), podendo ter como objeto até mesmo atos jurídicos concretos, na forma da lei."},
+        {"texto": "apreciar a constitucionalidade de tratados internacionais.", "correta": false},
+        {"texto": "questionar decisões judiciais já transitadas em julgado.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "A competência legislativa privativa da União, que pode ser delegada aos Estados por lei complementar, está prevista no:",
+      "alternativas": [
+        {"texto": "Art. 22 da CF.", "correta": true, "justificativa": "O Art. 22 da CF enumera as matérias de competência legislativa privativa da União. O parágrafo único do mesmo artigo estabelece que 'lei complementar poderá autorizar os Estados a legislar sobre questões específicas das matérias relacionadas neste artigo', caracterizando a delegação legislativa."},
+        {"texto": "Art. 21 da CF.", "correta": false},
+        {"texto": "Art. 23 da CF.", "correta": false},
+        {"texto": "Art. 24 da CF.", "correta": false},
+        {"texto": "Art. 25 da CF.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "O princípio da anterioridade nonagesimal, aplicável ao direito tributário, estabelece que:",
+      "alternativas": [
+        {"texto": "a lei que institui ou majora um tributo só pode ser cobrada após 90 dias de sua publicação.", "correta": true, "justificativa": "A anterioridade nonagesimal (ou 'noventena') é uma regra do Direito Tributário brasileiro, prevista no Art. 150, III, 'c', da CF. Ela estabelece que, salvo exceções constitucionais expressas, os tributos não podem ser cobrados antes de decorridos 90 dias da data em que haja sido publicada a lei que os instituiu ou aumentou. É uma garantia adicional à anterioridade anual."},
+        {"texto": "o exercício financeiro deve ter duração de 90 dias.", "correta": false},
+        {"texto": "o contribuinte tem 90 dias para recorrer de uma cobrança tributária.", "correta": false},
+        {"texto": "a União deve repassar aos Estados 90% dos tributos arrecadados.", "correta": false},
+        {"texto": "a lei orçamentária deve ser votada 90 dias antes do início do exercício.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "A função atípica exercida pelo Poder Executivo quando edita uma Medida Provisória é a função:",
+      "alternativas": [
+        {"texto": "judicial.", "correta": false},
+        {"texto": "legislativa.", "correta": true, "justificativa": "Cada Poder tem uma função típica (Executivo: administrar; Legislativo: legislar; Judiciário: julgar). No entanto, também exercem funções atípicas. A edição de Medidas Provisórias pelo Presidente da República (Art. 62 da CF) é um exemplo clássico de exercício atípico da função legislativa pelo Chefe do Poder Executivo."},
+        {"texto": "administrativa.", "correta": false},
+        {"texto": "fiscalizatória.", "correta": false},
+        {"texto": "controladora.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "Os direitos sociais, previstos no Art. 6º da Constituição Federal, têm como característica principal:",
+      "alternativas": [
+        {"texto": "serem absolutos e ilimitados.", "correta": false},
+        {"texto": "exigirem prestações positivas do Estado para sua concretização.", "correta": true, "justificativa": "Os direitos sociais (como educação, saúde, trabalho, moradia) são direitos fundamentais de segunda dimensão. Sua característica marcante é exigir uma atuação positiva (prestações materiais) do Estado para sua efetiva realização. Muitos deles são normas de eficácia limitada, dependendo de políticas públicas e da alocação de recursos para serem plenamente usufruídos."},
+        {"texto": "não poderem ser alegados em juízo.", "correta": false},
+        {"texto": "serem aplicáveis apenas aos brasileiros natos.", "correta": false},
+        {"texto": "estarem isentos de controle de constitucionalidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "A competência comum da União, Estados, Distrito Federal e Municípios, para legislar concorrentemente, está prevista no:",
+      "alternativas": [
+        {"texto": "Art. 23 da CF.", "correta": false},
+        {"texto": "Art. 24 da CF.", "correta": true, "justificativa": "O Art. 24 da CF trata da competência legislativa concorrente entre União, Estados e Distrito Federal. Nele, a União edita normas gerais, enquanto aos Estados (e DF) compete suplementar essa legislação, de acordo com suas peculiaridades. Os Municípios podem legislar sobre assuntos de interesse local, suplementando a legislação federal e estadual no que couber (Art. 30, I e II)."},
+        {"texto": "Art. 22 da CF.", "correta": false},
+        {"texto": "Art. 21 da CF.", "correta": false},
+        {"texto": "Art. 25 da CF.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "O instrumento constitucional que visa combater a omissão legislativa que torna inviável o exercício de direitos constitucionais é o:",
+      "alternativas": [
+        {"texto": "Mandado de Segurança.", "correta": false},
+        {"texto": "Mandado de Injunção.", "correta": true, "justificativa": "O Mandado de Injunção, previsto no Art. 5º, LXXI, da CF, é uma ação constitucional concedida sempre que a falta de norma regulamentadora torne inviável o exercício dos direitos e liberdades constitucionais e das prerrogativas inerentes à nacionalidade, à soberania e à cidadania. Seu objetivo é superar a omissão inconstitucional."},
+        {"texto": "Habeas Corpus.", "correta": false},
+        {"texto": "Habeas Data.", "correta": false},
+        {"texto": "Ação Popular.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A Súmula Vinculante 347 do STF conferiu aos Tribunais de Contas a competência para:",
+      "alternativas": [
+        {"texto": "julgar definitivamente as contas do Presidente da República.", "correta": false},
+        {"texto": "decretar medidas cautelares para proteger o erário.", "correta": true, "justificativa": "A Súmula Vinculante 347 do STF estabelece que 'Os Tribunais de Contas, no exercício de suas atribuições, podem decretar medidas cautelares, inclusive com o objetivo de sustar licitação e impedir a realização de despesa.' Este é o famoso 'poder geral de cautela' dos TCs, fundamental para uma atuação eficaz na proteção do patrimônio público."},
+        {"texto": "apreciar a constitucionalidade de leis estaduais.", "correta": false},
+        {"texto": "expedir decretos legislativos.", "correta": false},
+        {"texto": "sustar os atos normativos do Poder Executivo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "O princípio constitucional que veda a submissão de alguém a julgamento por tribunal de exceção está relacionado à garantia do:",
+      "alternativas": [
+        {"texto": "juiz natural.", "correta": true, "justificativa": "A garantia do juiz natural (ou juiz competente) está prevista no Art. 5º, XXXVII e LIII, da CF. Ela assegura que ninguém será processado ou sentenciado senão pela autoridade competente e segundo as leis preexistentes ao fato. A vedação aos tribunais de exceção (órgãos criados após o fato para julgá-lo) é uma decorrência direta deste princípio, que visa evitar a perseguição política ou judicial."},
+        {"texto": "devido processo legal.", "correta": false},
+        {"texto": "contraditório e ampla defesa.", "correta": false},
+        {"texto": "presunção de inocência.", "correta": false},
+        {"texto": "acesso ao judiciário.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "A competência para processar e julgar, originariamente, o Presidente da República por crimes de responsabilidade é do:",
+      "alternativas": [
+        {"texto": "Supremo Tribunal Federal (STF).", "correta": false},
+        {"texto": "Superior Tribunal de Justiça (STJ).", "correta": false},
+        {"texto": "Tribunal Regional Federal (TRF).", "correta": false},
+        {"texto": "Congresso Nacional.", "correta": true, "justificativa": "O processo por crimes de responsabilidade (impeachment) do Presidente da República é de competência política do Congresso Nacional, conforme previsão do Art. 52, I, da CF. A Câmara dos Deputados autoriza a instauração do processo por 2/3 de seus membros, e o Senado Federal processa e julga, presidido pelo Presidente do STF."},
+        {"texto": "Tribunal de Contas da União (TCU).", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "O princípio da publicidade dos atos da administração pública, previsto no Art. 37 da CF, está diretamente associado ao objetivo constitucional de:",
+      "alternativas": [
+        {"texto": "eficiência.", "correta": false},
+        {"texto": "impessoalidade.", "correta": false},
+        {"texto": "moralidade.", "correta": false},
+        {"texto": "transparência e controle social.", "correta": true, "justificativa": "O princípio da publicidade, inserido no caput do Art. 37 da CF, é essencial para a concretização da transparência na administração pública. Ao determinar que os atos administrativos sejam públicos, permite que a sociedade tenha acesso às informações e possa exercer o controle social sobre a gestão pública, fortalecendo a democracia e a accountability."},
+        {"texto": "legalidade.", "correta": false}
+      ]
+    }
+  ]
+}

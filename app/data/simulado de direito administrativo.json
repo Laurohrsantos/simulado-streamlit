@@ -1,0 +1,224 @@
+{
+  "direito_administrativo": [
+    {
+      "id": "q1",
+      "questao": "O princípio da Administração Pública que determina que o agente deve atuar com ética, honestidade e boa-fé, extrapolando a mera legalidade, é o princípio da:",
+      "alternativas": [
+        {"texto": "Legalidade.", "correta": false},
+        {"texto": "Moralidade.", "correta": true, "justificativa": "O princípio da moralidade, embora relacionado à legalidade, impõe um dever de conduta ética e proba que vai além do simples cumprimento da lei. Está implícito no Art. 37 da CF e foi explicitado pela doutrina e jurisprudência."},
+        {"texto": "Impessoalidade.", "correta": false},
+        {"texto": "Eficiência.", "correta": false},
+        {"texto": "Publicidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "Um prefeito municipal, visando beneficiar um amigo, revoga uma licitação válida e regularmente realizada, alegando 'interesse público'. Tal conduta caracteriza:",
+      "alternativas": [
+        {"texto": "Anulação do ato, por vício de legalidade.", "correta": false},
+        {"texto": "Exercício regular do poder discricionário.", "correta": false},
+        {"texto": "Desvio de finalidade, configurando abuso de poder.", "correta": true, "justificativa": "O desvio de finalidade ocorre quando o agente pratica o ato por motivo diverso daquele previsto explicitamente ou implicitamente na regra de competência. O interesse público declarado serve para mascarar um interesse privado (beneficiar um amigo), configurando abuso de poder."},
+        {"texto": "Uso legítimo do poder hierárquico.", "correta": false},
+        {"texto": "Aplicação do princípio da eficiência.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "A União, por meio de lei específica, cria uma entidade com personalidade jurídica de direito público para exercer atividades típicas do Estado. Essa entidade é classificada como:",
+      "alternativas": [
+        {"texto": "Empresa Pública.", "correta": false},
+        {"texto": "Sociedade de Economia Mista.", "correta": false},
+        {"texto": "Autarquia.", "correta": true, "justificativa": "As autarquias são pessoas jurídicas de direito público, criadas por lei específica, para desempenhar atividades típicas da Administração Pública de forma descentralizada. Sua característica essencial é o regime jurídico predominantemente público."},
+        {"texto": "Fundação Pública de Direito Privado.", "correta": false},
+        {"texto": "Organização Social.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "A teoria adotada pela Constituição Federal de 1988 para a responsabilidade civil do Estado por danos causados por seus agentes é:",
+      "alternativas": [
+        {"texto": "Subjetiva, baseada na culpa do agente.", "correta": false},
+        {"texto": "Objetiva, independentemente de culpa.", "correta": true, "justificativa": "O Art. 37, §6º, da CF, estabelece que 'as pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos responderão pelos danos que seus agentes, nessa qualidade, causarem a terceiros, assegurado o direito de regresso contra o responsável nos casos de dolo ou culpa'. A redação demonstra a adoção da teoria do risco administrativo (responsabilidade objetiva)."},
+        {"texto": "Subjetiva, baseada no dolo do agente.", "correta": false},
+        {"texto": "Objetiva, mas apenas para danos materiais.", "correta": false},
+        {"texto": "Híbrida, dependendo do tipo de agente.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "De acordo com a Lei nº 14.133/2021 (Nova Lei de Licitações), a modalidade de licitação que utiliza a disputa por lances em sessão pública, preferencialmente eletrônica, para a aquisição de bens e serviços comuns é o:",
+      "alternativas": [
+        {"texto": "Concurso.", "correta": false},
+        {"texto": "Pregão.", "correta": true, "justificativa": "O Pregão, previsto nos Arts. 80 a 113 da Lei 14.133/2021, é a modalidade de licitação destinada à aquisição de bens e serviços comuns, qualquer que seja o valor estimado da contratação, caracterizada pela disputa por lances, preferencialmente na forma eletrônica."},
+        {"texto": "Concorrência.", "correta": false},
+        {"texto": "Leilão.", "correta": false},
+        {"texto": "Diálogo Competitivo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "A Lei de Improbidade Administrativa (Lei nº 8.429/1992) estabelece que ato que importa enriquecimento ilícito do agente público acarretará, entre outras sanções:",
+      "alternativas": [
+        {"texto": "apenas a perda da função pública.", "correta": false},
+        {"texto": "a perda dos bens ou valores acrescidos illicitamente ao patrimônio.", "correta": true, "justificativa": "Conforme disposto no Art. 12 da Lei 8.429/1992, para os atos de enriquecimento ilícito (Art. 9º), uma das cominações é a perda dos bens ou valores acrescidos illicitamente ao patrimônio, ressarcimento integral do dano (se houver) e pagamento de multa civil."},
+        {"texto": "apenas suspensão dos direitos políticos.", "correta": false},
+        {"texto": "apenas proibição de contratar com o Poder Público.", "correta": false},
+        {"texto": "pena de reclusão automaticamente.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "A Lei de Acesso à Informação (LAI - Lei nº 12.527/2011) estabelece que a publicidade é a regra e o sigilo, a exceção. As hipóteses de sigilo estão relacionadas a informações que possam:",
+      "alternativas": [
+        {"texto": "causar constrangimento a qualquer agente público.", "correta": false},
+        {"texto": "prejudicar a imagem do órgão público perante a sociedade.", "correta": false},
+        {"texto": "comprometer a segurança da sociedade ou do Estado.", "correta": true, "justificativa": "A LAI, em seu Art. 7º, prevê as hipóteses restritivas de acesso, sempre lastreadas em motivos de interesse público. O sigilo é permitido para informações imprescindíveis à segurança da sociedade ou do Estado, como aquelas relativas a planos de operações das Forças Armadas ou projetos de pesquisa desenvolvidos por instituições oficialmente credenciadas."},
+        {"texto": "revelar qualquer dado sobre processos licitatórios.", "correta": false},
+        {"texto": "dificultar o andamento de qualquer procedimento interno.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "A hipótese em que a Administração Pública pode, por sua exclusiva vontade, rescindir um contrato administrativo em razão do inadimplemento do contratado denomina-se:",
+      "alternativas": [
+        {"texto": "Rescisão Judicial.", "correta": false},
+        {"texto": "Rescisão Amigável.", "correta": false},
+        {"texto": "Rescisão Administrativa.", "correta": true, "justificativa": "A rescisão administrativa é uma das cláusulas exorbitantes típicas dos contratos administrativos. Prevista no Art. 139, IV, da Lei 14.133/2021, permite que a Administração, de forma unilateral, rescinda o contrato em caso de descumprimento de cláusulas contratuais pelo particular, garantindo o princípio da continuidade do serviço público."},
+        {"texto": "Rescisão por Fato do Príncipe.", "correta": false},
+        {"texto": "Rescisão por Força Maior.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "De acordo com a LGPD (Lei nº 13.709/2018), para o tratamento de dados pessoais pela Administração Pública, a base legal mais adequada para a execução de políticas públicas é:",
+      "alternativas": [
+        {"texto": "o consentimento inequívoco do titular.", "correta": false},
+        {"texto": "o legítimo interesse do controlador.", "correta": false},
+        {"texto": "o cumprimento de obrigação legal ou pelo exercício regular de direitos em processo judicial.", "correta": false},
+        {"texto": "a execução de políticas públicas previstas em leis ou regulamentos.", "correta": true, "justificativa": "O Art. 7º, V, da LGPD, ao tratar das hipóteses lícitas de tratamento de dados, estabelece como uma delas 'para a execução de políticas públicas previstas em leis ou regulamentos'. Esta é a base legal típica para a atuação da Administração Pública, dispensando, em muitos casos, o consentimento específico do cidadão para o tratamento de seus dados necessários à prestação do serviço."},
+        {"texto": "a proteção do crédito.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "A característica dos bens públicos que impede sua aquisição por usucapião é a:",
+      "alternativas": [
+        {"texto": "Impenhorabilidade.", "correta": false},
+        {"texto": "Imprescritibilidade.", "correta": true, "justificativa": "A imprescritibilidade, prevista no Art. 102, II, do Código Civil, é a característica dos bens públicos que os torna insuscetíveis de aquisição por usucapião. Isso significa que o simples passar do tempo, mesmo com posse prolongada por um particular, não transfere a propriedade do bem público."},
+        {"texto": "Inalienabilidade.", "correta": false},
+        {"texto": "Não Oneração.", "correta": false},
+        {"texto": "Autoexecutoriedade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "O poder administrativo que permite à autoridade hierarquicamente superior dar ordens, fiscalizar e avocar atividades de seus subordinados é o poder:",
+      "alternativas": [
+        {"texto": "de Polícia.", "correta": false},
+        {"texto": "Regulamentar.", "correta": false},
+        {"texto": "Hierárquico.", "correta": true, "justificativa": "O poder hierárquico é instrumento de ordenação, distribuição e controle das atividades internas da Administração. Por meio dele, os superiores orientam, coordenam e fiscalizam o trabalho dos subordinados, podendo delega tasks, avocar atribuições e aplicar medidas disciplinares, mantendo a unidade de comando."},
+        {"texto": "Discricionário.", "correta": false},
+        {"texto": "Vinculado.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "A anulação de um ato administrativo ilegítimo:",
+      "alternativas": [
+        {"texto": "depende de comprovação de prejuízo ao erário.", "correta": false},
+        {"texto": "pode ser feita pela própria Administração ou pelo Poder Judiciário, retroagindo os efeitos.", "correta": true, "justificativa": "A anulação é a declaração de invalidade de um ato administrativo que nasceu com vício insanável de legalidade. Pode ser realizada pela própria Administração (autotutela) ou pelo Poder Judiciário. Seus efeitos são retroativos (ex tunc), buscando desfazer todos os efeitos jurídicos produzidos pelo ato viciado, como se ele nunca tivesse existido."},
+        {"texto": "só pode ser decretada pelo Poder Judiciário.", "correta": false},
+        {"texto": "extingue os efeitos do ato apenas para o futuro.", "correta": false},
+        {"texto": "requer a demonstração de má-fé do agente público.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "A delegação da prestação de serviço público à iniciativa privada, feita por licitação, mediante contrato, transferindo a execução e os riscos do negócio ao concessionário, que será remunerado pela tarifa paga pelo usuário, é denominada:",
+      "alternativas": [
+        {"texto": "Permissão de Serviço Público.", "correta": false},
+        {"texto": "Autorização de Serviço Público.", "correta": false},
+        {"texto": "Concessão de Serviço Público.", "correta": true, "justificativa": "A concessão de serviço público é regime jurídico previsto na Constituição (Art. 175) e regulado pela Lei 8.987/1995. Envolve a transferência da execução do serviço, por licitação, a uma empresa privada (concessionária), que assume os riscos da exploração e se remunera diretamente com os pagamentos dos usuários (tarifas). A Administração concede, fiscaliza e intervém se necessário."},
+        {"texto": "Terceirização de Serviço Público.", "correta": false},
+        {"texto": "Privatização.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "A Lei de Abuso de Autoridade (Lei nº 13.869/2019) define como infração à honra objetiva do administrado, praticada por agente público, com o fim de:",
+      "alternativas": [
+        {"texto": "obter vantagem indevida para si ou para outrem.", "correta": false},
+        {"texto": "retardar ou dificultar o exercício de direito ou a prestação de serviço público.", "correta": true, "justificativa": "A Lei 13.869/2019 tipifica condutas abusivas de agentes públicos. O Art. 4º define como crime de abuso de autoridade, entre outros, 'retardar ou deixar de praticar indevidamente ato de ofício, ou praticá-lo contra disposição expressa de lei, para satisfazer interesse ou sentimento pessoal' e 'cessar ou retardar, sem justo motivo, prestação de serviço público ou funcional'. A conduta visa dificultar o exercício de direito pelo cidadão."},
+        {"texto": "causar dano patrimonial à Administração Pública.", "correta": false},
+        {"texto": "omitir informação necessária ao controle social.", "correta": false},
+        {"texto": "praticar ato de improbidade administrativa.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "A modalidade de licitação dispensável, prevista na Lei nº 14.133/2021, que se aplica a contratações de pequeno valor, dentro dos limites estabelecidos em lei, é a:",
+      "alternativas": [
+        {"texto": "Inexigibilidade.", "correta": false},
+        {"texto": "Dispensa de Licitação.", "correta": true, "justificativa": "A dispensa de licitação, regulada no Art. 113 da Lei 14.133/2021, é a modalidade que permite a contratação direta, sem competição, para aquisições de bens e serviços de baixo valor, dentro dos limites estabelecidos pela própria lei (atualmente, até R$ 53.000,00 para obras e serviços de engenharia, e até R$ 17.600,00 para outras contratações, para a União)."},
+        {"texto": "Concorrência.", "correta": false},
+        {"texto": "Pregão.", "correta": false},
+        {"texto": "Leilão.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "O princípio da Administração Pública que veda promoções pessoais ou a utilização de símbolos ou imagens que privilegiem autoridades em detrimento do anonimato do Estado é o da:",
+      "alternativas": [
+        {"texto": "Legalidade.", "correta": false},
+        {"texto": "Impessoalidade.", "correta": true, "justificativa": "O princípio da impessoalidade (ou finalidade) veda a atuação da Administração com objetivo de prejudicar ou beneficiar pessoas determinadas. Aplicado à publicidade, proíbe a promoção pessoal de agentes ou autoridades, determinando que a divulgação de atos deve focar o órgão ou a entidade, e não o indivíduo, garantindo que a administração sirva a todos indistintamente."},
+        {"texto": "Moralidade.", "correta": false},
+        {"texto": "Publicidade.", "correta": false},
+        {"texto": "Eficiência.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A hipótese em que a Administração Pública pode, motivadamente, deixar de licitar por existir fornecedor único no mercado para um determinado bem ou serviço é denominada:",
+      "alternativas": [
+        {"texto": "Dispensa de Licitação.", "correta": false},
+        {"texto": "Inexigibilidade de Licitação.", "correta": true, "justificativa": "A inexigibilidade de licitação, prevista no Art. 114 da Lei 14.133/2021, ocorre nas hipóteses em que a competição é inviável. A mais comum é a de fornecedor único, devidamente comprovada, para obras, serviços, bens ou profissionais de caráter exclusivo. Diferente da dispensa (baixo valor), a inexigibilidade justifica-se pela singularidade do objeto."},
+        {"texto": "Contratação Direta.", "correta": false},
+        {"texto": "Licitação Deserta.", "correta": false},
+        {"texto": "Fração de Contrato.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "A Lei das Estatais (Lei nº 13.303/2016) estabelece regras de governança e transparência para as empresas:",
+      "alternativas": [
+        {"texto": "públicas e sociedades de economia mista.", "correta": true, "justificativa": "A Lei 13.303/2016 dispõe estatutariamente sobre o regime jurídico das empresas públicas e das sociedades de economia mista, sejam elas prestadoras de serviço público ou exploradoras de atividade econômica. A lei estabelece normas específicas de governança, transparência, contratações e controle para essas entidades da Administração Indireta."},
+        {"texto": "públicas e autarquias.", "correta": false},
+        {"texto": "privadas que contratam com o Poder Público.", "correta": false},
+        {"texto": "de economia mista e fundações públicas.", "correta": false},
+        {"texto": "públicas, sociedades de economia mista e autarquias.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "A atividade da Administração Pública que limita o exercício de direitos individuais em prol do interesse público, fundamentando-se no poder de polícia, é exercida por meio de:",
+      "alternativas": [
+        {"texto": "atos de império, que são bilaterais.", "correta": false},
+        {"texto": "atos de gestão, que são discricionários.", "correta": false},
+        {"texto": "atos de gestão, que são vinculados.", "correta": false},
+        {"texto": "atos de império, que são unilaterais e coercíveis.", "correta": true, "justificativa": "O poder de polícia é exercido por meio de atos unilaterais (decisão da Administração por si só) e coercíveis (podem ser impostos independentemente da vontade do particular), que limitam direitos individuais em benefício do interesse coletivo. São atos de império, onde a Administração age com supremacia perante o administrado."},
+        {"texto": "contratos administrativos, que são onerosos.", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A característica do ato administrativo que permite à Administração executá-lo diretamente, sem necessidade de intervenção prévia do Poder Judiciário, é a:",
+      "alternativas": [
+        {"texto": "Presunção de Legitimidade.", "correta": false},
+        {"texto": "Imperatividade.", "correta": false},
+        {"texto": "Autoexecutoriedade.", "correta": true, "justificativa": "A autoexecutoriedade é a característica que confere à Administração Pública a capacidade de, por seus próprios meios, tornar efetivo o seu ato, assegurando seu cumprimento imediato, sem depender de autorização judicial prévia. Não é absoluta e depende de previsão legal, sendo comum em atos de polícia administrativa (ex.: interdição de um estabelecimento irregular)."},
+        {"texto": "Tipicidade.", "correta": false},
+        {"texto": "Discricionariedade.", "correta": false}
+      ]
+    }
+  ]
+}

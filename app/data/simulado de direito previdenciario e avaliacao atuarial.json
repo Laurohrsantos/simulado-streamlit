@@ -1,0 +1,224 @@
+{
+  "Direito Previdenciário e Avaliação Atuarial": [
+    {
+      "id": "q1",
+      "questao": "Qual Emenda Constitucional estabeleceu pela primeira vez a idade mínima para aposentadoria dos servidores públicos?",
+      "alternativas": [
+        {"texto": "EC 41/2003", "correta": false},
+        {"texto": "EC 20/1998", "correta": true, "justificativa": "Correto. A EC 20/1998 foi um marco ao introduzir a idade mínima de 53 anos para homem e 48 para mulher, além dos requisitos de tempo de contribuição e de serviço público, rompendo com a tradição da aposentadoria apenas por tempo de contribuição."},
+        {"texto": "EC 103/2019", "correta": false},
+        {"texto": "EC 70/2012", "correta": false},
+        {"texto": "EC 47/2005", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "Qual lei é considerada a lei de custeio dos Regimes Próprios de Previdência Social (RPPS)?",
+      "alternativas": [
+        {"texto": "Lei 8.213/1991", "correta": false},
+        {"texto": "Lei 9.796/1999", "correta": false},
+        {"texto": "Lei 9.717/1998", "correta": true, "justificativa": "Correto. A Lei nº 9.717/1998 dispõe sobre as regras de financiamento, contribuições e equilíbrio financeiro e atuarial dos RPPS, estabelecendo parâmetros fundamentais para sua sustentabilidade."},
+        {"texto": "Lei 10.887/2004", "correta": false},
+        {"texto": "Lei 8.112/1990", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "De acordo com a EC 103/2019, qual é a idade mínima para aposentadoria de uma servidora pública?",
+      "alternativas": [
+        {"texto": "60 anos", "correta": false},
+        {"texto": "55 anos", "correta": false},
+        {"texto": "65 anos", "correta": false},
+        {"texto": "62 anos", "correta": true, "justificativa": "Correto. A Reforma da Previdência (EC 103/2019) uniformizou as regras e estabeleceu a idade mínima de 62 anos para mulheres e 65 anos para homens, tanto no RGPS quanto nos RPPS, com certas exceções para categorias específicas."},
+        {"texto": "Não há idade mínima, apenas tempo de contribuição.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "O valor necessário para custear os benefícios futuros dos participantes que ainda estão na ativa é denominado:",
+      "alternativas": [
+        {"texto": "Reserva de Benefícios Concedidos (RBC)", "correta": false},
+        {"texto": "Reserva de Benefícios a Conceder (RBAC)", "correta": true, "justificativa": "Correto. A Reserva de Benefícios a Conceder (RBAC) representa a obrigação futura do plano com seus participantes ativos. É o montante que precisa estar provisionado para honrar os benefícios que serão concedidos a esses participantes quando se aposentarem."},
+        {"texto": "Custo Normal", "correta": false},
+        {"texto": "Ativos Garantidores", "correta": false},
+        {"texto": "Passivo Atuarial", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "Qual regime financeiro é preconizado pela Lei 9.717/1998 para os RPPS, combinando a formação de poupança com a solidariedade entre gerações?",
+      "alternativas": [
+        {"texto": "Regime de Repartição Simples", "correta": false},
+        {"texto": "Regime de Capitalização", "correta": false},
+        {"texto": "Regime de Capitais de Cobertura", "correta": true, "justificativa": "Correto. O Regime de Capitais de Cobertura (ou Repartição de Capitais de Cobertura) é o modelo adotado. Nele, forma-se uma reserva matemática (poupança), mas as contribuições dos ativos também ajudam a financiar os benefícios correntes, combinando capitalização e repartição."},
+        {"texto": "Regime de Não Capitalização", "correta": false},
+        {"texto": "Regime de Solidariedade Mista", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "Qual é o principal relatório técnico, de caráter detalhado, que descreve toda a metodologia, premissas e resultados de uma avaliação atuarial?",
+      "alternativas": [
+        {"texto": "Demonstrativo de Resultados da Avaliação Atuarial (DRAA)", "correta": false},
+        {"texto": "Nota Técnica Atuarial (NTA)", "correta": true, "justificativa": "Correto. A Nota Técnica Atuarial (NTA) é o documento completo e detalhado, elaborado pelo atuário, que serve como peça técnica fundamental da avaliação. O DRAA é um resumo de fácil compreensão extraído da NTA."},
+        {"texto": "Demonstração de Viabilidade do Plano", "correta": false},
+        {"texto": "Parecer do Gestor do RPPS", "correta": false},
+        {"texto": "Relatório de Auditoria", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "O custo anual do novo benefício que é adquirido pelos participantes no período, em um plano em equilíbrio, é denominado:",
+      "alternativas": [
+        {"texto": "Custo Suplementar", "correta": false},
+        {"texto": "Custo Normal", "correta": true, "justificativa": "Correto. O Custo Normal representa o valor presente dos benefícios futuros que os participantes 'adquirem' (ou acumulam) em um determinado ano de trabalho. É o custo teórico do plano se não houvesse desvios passados."},
+        {"texto": "Custo Corrente", "correta": false},
+        {"texto": "Custo Actuarial Total", "correta": false},
+        {"texto": "Custo de Benefícios Concedidos", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "Qual Emenda Constitucional tornou obrigatória a contribuição previdenciária dos aposentados e pensionistas dos RPPS?",
+      "alternativas": [
+        {"texto": "EC 41/2003", "correta": false},
+        {"texto": "EC 20/1998", "correta": false},
+        {"texto": "EC 47/2005", "correta": false},
+        {"texto": "EC 70/2012", "correta": true, "justificativa": "Correto. A EC 70/2012 tornou obrigatória a contribuição dos inativos e pensionistas que já percebiam valores acima do teto do RGPS, ampliando significativamente a base de custeio dos RPPS."},
+        {"texto": "EC 103/2019", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "A situação em que o valor presente das obrigações (passivo) de um RPPS é maior que o valor presente de seus ativos e contribuições futuras é conhecida como:",
+      "alternativas": [
+        {"texto": "Superávit Atuarial", "correta": false},
+        {"texto": "Equilíbrio Atuarial", "correta": false},
+        {"texto": "Déficit Atuarial", "correta": true, "justificativa": "Correto. O Déficit Atuarial é a situação de desequilíbrio de longo prazo onde as obrigações do plano superam sua capacidade de pagamento. É o principal indicador de insustentabilidade que exige medidas corretivas."},
+        {"texto": "Déficit Financeiro", "correta": false},
+        {"texto": "Passivo Líquido", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "Qual dos seguintes NÃO é um tipo de plano previdenciário do ponto de vista atuarial?",
+      "alternativas": [
+        {"texto": "Benefício Definido", "correta": false},
+        {"texto": "Contribuição Definida", "correta": false},
+        {"texto": "Contribuição Variável", "correta": false},
+        {"texto": "Custeio Definido", "correta": true, "justificativa": "Correto. Os tipos de planos previdenciários são Benefício Definido (BD), Contribuição Definida (CD) e Contribuição Variável (CV). 'Custeio Definido' não é uma categoria técnica reconhecida na classificação atuarial de planos."},
+        {"texto": "Todos os itens são tipos de plano.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "A obrigatoriedade de os RPPS realizarem avaliações atuariais foi instituída pela lei:",
+      "alternativas": [
+        {"texto": "Lei 9.717/1998", "correta": false},
+        {"texto": "Lei 10.887/2004", "correta": true, "justificativa": "Correto. A Lei nº 10.887/2004 tornou obrigatória a realização de avaliações atuariais completas a cada dois anos e de avaliações de follow-up anuais, impondo um novo patamar de transparência e controle na gestão dos RPPS."},
+        {"texto": "Lei 8.212/1991", "correta": false},
+        {"texto": "Lei 9.796/1999", "correta": false},
+        {"texto": "Lei 8.112/1990", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "Qual é o nome do documento-síntese, de fácil compreensão, que apresenta o resultado da avaliação atuarial?",
+      "alternativas": [
+        {"texto": "Nota Técnica Atuarial (NTA)", "correta": false},
+        {"texto": "Demonstrativo de Resultados da Avaliação Atuarial (DRAA)", "correta": true, "justificativa": "Correto. O Demonstrativo de Resultados da Avaliação Atuarial (DRAA) é um relatório simplificado, destinado a gestores e ao público não especializado, que resume as conclusões principais da avaliação atuarial detalhada contida na NTA."},
+        {"texto": "Parecer do Ministério Público", "correta": false},
+        {"texto": "Relatório de Auditoria Independente", "correta": false},
+        {"texto": "Demonstração de Viabilidade do Plano", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "Segundo a EC 103/2019, o valor da aposentadoria no RPPS é calculado com base:",
+      "alternativas": [
+        {"texto": "No último salário do servidor.", "correta": false},
+        {"texto": "Na média de todos os salários de contribuição, corrigidos monetariamente.", "correta": true, "justificativa": "Correto. A Reforma alterou a regra de cálculo. Agora, considera-se a média de 100% dos salários de contribuição, corrigidos monetariamente, sobre a qual se aplica um coeficiente (60% + 2% por ano de contribuição beyond 20/15 anos)."},
+        {"texto": "No maior salário de contribuição.", "correta": false},
+        {"texto": "Na média dos últimos 36 meses de contribuição.", "correta": false},
+        {"texto": "Em 80% do último salário.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "Qual termo se refere às estimativas sobre o futuro (como juros, mortalidade, salários) que fundamentam os cálculos atuariais?",
+      "alternativas": [
+        {"texto": "Fluxos Atuariais", "correta": false},
+        {"texto": "Premissas e Hipóteses Atuariais", "correta": true, "justificativa": "Correto. Premissas e Hipóteses Atuariais são suposições técnicas sobre variáveis futuras (taxa de desconto, tábuas de mortalidade, taxas de salário e inflação) que são a base de qualquer projeção e cálculo atuarial. A qualidade do resultado depende da qualidade das premissas."},
+        {"texto": "Reservas Matemáticas", "correta": false},
+        {"texto": "Custos Atuariais", "correta": false},
+        {"texto": "Ativos Garantidores", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "O regime financeiro em que as contribuições dos trabalhadores ativos são usadas diretamente para pagar os benefícios dos inativos, sem formação de poupança, é o:",
+      "alternativas": [
+        {"texto": "Regime de Capitalização", "correta": false},
+        {"texto": "Regime de Capitais de Cobertura", "correta": false},
+        {"texto": "Regime de Repartição Simples", "correta": true, "justificativa": "Correto. O Regime de Repartição Simples é o modelo 'pay-as-you-go'. Não há acumulação de reservas. As contribuições correntes financiam diretamente os benefícios correntes. Este modelo é sensível a mudanças demográficas (envelhecimento da população) e foi majoritariamente substituído."},
+        {"texto": "Regime de Solidariedade", "correta": false},
+        {"texto": "Regime de Não Capitalização", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "Qual é a finalidade da Demonstração de Viabilidade do Plano de Custeio?",
+      "alternativas": [
+        {"texto": "Comprovar que o valor dos benefícios está dentro do teto do RGPS.", "correta": false},
+        {"texto": "Garantir que as regras do plano estão de acordo com a Constituição.", "correta": false},
+        {"texto": "Comprovar que as fontes de custeio são suficientes para manter o equilíbrio atuarial.", "correta": true, "justificativa": "Correto. A Demonstração de Viabilidade do Plano de Custeio é um documento que atesta, com base em projeções atuariais, que as contribuições previstas (aliadas aos ativos existentes) são capazes de financiar os benefícios futuros prometidos pelo plano, mantendo-o em equilíbrio de longo prazo."},
+        {"texto": "Listar todos os participantes do RPPS.", "correta": false},
+        {"texto": "Demonstrar o fluxo de caixa do último exercício.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "Os investimentos e aplicações financeiras de um RPPS, que formam a sua poupança, são tecnicamente chamados de:",
+      "alternativas": [
+        {"texto": "Reserva Matemática", "correta": false},
+        {"texto": "Ativos Garantidores", "correta": true, "justificativa": "Correto. Ativos Garantidores são os recursos financeiros (aplicações, títulos, imóveis) que o RPPS detém para fazer frente às suas obrigações com os participantes. Eles 'garantem' o pagamento dos benefícios futuros."},
+        {"texto": "Passivo Atuarial", "correta": false},
+        {"texto": "Superávit Financeiro", "correta": false},
+        {"texto": "Fundo de Previdência", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "Qual EC permitiu a cobrança de contribuição previdenciária dos inativos e pensionistas?",
+      "alternativas": [
+        {"texto": "EC 20/1998", "correta": false},
+        {"texto": "EC 41/2003", "correta": true, "justificativa": "Correto. A EC 41/2003 instituiu a possibilidade de cobrança de contribuição dos inativos e pensionistas que percebessem proventos acima do teto do RGPS, marcando o início da contribuição dos já aposentados."},
+        {"texto": "EC 103/2019", "correta": false},
+        {"texto": "EC 70/2012", "correta": false},
+        {"texto": "EC 47/2005", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "O custo atuarial que representa a parcela do déficit passado a ser financiada anualmente é o:",
+      "alternativas": [
+        {"texto": "Custo Normal", "correta": false},
+        {"texto": "Custo Suplementar", "correta": true, "justificativa": "Correto. O Custo Suplementar (ou Custo do Déficit) é o componente do custo total que reflete o financiamento de um desequilíbrio passado (déficit atuarial). Ele representa a amortização anual desse déficit para que o plano retorne ao equilíbrio em um período de tempo determinado."},
+        {"texto": "Custo Corrente", "correta": false},
+        {"texto": "Custo de Transição", "correta": false},
+        {"texto": "Custo de Benefícios", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "Projeções financeiras de longo prazo que mostram as entradas e saídas esperadas de um plano previdenciário são conhecidas como:",
+      "alternativas": [
+        {"texto": "Notas Técnicas", "correta": false},
+        {"texto": "Fluxos Atuariais", "correta": true, "justificativa": "Correto. Fluxos Atuariais são projeções que estimam, ano a ano, por um longo período (ex.: 50 anos), as receitas (contribuições, rendimentos) e as despesas (benefícios, custeio administrativo) do plano. São essenciais para visualizar a sustentabilidade futura."},
+        {"texto": "Demonstrações Contábeis", "correta": false},
+        {"texto": "Balanços Patrimoniais", "correta": false},
+        {"texto": "Orçamentos Anuais", "correta": false}
+      ]
+    }
+  ]
+}

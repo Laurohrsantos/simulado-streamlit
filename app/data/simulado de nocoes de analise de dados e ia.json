@@ -1,0 +1,224 @@
+{
+  "analise_dados_ia": [
+    {
+      "id": "q1",
+      "questao": "Um auditor do TCE precisa analisar milhares de contratos administrativos, que estão em formato de PDF, para identificar cláusulas que fogem do padrão. O maior desafio técnico inicial está relacionado ao fato de que esses dados são, majoritariamente:",
+      "alternativas": [
+        {"texto": "estruturados.", "correta": false},
+        {"texto": "não estruturados.", "correta": true, "justificativa": "Documentos em PDF, como contratos, são um exemplo clássico de dado não estruturado. Eles não possuem um formato de tabela pré-definido (linhas e colunas), o que exige técnicas específicas, como Processamento de Linguagem Natural (NLP), para extrair e organizar a informação antes da análise."},
+        {"texto": "semiestruturados.", "correta": false},
+        {"texto": "armazenados em data warehouse.", "correta": false},
+        {"texto": "pré-processados.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "A etapa do ciclo de vida de dados que envolve a correção de valores missing (faltantes), a padronização de datas e a remoção de registros duplicados é conhecida como:",
+      "alternativas": [
+        {"texto": "coleta de dados.", "correta": false},
+        {"texto": "visualização de dados.", "correta": false},
+        {"texto": "mineração de dados.", "correta": false},
+        {"texto": "tratamento ou pré-processamento.", "correta": true, "justificativa": "O tratamento ou pré-processamento é a fase crucial de preparação dos dados. Sua finalidade é transformar dados brutos, que muitas vezes estão incompletos, inconsistentes ou com ruídos, em um conjunto de dados limpo e confiável, apto para análise. Atividades como limpeza, transformação e integração são partes deste processo."},
+        {"texto": "engenharia de prompts.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "Em um banco de dados relacional, a função de uma Chave Estrangeira (FK) é:",
+      "alternativas": [
+        {"texto": "ser o identificador único de um registro em sua própria tabela.", "correta": false},
+        {"texto": "vincular um registro a uma Chave Primária (PK) em outra tabela, criando um relacionamento.", "correta": true, "justificativa": "A Chave Estrangeira (FK) é um campo em uma tabela que faz referência à Chave Primária (PK) de outra tabela. Esse mecanismo é fundamental para estabelecer relações entre tabelas diferentes e garantir a integridade referencial dos dados, assegurando que um registro só exista na tabela 'filha' se o registro correspondente existir na tabela 'pai'."},
+        {"texto": "definir a estrutura de visualização de um dashboard.", "correta": false},
+        {"texto": "criptografar os dados de uma coluna específica.", "correta": false},
+        {"texto": "agrupar registros com características similares.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "O TCE/PE deseja agrupar os municípios do estado com base na similaridade de seu perfil de gastos (educação, saúde, infraestrutura), sem usar categorias pré-definidas. A técnica de mineração de dados mais adequada para essa tarefa é:",
+      "alternativas": [
+        {"texto": "Classificação.", "correta": false},
+        {"texto": "Detecção de Anomalias.", "correta": false},
+        {"texto": "Agrupamento (Clustering).", "correta": true, "justificativa": "O Agrupamento (Clustering) é uma técnica de aprendizado não supervisionado cujo objetivo é descobrir grupos naturais (clusters) em um conjunto de dados, baseando-se na similaridade entre os itens. Como não há uma categoria pré-definida para os municípios (ex.: 'ruim' ou 'bom'), e sim a descoberta de perfis naturais, o clustering é a técnica indicada."},
+        {"texto": "Regras de Associação.", "correta": false},
+        {"texto": "Regressão Linear.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "Um sistema do TCE que utiliza assinatura digital para garantir que um relatório de auditoria não possa ser alterado após sua emissão está preservando o princípio de segurança da informação conhecido como:",
+      "alternativas": [
+        {"texto": "Confidencialidade.", "correta": false},
+        {"texto": "Integridade.", "correta": true, "justificativa": "A integridade garante que a informação não seja alterada de forma não autorizada. A assinatura digital cria um hash único do documento. Qualquer modificação posterior, mesmo que mínima, invalidaria a assinatura, alertando imediatamente sobre a violação da integridade do documento."},
+        {"texto": "Disponibilidade.", "correta": false},
+        {"texto": "Autenticidade.", "correta": false},
+        {"texto": "Não repúdio.", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "Um analista do TCE está usando um Large Language Model (LLM) para resumir as decisões contidas em processos administrativos. Para obter um resultado mais preciso e relevante, a técnica que ele deve utilizar é:",
+      "alternativas": [
+        {"texto": "Construir um novo modelo de LLM do zero.", "correta": false},
+        {"texto": "Aplicar a técnica de clustering nos textos.", "correta": false},
+        {"texto": "Utilizar engenharia de prompt, fornecendo contexto e instruções claras.", "correta": true, "justificativa": "A engenharia de prompt é a prática de elaborar instruções (prompts) claras, específicas e contextuais para orientar um LLM pré-treinado a realizar uma tarefa desejada. Um prompt como 'Aja como um auditor e resuma os pontos principais da decisão no texto abaixo, listando as partes envolvidas e o prazo estipulado' é vastly superior a um simples 'Resuma isso'."},
+        {"texto": "Classificar os processos antes do resumo.", "correta": false},
+        {"texto": "Armazenar os processos em um banco não relacional.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "O portal da transparência de um estado sofre um ataque DDoS (Negação de Serviço Distribuída), que torna o site lentoo ou indisponível para os cidadãos. Este ataque viola diretamente o princípio de segurança da informação da:",
+      "alternativas": [
+        {"texto": "Confidencialidade.", "correta": false},
+        {"texto": "Integridade.", "correta": false},
+        {"texto": "Disponibilidade.", "correta": true, "justificativa": "Ataques de Negação de Serviço (DoS/DDoS) têm como objetivo principal tornar um sistema, serviço ou recurso network indisponível para seus usuários legítimos, violando diretamente o princípio da disponibilidade."},
+        {"texto": "Autenticidade.", "correta": false},
+        {"texto": "Irretratabilidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "A Lei de Acesso à Informação (LAI) determina que os dados públicos devem ser disponibilizados em formato aberto. Uma característica fundamental dos 'dados abertos' é que eles devem ser:",
+      "alternativas": [
+        {"texto": "apenas em formato PDF para garantir a formatação.", "correta": false},
+        {"texto": "primários, completos e em formato legível por máquina.", "correta": true, "justificativa": "Dados abertos, conforme definidos pela LAI e por movimentos internacionais, devem ser primários (dados brutos da fonte), completos e disponibilizados em formatos não proprietários e legíveis por máquina (ex: CSV, JSON, XML), que permitam seu processamento automatizado e reuso por qualquer cidadão ou sistema, e não apenas sua visualização (como em um PDF)."},
+        {"texto": "restritos a auditores credenciados.", "correta": false},
+        {"texto": "analisados previamente para evitar misinterpretações.", "correta": false},
+        {"texto": "armazenados exclusivamente em bancos relacionais.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "Um algoritmo de Machine Learning é treinado com um conjunto histórico de licitações já classificadas pela controladoria como 'regulares' ou 'irregulares'. Seu objetivo é prever a classificação de novas licitações. Esta é uma tarefa típica de:",
+      "alternativas": [
+        {"texto": "Agrupamento (Clustering).", "correta": false},
+        {"texto": "Classificação.", "correta": true, "justificativa": "A classificação é uma tarefa de aprendizado supervisionado onde o algoritmo aprende a partir de dados de treinamento que já estão rotulados (neste caso, 'regular' ou 'irregular') para prever a classe/categoria de novos dados. É amplamente usada para detecção de fraudes e filtragem."},
+        {"texto": "Regressão.", "correta": false},
+        {"texto": "Redução de Dimensionalidade.", "correta": false},
+        {"texto": "Associação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "A linguagem padrão utilizada para realizar consultas, inserções, atualizações e exclusões de dados em um banco de dados relacional é a:",
+      "alternativas": [
+        {"texto": "Python.", "correta": false},
+        {"texto": "SQL (Structured Query Language).", "correta": true, "justificativa": "SQL (Structured Query Language) é a linguagem padrão e universal para interagir com bancos de dados relacionais. Ela é usada para manipular e consultar dados através de comandos como SELECT, INSERT, UPDATE e DELETE."},
+        {"texto": "R.", "correta": false},
+        {"texto": "Java.", "correta": false},
+        {"texto": "NoSQL.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "O objetivo principal da visualização de dados (DataViz) em um dashboard de auditoria é:",
+      "alternativas": [
+        {"texto": "substituir a necessidade de bancos de dados.", "correta": false},
+        {"texto": "transformar dados não estruturados em estruturados.", "correta": false},
+        {"texto": "comunicar insights de forma clara e facilitar a identificação de padrões.", "correta": true, "justificativa": "A visualização de dados transforma conjuntos de dados complexos em representações gráficas (gráficos, mapas, painéis). Seu propósito é facilitar a compreensão, permitindo que padrões, tendências e valores atípicos sejam identificados rapidamente pelo auditor, supporting a tomada de decisão e a comunicação de resultados."},
+        {"texto": "aumentar a confidencialidade das informações.", "correta": false},
+        {"texto": "automatizar o pré-processamento dos dados.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "Um auditor identifica um pagamento a um fornecedor que é orders of magnitude maior do que a média histórica para aquele tipo de item. A técnica de mineração de dados mais útil para sinalizar automaticamente esse tipo de evento é a:",
+      "alternativas": [
+        {"texto": "Análise de Sentimento.", "correta": false},
+        {"texto": "Detecção de Anomalias (Outlier Detection).", "correta": true, "justificativa": "A detecção de anomalias é uma técnica cujo objetivo é identificar itens, eventos ou observações raras que destoam significativamente da maioria dos dados. Um pagamento extremamente alto em comparação com a norma é um outlier financeiro clássico que essa técnica é projetada para encontrar."},
+        {"texto": "Mineração de Texto.", "correta": false},
+        {"texto": "Engenharia de Features.", "correta": false},
+        {"texto": "Agrupamento Hierárquico.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "O uso de criptografia em um banco de dados para garantir que apenas usuários autorizados possam visualizar dados pessoais sensíveis está diretamente relacionado ao princípio da:",
+      "alternativas": [
+        {"texto": "Integridade.", "correta": false},
+        {"texto": "Confidencialidade.", "correta": true, "justificativa": "A confidencialidade garante que a informação seja acessível apenas àqueles devidamente autorizados. A criptografia é uma das principais ferramentas técnicas para implementar a confidencialidade, transformando dados legíveis em texto cifrado, que só pode ser lido por quem possui a chave de descriptografia."},
+        {"texto": "Disponibilidade.", "correta": false},
+        {"texto": "Autenticidade.", "correta": false},
+        {"texto": "Conformidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "A subárea da Inteligência Artificial que se concentra em desenvolver sistemas que podem aprender com dados, identificando padrões para fazer previsões ou tomar decisões, é conhecida como:",
+      "alternativas": [
+        {"texto": "Internet das Coisas (IoT).", "correta": false},
+        {"texto": "Aprendizado de Máquina (Machine Learning).", "correta": true, "justificativa": "Aprendizado de Máquina (Machine Learning - ML) é um subcampo da IA que fornece aos sistemas a ability de aprender e melhorar automaticamente com a experiência (dados) sem serem explicitamente programados para cada tarefa específica. O foco está em algoritmos que aprendem padrões a partir dos dados."},
+        {"texto": "Business Intelligence (BI).", "correta": false},
+        {"texto": "Computação em Nuvem.", "correta": false},
+        {"texto": "Blockchain.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "Para um TCE, a principal vantagem de publicar dados de auditorias e julgamentos de contas em formato aberto (dados abertos) é:",
+      "alternativas": [
+        {"texto": "restringir o acesso a pesquisadores acadêmicos.", "correta": false},
+        {"texto": "fortalecer o controle social e a transparência, permitindo que outros atores analisem os dados.", "correta": true, "justificativa": "A publicação de dados abertos vai beyond a transparência passiva. Ela permite que jornalistas, pesquisadores, organizações da sociedade civil e cidadãos técnicos reutilizem esses dados, cruzando fontes, criando novas análises e exercendo um controle social complementar ao trabalho do TCE, ampliando significativamente o accountability."},
+        {"texto": "automaticamente corrigir erros nos dados.", "correta": false},
+        {"texto": "reduzir a necessidade de pré-processamento.", "correta": false},
+        {"texto": "substituir a necessidade de relatórios formais.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "Um Grandes Modelo de Linguagem (LLM), como aqueles que power ferramentas de chatbot, é fundamentalmente treinado para:",
+      "alternativas": [
+        {"texto": "executar consultas SQL em bancos relacionais.", "correta": false},
+        {"texto": "realizar operações matemáticas complexas em tempo real.", "correta": false},
+        {"texto": "entender, gerar e prever sequências de linguagem humana.", "correta": true, "justificativa": "LLMs são um tipo de modelo de deep learning treinado em datasets massivos de texto. Seu treinamento os capacita a entender o contexto e a estrutura da linguagem, gerar texto coerente, resumir informações, traduzir idiomas e responder a perguntas, tudo baseado na previsão da próxima palavra mais provável em uma sequência."},
+        {"texto": "criptografar dados pessoais de forma segura.", "correta": false},
+        {"texto": "criar visualizações de dados automaticamente.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A técnica de mineração de dados que descobre relações do tipo '90% dos processos que contêm a irregularidade X também contêm a irregularidade Y' é conhecida como:",
+      "alternativas": [
+        {"texto": "Classificação.", "correta": false},
+        {"texto": "Regressão Logística.", "correta": false},
+        {"texto": "Análise de Cluster.", "correta": false},
+        {"texto": "Mineração de Regras de Associação.", "correta": true, "justificativa": "A mineração de regras de associação é uma técnica used para descobrir relações interessantes (regras) entre variáveis em grandes bases de dados. Ela é famosa pela 'análise de cesta de compras' e se aplica perfeitamente ao exemplo, finding probabilidades condicionais entre a ocorrência de diferentes irregularidades."},
+        {"texto": "Detecção de Anomalias.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "Em um banco de dados de servidores, o campo 'Matrícula' que identifica de forma única cada servidor é um exemplo de:",
+      "alternativas": [
+        {"texto": "Chave Estrangeira (Foreign Key).", "correta": false},
+        {"texto": "Chave Primária (Primary Key).", "correta": true, "justificativa": "A Chave Primária (PK) é um atributo (ou conjunto de atributos) que identifica de forma única cada registro (linha) em uma tabela. O número de matrícula é um identificador natural único para servidores, making it a escolha ideal para uma PK."},
+        {"texto": "Dado Não Estruturado.", "correta": false},
+        {"texto": "Campo Calculado.", "correta": false},
+        {"texto": "Metadata.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "O conceito de 'Aprendizado Supervisionado' em Machine Learning significa que:",
+      "alternativas": [
+        {"texto": "o algoritmo não recebe respostas corretas durante o treinamento.", "correta": false},
+        {"texto": "o algoritmo aprende por tentativa e erro, recebendo recompensas.", "correta": false},
+        {"texto": "o modelo é treinado com dados que já possuem rótulos ou respostas conhecidas.", "correta": true, "justificativa": "No aprendizado supervisionado, o algoritmo é treinado usando um dataset que inclui both os dados de input e os output desejados (os rótulos ou respostas corretas). O modelo learns a mapear as entradas para as saídas. Classificação e regressão são tarefas supervisionadas."},
+        {"texto": "um humano monitora constantemente as previsões do modelo.", "correta": false},
+        {"texto": "o treinamento ocorre sem a necessidade de dados históricos.", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "Um dashboard em tempo real que mostra o andamento da execução orçamentária do estado, com gráficos de pizza e barras, é o produto final das etapas de:",
+      "alternativas": [
+        {"texto": "Coleta e Armazenamento.", "correta": false},
+        {"texto": "Mineração e Segurança.", "correta": false},
+        {"texto": "Visualização e Análise.", "correta": true, "justificativa": "Um dashboard é a ferramenta clássica de visualização de dados. Ele é o produto final de um pipeline que envolveu coleta, armazenamento, tratamento e análise dos dados. Sua função é apresentar os resultados dessa análise de forma visual, intuitiva e, muitas vezes, interativa, facilitando a absorção de informações e a identificação de insights."},
+        {"texto": "Engenharia de Prompt e LLM.", "correta": false},
+        {"texto": "Modelagem e Criptografia.", "correta": false}
+      ]
+    }
+  ]
+}

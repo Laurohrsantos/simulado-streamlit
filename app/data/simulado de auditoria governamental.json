@@ -1,0 +1,224 @@
+{
+  "auditoria_governamental": [
+    {
+      "id": "q1",
+      "questao": "O tipo de auditoria que tem por objetivo verificar se as demonstrações contábeis representam adequadamente a situação patrimonial de uma entidade pública, de acordo com as normas de contabilidade aplicadas ao setor público, é a auditoria:",
+      "alternativas": [
+        {"texto": "operacional.", "correta": false},
+        {"texto": "de conformidade.", "correta": false},
+        {"texto": "financeira ou contábil.", "correta": true, "justificativa": "Conforme a NBASP 200, a auditoria financeira ou contábil tem como objetivo expressar uma opinião sobre se as demonstrações contábeis estão elaboradas, em todos os aspectos relevantes, de acordo com a estrutura de contabilidade aplicada ao setor público."},
+        {"texto": "de gestão.", "correta": false},
+        {"texto": "integrada.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "A NBASP que estabelece o conceito de 'Valor Benefício', focando no impacto real da auditoria na vida do cidadão, é a:",
+      "alternativas": [
+        {"texto": "NBASP 100.", "correta": false},
+        {"texto": "NBASP 12.", "correta": true, "justificativa": "A NBASP 12 - 'Valor Benefício dos Tribunais de Contas – Fazendo a diferença na vida dos cidadãos' é uma norma específica que orienta os Tribunais de Contas a focarem seus trabalhos em auditorias que gerem impacto tangível e melhoria concreta na qualidade dos serviços públicos prestados à população."},
+        {"texto": "NBASP 200.", "correta": false},
+        {"texto": "NBASP 300.", "correta": false},
+        {"texto": "NBASP 400.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "O princípio fundamental de auditoria que exige que o auditor mantenha uma atitude mental independente, sendo imparcial e livre de qualquer influência que possa comprometer seu julgamento profissional, é o princípio da:",
+      "alternativas": [
+        {"texto": "Competência Profissional.", "correta": false},
+        {"texto": "Independência.", "correta": true, "justificativa": "A independência é um princípio fundamental da auditoria (NBASP 100) que exige que o auditor atue com isenção e impartialidade, tanto na aparência quanto na realidade, evitando qualquer relação que possa comprometer seu julgamento objetivo."},
+        {"texto": "Devido Cuidado Profissional.", "correta": false},
+        {"texto": "Garantia de Qualidade.", "correta": false},
+        {"texto": "Sigilo Profissional.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "A etapa do ciclo de auditoria considerada a mais crítica, na qual se define o escopo, os objetivos, a metodologia e os recursos necessários para o trabalho, é a etapa de:",
+      "alternativas": [
+        {"texto": "Execução.", "correta": false},
+        {"texto": "Planejamento.", "correta": true, "justificativa": "O planejamento é a etapa mais crucial do ciclo de auditoria (NBASP 300). Um planejamento adequado assegura que a auditoria seja realizada de forma eficaz e eficiente, direcionando os esforços para as áreas de maior risco e relevância."},
+        {"texto": "Relatório.", "correta": false},
+        {"texto": "Monitoramento.", "correta": false},
+        {"texto": "Divulgação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "A técnica de auditoria que consiste na análise física de documentos, contratos, notas fiscais e registros para obter evidências sobre a regularidade de uma transação é a:",
+      "alternativas": [
+        {"texto": "Observação Direta.", "correta": false},
+        {"texto": "Entrevista.", "correta": false},
+        {"texto": "Circularização.", "correta": false},
+        {"texto": "Inspeção ou Exame Documental.", "correta": true, "justificativa": "A inspeção ou exame documental é uma técnica de auditoria que envolve a análise crítica de documentos e registros para obter evidências quanto à autenticidade, validade e exatidão das transações e eventos."},
+        {"texto": "Recálculo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "O critério de avaliação que mede a relação entre os produtos ou serviços entregues e os objetivos pré-estabelecidos, verificando se as metas foram alcançadas, é a:",
+      "alternativas": [
+        {"texto": "Economicidade.", "correta": false},
+        {"texto": "Eficiência.", "correta": false},
+        {"texto": "Eficácia.", "correta": true, "justificativa": "A eficácia é o critério que avalia o grau de alcance dos objetivos e metas pré-definidos. Responde à pergunta: 'O programa ou projeto atingiu o resultado que se propôs a alcançar?'"},
+        {"texto": "Efetividade.", "correta": false},
+        {"texto": "Excelência.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "O método de amostragem utilizado em auditoria de conformidade, que testa se um procedimento foi ou não cumprido, gerando uma resposta do tipo 'sim' ou 'não', é a amostragem:",
+      "alternativas": [
+        {"texto": "por Variáveis.", "correta": false},
+        {"texto": "por Unidade Monetária.", "correta": false},
+        {"texto": "por Atributos.", "correta": true, "justificativa": "A amostragem por atributos é utilizada em testes de controle e de conformidade. Seu objetivo é avaliar a taxa de ocorrência de uma característica específica (como a existência de uma assinatura/autorização) em uma população, resultando em uma conclusão binária (sim/não)."},
+        {"texto": "estratificada.", "correta": false},
+        {"texto": "aleatória simples.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "A evidência de auditoria que é obtida por meio de contato direto com terceiros independentes para confirmar a exatidão de uma informação é chamada de:",
+      "alternativas": [
+        {"texto": "Conciliação.", "correta": false},
+        {"texto": "Circularização ou Confirmação Externa.", "correta": true, "justificativa": "A circularização (confirmação externa) é uma técnica que consiste em solicitar diretamente a uma terceira parte (como um fornecedor ou cliente) que confirme a exatidão de informações como saldos, existência de contratos ou termos de transações."},
+        {"texto": "Recálculo.", "correta": false},
+        {"texto": "Reexecução.", "correta": false},
+        {"texto": "Indagação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "O elemento de um achado de auditoria que descreve a norma, lei, política ou melhor prática que deveria ter sido seguida é o:",
+      "alternativas": [
+        {"texto": "Condição.", "correta": false},
+        {"texto": "Causa.", "correta": false},
+        {"texto": "Efeito.", "correta": false},
+        {"texto": "Critério.", "correta": true, "justificativa": "O critério é o elemento do achado que estabelece o padrão contra o qual a performance é comparada. Ele responde à pergunta: 'O que deveria ter acontecido de acordo com a regra ou prática estabelecida?'"},
+        {"texto": "Recomendação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "A auditoria que é realizada por um órgão integrante da própria estrutura da entidade auditada, como uma controladoria interna, é classificada como auditoria:",
+      "alternativas": [
+        {"texto": "Externa.", "correta": false},
+        {"texto": "Independente.", "correta": false},
+        {"texto": "Interna.", "correta": true, "justificativa": "A auditoria interna é exercida por unidade organizacional subordinada à própria administração da entidade auditada. Sua função é avaliar e melhorar os processos de governança, gerenciamento de riscos e controle interno, prestando serviços de assessoria à gestão."},
+        {"texto": "de Terceira Parte.", "correta": false},
+        {"texto": "de Compliance.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "O critério de economicidade em uma auditoria operacional avalia principalmente:",
+      "alternativas": [
+        {"texto": "a quantidade de produtos gerados com os recursos disponíveis.", "correta": false},
+        {"texto": "o impacto social final do programa.", "correta": false},
+        {"texto": "a relação entre o preço pago e a qualidade dos insumos adquiridos.", "correta": true, "justificativa": "A economicidade avalia se os recursos (insumos) foram adquiridos nas quantidades certas, na qualidade apropriada, no tempo correto e ao menor custo possível. Foca no processo de aquisição."},
+        {"texto": "o grau de alcance das metas físicas.", "correta": false},
+        {"texto": "a satisfação dos usuários do serviço.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "A técnica de auditoria que envolve a repetição de um procedimento ou controle realizado originalmente pela entidade auditada é conhecida como:",
+      "alternativas": [
+        {"texto": "Recálculo.", "correta": false},
+        {"texto": "Reexecução.", "correta": true, "justificativa": "A reexecução é a técnica em que o auditor executa independentemente um procedimento ou controle que foi originalmente realizado pela entidade, para verificar sua correção e efetividade."},
+        {"texto": "Observação.", "correta": false},
+        {"texto": "Conciliação.", "correta": false},
+        {"texto": "Análise Vertical.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "As Normas Brasileiras de Auditoria do Setor Público (NBASP) são emitidas por qual instituição?",
+      "alternativas": [
+        {"texto": "Tribunal de Contas da União (TCU).", "correta": false},
+        {"texto": "Conselho Federal de Contabilidade (CFC).", "correta": false},
+        {"texto": "Instituto Rui Barbosa (IRB).", "correta": true, "justificativa": "O Instituto Rui Barbosa (IRB) é a associação civil que reúne os Tribunais de Contas do Brasil e é a entidade responsável pela emissão das Normas Brasileiras de Auditoria do Setor Público (NBASP)."},
+        {"texto": "Controladoria-Geral da União (CGU).", "correta": false},
+        {"texto": "Ministério da Economia.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "O elemento de um achado de auditoria que explica o motivo pelo qual a condição encontrada diverge do critério estabelecido é a:",
+      "alternativas": [
+        {"texto": "Condição.", "correta": false},
+        {"texto": "Causa.", "correta": true, "justificativa": "A causa é o elemento que identifica a razão fundamental da diferença entre a condição encontrada e o critério estabelecido. Responder à causa raiz é essencial para que as recomendações sejam efetivas e evitem a reincidência do problema."},
+        {"texto": "Critério.", "correta": false},
+        {"texto": "Efeito.", "correta": false},
+        {"texto": "Recomendação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "A auditoria que examina a economicidade, eficiência e eficácia de programas, projetos e operações governamentais é a auditoria:",
+      "alternativas": [
+        {"texto": "Financeira.", "correta": false},
+        {"texto": "de Conformidade.", "correta": false},
+        {"texto": "Operacional ou de Desempenho.", "correta": true, "justificativa": "A auditoria operacional (ou de desempenho) avalia se os recursos públicos estão sendo geridos com economicidade, se os processos são eficientes e se os objetivos dos programas estão sendo alcançados (eficácia), visando a melhoria da gestão."},
+        {"texto": "de Gestão de Riscos.", "correta": false},
+        {"texto": "Contábil.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "O critério de avaliação que mede o impacto final de um programa ou política na sociedade, verificando se as necessidades públicas foram efetivamente atendidas, é a:",
+      "alternativas": [
+        {"texto": "Eficácia.", "correta": false},
+        {"texto": "Eficiência.", "correta": false},
+        {"texto": "Efetividade.", "correta": true, "justificativa": "A efetividade é o critério que avalia o impacto social final de uma política ou programa. Vai beyond do alcance de metas (eficácia) para verificar se os resultados trouxeram mudanças positivas e duradouras na qualidade de vida da população."},
+        {"texto": "Economicidade.", "correta": false},
+        {"texto": "Excelência.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A técnica de auditoria que utiliza comparações, índices e tendências para identificar transações ou eventos incomuns que merecem investigação adicional é conhecida como:",
+      "alternativas": [
+        {"texto": "Procedimentos Analíticos.", "correta": true, "justificativa": "Os procedimentos analíticos consistem na análise de relações entre dados financeiros e não financeiros para identificar inconsistências, flutuações significativas ou tendências que possam indicar situações anômalas ou de risco."},
+        {"texto": "Inspeção Física.", "correta": false},
+        {"texto": "Circularização.", "correta": false},
+        {"texto": "Entrevista.", "correta": false},
+        {"texto": "Recálculo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "A característica que exige que a evidência de auditoria seja convincente e apropriada para fundamentar as conclusões do relatório é a característica de:",
+      "alternativas": [
+        {"texto": "Suficiência.", "correta": false},
+        {"texto": "Adequação.", "correta": true, "justificativa": "A adequação (ou qualidade) da evidência refere-se à sua relevância e confiabilidade. Evidência adequada é aquela que é pertinente ao objetivo de auditoria e obtida de fonte confiável, permitindo ao auditor chegar a conclusões convincentes."},
+        {"texto": "Tempestividade.", "correta": false},
+        {"texto": "Confiabilidade.", "correta": false},
+        {"texto": "Materialidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "O método de amostragem que seleciona itens com base em seu valor monetário, dando maior probabilidade de seleção aos itens de maior valor, é a amostragem:",
+      "alternativas": [
+        {"texto": "por Atributos.", "correta": false},
+        {"texto": "por Unidade Monetária.", "correta": true, "justificativa": "A amostragem por unidade monetária é um método de amostragem por variáveis que atribui a cada unidade monetária (ex.: R$1) da população uma chance igual de seleção. Isso resulta na seleção preferencial de itens de maior valor, aumentando a eficiência da auditoria."},
+        {"texto": "aleatória simples.", "correta": false},
+        {"texto": "sistemática.", "correta": false},
+        {"texto": "estratificada.", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A etapa final do ciclo de auditoria, que visa verificar se as recomendações feitas pelo auditor foram implementadas pela entidade auditada, é a etapa de:",
+      "alternativas": [
+        {"texto": "Planejamento.", "correta": false},
+        {"texto": "Execução.", "correta": false},
+        {"texto": "Relatório.", "correta": false},
+        {"texto": "Monitoramento ou Acompanhamento.", "correta": true, "justificativa": "O monitoramento (ou acompanhamento) é a etapa em que o auditor verifica se as ações corretivas recomendadas no relatório foram efetivamente implementadas pela administração e se estão produzindo os resultados desejados, fechando o ciclo da auditoria."},
+        {"texto": "Divulgação.", "correta": false}
+      ]
+    }
+  ]
+}

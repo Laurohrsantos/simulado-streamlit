@@ -1,0 +1,224 @@
+{
+  "direito_administrativo": [
+    {
+      "id": "q1",
+      "questao": "O regime jurídico-administrativo, base do Direito Administrativo brasileiro, assenta-se em dois princípios fundamentais:",
+      "alternativas": [
+        {"texto": "Legalidade e Impessoalidade.", "correta": false},
+        {"texto": "Supremacia do Interesse Público e Indisponibilidade do Interesse Público.", "correta": true, "justificativa": "O regime jurídico-administrativo é sustentado pelo binômio: supremacia do interesse público (que prevalece sobre o individual) e indisponibilidade do interesse público (o administrador não pode dele dispor livremente, devendo geri-lo conforme a lei)."},
+        {"texto": "Eficiência e Moralidade.", "correta": false},
+        {"texto": "Publicidade e Finalidade.", "correta": false},
+        {"texto": "Autotutela e Presunção de Legitimidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "O atributo do ato administrativo que confere à Administração Pública a capacidade de executá-lo diretamente, sem necessidade de intervenção prévia do Poder Judiciário, é a:",
+      "alternativas": [
+        {"texto": "Imperatividade.", "correta": false},
+        {"texto": "Autoexecutoriedade.", "correta": true, "justificativa": "A autoexecutoriedade é o atributo que permite à Administração, por seus próprios meios e independentemente de autorização judicial, tornar efetivo o ato administrativo, desde que prevista em lei."},
+        {"texto": "Presunção de Legitimidade.", "correta": false},
+        {"texto": "Tipicidade.", "correta": false},
+        {"texto": "Discricionariedade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "A extinção de um ato administrativo legítimo e válido, por razões de conveniência e oportunidade, com efeitos ex nunc (para o futuro), denomina-se:",
+      "alternativas": [
+        {"texto": "Anulação.", "correta": false},
+        {"texto": "Revogação.", "correta": true, "justificativa": "A revogação é a supressão de um ato administrativo legítimo e eficaz pela Administração, por razões de mérito (conveniência e oportunidade). Seus efeitos são prospectivos (ex nunc), não atingindo situações consolidadas."},
+        {"texto": "Cassação.", "correta": false},
+        {"texto": "Convalidação.", "correta": false},
+        {"texto": "Invalidacao.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "De acordo com a Lei Estadual nº 6.123/1968, a estabilidade do servidor público estadual de Pernambuco é adquirida após:",
+      "alternativas": [
+        {"texto": "2 anos de efetivo exercício.", "correta": false},
+        {"texto": "3 anos de efetivo exercício.", "correta": true, "justificativa": "A Constituição Federal (Art. 41) e a Lei Estadual 6.123/1968 estabelecem que o servidor nomeado para cargo de provimento efetivo adquire estabilidade após 3 (três) anos de efetivo exercício."},
+        {"texto": "5 anos de efetivo exercício.", "correta": false},
+        {"texto": "10 anos de efetivo exercício.", "correta": false},
+        {"texto": "aprovacao em estagio probatorio.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "O poder da Administração Pública que permite a edição de decretos e regulamentos para a fiel execução das leis é o poder:",
+      "alternativas": [
+        {"texto": "Hierárquico.", "correta": false},
+        {"texto": "Discricionário.", "correta": false},
+        {"texto": "Regulamentar ou Normativo.", "correta": true, "justificativa": "O poder regulamentar ou normativo é a competência conferida ao Chefe do Executivo para expedir decretos e regulamentos com o objetivo de detalhar a lei e facilitar sua execução, nos termos do art. 84, IV, da CF."},
+        {"texto": "de Polícia.", "correta": false},
+        {"texto": "Vinculado.", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "A teoria adotada pela Constituição Federal de 1988 para a responsabilidade civil extracontratual do Estado por danos causados por seus agentes é:",
+      "alternativas": [
+        {"texto": "Subjetiva, baseada na culpa do agente.", "correta": false},
+        {"texto": "Objetiva, independentemente de culpa.", "correta": true, "justificativa": "O Art. 37, §6º, da CF, estabelece a responsabilidade objetiva do Estado, fundamentada na teoria do risco administrativo. Para o direito à indenização, basta a demonstração do dano e do nexo causal."},
+        {"texto": "Subjetiva, baseada no dolo do agente.", "correta": false},
+        {"texto": "Objetiva, mas apenas para danos materiais.", "correta": false},
+        {"texto": "Híbrida, dependendo do tipo de agente.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "Uma entidade da administração indireta, com personalidade jurídica de direito público, criada por lei específica para exercer atividades típicas do Estado, é uma:",
+      "alternativas": [
+        {"texto": "Empresa Pública.", "correta": false},
+        {"texto": "Sociedade de Economia Mista.", "correta": false},
+        {"texto": "Autarquia.", "correta": true, "justificativa": "As autarquias são pessoas jurídicas de direito público, criadas por lei específica, para desempenhar atividades típicas do Estado de forma descentralizada. Exemplos: INSS, universidades públicas, agências reguladoras."},
+        {"texto": "Fundação Pública de Direito Privado.", "correta": false},
+        {"texto": "Organização Social.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "A Lei de Improbidade Administrativa (Lei nº 8.429/1992) estabelece que ato de improbidade que importa enriquecimento ilícito do agente público acarretará, entre outras sanções:",
+      "alternativas": [
+        {"texto": "apenas a perda da função pública.", "correta": false},
+        {"texto": "a perda dos bens ou valores acrescidos illicitamente ao patrimônio.", "correta": true, "justificativa": "Conforme disposto no Art. 12 da Lei 8.429/1992, para os atos de enriquecimento ilícito (Art. 9º), uma das cominações é a perda dos bens ou valores acrescidos illicitamente ao patrimônio, ressarcimento integral do dano (se houver) e pagamento de multa civil."},
+        {"texto": "apenas suspensão dos direitos políticos.", "correta": false},
+        {"texto": "apenas proibição de contratar com o Poder Público.", "correta": false},
+        {"texto": "pena de reclusão automaticamente.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "As ruas, praças e estradas são exemplos clássicos de bens públicos classificados como:",
+      "alternativas": [
+        {"texto": "bens dominicais.", "correta": false},
+        {"texto": "bens de uso especial.", "correta": false},
+        {"texto": "bens de uso comum do povo.", "correta": true, "justificativa": "Conforme o Art. 99, I, do CC, são bens públicos de uso comum do povo aqueles destinados ao uso direto e imediato pela coletividade, como ruas, praças, estradas e mares."},
+        {"texto": "bens particulares afetados.", "correta": false},
+        {"texto": "bens fungíveis.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "A modalidade de licitação que utiliza a disputa por lances em sessão pública, preferencialmente eletrônica, para a aquisição de bens e serviços comuns é o:",
+      "alternativas": [
+        {"texto": "Concurso.", "correta": false},
+        {"texto": "Pregão.", "correta": true, "justificativa": "O Pregão, previsto nos Arts. 80 a 113 da Lei 14.133/2021, é a modalidade de licitação destinada à aquisição de bens e serviços comuns, qualquer que seja o valor estimado da contratação, caracterizada pela disputa por lances, preferencialmente na forma eletrônica."},
+        {"texto": "Concorrência.", "correta": false},
+        {"texto": "Leilão.", "correta": false},
+        {"texto": "Diálogo Competitivo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "A característica dos bens públicos que os torna insuscetíveis de aquisição por usucapião é a:",
+      "alternativas": [
+        {"texto": "impenhorabilidade.", "correta": false},
+        {"texto": "inalienabilidade.", "correta": false},
+        {"texto": "imprescritibilidade.", "correta": true, "justificativa": "A imprescritibilidade, prevista no Art. 102, II, do CC, é a característica que impede que os bens públicos sejam adquiridos por usucapião, mesmo que um particular ocupe o bem por longo tempo. É uma decorrência do princípio da indisponibilidade do interesse público."},
+        {"texto": "infungibilidade.", "correta": false},
+        {"texto": "indisponibilidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "O princípio constitucional que determina que a Administração Pública só pode fazer o que a lei expressamente autoriza é o princípio da:",
+      "alternativas": [
+        {"texto": "Moralidade.", "correta": false},
+        {"texto": "Legalidade.", "correta": true, "justificativa": "O princípio da legalidade (Art. 37, caput, da CF) é o pilar do Estado de Direito. Para a Administração Pública, significa que só pode praticar os atos previstos em lei, ao contrário do particular, que pode fazer tudo o que a lei não proíbe."},
+        {"texto": "Impessoalidade.", "correta": false},
+        {"texto": "Eficiência.", "correta": false},
+        {"texto": "Publicidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "A delegação da prestação de serviço público à iniciativa privada, feita por licitação, mediante contrato, transferindo a execução e os riscos do negócio ao concessionário, que será remunerado pela tarifa paga pelo usuário, é denominada:",
+      "alternativas": [
+        {"texto": "Permissão de Serviço Público.", "correta": false},
+        {"texto": "Autorização de Serviço Público.", "correta": false},
+        {"texto": "Concessão de Serviço Público.", "correta": true, "justificativa": "A concessão de serviço público é regime jurídico previsto na Constituição (Art. 175) e regulado pela Lei 8.987/1995. Envolve a transferência da execução do serviço, por licitação, a uma empresa privada (concessionária), que assume os riscos da exploração e se remunera diretamente com os pagamentos dos usuários (tarifas)."},
+        {"texto": "Terceirização de Serviço Público.", "correta": false},
+        {"texto": "Privatização.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "O controle da Administração Pública exercido pelo Poder Legislativo, com o auxílio técnico do Tribunal de Contas, é classificado como controle:",
+      "alternativas": [
+        {"texto": "interno.", "correta": false},
+        {"texto": "externo.", "correta": true, "justificativa": "O controle externo é aquele realizado por um órgão independente e externo à entidade controlada. Conforme o Art. 71 da CF, o controle externo da administração pública federal é exercido pelo Congresso Nacional, com o auxílio do Tribunal de Contas da União."},
+        {"texto": "judicial.", "correta": false},
+        {"texto": "administrativo.", "correta": false},
+        {"texto": "de legalidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "A forma de provimento que implica no preenchimento de cargo público vagopor outro servidor estável, sem nova aprovação em concurso público, é a:",
+      "alternativas": [
+        {"texto": "Nomeação.", "correta": false},
+        {"texto": "Promoção.", "correta": false},
+        {"texto": "Readaptação.", "correta": false},
+        {"texto": "Reversão.", "correta": false},
+        {"texto": "Reintegração.", "correta": true, "justificativa": "A reintegração é a forma de provimento que restabelece o servidor estável no cargo anteriormente ocupado, decorrente de anulação de sua demissão por decisão administrativa ou judicial. Não exige novo concurso."}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "A hipótese em que a Administração Pública pode, motivadamente, deixar de licitar por existir fornecedor único no mercado para um determinado bem ou serviço é denominada:",
+      "alternativas": [
+        {"texto": "Dispensa de Licitação.", "correta": false},
+        {"texto": "Inexigibilidade de Licitação.", "correta": true, "justificativa": "A inexigibilidade de licitação, prevista no Art. 114 da Lei 14.133/2021, ocorre nas hipóteses em que a competição é inviável. A mais comum é a de fornecedor único, devidamente comprovada, para obras, serviços, bens ou profissionais de caráter exclusivo."},
+        {"texto": "Contratação Direta.", "correta": false},
+        {"texto": "Licitação Deserta.", "correta": false},
+        {"texto": "Fração de Contrato.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "O poder da Administração Pública de limitar o exercício de direitos individuais em benefício do interesse público, fundamentando-se na polícia administrativa, é o poder:",
+      "alternativas": [
+        {"texto": "de Polícia.", "correta": true, "justificativa": "O poder de polícia é a atividade estatal que condiciona e restringe o uso e gozo de bens, atividades e direitos individuais em benefício da coletividade ou do próprio Estado, baseando-se nos atributos da discricionariedade, autoexecutoriedade e coercibilidade."},
+        {"texto": "Hierárquico.", "correta": false},
+        {"texto": "Disciplinar.", "correta": false},
+        {"texto": "Regulamentar.", "correta": false},
+        {"texto": "Vinculado.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "A causa excludente da responsabilidade civil do Estado que ocorre quando um evento imprevisível e inevitável, alheio à vontade das partes, é a única causa do dano, denomina-se:",
+      "alternativas": [
+        {"texto": "Culpa Exclusiva da Vítima.", "correta": false},
+        {"texto": "Caso Fortuito ou Força Maior.", "correta": true, "justificativa": "O caso fortuito (fato humano) e a força maior (fato da natureza) são eventos imprevisíveis e inevitáveis que, quando constituem a única causa do dano, excluem o nexo de causalidade e, consequentemente, a responsabilidade objetiva do Estado."},
+        {"texto": "Risco Integral.", "correta": false},
+        {"texto": "Negligência da Administração.", "correta": false},
+        {"texto": "Excludente de Ilicitude.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "A pessoa jurídica de direito privado integrante da administração indireta, com capital exclusivamente público, criada para a exploração de atividade econômica ou de serviço público, é uma:",
+      "alternativas": [
+        {"texto": "Autarquia.", "correta": false},
+        {"texto": "Empresa Pública.", "correta": true, "justificativa": "As empresas públicas são pessoas jurídicas de direito privado, criadas por lei para a exploração de atividade econômica ou de serviço público, com capital integralmente público. Sua criação é autorizada por lei específica."},
+        {"texto": "Sociedade de Economia Mista.", "correta": false},
+        {"texto": "Fundação Pública.", "correta": false},
+        {"texto": "Organização da Sociedade Civil de Interesse Público.", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A Lei Federal que estabelece normas para licitações e contratos administrativos da União, Estados, Distrito Federal e Municípios é a:",
+      "alternativas": [
+        {"texto": "Lei nº 8.666/1993.", "correta": false},
+        {"texto": "Lei nº 14.133/2021.", "correta": true, "justificativa": "A Lei nº 14.133/2021, conhecida como Nova Lei de Licitações e Contratos Administrativos, é a lei geral que estabelece normas para licitações e contratos administrativos para todos os entes da Federação, revogando a Lei 8.666/1993 para as contratações nela previstas."},
+        {"texto": "Lei nº 12.462/2011 (RDC).", "correta": false},
+        {"texto": "Lei Complementar nº 101/2000 (LRF).", "correta": false},
+        {"texto": "Lei nº 13.303/2016 (Estatuto das Estatais).", "correta": false}
+      ]
+    }
+  ]
+}

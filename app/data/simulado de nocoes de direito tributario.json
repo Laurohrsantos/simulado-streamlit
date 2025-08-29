@@ -1,0 +1,224 @@
+{
+  "Sistema Tributário Nacional": [
+    {
+      "id": "q1",
+      "questao": "De acordo com a Constituição Federal, a instituição ou majoração de um tributo depende necessariamente de:",
+      "alternativas": [
+        {"texto": "Edição de um decreto pelo Chefe do Poder Executivo.", "correta": false},
+        {"texto": "Publicação de uma portaria pelo gestor da Fazenda Pública.", "correta": false},
+        {"texto": "Edição de lei pela autoridade competente.", "correta": true, "justificativa": "Correto. O Princípio da Legalidade Tributária (Art. 150, I, CF) estabelece que compete exclusivamente à lei, em sentido estrito, instituir ou majorar tributos. O Poder Executivo não pode criar ou aumentar tributos por ato próprio."},
+        {"texto": "Aprovação prévia do Tribunal de Contas.", "correta": false},
+        {"texto": "Realização de um plebiscito popular.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "Qual princípio constitucional tributário veda a cobrança de tributo no mesmo exercício financeiro em que foi publicada a lei que o instituiu ou majorou?",
+      "alternativas": [
+        {"texto": "Princípio da Anterioridade Nonagesimal.", "correta": false},
+        {"texto": "Princípio da Legalidade.", "correta": false},
+        {"texto": "Princípio da Anterioridade do Exercício Financeiro.", "correta": true, "justificativa": "Correto. O Princípio da Anterioridade do Exercício Financeiro (Art. 150, III, 'b', CF) impede que um tributo seja cobrado no mesmo ano civil em que a lei que o criou ou aumentou foi publicada. Ele deve 'esperar' o próximo exercício."},
+        {"texto": "Princípio da Irretroatividade.", "correta": false},
+        {"texto": "Princípio da Capacidade Contributiva.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "O Imposto sobre a Propriedade de Veículos Automotores (IPVA) é de competência tributária de qual ente federativo?",
+      "alternativas": [
+        {"texto": "União.", "correta": false},
+        {"texto": "Estados e Distrito Federal.", "correta": true, "justificativa": "Correto. Conforme a repartição de competências da CF/88, o IPVA é um imposto de competência dos Estados e do Distrito Federal (Art. 155, III)."},
+        {"texto": "Municípios.", "correta": false},
+        {"texto": "É um imposto de competência comum, podendo ser cobrado por qualquer ente.", "correta": false},
+        {"texto": "Competência da União, mas delegada aos Estados.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "Uma taxa pode ser instituída em razão de:",
+      "alternativas": [
+        {"texto": "O contribuinte possuir um alto patrimônio.", "correta": false},
+        {"texto": "O contribuinte exercer uma atividade comercial lucrativa.", "correta": false},
+        {"texto": "O poder público realizar uma obra que valorizou o imóvel do contribuinte.", "correta": false},
+        {"texto": "O contribuinte utilizar um serviço público específico e divisível.", "correta": true, "justificativa": "Correto. As taxas, previstas no art. 145, II da CF, têm como fato gerador either (i) a utilização efetiva de serviço público específico e divisível (como coleta de lixo) ou (ii) o exercício do poder de polícia (fiscalização, licenciamento)."},
+        {"texto": "A circulação de mercadorias entre Estados.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "Qual tributo tem sua receita vinculada obrigatoriamente à seguridade social?",
+      "alternativas": [
+        {"texto": "Imposto sobre Importação (II).", "correta": false},
+        {"texto": "Imposto sobre a Renda (IR).", "correta": false},
+        {"texto": "Contribuição para o Financiamento da Seguridade Social (COFINS).", "correta": true, "justificativa": "Correto. A COFINS é uma Contribuição Social. Por definição, as contribuições têm receita vinculada a uma destinação específica. No caso da COFINS, os recursos são destinados ao financiamento da Seguridade Social (saúde, previdência e assistência social)."},
+        {"texto": "Imposto sobre Circulação de Mercadorias e Serviços (ICMS).", "correta": false},
+        {"texto": "Imposto sobre Serviços (ISS).", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "De acordo com o Código Tributário Nacional (CTN), se uma lei tributária não estabelecer uma data de vigência, ela entrará em vigor:",
+      "alternativas": [
+        {"texto": "Imediatamente após sua publicação.", "correta": false},
+        {"texto": "No primeiro dia do exercício financeiro seguinte.", "correta": false},
+        {"texto": "Após 90 dias de sua publicação.", "correta": false},
+        {"texto": "Após 45 dias de sua publicação.", "correta": true, "justificativa": "Correto. O Art. 104 do CTN estabelece a regra geral: se a lei não mencionar expressamente sua data de entrada em vigor, ela passará a vigorar 45 dias após sua publicação oficial. Este é o prazo para que a sociedade tome ciência da nova norma."},
+        {"texto": "Após 30 dias de sua publicação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "O crédito tributário que não foi pago no prazo legal e é inscrito para fins de cobrança judicial é denominado:",
+      "alternativas": [
+        {"texto": "Dívida Consolidada.", "correta": false},
+        {"texto": "Dívida Flutuante.", "correta": false},
+        {"texto": "Dívida Ativa.", "correta": true, "justificativa": "Correto. Conforme a Lei nº 6.830/80 (Lei de Execução Fiscal), a Dívida Ativa é o crédito da Fazenda Pública (tributário ou não-tributário) que não foi pago no vencimento e é inscrito para ser cobrado por meio de uma execução fiscal judicial."},
+        {"texto": "Restos a Pagar.", "correta": false},
+        {"texto": "Precatório.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "Qual é a principal função administrativa do Tribunal de Contas em relação à arrecadação tributária?",
+      "alternativas": [
+        {"texto": "Substituir a Fazenda Pública na cobrança judicial de débitos.", "correta": false},
+        {"texto": "Emitir certidões negativas de débito para os contribuintes.", "correta": false},
+        {"texto": "Instituir e majorar tributos por meio de resoluções.", "correta": false},
+        {"texto": "Fiscalizar a legalidade, legitimidade e economicidade da arrecadação e aplicação dos recursos.", "correta": true, "justificativa": "Correto. Os Tribunais de Contas exercem o controle externo da administração pública. Eles auditam e fiscalizam se a receita tributária foi arrecadada conforme a lei e se foi aplicada de maneira regular, eficiente e de acordo com o orçamento público."},
+        {"texto": "Conceder benefícios e isenções fiscais.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "O Imposto sobre Serviços de Qualquer Natureza (ISS) é de competência:",
+      "alternativas": [
+        {"texto": "Da União.", "correta": false},
+        {"texto": "Dos Estados.", "correta": false},
+        {"texto": "Dos Municípios e do Distrito Federal.", "correta": true, "justificativa": "Correto. O ISS é um imposto de competência dos Municípios e do Distrito Federal (Art. 156, III, CF). Cada município tem sua própria lei regulamentando o imposto, seguindo as diretrizes da Lei Complementar Federal que disciplina o tema."},
+        {"texto": "Comum entre Estados e Municípios.", "correta": false},
+        {"texto": "Privativa da União, mas com repasse integral aos Municípios.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "Qual documento é emitido para atestar que uma pessoa ou empresa não possui débitos inscritos na dívida ativa de um ente público?",
+      "alternativas": [
+        {"texto": "Balancete de Arrecadação.", "correta": false},
+        {"texto": "Certidão Negativa de Débito.", "correta": true, "justificativa": "Correto. A Certidão Negativa de Débito (CND) é o documento oficial que comprova a quitação do sujeito passivo perante a Fazenda Pública do ente federativo que a emitiu. É exigida para diversos fins, como licitações e obtenção de empréstimos."},
+        {"texto": "Guia de Recolhimento.", "correta": false},
+        {"texto": "Declaração de Débitos Tributários.", "correta": false},
+        {"texto": "Notificação de Lançamento.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "O princípio que determina que a lei tributária não pode ser aplicada a fatos geradores ocorridos antes do início de sua vigência é o princípio da:",
+      "alternativas": [
+        {"texto": "Anterioridade.", "correta": false},
+        {"texto": "Legalidade.", "correta": false},
+        {"texto": "Irretroatividade.", "correta": true, "justificativa": "Correto. O Princípio da Irretroatividade (Art. 150, III, 'a', CF) protege o contribuinte, vedando que uma lei tributária nova seja aplicada a fatos já consumados no passado, antes de sua vigência. Só se aplica a fatos geradores futuros."},
+        {"texto": "Vedação ao Confisco.", "correta": false},
+        {"texto": "Isonomia.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "Qual tributo é instituído para cobrir o custo de uma obra pública que causa valorização imobiliária em uma região?",
+      "alternativas": [
+        {"texto": "Taxa.", "correta": false},
+        {"texto": "Contribuição de Melhoria.", "correta": true, "justificativa": "Correto. A Contribuição de Melhoria (Art. 145, III, CF) tem como fato gerador a valorização que uma obra pública (ex.: pavimentação, rede de esgoto) provoca em imóveis particulares. Seu valor não pode ser superior ao custo da obra."},
+        {"texto": "Imposto Territorial Rural.", "correta": false},
+        {"texto": "Contribuição Social.", "correta": false},
+        {"texto": "Empréstimo Compulsório.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "A presunção de certeza e liquidez, na esfera da execução fiscal, é atribuída a qual documento?",
+      "alternativas": [
+        {"texto": "À notificação de lançamento do tributo.", "correta": false},
+        {"texto": "À certidão de dívida ativa.", "correta": true, "justificativa": "Correto. A certidão de dívida ativa, nos termos da Lei nº 6.830/80, tem força de título executivo extrajudicial. Isso significa que, uma vez inscrito o débito, a certidão que o comprova possui presunção de certeza (o débito existe), liquidez (o valor é determinado) e exigibilidade (está pronto para ser cobrado), facilitando a ação de execução fiscal."},
+        {"texto": "Ao auto de infração lavrado pelo auditor.", "correta": false},
+        {"texto": "À lei que institui o tributo.", "correta": false},
+        {"texto": "À decisão administrativa em processo de consulta fiscal.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "A competência para instituir o Imposto sobre Operações relativas à Circulação de Mercadorias e Serviços (ICMS) é da:",
+      "alternativas": [
+        {"texto": "União.", "correta": false},
+        {"texto": "Estados e Distrito Federal.", "correta": true, "justificativa": "Correto. O ICMS é o principal imposto de competência dos Estados e do Distrito Federal, conforme disposto no Art. 155, II da CF/88. É a maior fonte de receita própria desses entes."},
+        {"texto": "Municípios.", "correta": false},
+        {"texto": "União, que repassa aos Estados.", "correta": false},
+        {"texto": "Competência comum da União e dos Estados.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "Qual é a espécie normativa hierarquicamente superior ao Código Tributário Nacional (CTN)?",
+      "alternativas": [
+        {"texto": "Lei Ordinária Federal.", "correta": false},
+        {"texto": "Medida Provisória.", "correta": false},
+        {"texto": "Constituição Federal.", "correta": true, "justificativa": "Correto. A Constituição Federal está no topo da pirâmide normativa. O CTN é uma Lei Complementar (Lei nº 5.172/66) e, como tal, está hierarquicamente abaixo da CF. Ele não pode contrariar nenhum comando constitucional."},
+        {"texto": "Decreto Presidencial.", "correta": false},
+        {"texto": "Instrução Normativa da Receita Federal.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "O princípio da capacidade contributiva está intimamente relacionado ao princípio da:",
+      "alternativas": [
+        {"texto": "Legalidade.", "correta": false},
+        {"texto": "Anterioridade.", "correta": false},
+        {"texto": "Isonomia.", "correta": true, "justificativa": "Correto. O Princípio da Isonomia (Art. 150, II, CF) trata de tratar os iguais de forma igual e os desiguais de forma desigual. O Princípio da Capacidade Contributiva (Art. 145, §1º, CF) é uma concretização da isonomia na seara tributária, ao determinar que os impostos sejam graduados conforme a situação econômica do contribuinte, tributando-se mais quem pode mais."},
+        {"texto": "Irretroatividade.", "correta": false},
+        {"texto": "Vedação ao Confisco.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "Qual órgão é responsável pela administração e fiscalização dos tributos federais?",
+      "alternativas": [
+        {"texto": "Controladoria-Geral da União (CGU).", "correta": false},
+        {"texto": "Tribunal de Contas da União (TCU).", "correta": false},
+        {"texto": "Secretaria da Receita Federal do Brasil (RFB).", "correta": true, "justificativa": "Correto. A Receita Federal do Brasil (RFB) é o órgão permanente da administração direta, subordinado ao Ministério da Fazenda, responsável pela administração, arrecadação, fiscalização e cobrança dos tributos de competência da União."},
+        {"texto": "Banco Central do Brasil (BACEN).", "correta": false},
+        {"texto": "Conselho Administrativo de Recursos Fiscais (CARF).", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "A obrigação de pagar um imposto como o IPTU surge no momento:",
+      "alternativas": [
+        {"texto": "Da publicação da lei que o institui.", "correta": false},
+        {"texto": "Do lançamento pela autoridade fazendária.", "correta": false},
+        {"texto": "Da ocorrência do fato gerador (ex.: ser proprietário de um imóvel urbano em 1º de janeiro).", "correta": true, "justificativa": "Correto. A obrigação tributária principal (de pagar o tributo) surge com a ocorrência do fato gerador, conforme define o Art. 114 do CTN. No caso do IPTU, o fato gerador é a propriedade de um imóvel urbano. O lançamento é apenas o ato administrativo que formaliza e quantifica essa obrigação já existente."},
+        {"texto": "Do recebimento da notificação de pagamento.", "correta": false},
+        {"texto": "Da inscrição do débito em dívida ativa.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "Qual tributo NÃO é de competência da União?",
+      "alternativas": [
+        {"texto": "Imposto sobre Importação (II).", "correta": false},
+        {"texto": "Imposto sobre Produtos Industrializados (IPI).", "correta": false},
+        {"texto": "Imposto sobre a Renda (IR).", "correta": false},
+        {"texto": "Imposto sobre Transmissão 'Causa Mortis' e Doações (ITCMD).", "correta": true, "justificativa": "Correto. O ITCMD é um imposto de competência dos Estados e do Distrito Federal, conforme o Art. 155, I da CF/88. A União não tem competência para instituí-lo."},
+        {"texto": "Imposto sobre Operações Financeiras (IOF).", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "O princípio que veda a utilização de alíquotas tributárias tão elevadas que equivalham à tomada da propriedade do contribuinte é o da:",
+      "alternativas": [
+        {"texto": "Legalidade.", "correta": false},
+        {"texto": "Anterioridade.", "correta": false},
+        {"texto": "Vedação ao Confisco.", "correta": true, "justificativa": "Correto. O Princípio da Vedação ao Confisco (Art. 150, IV, CF) é um limite material ao poder de tributar. Ele impede que o Estado use o tributo como instrumento de expropriação de bens, assegurando o direito fundamental à propriedade."},
+        {"texto": "Irretroatividade.", "correta": false},
+        {"texto": "Liberdade de Tráfego.", "correta": false}
+      ]
+    }
+  ]
+}

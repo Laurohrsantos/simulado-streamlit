@@ -1,0 +1,224 @@
+{
+  "Direito Financeiro e Orçamento Público": [
+    {
+      "id": "q1",
+      "questao": "Qual é o objeto de estudo do Direito Financeiro?",
+      "alternativas": [
+        {"texto": "A) A aplicação do direito penal aos crimes contra a economia popular.", "correta": false},
+        {"texto": "B) A atividade financeira do Estado, incluindo receita, despesa, orçamento e crédito público.", "correta": true, "justificativa": "Correto. O Direito Financeiro é o ramo do direito público que disciplina toda a atividade financeira do Estado, abrangendo a previsão de receitas, a autorização de despesas (orçamento), a arrecadação, a gestão e a aplicação dos recursos públicos, bem como a realização de operações de crédito."},
+        {"texto": "C) A regulação do sistema financeiro nacional e dos mercados de capitais.", "correta": false},
+        {"texto": "D) O planejamento estratégico de marketing das empresas estatais.", "correta": false},
+        {"texto": "E) A contabilidade e auditoria das entidades sem fins lucrativos.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "Conforme a Constituição Federal de 1988, qual instrumento de planejamento estabelece as diretrizes, objetivos e metas da administração pública federal para um período de quatro anos?",
+      "alternativas": [
+        {"texto": "A) Lei de Diretrizes Orçamentárias (LDO)", "correta": false},
+        {"texto": "B) Lei de Responsabilidade Fiscal (LRF)", "correta": false},
+        {"texto": "C) Plano Plurianual (PPA)", "correta": true, "justificativa": "Correto. O Plano Plurianual (PPA), previsto no art. 165, §1º, da CF/88, é o instrumento de planejamento de longo prazo, com vigência de quatro anos, que define as diretrizes, objetivos e metas de médio prazo para as despesas de capital e outras delas decorrentes."},
+        {"texto": "D) Lei Orçamentária Anual (LOA)", "correta": false},
+        {"texto": "E) Plano Nacional de Desenvolvimento (PND)", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "A Lei nº 4.320/1964 é considerada a lei que estabelece:",
+      "alternativas": [
+        {"texto": "A) O Código de Defesa do Contribuinte.", "correta": false},
+        {"texto": "B) As normas gerais de direito financeiro para orçamento e contabilidade pública.", "correta": true, "justificativa": "Correto. A Lei 4.320/64 estatui Normas Gerais de Direito Financeiro para a elaboração e controle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal. Ela é fundamental para entender conceitos, classificações e a execução orçamentária."},
+        {"texto": "C) O regime de previdência dos servidores públicos.", "correta": false},
+        {"texto": "D) As regras para licitações e contratos administrativos.", "correta": false},
+        {"texto": "E) O processo administrativo fiscal.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "O princípio orçamentário que determina que a lei orçamentária deve conter todas as receitas e todas as despesas do ente público é o princípio da:",
+      "alternativas": [
+        {"texto": "A) Anualidade", "correta": false},
+        {"texto": "B) Unidade", "correta": false},
+        {"texto": "C) Universalidade", "correta": true, "justificativa": "Correto. O Princípio da Universalidade, também conhecido como da 'compreensividade', estabelece que o orçamento deve incorporar de forma integral todas as receitas e todas as despesas do Estado, vedando a existência de orçamentos paralelos ou 'fora do orçamento'."},
+        {"texto": "D) Especialização", "correta": false},
+        {"texto": "E) Exclusividade", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "Qual das seguintes fases NÃO faz parte do ciclo orçamentário?",
+      "alternativas": [
+        {"texto": "A) Elaboração", "correta": false},
+        {"texto": "B) Execução", "correta": false},
+        {"texto": "C) Controle", "correta": false},
+        {"texto": "D) Cobrança da Dívida Ativa", "correta": true, "justificativa": "Correto. O ciclo orçamentário é composto pelas fases de Elaboração (pelo Executivo), Discussão e Votação (pelo Legislativo), Execução (pelo Executivo) e Controle/Avaliação (por todos os Poderes e Tribunais de Contas). A cobrança da dívida ativa é uma atividade de execução da receita, mas não é uma fase distinta do ciclo."},
+        {"texto": "E) Discussão e Votação", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "Um crédito adicional aberto para reforçar uma dotação orçamentária já existente na LOA, mas que se mostrou insuficiente, é classificado como:",
+      "alternativas": [
+        {"texto": "A) Crédito Extraordinário", "correta": false},
+        {"texto": "B) Crédito Especial", "correta": false},
+        {"texto": "C) Crédito Suplementar", "correta": true, "justificativa": "Correto. O Crédito Suplementar é destinado precisamente a reforçar (suplementar) uma dotação já existente na Lei Orçamentária. Sua fonte de recursos typical é o superávit financeiro, o excesso de arrecadação ou uma operação de crédito autorizada."},
+        {"texto": "D) Crédito de Reabertura", "correta": false},
+        {"texto": "E) Crédito de Anulação", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "O primeiro estágio da despesa pública, no qual se reserva uma dotação orçamentária para um fim específico, gerando uma obrigação para o Estado, é denominado:",
+      "alternativas": [
+        {"texto": "A) Liquidação", "correta": false},
+        {"texto": "B) Empenho", "correta": true, "justificativa": "Correto. O Empenho é o primeiro estágio da despesa. É o ato emanado de autoridade competente que cria para o Estado a obrigação de pagar uma despesa previamente autorizada na LOA. É a 'reserva' do dinheiro para aquela finalidade específica."},
+        {"texto": "C) Pagamento", "correta": false},
+        {"texto": "D) Programação", "correta": false},
+        {"texto": "E) Lançamento", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "De acordo com a Lei de Responsabilidade Fiscal (LC 101/2000), a despesa total com pessoal de cada ente da Federação (União, Estados, Municípios) não pode exceder que percentual de sua Receita Corrente Líquida (RCL)?",
+      "alternativas": [
+        {"texto": "A) 60% para todos os entes.", "correta": false},
+        {"texto": "B) 50% para a União, 60% para Estados e 60% para Municípios.", "correta": true, "justificativa": "Correto. A LRF estabelece limites rígidos: a União não pode gastar mais do que 50% de sua RCL com pessoal, enquanto Estados e Municípios têm o limite de 60%. Esse é um dos principais mecanismos de controle de gastos da lei."},
+        {"texto": "C) 49% para a União, 59% para Estados e 59% para Municípios.", "correta": false},
+        {"texto": "D) 70% para a União, 50% para Estados e 50% para Municípios.", "correta": false},
+        {"texto": "E) Não há um limite percentual único, variando conforme o PIB.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "A ordem de pagamento expedida pela Fazenda Pública para o pagamento de dívida decorrente de sentença judicial transitada em julgado é conhecida como:",
+      "alternativas": [
+        {"texto": "A) Restos a Pagar", "correta": false},
+        {"texto": "B) Precatório", "correta": true, "justificativa": "Correto. O Precatório é o único instrumento válido para pagamento de débitos da Fazenda Pública decorrentes de sentenças judiciais definitivas. A CF/88 e a LRF disciplinam rigorosamente sua emissão e pagamento, incluindo ordem de preferência e limites financeiros."},
+        {"texto": "C) Requisição de Pagamento", "correta": false},
+        {"texto": "D) Credencial Fiscal", "correta": false},
+        {"texto": "E) Ordem Bancária", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "Qual é a natureza jurídica da Lei Orçamentária Anual (LOA)?",
+      "alternativas": [
+        {"texto": "A) Lei formal que impõe obrigações coercitivas aos cidadãos.", "correta": false},
+        {"texto": "B) Lei em sentido material que cria direitos subjetivos para os administrados.", "correta": false},
+        {"texto": "C) Lei formal que é uma autorização para a administração pública arrecadar e gastar.", "correta": true, "justificativa": "Correto. A LOA é uma lei em sentido formal (é aprovada pelo Poder Legislativo), mas seu conteúdo é de autorização. Ela autoriza o Executivo a arrecadar as receitas previstas e a realizar as despesas fixadas. Ela não cria obrigações diretamente para o cidadão, nem gera direito subjetivo à realização da despesa."},
+        {"texto": "D) Medida provisória com força de lei orçamentária.", "correta": false},
+        {"texto": "E) Decreto legislativo de eficácia contábil.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "Qual instrumento do ciclo orçamentário é responsável por estimar a receita e fixar a despesa para o exercício financeiro seguinte, detalhando a programação de custeio e investimento?",
+      "alternativas": [
+        {"texto": "A) Plano Plurianual (PPA)", "correta": false},
+        {"texto": "B) Lei de Diretrizes Orçamentárias (LDO)", "correta": false},
+        {"texto": "C) Lei Orçamentária Anual (LOA)", "correta": true, "justificativa": "Correto. A Lei Orçamentária Anual (LOA) é o instrumento que, de fato, estima a receita e detalha (fixa) a despesa para o ano seguinte. Ela desce a um nível de detalhamento muito maior que o PPA e a LDO, especificando onde e como o dinheiro será gasto."},
+        {"texto": "D) Lei de Responsabilidade Fiscal (LRF)", "correta": false},
+        {"texto": "E) Decreto de Execução Orçamentária", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "Conforme a LRF, a renúncia de receita (como a concessão de uma isenção fiscal) deve estar necessariamente prevista:",
+      "alternativas": [
+        {"texto": "A) No Plano Plurianual (PPA).", "correta": false},
+        {"texto": "B) Na Lei Orçamentária Anual (LOA).", "correta": false},
+        {"texto": "C) Na Lei de Diretrizes Orçamentárias (LDO).", "correta": true, "justificativa": "Correto. A LRF é muito clara: a renúncia de receita só pode ser concedida se estiver prevista na Lei de Diretrizes Orçamentárias (LDO) do exercício em que for instituída. Além disso, a lei que a instituir deve indicar a fonte de recursos para sua compensação."},
+        {"texto": "D) Em um decreto do Chefe do Executivo.", "correta": false},
+        {"texto": "E) Em uma portaria ministerial.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "Despesas empenhadas no exercício financeiro, mas não pagas até o seu encerramento, são classificadas como:",
+      "alternativas": [
+        {"texto": "A) Despesas de Exercícios Anteriores", "correta": false},
+        {"texto": "B) Suprimentos de Fundos", "correta": false},
+        {"texto": "C) Restos a Pagar", "correta": true, "justificativa": "Correto. Restos a Pagar são as despesas regularmente empenhadas (ou seja, a obrigação assumida) dentro de um exercício financeiro, mas que não foram pagas até 31 de dezembro. Elas são inscritas e seu pagamento ocorre no exercício financeiro seguinte."},
+        {"texto": "D) Dívida Flutuante", "correta": false},
+        {"texto": "E) Dívida Consolidada", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "O princípio orçamentário que veda a utilização de dotações globais indeterminadas, exigindo a especificação da finalidade do gasto, é o princípio da:",
+      "alternativas": [
+        {"texto": "A) Universalidade", "correta": false},
+        {"texto": "B) Unidade", "correta": false},
+        {"texto": "C) Especialização", "correta": true, "justificativa": "Correto. O Princípio da Especialização ou da Discriminação exige que as receitas e despesas sejam discriminadas (especificadas) na lei orçamentária, de modo a ficar clara a sua destinação. Ele impede a existência de 'verba-choque' ou dotações globais sem finalidade definida, garantindo transparência e controle."},
+        {"texto": "D) Anualidade", "correta": false},
+        {"texto": "E) Legalidade", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "Qual das seguintes NÃO é uma fonte de recursos para abertura de Créditos Adicionais Suplementares, conforme a Lei 4.320/64?",
+      "alternativas": [
+        {"texto": "A) Superávit Financeiro", "correta": false},
+        {"texto": "B) Excesso de Arrecadação", "correta": false},
+        {"texto": "C) Operação de Crédito", "correta": false},
+        {"texto": "D) Anulação de Dotações Orçamentárias", "correta": false},
+        {"texto": "E) Emissão de Moeda", "correta": true, "justificativa": "Correto. A emissão de moeda é uma competência exclusiva do Banco Central e não pode ser utilizada como fonte de recursos para créditos adicionais. As fontes válidas para créditos suplementares são o superávit financeiro, o excesso de arrecadação, as anulações parciais ou totais de dotações e as operações de crédito autorizadas em lei."}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "A Lei de Responsabilidade Fiscal (LRF) estabelece que a transparência da gestão fiscal será assegurada, principalmente, pela:",
+      "alternativas": [
+        {"texto": "A) Realização de audiências públicas secretas.", "correta": false},
+        {"texto": "B) Publicação de editais em jornais de pequena circulação.", "correta": false},
+        {"texto": "C) Divulgação de relatórios de gestão fiscal de difícil acesso.", "correta": false},
+        {"texto": "D) Publicidade e amplo acesso aos instrumentos de planejamento e execução orçamentária.", "correta": true, "justificativa": "Correto. A LRF eleva a Transparência a um de seus pilares centrais. Ela determina a obrigatoriedade de publicidade e amplo acesso a todos os instrumentos de planejamento (PPA, LDO, LOA) e de execução (Relatórios de Gestão Fiscal - RGF, Relatórios Resumidos da Execução Orçamentária - RREO) por parte da sociedade."},
+        {"texto": "E) Criação de um sistema de informações sigiloso para o Legislativo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A fase da receita pública em que ocorre a verificação do fato gerador, a determinação do sujeito passivo e o cálculo do quantum devido é chamada de:",
+      "alternativas": [
+        {"texto": "A) Arrecadação", "correta": false},
+        {"texto": "B) Recolhimento", "correta": false},
+        {"texto": "C) Lançamento", "correta": true, "justificativa": "Correto. O Lançamento é o ato administrativo complexo pelo qual a autoridade fiscal verifica a ocorrência do fato gerador (ex: venda de mercadoria para ICMS), identifica o contribuinte (sujeito passivo) e calcula o valor do tributo devido. É a base jurídica para a cobrança."},
+        {"texto": "D) Inspeção", "correta": false},
+        {"texto": "E) Fiscalização", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "Qual das alternativas abaixo representa uma vedação constitucional expressa em matéria orçamentária?",
+      "alternativas": [
+        {"texto": "A) Iniciar programas ou projetos não incluídos na LOA.", "correta": true, "justificativa": "Correto. A Constituição Federal veda expressamente, em seu art. 167, a realização de despesas ou a assunção de obrigações diretas que excedam os créditos orçamentários ou adicionais, bem como a realização de operações de crédito que excedam o montante das despesas de capital. Iniciar um projeto não incluso na LOA viola este princípio."},
+        {"texto": "B) Realizar empenho de despesa não autorizada.", "correta": false},
+        {"texto": "C) Contratar operações de crédito entre um ente da Federação e outro.", "correta": false},
+        {"texto": "D) Conceder crédito suplementar sem fonte de recursos.", "correta": false},
+        {"texto": "E) Todas as alternativas acima representam vedações.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "O modelo orçamentário que enfatiza o alcance de objetivos e metas, classificando a despesa por programas e projetos, é conhecido como:",
+      "alternativas": [
+        {"texto": "A) Orçamento Tradicional", "correta": false},
+        {"texto": "B) Orçamento-Programa", "correta": true, "justificativa": "Correto. O Orçamento-Programa representa uma evolução em relação ao modelo tradicional. Ele deixa de focar apenas nos 'meios' (inputs como material, pessoal) e passa a focar nos 'fins' (outputs/resultados), organizando a despesa por programas, projetos e atividades que visam atingir objetivos específicos da administração. É o modelo adotado no Brasil."},
+        {"texto": "C) Orçamento de Base Zero", "correta": false},
+        {"texto": "D) Orçamento de Desempenho", "correta": false},
+        {"texto": "E) Orçamento por Resultados", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "Qual órgão do Poder Legislativo tem competência privativa para autorizar operações de crédito externo dos Estados e Municípios?",
+      "alternativas": [
+        {"texto": "A) Câmara dos Deputados", "correta": false},
+        {"texto": "B) Senado Federal", "correta": true, "justificativa": "Correto. Conforme a Constituição Federal (art. 52, V), compete privativamente ao Senado Federal autorizar operações de crédito externo dos Estados, do Distrito Federal e dos Municípios. Esta é uma das importantes funções de controle e regulação do endividamento público exercidas pela Casa."},
+        {"texto": "C) Tribunal de Contas da União", "correta": false},
+        {"texto": "D) Comissão Mista de Planos, Orçamentos e Fiscalização", "correta": false},
+        {"texto": "E) Controladoria-Geral da União", "correta": false}
+      ]
+    }
+  ]
+}

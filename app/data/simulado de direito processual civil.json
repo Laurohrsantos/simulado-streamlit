@@ -1,0 +1,224 @@
+{
+  "processo_civil": [
+    {
+      "id": "q1",
+      "questao": "O princípio constitucional que garante o direito de ser ouvido e de se manifestar sobre todos os atos e provas produzidos no processo é o princípio do:",
+      "alternativas": [
+        {"texto": "Juiz Natural.", "correta": false},
+        {"texto": "Devido Processo Legal.", "correta": false},
+        {"texto": "Contraditório.", "correta": true, "justificativa": "O princípio do contraditório, previsto no Art. 5º, LV, da CF, assegura às partes o direito de ciência dos atos processuais e de manifestação sobre eles, sendo essencial para um processo justo e equilibrado."},
+        {"texto": "Ampla Defesa.", "correta": false},
+        {"texto": "Publicidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "A condição da ação que verifica se o autor é a parte legítima para propor a demanda e se o réu é a parte legítima para defendê-la denomina-se:",
+      "alternativas": [
+        {"texto": "Interesse de Agir.", "correta": false},
+        {"texto": "Possibilidade Jurídica do Pedido.", "correta": false},
+        {"texto": "Legitimidade das Partes.", "correta": true, "justificativa": "A legitimidade das partes (ad causam) é condição da ação que examina se o autor e o réu são os titulares da relação jurídica discutida em juízo, ou seja, se são as partes corretas para aquele processo."},
+        {"texto": "Jurisdição.", "correta": false},
+        {"texto": "Competência.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "O ato judicial que põe fim à fase de conhecimento do processo em primeira instância, com ou sem julgamento do mérito, é a:",
+      "alternativas": [
+        {"texto": "Decisão Interlocutória.", "correta": false},
+        {"texto": "Sentença.", "correta": true, "justificativa": "Conforme o Art. 203, I, do CPC, a sentença é o ato do juiz que implica alguma das situações listadas nos incisos do Art. 485, pondo fim à fase de conhecimento do processo, com julgamento de mérito ou não."},
+        {"texto": "Despacho.", "correta": false},
+        {"texto": "Acórdão.", "correta": false},
+        {"texto": "Portaria.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "A imutabilidade da decisão judicial da qual não caiba mais recurso, impedindo a rediscussão da matéria decidida, denomina-se:",
+      "alternativas": [
+        {"texto": "Coisa Julgada Formal.", "correta": false},
+        {"texto": "Coisa Julgada Material.", "correta": true, "justificativa": "A coisa julgada material é a qualidade que torna imutável e indiscutível a decisão judicial de mérito que transitou em julgado, impedindo que a mesma questão volte a ser debatida em novo processo (Art. 502 do CPC)."},
+        {"texto": "Preclusão.", "correta": false},
+        {"texto": "Prescrição.", "correta": false},
+        {"texto": "Coisa Julgada Instrumental.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "O controle judicial que se limita a verificar a conformidade do ato administrativo com a lei, anulando-o se ilegal, sem adentrar o mérito da discricionariedade administrativa, é conhecido como controle:",
+      "alternativas": [
+        {"texto": "de Oportunidade e Conveniência.", "correta": false},
+        {"texto": "de Legalidade.", "correta": true, "justificativa": "O controle de legalidade é o tradicional papel do Judiciário, que se limita a verificar se o ato administrativo observou a lei, os princípios jurídicos e o procedimento adequado, sem substituir o juízo de valor do administrador."},
+        {"texto": "de Mérito Administrativo.", "correta": false},
+        {"texto": "de Políticas Públicas.", "correta": false},
+        {"texto": "de Eficiência.", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "O método alternativo de solução de conflitos em que um terceiro imparcial (árbitro) profere uma decisão impositiva sobre a controvérsia, com força de sentença judicial, é a:",
+      "alternativas": [
+        {"texto": "Mediação.", "correta": false},
+        {"texto": "Conciliação.", "correta": false},
+        {"texto": "Arbitragem.", "correta": true, "justificativa": "A arbitragem, regulada pela Lei 9.307/1996, é um meio heterocompositivo onde as partes elegem um ou mais árbitros para decidir a lide de forma impositiva. A sentença arbitral tem a mesma eficácia da sentença judicial."},
+        {"texto": "Negociação.", "correta": false},
+        {"texto": "Comissão de Conciliação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "O princípio processual que veda a instituição de tribunais de exceção e garante que o julgador será sempre previsto em lei com competência preestabelecida é o princípio do:",
+      "alternativas": [
+        {"texto": "Devido Processo Legal.", "correta": false},
+        {"texto": "Juiz Natural.", "correta": true, "justificativa": "O princípio do juiz natural (Art. 5º, XXXVII e LIII, CF) garante que ninguém será processado ou sentenciado senão pela autoridade competente e segundo as leis preexistentes, impedindo a criação de tribunais ad hoc ou de exceção."},
+        {"texto": "Contraditório.", "correta": false},
+        {"texto": "Inafastabilidade da Jurisdição.", "correta": false},
+        {"texto": "Duplo Grau de Jurisdição.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "Na teoria geral da prova, a regra geral sobre o ônus de provar um fato alegado em juízo incumbe:",
+      "alternativas": [
+        {"texto": "ao juiz, de ofício.", "correta": false},
+        {"texto": "ao Ministério Público.", "correta": false},
+        {"texto": "à parte que o alegou.", "correta": true, "justificativa": "O Art. 373 do CPC estabelece a regra geral: 'o ônus da prova incumbe ao autor, quanto ao fato constitutivo de seu direito, e ao réu, quanto à existência de fato impeditivo, modificativo ou extintivo do direito do autor'."},
+        {"texto": "à parte ré.", "correta": false},
+        {"texto": "ao assistente técnico.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "A modalidade de decisão judicial que resolve uma questão incidente no processo, sem pôr fim à relação processual, é a:",
+      "alternativas": [
+        {"texto": "Sentença.", "correta": false},
+        {"texto": "Decisão Interlocutória.", "correta": true, "justificativa": "A decisão interlocutória, nos termos do Art. 203, II, do CPC, é o ato judicial que decide uma questão incidente no processo, sem resolver o mérito da causa. Exemplo: decisão que defere ou indefere a produção de uma prova pericial."},
+        {"texto": "Despacho.", "correta": false},
+        {"texto": "Acórdão.", "correta": false},
+        {"texto": "Portaria.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "O poder-dever do Estado de solucionar conflitos de interesses e compor lides, substituindo as partes, aplicando o direito ao caso concreto, é a:",
+      "alternativas": [
+        {"texto": "Ação.", "correta": false},
+        {"texto": "Jurisdição.", "correta": true, "justificativa": "A jurisdição é uma das funções do Estado, exercida pelo Poder Judiciário, através da qual este substitui as partes para, de forma imparcial e definitiva, solucionar conflitos de interesses mediante a aplicação coativa do direito objetivo ao caso concreto."},
+        {"texto": "Competência.", "correta": false},
+        {"texto": "Processo.", "correta": false},
+        {"texto": "Execução.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "O instituto processual que trata de conflitos complexos envolvendo direitos coletivos, políticas públicas e grandes estruturas, exigindo uma atuação judicial mais intervencionista e com monitoramento contínuo, é conhecido como:",
+      "alternativas": [
+        {"texto": "Processo Coletivo.", "correta": false},
+        {"texto": "Processo Estrutural.", "correta": true, "justificativa": "O processo estrutural é uma técnica processual utilizada para solucionar litígios de grande complexidade que envolvem a defesa de direitos coletivos e a implementação de políticas públicas, exigindo do juiz uma atuação mais managerial, com estabelecimento de metas, prazos e monitoramento da implementação das decisões."},
+        {"texto": "Processo de Conhecimento.", "correta": false},
+        {"texto": "Processo Cautelar.", "correta": false},
+        {"texto": "Processo Executivo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "A condição da ação que examina se a via judicial é necessária e adequada para a obtenção da tutela pretendida é o:",
+      "alternativas": [
+        {"texto": "Interesse de Agir.", "correta": true, "justificativa": "O interesse de agir (ou interesse processual) é a condição da ação que verifica a necessidade e a adequação do provimento judicial para a tutela do direito material alegado. Envolve a análise do binômio utilidade-adequação do meio escolhido."},
+        {"texto": "Legitimidade das Partes.", "correta": false},
+        {"texto": "Possibilidade Jurídica do Pedido.", "correta": false},
+        {"texto": "Jurisdição.", "correta": false},
+        {"texto": "Competência.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "O princípio constitucional que assegura a toda pessoa o direito a um processo com todas as etapas previstas em lei, garantindo-se o contraditório e a ampla defesa, é o princípio do:",
+      "alternativas": [
+        {"texto": "Juiz Natural.", "correta": false},
+        {"texto": "Devido Processo Legal.", "correta": true, "justificativa": "O princípio do devido processo legal (Art. 5º, LIV, CF) é a garantia constitucional de que ninguém será privado de sua liberdade ou de seus bens sem um processo justo e regular, que observe todas as formalidades legais necessárias à defesa ampla do acusado."},
+        {"texto": "Publicidade.", "correta": false},
+        {"texto": "Impessoalidade.", "correta": false},
+        {"texto": "Motivação das Decisões.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "No processo civil, a decisão proferida por um tribunal colegiado (como um TRF ou TJ) é denominada:",
+      "alternativas": [
+        {"texto": "Sentença.", "correta": false},
+        {"texto": "Decisão Interlocutória.", "correta": false},
+        {"texto": "Despacho.", "correta": false},
+        {"texto": "Acórdão.", "correta": true, "justificativa": "O acórdão é a decisão proferida por um órgão colegiado de segundo grau (Tribunal de Justiça, Tribunal Regional Federal, etc.) no julgamento de recursos ou em processo de competência originária. Difere da sentença, que é proferida por um juiz singular."},
+        {"texto": "Voto.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "A teoria geral da prova estabelece que toda prova produzida deve ser submetida ao conhecimento das partes, assegurando-se o direito de manifestação. Este é o princípio da:",
+      "alternativas": [
+        {"texto": "Comunhão da Prova.", "correta": false},
+        {"texto": "Publicidade.", "correta": false},
+        {"texto": "Contraditório sobre a Prova.", "correta": true, "justificativa": "O princípio do contraditório sobre a prova é corolário do devido processo legal e assegura que toda prova produzida seja levada ao conhecimento das partes, que terão o direito de se manifestar sobre ela, apresentar contraprova e debater seu valor jurídico."},
+        {"texto": "Concentração da Prova.", "correta": false},
+        {"texto": "Imediatidade da Prova.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "A sentença que extingue o processo sem resolução do mérito, por exemplo, por falta de pressupostos processuais ou condições da ação, é classificada como:",
+      "alternativas": [
+        {"texto": "Sentença Terminativa.", "correta": false},
+        {"texto": "Sentença Definitiva.", "correta": false},
+        {"texto": "Sentença de Improcedência.", "correta": false},
+        {"texto": "Sentença de Mérito.", "correta": false},
+        {"texto": "Sentença Sem Resolução do Mérito.", "correta": true, "justificativa": "A sentença sem resolução do mérito é aquela que extingue o processo por questões formais, como falta de pressuposto processual ou condição da ação, nos termos do Art. 485 do CPC. Não examina o fundo da questão."}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "O método de autocomposição de conflitos em que um terceiro imparcial (mediador) facilita o diálogo entre as partes para que elas próprias construam a solução, sem poder impor uma decisão, é a:",
+      "alternativas": [
+        {"texto": "Arbitragem.", "correta": false},
+        {"texto": "Conciliação.", "correta": false},
+        {"texto": "Mediação.", "correta": true, "justificativa": "A mediação é um método consensual de solução de conflitos em que um terceiro imparcial (mediador) facilita a comunicação entre as partes, ajudando-as a identificar seus interesses e a construir conjuntamente uma solução mutuamente satisfatória, sem poder decidir por elas."},
+        {"texto": "Judicialização.", "correta": false},
+        {"texto": "Transação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "No controle judicial dos atos administrativos, a teoria que permite ao Judiciário determinar à Administração Pública a implementação de políticas públicas essenciais, especialmente em matéria de saúde e educação, é conhecida como:",
+      "alternativas": [
+        {"texto": "Teoria da Reserva do Possível.", "correta": false},
+        {"texto": "Teoria do Mínimo Existencial.", "correta": true, "justificativa": "A teoria do mínimo existencial reconhece que o Judiciário pode determinar ao Poder Público a implementação de políticas públicas que garantam direitos fundamentais essenciais à dignidade humana, como saúde, educação e alimentação, superando a alegação de reserva do possível quando houver omissão injustificada."},
+        {"texto": "Teoria dos Poderes Implícitos.", "correta": false},
+        {"texto": "Teoria da Separação de Poderes Absoluta.", "correta": false},
+        {"texto": "Teoria do Risco Administrativo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "O ato judicial de mero expediente, que ordinariamente não decide questão de fundo, praticado para impulsionar o processo, é o:",
+      "alternativas": [
+        {"texto": "Acórdão.", "correta": false},
+        {"texto": "Despacho.", "correta": true, "justificativa": "O despacho é o ato judicial de caráter ordinariamente irrecurável, praticado para impulsionar o processo, solucionar questões incidentais de mero expediente ou dar andamento aos atos processuais, sem decidir questões de fundo da lide."},
+        {"texto": "Sentença.", "correta": false},
+        {"texto": "Decisão Interlocutória.", "correta": false},
+        {"texto": "Portaria.", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A condição da ação que verifica se o pedido formulado pelo autor é juridicamente possível em nosso ordenamento, ou seja, se a ordem jurídica admite a pretensão deduzida, é a:",
+      "alternativas": [
+        {"texto": "Legitimidade das Partes.", "correta": false},
+        {"texto": "Interesse de Agir.", "correta": false},
+        {"texto": "Possibilidade Jurídica do Pedido.", "correta": true, "justificativa": "A possibilidade jurídica do pedido é condição da ação que examina se a pretensão deduzida em juízo é admitida pelo ordenamento jurídico, ou seja, se a causa de pedir e o pedido são juridicamente concebíveis em nosso sistema."},
+        {"texto": "Jurisdição.", "correta": false},
+        {"texto": "Competência.", "correta": false}
+      ]
+    }
+  ]
+}

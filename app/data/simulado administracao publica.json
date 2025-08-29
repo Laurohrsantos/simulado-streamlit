@@ -1,0 +1,224 @@
+{
+  "gestao_publica": [
+    {
+      "id": "q1",
+      "questao": "Um gestor público, ao determinar que um processo de licitação seja anulado por uma única assinatura faltante em uma página de dezenas de documentos, mesmo sabendo que o processo foi tecnicamente impecável e vantajoso para o erário, está priorizando o(a):",
+      "alternativas": [
+        {"texto": "eficiência, característica do modelo gerencial.", "correta": false},
+        {"texto": "economicidade, princípio da administração pública.", "correta": false},
+        {"texto": "formalismo, característica do modelo burocrático.", "correta": true, "justificativa": "A ação do gestor prioriza o rigoroso cumprimento da norma e do procedimento (a formalidade) acima do resultado final vantajoso. Esta é uma característica típica do modelo burocrático, que foca no processo e não no resultado."},
+        {"texto": "efetividade, objetivo da nova gestão pública.", "correta": false},
+        {"texto": "controle social, base do modelo patrimonialista.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "A implementação de contratos de gestão com metas de desempenho claras e mensuráveis em autarquias estatais é uma prática associada ao modelo:",
+      "alternativas": [
+        {"texto": "patrimonialista, pois delega funções a particulares.", "correta": false},
+        {"texto": "burocrático, pois fortalece a hierarquia funcional.", "correta": false},
+        {"texto": "gerencial, pois foca na obtenção de resultados.", "correta": true, "justificativa": "Os contratos de gestão são instrumentos típicos da reforma gerencial. Eles descentralizam a execução, mas mantêm o foco no controle a posteriori dos resultados pactuados, alinhando-se perfeitamente ao princípio da gestão por resultados."},
+        {"texto": "patrimonialista, pois moderniza a administração.", "correta": false},
+        {"texto": "burocrático, pois exige formalização por contrato.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "A Lei de Acesso à Informação (LAI) é um instrumento legal fundamental para fortalecer, principalmente, qual dos seguintes conceitos?",
+      "alternativas": [
+        {"texto": "Descentralização", "correta": false},
+        {"texto": "Accountability", "correta": true, "justificativa": "A LAI é um pilar da accountability (prestação de contas e responsabilização). Ao garantir transparência e acesso aos dados e documentos públicos, ela permite que a sociedade e os órgãos de controle acompanhem e cobrem a administração pública, fortalecendo a responsabilização."},
+        {"texto": "Hierarquia", "correta": false},
+        {"texto": "Desconcentração", "correta": false},
+        {"texto": "Nepotismo", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "Um município realiza anualmente conferências de saúde, nas quais a população pode debater e votar nas prioridades para o orçamento do ano seguinte. Esta prática está diretamente relacionada ao princípio da:",
+      "alternativas": [
+        {"texto": "economicidade.", "correta": false},
+        {"texto": "legalidade.", "correta": false},
+        {"texto": "participação social.", "correta": true, "justificativa": "As conferências são um mecanismo institucional de participação social, onde cidadãos e representantes da sociedade civil organizada podem influenciar diretamente na formulação e no controle das políticas públicas."},
+        {"texto": "eficácia.", "correta": false},
+        {"texto": "impessoalidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "Qual lei orçamentária estabelece as metas e prioridades para o ano seguinte, orientando a elaboração do orçamento anual e incluindo as regras sobre equilíbrio entre receitas e despesas?",
+      "alternativas": [
+        {"texto": "Lei Orgânica do Município (LOM)", "correta": false},
+        {"texto": "Plano Plurianual (PPA)", "correta": false},
+        {"texto": "Lei de Diretrizes Orçamentárias (LDO)", "correta": true, "justificativa": "A LDO é a lei que faz a conexão entre o planejamento de médio prazo (PPA) e o orçamento anual (LOA). Ela define as diretrizes, as prioridades e as metas fiscais para o ano seguinte, inclusive a regra de ouro."},
+        {"texto": "Lei Orçamentária Anual (LOA)", "correta": false},
+        {"texto": "Lei de Responsabilidade Fiscal (LRF)", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "Um programa governamental que busca medir o 'custo por aluno aprovado' está utilizando primariamente um indicador de:",
+      "alternativas": [
+        {"texto": "efetividade, pois mede o impacto social.", "correta": false},
+        {"texto": "eficácia, pois mede o cumprimento de metas.", "correta": false},
+        {"texto": "economicidade, pois busca o menor preço.", "correta": false},
+        {"texto": "eficiência, pois relaciona recursos e produtos.", "correta": true, "justificativa": "O indicador 'custo por aluno aprovado' relaciona um insumo (recurso financeiro gasto) com um produto direto da atividade (aluno aprovado). Esta relação insumo-produto é a definição clássica de um indicador de eficiência."},
+        {"texto": "execução física, pois mede quantos alunos foram atendidos.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "A etapa do ciclo de políticas públicas na qual um problema é reconhecido como uma questão que demanda a intervenção do Estado é conhecida como:",
+      "alternativas": [
+        {"texto": "formulação.", "correta": false},
+        {"texto": "implementação.", "correta": false},
+        {"texto": "avaliação.", "correta": false},
+        {"texto": "construção da agenda.", "correta": true, "justificativa": "A construção (ou formação) da agenda é a etapa inicial em que certos problemas ganham visibilidade e são identificados como merecedores de atenção e ação por parte do poder público."},
+        {"texto": "decisão.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "O Tribunal de Contas, ao auditar um programa social, verifica não apenas se os recursos foram gastos de acordo com a lei, mas também se o programa conseguiu reduzir efetivamente a pobreza na região-alvo. Nessa última ação, o TCE está praticando:",
+      "alternativas": [
+        {"texto": "controle de legalidade.", "correta": false},
+        {"texto": "controle de economicidade.", "correta": false},
+        {"texto": "avaliação de efetividade.", "correta": true, "justificativa": "Ao verificar o impacto final do programa na sociedade (redução da pobreza), o TCE vai além do controle tradicional de legalidade e adentra na avaliação de efetividade, que é típica de uma atuação orientada para resultados."},
+        {"texto": "controle de processo.", "correta": false},
+        {"texto": "auditoria contábil.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "A transferência de recursos e responsabilidades da União para estados e municípios, visando aproximar a execução das políticas públicas do cidadão, é um processo conhecido como:",
+      "alternativas": [
+        {"texto": "desconcentração.", "correta": false},
+        {"texto": "descentralização.", "correta": true, "justificativa": "Descentralização é a transferência de competências e recursos de uma esfera de governo para outra (ex.: União -> Município) ou para entidades da sociedade civil. Seu objetivo é tornar a gestão mais democrática e próxima do cidadão."},
+        {"texto": "terceirização.", "correta": false},
+        {"texto": "publicização.", "correta": false},
+        {"texto": "contratualização.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "Conselhos Gestores de políticas públicas (saúde, educação, assistência social), com participação paritária entre governo e sociedade civil, são um importante mecanismo de:",
+      "alternativas": [
+        {"texto": "controle interno.", "correta": false},
+        {"texto": "controle social.", "correta": true, "justificativa": "Os Conselhos Gestores são a principal instância institucional de controle social. Eles permitem que a sociedade participe ativamente da formulação, do acompanhamento e da avaliação das políticas públicas, exercendo controle sobre o Estado."},
+        {"texto": "accountability vertical.", "correta": false},
+        {"texto": "gestão patrimonialista.", "correta": false},
+        {"texto": "publicização.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "O princípio da equidade na gestão pública determina que:",
+      "alternativas": [
+        {"texto": "todos os cidadãos devem ser tratados de forma absolutamente igual.", "correta": false},
+        {"texto": "os recursos devem ser alocados de forma a tratar desigualmente os desiguais.", "correta": true, "justificativa": "Equidade significa justiça social. Implica em reconhecer que diferentes grupos possuem necessidades diferentes e, portanto, devem receber tratamentos diferenciados para atingir um patamar de igualdade real de oportunidades e resultados."},
+        {"texto": "a eficiência deve ser o objetivo único da administração.", "correta": false},
+        {"texto": "o orçamento deve ser equilibrado anualmente.", "correta": false},
+        {"texto": "a publicidade dos atos é obrigatória.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "Uma política pública é considerada 'baseada em evidências' quando sua formulação e avaliação são primordialmente guiadas por:",
+      "alternativas": [
+        {"texto": "ideologias políticas dominantes.", "correta": false},
+        {"texto": "pressões de grupos de interesse.", "correta": false},
+        {"texto": "dados, pesquisas científicas e avaliações robustas.", "correta": true, "justificativa": "O cerne das políticas baseadas em evidências é o uso sistemático de dados, informações e conhecimentos provenientes de pesquisas e avaliações para informar e melhorar a tomada de decisão, priorizando o que funciona na prática."},
+        {"texto": "decisões judiciais.", "correta": false},
+        {"texto": "modelos teóricos puros.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "O Plano Plurianual (PPA) se distingue da Lei Orçamentária Anual (LOA) porque o PPA:",
+      "alternativas": [
+        {"texto": "é uma lei de planejamento de médio prazo, enquanto a LOA é de execução orçamentária anual.", "correta": true, "justificativa": "Esta é a distinção fundamental. O PPA é a lei de planejamento estratégico que define diretrizes, objetivos e metas para um período de 4 anos. A LOA é a lei que autoriza a execução financeira das ações necessárias para cumprir esse planejamento no exercício anual específico."},
+        {"texto": "é de iniciativa do Poder Judiciário, e a LOA do Executivo.", "correta": false},
+        {"texto": "detalha todos os projetos, enquanto a LOA trata apenas das despesas de custeio.", "correta": false},
+        {"texto": "é revisado anualmente, e a LOA vale por quatro anos.", "correta": false},
+        {"texto": "prioriza resultados, e a LOA prioriza processos.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "A 'Accountability Horizontal', conceito central para os Tribunais de Contas, refere-se ao controle exercido:",
+      "alternativas": [
+        {"texto": "pelo povo por meio do voto.", "correta": false},
+        {"texto": "pela mídia e pela opinião pública.", "correta": false},
+        {"texto": "por uma agência estatal sobre outra.", "correta": true, "justificativa": "Accountability horizontal é o controle mútuo entre as diferentes instituições e poderes do Estado. O TCE, como órgão externo ao Poder Executivo, exerce esse tipo de controle, fiscalizando a legalidade e a economicidade dos atos administrativos."},
+        {"texto": "internamente, dentro de um mesmo órgão.", "correta": false},
+        {"texto": "por organizações não-governamentais.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "A New Public Management (Nova Gestão Pública) é criticada por alguns autores por seu potencial de:",
+      "alternativas": [
+        {"texto": "fortalecer excessivamente o modelo patrimonialista.", "correta": false},
+        {"texto": "priorizar a eficiência em detrimento de valores como equidade e accountability.", "correta": true, "justificativa": "Uma crítica comum à NGP é que sua ênfase excessiva na eficiência e em mecanismos de mercado pode fragilizar valores democráticos fundamentais, como a igualdade, a justiça social, a transparência e a prestação de contas, tratando o cidadão como mero 'cliente'."},
+        {"texto": "reduzir a transparência dos atos governamentais.", "correta": false},
+        {"texto": "eliminar a participação social nas decisões.", "correta": false},
+        {"texto": "enfraquecer o controle interno da administração.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "Um indicador que mede a redução da mortalidade infantil após a implantação de um programa de pré-natal está avaliando a(o):",
+      "alternativas": [
+        {"texto": "eficiência do programa.", "correta": false},
+        {"texto": "efetividade do programa.", "correta": true, "justificativa": "A redução da mortalidade infantil é o impacto social final e desejado do programa. Medir esse resultado de longo prazo e seu efeito na qualidade de vida da população é a função de um indicador de efetividade."},
+        {"texto": "economicidade do programa.", "correta": false},
+        {"texto": "eficácia do programa.", "correta": false},
+        {"texto": "execução financeira do programa.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "O conceito de 'governança', aplicado ao setor público, engloba principalmente:",
+      "alternativas": [
+        {"texto": "a capacidade de arrecadar tributos.", "correta": false},
+        {"texto": "a eficiência operacional dos servidores.", "correta": false},
+        {"texto": "os mecanismos, processos e instituições que guiam a gestão pública.", "correta": true, "justificativa": "Governança pública refere-se às estruturas e processos decisórios que orientam e controlam a gestão do Estado. Envolve princípios como transparência, accountability, participação, responsividade e eficácia, indo além da mera administração."},
+        {"texto": "a hierarquia funcional da administração.", "correta": false},
+        {"texto": "o planejamento estratégico de longo prazo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "A principal inovação trazida pelo modelo gerencial em relação ao modelo burocrático foi:",
+      "alternativas": [
+        {"texto": "a criação de carreiras de Estado.", "correta": false},
+        {"texto": "a existência de normas e procedimentos.", "correta": false},
+        {"texto": "a introdução do concurso público.", "correta": false},
+        {"texto": "a substituição do foco no processo pelo foco no resultado.", "correta": true, "justificativa": "Esta é a mudança de paradigma central. O modelo burocrático priorizava o controle dos meios (processos e formalidades). O modelo gerencial manteve o controle, mas deslocou seu eixo para os fins (resultados e impactos alcançados para a sociedade)."},
+        {"texto": "a centralização das decisões orçamentárias.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "O papel dos Tribunais de Contas na promoção de políticas baseadas em evidências pode se dar, principalmente, por meio da:",
+      "alternativas": [
+        {"texto": "formulação direta de políticas setoriais.", "correta": false},
+        {"texto": "realização de auditorias operacionais que avaliem a efetividade dos programas.", "correta": true, "justificativa": "Os TCs são agentes-chave na produção de evidências. Ao conduzirem auditorias de desempenho (operacionais) que avaliam a eficiência, eficácia e efetividade dos programas, eles geram dados robustos e recomendações que podem embasar a reformulação ou o aprimoramento de políticas públicas."},
+        {"texto": "análise exclusiva da legalidade dos gastos públicos.", "correta": false},
+        {"texto": "contratação direta de serviços para a população.", "correta": false},
+        {"texto": "extinção de programas com baixa execução orçamentária.", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A Lei de Responsabilidade Fiscal (LRF) complementa o ciclo orçamentário ao introduzir:",
+      "alternativas": [
+        {"texto": "metas de inflação para os entes federativos.", "correta": false},
+        {"texto": "instrumentos de planejamento de longo prazo.", "correta": false},
+        {"texto": "diretrizes para a participação social no orçamento.", "correta": false},
+        {"texto": "regras para a renúncia de receita e limites para despesas com pessoal.", "correta": true, "justificativa": "A LRF é a lei que impõe disciplina fiscal aos gestores. Seus principais instrumentos são os limites para despesas com pessoal, endividamento e a regra de ouro, além de estabelecer mecanismos de transparência e controle para garantir o equilíbrio das contas públicas, complementando o PPA, LDO e LOA."},
+        {"texto": "normas para a realização de licitações.", "correta": false}
+      ]
+    }
+  ]
+}

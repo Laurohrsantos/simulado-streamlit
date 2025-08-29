@@ -1,0 +1,224 @@
+{
+  "Contabilidade Geral": [
+    {
+      "id": "q1",
+      "questao": "De acordo com a equação fundamental do patrimônio, se o Ativo de uma empresa é de R$ 500.000 e o Passivo Exigível é de R$ 300.000, o Patrimônio Líquido é de:",
+      "alternativas": [
+        {"texto": "A) R$ 200.000", "correta": true, "justificativa": "Correto. A equação fundamental é A = P + PL. Portanto, 500.000 = 300.000 + PL. Logo, PL = 500.000 - 300.000 = R$ 200.000."},
+        {"texto": "B) R$ 800.000", "correta": false},
+        {"texto": "C) R$ 300.000", "correta": false},
+        {"texto": "D) R$ 500.000", "correta": false},
+        {"texto": "E) R$ 100.000", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "O princípio contábil que pressupõe que a entidade continuará em operação no futuro previsível é o da:",
+      "alternativas": [
+        {"texto": "A) Competência", "correta": false},
+        {"texto": "B) Oportunidade", "correta": false},
+        {"texto": "C) Continuidade", "correta": true, "justificativa": "Correto. O Princípio da Continuidade, também conhecido como 'Going Concern', assume que a empresa não tem intenção nem necessidade de encerrar suas atividades no futuro previsível. Este princípio é fundamental para a avaliação de ativos e passivos."},
+        {"texto": "D) Prudência", "correta": false},
+        {"texto": "E) Entidade", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "Um fato contábil que altera a composição dos elementos do Ativo, sem modificar o valor total do Patrimônio Líquido, é classificado como:",
+      "alternativas": [
+        {"texto": "A) Modificativo Aumentativo", "correta": false},
+        {"texto": "B) Modificativo Diminutivo", "correta": false},
+        {"texto": "C) Permutativo", "correta": true, "justificativa": "Correto. Fatos permutativos (ou qualitativos) alteram a composição do patrimônio (ex: troca de um bem por outro), mas não afetam o valor do Patrimônio Líquido. A equação A = P + PL mantém o mesmo total, mudando apenas a natureza de um ou mais itens."},
+        {"texto": "D) Misto", "correta": false},
+        {"texto": "E) Compensativo", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "No método das partidas dobradas, todo lançamento envolve:",
+      "alternativas": [
+        {"texto": "A) Uma conta debitada e uma conta creditada, com valores necessariamente iguais.", "correta": true, "justificativa": "Correto. A essência do método das partidas dobradas é que para todo débito em uma ou mais contas, deve corresponder um crédito de igual valor em uma ou mais outras contas, mantendo o equilíbrio da equação patrimonial."},
+        {"texto": "B) Várias contas debitadas e apenas uma conta creditada.", "correta": false},
+        {"texto": "C) Contas de resultado debitadas e contas patrimoniais creditadas.", "correta": false},
+        {"texto": "D) Apenas contas do Ativo e do Passivo.", "correta": false},
+        {"texto": "E) Um aumento no total do Ativo e uma diminuição no total do Passivo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "Qual demonstração contábil evidencia a riqueza gerada pela empresa e sua distribuição entre os agentes econômicos?",
+      "alternativas": [
+        {"texto": "A) Balanço Patrimonial (BP)", "correta": false},
+        {"texto": "B) Demonstração do Resultado do Exercício (DRE)", "correta": false},
+        {"texto": "C) Demonstração dos Fluxos de Caixa (DFC)", "correta": false},
+        {"texto": "D) Demonstração do Valor Adicionado (DVA)", "correta": true, "justificativa": "Correto. A DVA tem como objetivo principal mostrar a riqueza (valor adicionado) gerada pela empresa em um período e como essa riqueza foi distribuída entre trabalhadores, governo, acionistas, financiadores e para a própria empresa (retenções)."},
+        {"texto": "E) Demonstração das Mutações do Patrimônio Líquido (DMPL)", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "O regime contábil que reconhece as receitas e despesas no momento do seu efetivo recebimento ou pagamento é o regime:",
+      "alternativas": [
+        {"texto": "A) de Competência", "correta": false},
+        {"texto": "B) de Caixa", "correta": true, "justificativa": "Correto. O Regime de Caixa reconhece as transações apenas quando o dinheiro entra ou sai do caixa da empresa. Ele é utilizado para a elaboração da Demonstração dos Fluxos de Caixa (DFC), diferentemente do Regime de Competência, que é a base para a DRE e o BP."},
+        {"texto": "C) Misto", "correta": false},
+        {"texto": "D) de Ajuste", "correta": false},
+        {"texto": "E) de Realização", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "A conta 'Duplicatas a Receber' é classificada no Balanço Patrimonial como:",
+      "alternativas": [
+        {"texto": "A) Ativo Não Circulante - Realizável a Longo Prazo", "correta": false},
+        {"texto": "B) Ativo Circulante", "correta": true, "justificativa": "Correto. 'Duplicatas a Receber' representa um direito de curto prazo da empresa (geralmente o recebimento ocorre em menos de 12 meses) derivado de suas vendas a prazo. Portanto, é classificado no Ativo Circulante."},
+        {"texto": "C) Passivo Circulante", "correta": false},
+        {"texto": "D) Patrimônio Líquido", "correta": false},
+        {"texto": "E) Conta de Resultado (DRE)", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "A perda de valor de um bem tangível, como máquinas e veículos, devido ao desgaste pelo uso, ação da natureza ou obsolescência, é contabilizada como:",
+      "alternativas": [
+        {"texto": "A) Amortização", "correta": false},
+        {"texto": "B) Exaustão", "correta": false},
+        {"texto": "C) Depreciação", "correta": true, "justificativa": "Correto. A Depreciação é a alocação sistemática do valor depreciável de um ativo tangível (como imóveis, máquinas, veículos) ao longo da sua vida útil econômica. Amortização refere-se a ativos intangíveis, e Exaustão a recursos naturais."},
+        {"texto": "D) Provisão", "correta": false},
+        {"texto": "E) Perda por Desvalorização (Impairment)", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "Uma empresa constitui uma provisão para pagamento de férias dos seus empregados. Este ato representa um fato contábil do tipo:",
+      "alternativas": [
+        {"texto": "A) Permutativo", "correta": false},
+        {"texto": "B) Modificativo Aumentativo", "correta": false},
+        {"texto": "C) Modificativo Diminutivo", "correta": true, "justificativa": "Correto. Constituir uma provisão para férias significa reconhecer uma despesa do período (o que diminui o Patrimônio Líquido) e, simultaneamente, aumentar o Passivo Exigível (a obrigação de pagar as férias no futuro). É um fato modificativo diminutivo."},
+        {"texto": "D) Misto", "correta": false},
+        {"texto": "E) Compensativo", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "Qual é o principal objetivo da Demonstração dos Fluxos de Caixa (DFC)?",
+      "alternativas": [
+        {"texto": "A) Apresentar a posição patrimonial da empresa em uma data específica.", "correta": false},
+        {"texto": "B) Demonstrar o resultado líquido do exercício.", "correta": false},
+        {"texto": "C) Evidenciar as mutações ocorridas no Patrimônio Líquido.", "correta": false},
+        {"texto": "D) Apresentar as origens e aplicações de recursos da empresa.", "correta": false},
+        {"texto": "E) Apresentar as entradas e saídas de caixa e equivalentes-caixa, classificadas por atividades.", "correta": true, "justificativa": "Correto. A DFC tem como objetivo principal fornecer informações sobre as mudanças no caixa e equivalentes-caixa de uma empresa, segregando esses fluxos em três categorias: Operacionais, de Investimento e de Financiamento. Ela mostra a capacidade da empresa de gerar caixa."}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "O lançamento 'Débito: Despesa com Depreciação / Crédito: Depreciação Acumulada' provoca:",
+      "alternativas": [
+        {"texto": "A) Aumento do Ativo e aumento do Passivo.", "correta": false},
+        {"texto": "B) Diminuição do Ativo e diminuição do Passivo.", "correta": false},
+        {"texto": "C) Diminuição do Patrimônio Líquido e diminuição do Ativo.", "correta": true, "justificativa": "Correto. O débito na Despesa com Depreciação reduz o lucro (e, consequentemente, o Patrimônio Líquido). O crédito na conta Depreciação Acumulada (que é retificadora do Ativo Imobilizado) reduz o valor contábil do Ativo. O Passivo não é afetado."},
+        {"texto": "D) Aumento do Patrimônio Líquido e aumento do Ativo.", "correta": false},
+        {"texto": "E) Nenhuma alteração no patrimônio.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "O Lucro Líquido do Exercício, apurado na DRE, é transferido para o Balanço Patrimonial na conta de:",
+      "alternativas": [
+        {"texto": "A) Receitas do Período", "correta": false},
+        {"texto": "B) Capital Social", "correta": false},
+        {"texto": "C) Lucros Acumulados (ou Prejuízos Acumulados)", "correta": true, "justificativa": "Correto. Ao final do período, após a apuração do resultado na DRE, o Lucro Líquido do Exercício é transferido para o Patrimônio Líquido no Balanço Patrimonial, especificamente para a conta Lucros Acumulados (ou Prejuízos Acumulados, se for o caso), até sua destinação (dividendos, reservas)."},
+        {"texto": "D) Reservas de Capital", "correta": false},
+        {"texto": "E) Ajustes de Avaliação Patrimonial", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "Uma empresa adquire um lote de mercadorias para revenda por R$ 20.000, pagando 50% à vista e 50% a prazo. O efeito imediato no patrimônio é:",
+      "alternativas": [
+        {"texto": "A) Aumento do Ativo em R$ 20.000 e aumento do Passivo em R$ 10.000.", "correta": true, "justificativa": "Correto. O estoque (Ativo) aumenta em R$ 20.000. O Caixa (Ativo) diminui em R$ 10.000 (pagamento à vista). Fornecedores (Passivo) aumentam em R$ 10.000 (parcela a prazo). A equação final é: Variação total do Ativo = +20k -10k = +10k. Variação do Passivo = +10k. A equação A = P + PL permanece equilibrada."},
+        {"texto": "B) Aumento do Ativo em R$ 10.000 e aumento do Passivo em R$ 10.000.", "correta": false},
+        {"texto": "C) Aumento do Ativo em R$ 20.000 e diminuição do Passivo em R$ 10.000.", "correta": false},
+        {"texto": "D) Aumento do Ativo em R$ 10.000 e diminuição do Passivo em R$ 10.000.", "correta": false},
+        {"texto": "E) Nenhuma alteração no total do Ativo e do Passivo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "De acordo com o Princípio da Competência, as receitas devem ser reconhecidas quando:",
+      "alternativas": [
+        {"texto": "A) O dinheiro é recebido do cliente.", "correta": false},
+        {"texto": "B) A ordem de serviço é emitida.", "correta": false},
+        {"texto": "C) O bem é entregue ou o serviço é prestado, independente do recebimento.", "correta": true, "justificativa": "Correto. O Princípio da Competência estabelece que as receitas são reconhecidas no período em que são ganhas (ou realizadas), ou seja, quando o bem é entregue ou o serviço é efetivamente prestado, independentemente do momento de seu recebimento em dinheiro."},
+        {"texto": "D) A nota fiscal é emitida.", "correta": false},
+        {"texto": "E) O contrato é assinado.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "A conta 'Provisão para Créditos de Liquidação Duvidosa (PCLD)' tem a natureza e função de:",
+      "alternativas": [
+        {"texto": "A) Reduzir o valor do Ativo 'Clientes' para seu valor realizável líquido.", "correta": true, "justificativa": "Correto. A PCLD é uma conta retificadora do Ativo (especificamente, do direito de crédito representado por 'Clientes' ou 'Duplicatas a Receber'). Ela ajusta o valor desses créditos para um valor mais provável de ser realizado, considerando as perdas esperadas com inadimplência."},
+        {"texto": "B) Aumentar o valor do Passivo Circulante.", "correta": false},
+        {"texto": "C) Registrar uma despesa operacional no período.", "correta": false},
+        {"texto": "D) Aumentar o valor do Patrimônio Líquido.", "correta": false},
+        {"texto": "E) Registrar uma receita financeira.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "No Balanço Patrimonial, as contas são dispostas em ordem:",
+      "alternativas": [
+        {"texto": "A) Alfabética.", "correta": false},
+        {"texto": "B) De liquidez (para o Ativo) e de exigibilidade (para o Passivo).", "correta": true, "justificativa": "Correto. No Ativo, as contas são organizadas em ordem decrescente de liquidez (facilidade de conversão em dinheiro). No Passivo, são organizadas em ordem decrescente de exigibilidade (prazo até o vencimento da obrigação)."},
+        {"texto": "C) De importância, definida pela diretoria.", "correta": false},
+        {"texto": "D) De valor, da maior para a menor.", "correta": false},
+        {"texto": "E) Cronológica de aquisição.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "O custo de aquisição de um ativo imobilizado deve incluir:",
+      "alternativas": [
+        {"texto": "A) Apenas o preço pago ao fornecedor.", "correta": false},
+        {"texto": "B) O preço pago, os impostos recuperáveis e as despesas diretamente atribuíveis para colocá-lo em condições de uso.", "correta": false},
+        {"texto": "C) O preço pago, os impostos NÃO recuperáveis e todas as despesas diretamente atribuíveis para colocá-lo em condições de uso.", "correta": true, "justificativa": "Correto. O custo de aquisição de um ativo inclui seu preço de compra, impostos não recuperáveis (que não podem ser compensados), frete, seguros, custos de instalação, montagem e qualquer outro custo diretamente atribuível para deixar o ativo em condições de funcionamento na localização e para a finalidade pretendida."},
+        {"texto": "D) O preço pago e as despesas de manutenção futuras.", "correta": false},
+        {"texto": "E) O preço de mercado do ativo na data do balanço.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "Qual é a finalidade principal de um Plano de Contas?",
+      "alternativas": [
+        {"texto": "A) Substituir os livros contábeis obrigatórios.", "correta": false},
+        {"texto": "B) Calcular o imposto de renda devido.", "correta": false},
+        {"texto": "C) Organizar e padronizar a estrutura de contas para facilitar a escrituração e a geração de relatórios.", "correta": true, "justificativa": "Correto. O Plano de Contas é uma estrutura organizada e codificada de todas as contas que serão utilizadas pela empresa na sua escrituração contábil. Ele permite a padronização dos registros, facilita a classificação dos fatos contábeis e a elaboração das demonstrações financeiras."},
+        {"texto": "D) Determinar o fluxo de caixa projetado.", "correta": false},
+        {"texto": "E) Estabelecer a política de dividendos.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "A Demonstração do Resultado do Exercício (DRE) evidencia:",
+      "alternativas": [
+        {"texto": "A) O fluxo de caixa do período.", "correta": false},
+        {"texto": "B) As origens e aplicações de recursos.", "correta": false},
+        {"texto": "C) O valor adicionado pela empresa.", "correta": false},
+        {"texto": "D) O desempenho econômico (resultado) da empresa em um período.", "correta": true, "justificativa": "Correto. A DRE é a demonstração contábil que resume, de forma dinâmica, as operações realizadas pela empresa em um determinado período (ex: um ano), confrontando suas Receitas, Custos e Despesas para apurar o Resultado Líquido (Lucro ou Prejuízo)."},
+        {"texto": "E) A posição patrimonial em uma data específica.", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A perda de valor de uma mina devido à sua exploração é contabilizada como:",
+      "alternativas": [
+        {"texto": "A) Depreciação", "correta": false},
+        {"texto": "B) Amortização", "correta": false},
+        {"texto": "C) Exaustão", "correta": true, "justificativa": "Correto. A Exaustão é o termo usado para designar a alocação do custo de aquisição de recursos naturais (como minas, florestas, poços de petróleo) ao longo do período de sua exploração. Reflete o esgotamento desses recursos."},
+        {"texto": "D) Provisão", "correta": false},
+        {"texto": "E) Perda por Desvalorização", "correta": false}
+      ]
+    }
+  ]
+}

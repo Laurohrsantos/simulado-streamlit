@@ -1,0 +1,224 @@
+{
+  "direito_financeiro": [
+    {
+      "id": "q1",
+      "questao": "O princípio orçamentário que determina que a Lei Orçamentária Anual deve conter todas as receitas e todas as despesas do ente público, sem exclusões, é o princípio da:",
+      "alternativas": [
+        {"texto": "Unidade.", "correta": false},
+        {"texto": "Universalidade.", "correta": true, "justificativa": "O princípio da universalidade, previsto no Art. 2º da Lei 4.320/64, estabelece que a lei orçamentária deve compreender todas as receitas e todas as despesas pelos seus totais, garantindo transparência e visão completa das finanças públicas."},
+        {"texto": "Anualidade.", "correta": false},
+        {"texto": "Especialização.", "correta": false},
+        {"texto": "Exclusividade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "A lei orçamentária que estabelece as diretrizes, objetivos e metas da administração pública federal para um período de quatro anos é o:",
+      "alternativas": [
+        {"texto": "Plano Plurianual (PPA).", "correta": true, "justificativa": "Conforme o Art. 165, §1º, da CF/88, o Plano Plurianual (PPA) é o instrumento de planejamento de médio prazo que define as diretrizes, objetivos e metas da administração pública para um período de quatro anos, orientando a elaboração das leis orçamentárias anuais."},
+        {"texto": "Lei de Diretrizes Orçamentárias (LDO).", "correta": false},
+        {"texto": "Lei Orçamentária Anual (LOA).", "correta": false},
+        {"texto": "Lei de Responsabilidade Fiscal (LRF).", "correta": false},
+        {"texto": "Lei de Meios.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "De acordo com a Lei de Responsabilidade Fiscal (LC 101/2000), os Relatórios Resumidos da Execução Orçamentária (RREO) e Relatórios de Gestão Fiscal (RGF) devem ser disponibilizados para amplo acesso:",
+      "alternativas": [
+        {"texto": "apenas ao Tribunal de Contas.", "correta": false},
+        {"texto": "em meio impresso, no diário oficial.", "correta": false},
+        {"texto": "em meio eletrônico de acesso público.", "correta": true, "justificativa": "A LRF, em seu Art. 54, determina a obrigatoriedade de transparência da gestão fiscal. Os RREO e RGF devem ser disponibilizados em meios eletrônicos de acesso público, como portais da transparência, assegurando o amplo conhecimento da sociedade."},
+        {"texto": "apenas para o Poder Legislativo.", "correta": false},
+        {"texto": "mediante requerimento formal do cidadão.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "O estágio da despesa pública em que se verifica o direito do credor, constatando que o bem foi entregue ou o serviço foi realizado, é a:",
+      "alternativas": [
+        {"texto": "Empenho.", "correta": false},
+        {"texto": "Liquidação.", "correta": true, "justificativa": "A liquidação é a fase em que se apura a conformidade do que foi contratado ou determinado (Art. 63 da Lei 4.320/64). Nela, verifica-se se o fornecedor cumpriu sua obrigação, quanto e a quem deve ser pago, gerando a obrigação de pagar para a Administração."},
+        {"texto": "Pagamento.", "correta": false},
+        {"texto": "Lançamento.", "correta": false},
+        {"texto": "Programação.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "Os 'Restos a Pagar', na execução orçamentária, representam despesas:",
+      "alternativas": [
+        {"texto": "inscritas no orçamento do exercício seguinte.", "correta": false},
+        {"texto": "empenhadas e não pagas até o final do exercício financeiro.", "correta": true, "justificativa": "Conforme o Art. 36 da Lei 4.320/64, Restos a Pagar são as despesas empenhadas (cuja obrigação de pagar foi assumida) no exercício, mas não pagas até 31 de dezembro. Eles são processados e pagos no exercício financeiro seguinte, mas pertencem à despesa do exercício anterior."},
+        {"texto": "liquidadas e em processamento de pagamento.", "correta": false},
+        {"texto": "previstas mas não empenhadas.", "correta": false},
+        {"texto": "de exercícios anteriores já pagas.", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "A vedação constitucional que impede a realização de operações de crédito que excedam o montante das despesas de capital, ressalvadas as para refinanciamento da dívida mobiliária, é conhecida como:",
+      "alternativas": [
+        {"texto": "Regra de Ouro.", "correta": true, "justificativa": "A 'Regra de Ouro' está prevista no Art. 167, III, da CF/88. Ela veda a realização de operações de crédito que excedam o total das despesas de capital, exceto as destinadas ao refinanciamento do principal da dívida mobiliária. Seu objetivo é evitar que o governo se endivide para custear despesas correntes."},
+        {"texto": "Princípio da Anualidade.", "correta": false},
+        {"texto": "Limite de Empenho.", "correta": false},
+        {"texto": "Teto de Gastos.", "correta": false},
+        {"texto": "Meta Fiscal.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "Um crédito adicional destinado a reforçar uma dotação orçamentária existente na LOA, mas que se mostrou insuficiente, é classificado como:",
+      "alternativas": [
+        {"texto": "Crédito Extraordinário.", "correta": false},
+        {"texto": "Crédito Suplementar.", "correta": true, "justificativa": "O crédito suplementar é a espécie de crédito adicional destinado precisely to reforçar dotação orçamentária já existente na LOA, conforme Art. 41 da Lei 4.320/64. Sua abertura depende da existência de recursos disponíveis para a despesa."},
+        {"texto": "Crédito Especial.", "correta": false},
+        {"texto": "Crédito de Abertura.", "correta": false},
+        {"texto": "Crédito de Reforço.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "Para os Estados, o limite máximo de despesa total com pessoal estabelecido pela Lei de Responsabilidade Fiscal é de:",
+      "alternativas": [
+        {"texto": "60% da receita corrente líquida.", "correta": true, "justificativa": "O Art. 19 da LRF estabelece os limites para a despesa total com pessoal: 60% da Receita Corrente Líquida (RCL) para Estados e Municípios, e 50% da RCL para a União. O descumprimento desses limites acarreta graves consequências para o gestor."},
+        {"texto": "50% da receita corrente líquida.", "correta": false},
+        {"texto": "60% da receita tributária.", "correta": false},
+        {"texto": "50% da receita de capital.", "correta": false},
+        {"texto": "49% da receita corrente líquida.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "A classificação da receita pública que distingue as receitas correntes das receitas de capital é a classificação por:",
+      "alternativas": [
+        {"texto": "Categoria Econômica.", "correta": true, "justificativa": "A classificação por categoria econômica, prevista no Art. 11 da Lei 4.320/64, divide a receita em duas grandes categorias: Receitas Correntes (provenientes de tributos, taxas, contribuições) e Receitas de Capital (oriundas de operações de crédito, alienação de bens, amortização de empréstimos)."},
+        {"texto": "Fonte/Detalhamento.", "correta": false},
+        {"texto": "Natureza.", "correta": false},
+        {"texto": "Rubrica.", "correta": false},
+        {"texto": "Espécie.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "A Lei de Diretrizes Orçamentárias (LDO) tem, entre suas principais funções,:",
+      "alternativas": [
+        {"texto": "autorizar a abertura de créditos suplementares.", "correta": false},
+        {"texto": "estabelecer as metas e prioridades para o exercício financeiro seguinte.", "correta": true, "justificativa": "Conforme o Art. 165, §2º, da CF/88, a LDO compreende as metas e prioridades da administração pública para o exercício financeiro seguinte, orienta a elaboração da LOA, dispõe sobre alterações na legislação tributária e estabelece a política de aplicação das agências financeiras oficiais de fomento."},
+        {"texto": "fixar a despesa das autarquias.", "correta": false},
+        {"texto": "detalhar todos os programas de governo.", "correta": false},
+        {"texto": "criar tributos.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "O estágio da receita em que ocorre o reconhecimento legal do crédito fiscal, individualizando o devedor e o valor devido, é o:",
+      "alternativas": [
+        {"texto": "Previsão.", "correta": false},
+        {"texto": "Lançamento.", "correta": true, "justificativa": "O lançamento é o ato administrativo que realiza a liquidação da obrigação tributária, identificando o sujeito passivo (devedor), determinando o valor devido e tornando certo e exigível o crédito da Fazenda Pública. É regulado pela legislação tributária."},
+        {"texto": "Arrecadação.", "correta": false},
+        {"texto": "Recolhimento.", "correta": false},
+        {"texto": "Reconhecimento.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "A Lei Complementar nº 101/2000 (Lei de Responsabilidade Fiscal) determina que, se a realização da receita for inferior à prevista, a redução das despesas deve ser feita:",
+      "alternativas": [
+        {"texto": "em rateio igualitário entre todos os órgãos.", "correta": false},
+        {"texto": "por blocos de gestão, definidos pelo Chefe do Poder Executivo.", "correta": false},
+        {"texto": "de forma proporcional, por categoria de programação.", "correta": false},
+        {"texto": "nas mesmas proporções, por categoria econômica.", "correta": false},
+        {"texto": "de acordo com os critérios fixados pela LDO.", "correta": true, "justificativa": "O Art. 9º da LRF estabelece que, no caso de insuficiência de arrecadação, o cancelamento ou o contingenciamento de despesas será efetuado observando-se a ordem de prioridade estabelecida na Lei de Diretrizes Orçamentárias (LDO) daquele exercício."}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "Despesas com aquisição de material de consumo para o funcionamento administrativo são classificadas, por sua natureza econômica, como:",
+      "alternativas": [
+        {"texto": "Despesas de Capital.", "correta": false},
+        {"texto": "Despesas Correntes.", "correta": true, "justificativa": "Despesas Correntes são aquelas destinadas à manutenção e ao funcionamento dos serviços públicos. A aquisição de material de consumo (papel, canetas, toner) é uma despesa de custeio típica, enquadrada na categoria econômica de Despesas Correntes."},
+        {"texto": "Investimentos.", "correta": false},
+        {"texto": "Inversões Financeiras.", "correta": false},
+        {"texto": "Amortização da Dívida.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "O princípio orçamentário que veda a inclusão de matéria estranha à previsão de receita e à fixação de despesa na lei orçamentária é o princípio da:",
+      "alternativas": [
+        {"texto": "Universalidade.", "correta": false},
+        {"texto": "Exclusividade.", "correta": true, "justificativa": "O princípio da exclusividade, previsto no Art. 165, §8º, da CF/88, determina que a lei orçamentária não pode conter dispositivo estranho à previsão da receita e à fixação da despesa. Isso impede que o orçamento seja usado para veicular normas sobre outros assuntos, mantendo-o focado em sua finalidade financeira."},
+        {"texto": "Unidade.", "correta": false},
+        {"texto": "Especialização.", "correta": false},
+        {"texto": "Legalidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "A receita originária caracteriza-se por derivar:",
+      "alternativas": [
+        {"texto": "do poder de império do Estado, como os tributos.", "correta": false},
+        {"texto": "da exploração do patrimônio ou de atividades econômicas pelo Estado.", "correta": true, "justificativa": "Receita Originária é aquela que o Estado obtém por atuar em condições de igualdade com os particulares, explorando seu patrimônio (aluguel de imóveis) ou atividades econômicas (lucro de empresas estatais). Diferencia-se da Receita Derivada, que advém do seu poder de império (tributos)."},
+        {"texto": "de transferências de outros entes federados.", "correta": false},
+        {"texto": "de operações de crédito.", "correta": false},
+        {"texto": "de alienação de bens móveis.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "De acordo com a LRF, a existência de despesas com pessoal que exceda o limite prudencial define a situação de:",
+      "alternativas": [
+        {"texto": "Alerta.", "correta": false},
+        {"texto": "Normalidade.", "correta": false},
+        {"texto": "Risco.", "correta": true, "justificativa": "A LRF estabelece três patamares para a despesa com pessoal. O limite máximo é de 95% do total permitido. Se a despesa ultrapassar 95% (atingindo entre 95,1% e 100%), configura-se o estado de RISCO, demandando medidas corretivas mais enérgicas do gestor."},
+        {"texto": "Calamidade.", "correta": false},
+        {"texto": "Intervenção.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A fase do ciclo orçamentário em que o Poder Executivo elabora a proposta da LOA e a envia ao Poder Legislativo é a fase de:",
+      "alternativas": [
+        {"texto": "Discussão e Votação.", "correta": false},
+        {"texto": "Elaboração da Proposta.", "correta": true, "justificativa": "A fase de elaboração da proposta orçamentária é de iniciativa do Poder Executivo. Nela, com base no PPA e na LDO, os órgãos setoriais preparam suas propostas, que são consolidadas pelo órgão central de planejamento e orçamento (ex.: SOF na União) e, então, encaminhadas ao Poder Legislativo para discussão e votação."},
+        {"texto": "Aprovação.", "correta": false},
+        {"texto": "Execução.", "correta": false},
+        {"texto": "Controle.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "O princípio que determina que o orçamento é válido por um exercício financeiro, coincidente com o ano civil, é o princípio da:",
+      "alternativas": [
+        {"texto": "Unidade.", "correta": false},
+        {"texto": "Anualidade ou Periodicidade.", "correta": true, "justificativa": "O princípio da anualidade, também chamado de periodicidade, está previsto no Art. 2º da Lei 4.320/64. Ele estabelece que o período de vigência da lei orçamentária é o exercício financeiro, que no Brasil coincide com o ano civil (1º de janeiro a 31 de dezembro)."},
+        {"texto": "Universalidade.", "correta": false},
+        {"texto": "Especialização.", "correta": false},
+        {"texto": "Exclusividade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "A despesa pública que não depende de autorização legislativa específica para ser realizada, pois já foi autorizada previamente na LOA, é a despesa:",
+      "alternativas": [
+        {"texto": "Sob Restos a Pagar.", "correta": false},
+        {"texto": "De Exercícios Anteriores.", "correta": false},
+        {"texto": "Ordinária.", "correta": true, "justificativa": "Despesa Ordinária é aquela autorizada diretamente pela Lei Orçamentária Anual (LOA). Para sua realização, basta o empenho pela administração, não sendo necessária uma nova autorização legislativa. Diferencia-se das despesas com créditos adicionais, que dependem de autorização legislativa específica."},
+        {"texto": "Com Crédito Adicional.", "correta": false},
+        {"texto": "Extraordinária.", "correta": false}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A Lei de Responsabilidade Fiscal estabelece que a renúncia de receita deve estar acompanhada de:",
+      "alternativas": [
+        {"texto": "estimativa de impacto patrimonial.", "correta": false},
+        {"texto": "demonstração de seu impacto sobre as metas fiscais.", "correta": true, "justificativa": "O Art. 14 da LRF determina que a renúncia de receita (concessão de isenções, anistias, remissões) só poderá ser feita mediante estimativa do impacto orçamentário-financeiro e demonstração de que não afetará as metas fiscais anuais ou a trajetória sustentável das contas públicas no médio e longo prazo."},
+        {"texto": "aprovação popular por plebiscito.", "correta": false},
+        {"texto": "autorização do Tribunal de Contas.", "correta": false},
+        {"texto": "compensação por aumento de outra receita.", "correta": false}
+      ]
+    }
+  ]
+}

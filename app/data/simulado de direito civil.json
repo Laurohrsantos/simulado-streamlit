@@ -1,0 +1,224 @@
+{
+  "parte_geral_direito": [
+    {
+      "id": "q1",
+      "questao": "O artigo 20 da LINDB, introduzido pela Lei 12.376/2010, estabelece que na aplicação da lei, o juiz atenderá aos fins sociais e às exigências do bem comum, devendo ainda observar:",
+      "alternativas": [
+        {"texto": "apenas a literalidade do texto da lei.", "correta": false},
+        {"texto": "a proteção da confiança e a boa-fé objetiva.", "correta": true, "justificativa": "O Art. 20 da LINDB determina expressamente que 'na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum, resguardando a proteção da confiança e a boa-fé objetiva'. Este dispositivo reforça os princípios da segurança jurídica e da proteção da confiança legítima."},
+        {"texto": "exclusivamente a vontade das partes envolvidas.", "correta": false},
+        {"texto": "únicamente os precedentes judiciais.", "correta": false},
+        {"texto": "a discricionariedade absoluta do administrador.", "correta": false}
+      ]
+    },
+    {
+      "id": "q2",
+      "questao": "A perda do próprio direito pelo seu não exercício no prazo legal, sendo este prazo peremptório e improrrogável, denomina-se:",
+      "alternativas": [
+        {"texto": "Prescrição.", "correta": false},
+        {"texto": "Decadência.", "correta": true, "justificativa": "A decadência é a perda do direito material (e não apenas da ação) pelo seu não exercício dentro do prazo legal, que é fatal e improrrogável. Diferencia-se da prescrição, que é a perda da pretensão de exigir em juízo um direito."},
+        {"texto": "Usucapião.", "correta": false},
+        {"texto": "Renúncia Tácita.", "correta": false},
+        {"texto": "Força Maior.", "correta": false}
+      ]
+    },
+    {
+      "id": "q3",
+      "questao": "Um contrato celebrado por um menor de 16 (dezesseis) anos é considerado:",
+      "alternativas": [
+        {"texto": "nulo de pleno direito.", "correta": true, "justificativa": "De acordo com o Art. 166, I, do CC, é nulo o negócio jurídico quando celebrado por pessoa absolutamente incapaz. Os menores de 16 anos são absolutamente incapazes (Art. 4º, CC), portanto, o contrato por eles celebrado é nulo."},
+        {"texto": "anulável.", "correta": false},
+        {"texto": "válido, se for para suprir necessidades básicas.", "correta": false},
+        {"texto": "inexistente.", "correta": false},
+        {"texto": "passível de convalidação pelos pais.", "correta": false}
+      ]
+    },
+    {
+      "id": "q4",
+      "questao": "A rua, a praça e a estrada são exemplos clássicos de bens públicos classificados como:",
+      "alternativas": [
+        {"texto": "bens dominicais.", "correta": false},
+        {"texto": "bens de uso especial.", "correta": false},
+        {"texto": "bens de uso comum do povo.", "correta": true, "justificativa": "Conforme o Art. 99, I, do CC, são bens públicos de uso comum do povo aqueles destinados ao uso direto e imediato pela coletividade, como ruas, praças, estradas e mares."},
+        {"texto": "bens particulares afetados.", "correta": false},
+        {"texto": "bens fungíveis.", "correta": false}
+      ]
+    },
+    {
+      "id": "q5",
+      "questao": "A teoria da desconsideração da personalidade jurídica, aplicada para evitar fraudes, permite:",
+      "alternativas": [
+        {"texto": "a dissolução automática da empresa.", "correta": false},
+        {"texto": "o atingimento do patrimônio dos sócios ou administradores que cometeram o abuso.", "correta": true, "justificativa": "A teoria da desconsideração da personalidade jurídica (Art. 50 do CC) é um instrumento excepcional que permite ao juiz, em casos de desvio de finalidade ou confusão patrimonial, ultrapassar a autonomia da pessoa jurídica para atingir o patrimônio pessoal dos sócios ou administradores que utilizaram a empresa para praticar atos fraudulentos ou abusivos."},
+        {"texto": "a transformação da sociedade em empresa individual.", "correta": false},
+        {"texto": "a isenção de impostos para a empresa.", "correta": false},
+        {"texto": "a dispensa de licitação para contratos.", "correta": false}
+      ]
+    },
+    {
+      "id": "q6",
+      "questao": "No negócio jurídico, o vício que torna o ato anulável, mas passível de convalidação, é aquele que afeta:",
+      "alternativas": [
+        {"texto": "a licitude do objeto.", "correta": false},
+        {"texto": "a capacidade absoluta do agente.", "correta": false},
+        {"texto": "a vontade, por erro, dolo ou coação.", "correta": true, "justificativa": "Os vícios de consentimento (erro, dolo, coação, estado de perigo e lesão) tornam o negócio jurídico anulável (Art. 171, I, CC). Diferentemente da nulidade, a anulabilidade é sanável, podendo o negócio ser convalidado pela ratificação das partes."},
+        {"texto": "a forma legal prescrita.", "correta": false},
+        {"texto": "a impossibilidade do objeto.", "correta": false}
+      ]
+    },
+    {
+      "id": "q7",
+      "questao": "O princípio contratual que impõe às partes um dever de lealdade, transparência e cooperação durante as tratativas e a execução do contrato é o da:",
+      "alternativas": [
+        {"texto": "autonomia da vontade.", "correta": false},
+        {"texto": "pacta sunt servanda.", "correta": false},
+        {"texto": "boa-fé objetiva.", "correta": true, "justificativa": "O princípio da boa-fé objetiva, implícito no Art. 113 do CC e explicitado no Art. 422, impõe um standard de conduta leal e correta às partes, não apenas na formação do contrato, mas também em sua execução, gerando deveres anexos de conduta."},
+        {"texto": "função social do contrato.", "correta": false},
+        {"texto": "onisidade contratual.", "correta": false}
+      ]
+    },
+    {
+      "id": "q8",
+      "questao": "A característica dos bens públicos que os torna insuscetíveis de aquisição por usucapião é a:",
+      "alternativas": [
+        {"texto": "impenhorabilidade.", "correta": false},
+        {"texto": "inalienabilidade.", "correta": false},
+        {"texto": "imprescritibilidade.", "correta": true, "justificativa": "A imprescritibilidade, prevista no Art. 102, II, do CC, é a característica que impede que os bens públicos sejam adquiridos por usucapião, mesmo que um particular ocupe o bem por longo tempo. É uma decorrência do princípio da indisponibilidade do interesse público."},
+        {"texto": "infungibilidade.", "correta": false},
+        {"texto": "indisponibilidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q9",
+      "questao": "A perda da pretensão de exigir em juízo um direito, em razão da inércia de seu titular durante certo prazo, que pode ser interrompido ou suspenso, é denominada:",
+      "alternativas": [
+        {"texto": "Decadência.", "correta": false},
+        {"texto": "Prescrição.", "correta": true, "justificativa": "A prescrição (Art. 189 do CC) é a perda da ação (do direito de exigir em juízo) em virtude do decurso do tempo combinado com a inércia do titular. Diferentemente da decadência, a prescrição pode ser interrompida ou suspensa por causas previstas em lei."},
+        {"texto": "Renúncia.", "correta": false},
+        {"texto": "Preclusão.", "correta": false},
+        {"texto": "Perempção.", "correta": false}
+      ]
+    },
+    {
+      "id": "q10",
+      "questao": "A regra da irretroatividade da lei, prevista na LINDB, protege especificamente:",
+      "alternativas": [
+        {"texto": "a expectativa de direito de todos os cidadãos.", "correta": false},
+        {"texto": "o ato jurídico perfeito, o direito adquirido e a coisa julgada.", "correta": true, "justificativa": "O Art. 6º da LINDB estabelece que a lei não retroagirá, salvo para beneficiar. Este princípio protege de forma expressa o ato jurídico perfeito (aquele já consumado sob a vigência da lei antiga), o direito adquirido (já incorporado ao patrimônio) e a coisa julgada (decisão judicial sobre a qual não cabe mais recurso)."},
+        {"texto": "apenas os direitos patrimoniais.", "correta": false},
+        {"texto": "os atos praticados pelo Poder Público.", "correta": false},
+        {"texto": "os contratos em andamento.", "correta": false}
+      ]
+    },
+    {
+      "id": "q11",
+      "questao": "Um contrato de compra e venda celebrado sob coação física irresistível é considerado:",
+      "alternativas": [
+        {"texto": "nulo.", "correta": false},
+        {"texto": "anulável.", "correta": true, "justificativa": "A coação, quando caracterizada como vício de vontade, torna o negócio jurídico anulável (Art. 171, I, CC), e não nulo. A anulabilidade decorre de vício no consentimento, permitindo que a parte lesada peça a anulação do ato."},
+        {"texto": "inexistente.", "correta": false},
+        {"texto": "condicional.", "correta": false},
+        {"texto": "resolutivo.", "correta": false}
+      ]
+    },
+    {
+      "id": "q12",
+      "questao": "Os bens do patrimônio disponível do Estado, sem destinação pública específica, são classificados como:",
+      "alternativas": [
+        {"texto": "bens de uso comum.", "correta": false},
+        {"texto": "bens de uso especial.", "correta": false},
+        {"texto": "bens dominicais.", "correta": true, "justificativa": "Os bens dominicais (Art. 99, III, do CC) são os bens públicos que constituem o patrimônio disponível do Estado, não afetados a um uso público específico, como terras devolutas ou imóveis não utilizados pelos serviços públicos."},
+        {"texto": "bens particulares.", "correta": false},
+        {"texto": "bens fungíveis.", "correta": false}
+      ]
+    },
+    {
+      "id": "q13",
+      "questao": "A responsabilidade civil subjetiva, em regra aplicada aos particulares, tem como fundamento necessário:",
+      "alternativas": [
+        {"texto": "apenas a existência do dano.", "correta": false},
+        {"texto": "a comprovação do dolo ou culpa do agente.", "correta": true, "justificativa": "Na responsabilidade civil subjetiva, regra geral no Direito Civil, é indispensável provar que o agente agiu com dolo (intenção de causar o dano) ou culpa (imperícia, negligência ou imprudência) para que surja o dever de indenizar. O simples dano não é suficiente."},
+        {"texto": "a presunção de culpa do agente.", "correta": false},
+        {"texto": "a relação de consumo.", "correta": false},
+        {"texto": "a existência de um contrato.", "correta": false}
+      ]
+    },
+    {
+      "id": "q14",
+      "questao": "O instituto que permite a revisão judicial de um contrato em virtude de uma alteração imprevisível das circunstâncias que o torne excessivamente oneroso para uma das partes é conhecido como:",
+      "alternativas": [
+        {"texto": "Teoria da Imprevisão.", "correta": true, "justificativa": "A teoria da imprevisão (ou rebus sic stantibus), prevista no Art. 317 do CC e no Art. 6º, V, da Lei de Introdução às Normas do Direito Brasileiro, autoriza a revisão judicial do contrato quando, por motivos imprevisíveis e extraordinários, a prestação de uma das partes se tornar excessivamente onerosa, rompendo o equilíbrio contratual inicial."},
+        {"texto": "Teoria do Adimplemento Substancial.", "correta": false},
+        {"texto": "Função Social do Contrato.", "correta": false},
+        {"texto": "Exceção do Contrato Não Cumprido.", "correta": false},
+        {"texto": "Cláusula Penal.", "correta": false}
+      ]
+    },
+    {
+      "id": "q15",
+      "questao": "Segundo a LINDB, na falta de lei específica, o juiz deve decidir um caso com base, pela ordem, em:",
+      "alternativas": [
+        {"texto": "costumes, analogia e princípios gerais de direito.", "correta": false},
+        {"texto": "analogia, costumes e princípios gerais de direito.", "correta": true, "justificativa": "O Art. 4º da LINDB estabelece a hierarquia de integração do direito: 'Quando a lei for omissa, o juiz decidirá o caso de acordo com a analogia, os costumes e os princípios gerais de direito'. Esta é a ordem a ser observada para preencher lacunas da lei."},
+        {"texto": "princípios gerais de direito, analogia e costumes.", "correta": false},
+        {"texto": "jurisprudência, doutrina e equidade.", "correta": false},
+        {"texto": "decisões de tribunais estrangeiros.", "correta": false}
+      ]
+    },
+    {
+      "id": "q16",
+      "questao": "A capacidade de direito ou de gozo de uma pessoa natural:",
+      "alternativas": [
+        {"texto": "adquire-se aos 18 anos completos.", "correta": false},
+        {"texto": "adquire-se com a emancipação.", "correta": false},
+        {"texto": "inicia-se com o nascimento com vida.", "correta": true, "justificativa": "A capacidade de direito (ou de gozo) é a aptidão para ser titular de direitos e obrigações. Todo ser humano a adquire no momento do nascimento com vida (Art. 2º do CC). A capacidade de fato (ou de exercício) é que se adquire com a maioridade ou emancipação."},
+        {"texto": "depende de autorização judicial.", "correta": false},
+        {"texto": "é conferida apenas aos brasileiros.", "correta": false}
+      ]
+    },
+    {
+      "id": "q17",
+      "questao": "A principal diferença entre bens fungíveis e infungíveis é que os fungíveis:",
+      "alternativas": [
+        {"texto": "são sempre móveis.", "correta": false},
+        {"texto": "são sempre imóveis.", "correta": false},
+        {"texto": "podem ser substituídos por outros de mesma espécie e qualidade.", "correta": true, "justificativa": "Conforme o Art. 85 do CC, coisas fungíveis são aquellas que podem ser substituídas por outras da mesma espécie, qualidade e quantidade (ex.: dinheiro, grãos, mercadorias padronizadas). Coisas infungíveis são as insubstituíveis (ex.: uma obra de arte única, um imóvel específico)."},
+        {"texto": "não podem ser alienados.", "correta": false},
+        {"texto": "são sempre divisíveis.", "correta": false}
+      ]
+    },
+    {
+      "id": "q18",
+      "questao": "A cláusula geral contida no Art. 422 do Código Civil, que impõe conduta leal às partes durante a execução do contrato, refere-se ao princípio da:",
+      "alternativas": [
+        {"texto": "autonomia da vontade.", "correta": false},
+        {"texto": "boa-fé objetiva.", "correta": true, "justificativa": "O Art. 422 do CC estabelece que 'os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé'. Esta é a cláusula geral da boa-fé objetiva, que impregna toda a relação contratual."},
+        {"texto": "função social.", "correta": false},
+        {"texto": "relatividade dos efeitos.", "correta": false},
+        {"texto": "onisidade.", "correta": false}
+      ]
+    },
+    {
+      "id": "q19",
+      "questao": "O prazo decadencial para anular um negócio jurídico por vício de consentimento (erro, dolo, coação) é de:",
+      "alternativas": [
+        {"texto": "10 anos.", "correta": false},
+        {"texto": "4 anos.", "correta": false},
+        {"texto": "3 anos.", "correta": false},
+        {"texto": "2 anos.", "correta": false},
+        {"texto": "o prazo varia conforme o vício, mas em regra é de 1 a 2 anos.", "correta": true, "justificativa": "Os prazos decadenciais para pleitear a anulação por vícios do consentimento estão espalhados no CC. Para vícios de negócios jurídicos em geral (erro, dolo, coação), o prazo é de 2 anos (Art. 178). Em relações de consumo, o prazo para vícios por fornecimento de produtos ou serviços é de 30 ou 90 dias (CDC). A redação da alternativa capta essa variedade."}
+      ]
+    },
+    {
+      "id": "q20",
+      "questao": "A função social do contrato, prevista no Art. 421 do Código Civil, implica que:",
+      "alternativas": [
+        {"texto": "o contrato deve ser celebrado apenas para fins lucrativos.", "correta": false},
+        {"texto": "a liberdade de contratar é absoluta e ilimitada.", "correta": false},
+        {"texto": "o contrato deve ser interpretado de forma a beneficiar sempre o consumidor.", "correta": false},
+        {"texto": "a autonomia da vontade deve ser exercida em conformidade com os interesses sociais.", "correta": true, "justificativa": "O princípio da função social do contrato (Art. 421 do CC) estabelece um limite externo à autonomia da vontade. A liberdade contratual deve ser exercida de modo a não violar valores sociais mais amplos, como a dignidade da pessoa humana, a defesa do consumidor e a ordem econômica, equilibrando o interesse individual com o coletivo."},
+        {"texto": "o contrato é nulo se não gerar empregos.", "correta": false}
+      ]
+    }
+  ]
+}
