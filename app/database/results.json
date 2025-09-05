@@ -1,0 +1,387 @@
+{
+    "admin": [
+        {
+            "total_questions": 3,
+            "correct_answers": 2,
+            "score_percent": 66.66666666666666,
+            "time_taken_seconds": 7.1217567920684814,
+            "date": "2025-09-02T10:47:16.003369"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 1,
+            "score_percent": 33.33333333333333,
+            "time_taken_seconds": 105.27610516548157,
+            "date": "2025-09-02T10:50:41.317055"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 1,
+            "score_percent": 33.33333333333333,
+            "time_taken_seconds": 156.7830617427826,
+            "date": "2025-09-02T10:51:32.827343"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 1,
+            "score_percent": 33.33333333333333,
+            "time_taken_seconds": 177.3426992893219,
+            "date": "2025-09-02T10:51:53.385403"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 1,
+            "score_percent": 33.33333333333333,
+            "time_taken_seconds": 178.41815328598022,
+            "date": "2025-09-02T10:51:54.458986"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 0,
+            "score_percent": 0.0,
+            "time_taken_seconds": 6.975976228713989,
+            "date": "2025-09-02T10:52:10.604828"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 0,
+            "score_percent": 0.0,
+            "time_taken_seconds": 115.42139935493469,
+            "date": "2025-09-02T10:53:59.053920"
+        }
+    ],
+    "user": [
+        {
+            "total_questions": 3,
+            "correct_answers": 2,
+            "score_percent": 66.66666666666666,
+            "time_taken_seconds": 79.68596029281616,
+            "date": "2025-09-02T10:48:28.568776"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 2,
+            "score_percent": 66.66666666666666,
+            "time_taken_seconds": 87.73085069656372,
+            "date": "2025-09-02T10:48:36.611808"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 2,
+            "score_percent": 66.66666666666666,
+            "time_taken_seconds": 97.17391276359558,
+            "date": "2025-09-02T10:48:46.056491"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 2,
+            "score_percent": 66.66666666666666,
+            "time_taken_seconds": 98.23941802978516,
+            "date": "2025-09-02T10:48:47.122032"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 1,
+            "score_percent": 33.33333333333333,
+            "time_taken_seconds": 6.138659954071045,
+            "date": "2025-09-02T10:49:02.179551"
+        },
+        {
+            "total_questions": 5,
+            "correct_answers": 0,
+            "score_percent": 0.0,
+            "time_taken_seconds": 14.948780536651611,
+            "area_performance": {
+                "Direito Administrativo - Regime Jur\u00eddico Administrativo e Princ\u00edpios": {
+                    "correct": 0,
+                    "total": 1
+                },
+                "Direito Administrativo - Organiza\u00e7\u00e3o Administrativa e Atos Administrativos": {
+                    "correct": 0,
+                    "total": 1
+                },
+                "Direito Administrativo - Responsabilidade Civil do Estado e Controle da Administra\u00e7\u00e3o": {
+                    "correct": 0,
+                    "total": 1
+                },
+                "Direito Administrativo - Poderes da Administra\u00e7\u00e3o e Licita\u00e7\u00f5es": {
+                    "correct": 0,
+                    "total": 1
+                },
+                "Direito Constitucional - Organiza\u00e7\u00e3o do Estado e Poderes": {
+                    "correct": 0,
+                    "total": 1
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "DARJ_003",
+                        "questao": "O princ\u00edpio da moralidade administrativa:",
+                        "alternativas": [
+                            {
+                                "texto": "Est\u00e1 restrito ao combate da corrup\u00e7\u00e3o, n\u00e3o abrangendo outras condutas.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Exige que o administrador p\u00fablico aja conforme padr\u00f5es \u00e9ticos e de boa-f\u00e9, al\u00e9m da estrita legalidade.",
+                                "correta": true
+                            },
+                            {
+                                "texto": "N\u00e3o pode ser invocado para anular atos administrativos, apenas para responsabilizar agentes.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00c9 sin\u00f4nimo de legalidade estrita, n\u00e3o possuindo conte\u00fado aut\u00f4nomo.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Aplica-se apenas aos agentes pol\u00edticos, n\u00e3o aos servidores p\u00fablicos em geral.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Administrativo - Regime Jur\u00eddico Administrativo e Princ\u00edpios",
+                    "user_answer": "\u00c9 sin\u00f4nimo de legalidade estrita, n\u00e3o possuindo conte\u00fado aut\u00f4nomo.",
+                    "correct_answer": "Exige que o administrador p\u00fablico aja conforme padr\u00f5es \u00e9ticos e de boa-f\u00e9, al\u00e9m da estrita legalidade.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "DAOA_006",
+                        "questao": "As organiza\u00e7\u00f5es sociais na administra\u00e7\u00e3o p\u00fablica:",
+                        "alternativas": [
+                            {
+                                "texto": "S\u00e3o pessoas jur\u00eddicas de direito p\u00fablico integrantes da administra\u00e7\u00e3o indireta.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "S\u00e3o entidades privadas sem fins lucrativos que celebram contrato de gest\u00e3o com o poder p\u00fablico.",
+                                "correta": true
+                            },
+                            {
+                                "texto": "T\u00eam natureza de empresa p\u00fablica e regime jur\u00eddico de direito privado.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Podem ser criadas por decreto do Chefe do Executivo, sem necessidade de lei.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Est\u00e3o sujeitas ao regime de licita\u00e7\u00f5es da Lei 8.666/1993.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Administrativo - Organiza\u00e7\u00e3o Administrativa e Atos Administrativos",
+                    "user_answer": "Est\u00e3o sujeitas ao regime de licita\u00e7\u00f5es da Lei 8.666/1993.",
+                    "correct_answer": "S\u00e3o entidades privadas sem fins lucrativos que celebram contrato de gest\u00e3o com o poder p\u00fablico.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "DARC_002",
+                        "questao": "O controle interno da administra\u00e7\u00e3o p\u00fablica tem como objetivo:",
+                        "alternativas": [
+                            {
+                                "texto": "Substituir o controle externo exercido pelo Poder Legislativo.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Avaliar o cumprimento das metas previstas no plano plurianual e a execu\u00e7\u00e3o dos programas de governo.",
+                                "correta": true
+                            },
+                            {
+                                "texto": "Fiscalizar exclusivamente os atos do Poder Judici\u00e1rio.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Realizar auditorias cont\u00e1beis apenas nas empresas estatais.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Controlar apenas os processos licitat\u00f3rios de grande valor.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Administrativo - Responsabilidade Civil do Estado e Controle da Administra\u00e7\u00e3o",
+                    "user_answer": "Substituir o controle externo exercido pelo Poder Legislativo.",
+                    "correct_answer": "Avaliar o cumprimento das metas previstas no plano plurianual e a execu\u00e7\u00e3o dos programas de governo.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "DAPL_006",
+                        "questao": "O poder disciplinar da administra\u00e7\u00e3o:",
+                        "alternativas": [
+                            {
+                                "texto": "\u00c9 exercido apenas pelo Judici\u00e1rio, nos processos administrativos disciplinares.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Permite a aplica\u00e7\u00e3o de penalidades a servidores por infra\u00e7\u00f5es funcionais.",
+                                "correta": true
+                            },
+                            {
+                                "texto": "Dispensa o contradit\u00f3rio e ampla defesa em casos de falta grave.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "N\u00e3o se aplica a agentes pol\u00edticos e ocupantes de cargos em comiss\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00c9 incompat\u00edvel com o princ\u00edpio da proporcionalidade das san\u00e7\u00f5es.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Administrativo - Poderes da Administra\u00e7\u00e3o e Licita\u00e7\u00f5es",
+                    "user_answer": "N\u00e3o se aplica a agentes pol\u00edticos e ocupantes de cargos em comiss\u00e3o.",
+                    "correct_answer": "Permite a aplica\u00e7\u00e3o de penalidades a servidores por infra\u00e7\u00f5es funcionais.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "DCOE_001",
+                        "questao": "A autonomia dos Munic\u00edpios na Federa\u00e7\u00e3o brasileira:",
+                        "alternativas": [
+                            {
+                                "texto": "\u00c9 id\u00eantica \u00e0 dos Estados-membros, com compet\u00eancias legislativas plenas.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Compreende auto-organiza\u00e7\u00e3o, autogoverno e autoadministra\u00e7\u00e3o, mas com compet\u00eancias legislativas restritas.",
+                                "correta": true
+                            },
+                            {
+                                "texto": "Depende de autoriza\u00e7\u00e3o expressa do Estado-membro para exercer suas compet\u00eancias.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "N\u00e3o inclui a capacidade de criar tributos pr\u00f3prios.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00c9 meramente administrativa, sem qualquer aspecto pol\u00edtico.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Constitucional - Organiza\u00e7\u00e3o do Estado e Poderes",
+                    "user_answer": "Depende de autoriza\u00e7\u00e3o expressa do Estado-membro para exercer suas compet\u00eancias.",
+                    "correct_answer": "Compreende auto-organiza\u00e7\u00e3o, autogoverno e autoadministra\u00e7\u00e3o, mas com compet\u00eancias legislativas restritas.",
+                    "is_correct": false
+                }
+            ],
+            "date": "2025-09-02T17:56:42.484007"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 1,
+            "score_percent": 33.33333333333333,
+            "time_taken_seconds": 8.101182460784912,
+            "area_performance": {
+                "area_conhecimento_1": {
+                    "correct": 1,
+                    "total": 2
+                },
+                "area_conhecimento_2": {
+                    "correct": 0,
+                    "total": 1
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "q2",
+                        "questao": "Qual \u00e9 o maior oceano do mundo?",
+                        "alternativas": [
+                            {
+                                "texto": "Atl\u00e2ntico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00cdndico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00c1rtico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Pac\u00edfico",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_1",
+                    "user_answer": "\u00c1rtico",
+                    "correct_answer": "Pac\u00edfico",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q1",
+                        "questao": "Qual \u00e9 a capital da Fran\u00e7a?",
+                        "alternativas": [
+                            {
+                                "texto": "Berlim",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Madri",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Paris",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            },
+                            {
+                                "texto": "Roma",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_1",
+                    "user_answer": "Paris",
+                    "correct_answer": "Paris",
+                    "is_correct": true
+                },
+                {
+                    "question_obj": {
+                        "id": "q3",
+                        "questao": "Quem escreveu 'Dom Quixote'?",
+                        "alternativas": [
+                            {
+                                "texto": "Machado de Assis",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Miguel de Cervantes",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            },
+                            {
+                                "texto": "William Shakespeare",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Gabriel Garc\u00eda M\u00e1rquez",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_2",
+                    "user_answer": "Gabriel Garc\u00eda M\u00e1rquez",
+                    "correct_answer": "Miguel de Cervantes",
+                    "is_correct": false
+                }
+            ],
+            "date": "2025-09-04T16:48:13.120091"
+        }
+    ]
+}

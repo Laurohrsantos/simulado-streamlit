@@ -1,0 +1,17 @@
+{
+    "admin": {
+        "name": "Administrador",
+        "password": "admin",
+        "role": "admin",
+        "available_simulations": []
+    },
+    "user": {
+        "name": "Aluno Exemplo",
+        "password": "user",
+        "role": "user",
+        "available_simulations": [
+            "questions_example.json",
+            "slmulado direito geral.json"
+        ]
+    }
+}
