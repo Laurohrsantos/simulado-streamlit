@@ -1,17 +1,18 @@
 {
     "admin": {
         "name": "Administrador",
-        "password": "admin",
+        "password_hash": "$2b$12$9OmFbtJyWkvwCb8URFOFP.vhA3iN43JOIruq1PhMNXdmNhDpuHPfC",
         "role": "admin",
-        "available_simulations": []
+        "available_simulations": [],
+        "access_expires_on": null
     },
     "user": {
-        "name": "Aluno Exemplo",
-        "password": "user",
+        "name": "Lauro",
+        "password_hash": "$2b$12$ZC7OO11TXXxnVncoSc/qYunnd4MY7ig160Uzjg178IrbdlDQ0zbGS",
         "role": "user",
         "available_simulations": [
-            "questions_example.json",
-            "slmulado direito geral.json"
-        ]
+            "primeiro modelo deep.json"
+        ],
+        "access_expires_on": "2025-12-31"
     }
 }

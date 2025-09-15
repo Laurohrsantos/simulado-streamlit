@@ -1,57 +1,54 @@
 import streamlit as st
 from utils.auth import login, is_authenticated, get_user_role, logout
+from views import pagina_inicial, novo_simulado, historico, administracao
 
 def main():
     """Função principal que gere a autenticação e a navegação da aplicação."""
     st.set_page_config(layout="wide", page_title="Plataforma de Estudos")
 
-    def page():
-        st.write("Hello")
-
     if not is_authenticated():
-        
-        st.navigation([page], position = "hidden", expanded = False)
-        
         st.title("Bem-vindo à Plataforma de Estudos")
         st.header("Login")
         with st.form("login_form"):
-            username = st.text_input("Utilizador")
+            username = st.text_input("Usuário")
             password = st.text_input("Senha", type="password")
             submitted = st.form_submit_button("Entrar")
             if submitted:
-                if login(username, password):
+                success, message = login(username, password)
+                if success:
                     st.rerun()
                 else:
-                    st.error("Utilizador ou senha incorretos.")
+                    st.error(message)
     else:
-        # st.set_page_config(initial_sidebar_state ="expanded")
-        pages = [
-            st.Page("views/0_Pagina_Inicial.py", title="Página Inicial", icon="🏠"),
-            st.Page("views/1_Novo_Simulado.py", title="Novo Simulado", icon="📝"),
-            st.Page("views/2_Historico_de_Resultados.py", title="Histórico", icon="📊"),
-        ]
-        
-        if get_user_role() == 'admin':
-            pages.append(st.Page("views/3_Administracao.py", title="Administração", icon="⚙️"))
-        
-        # Executa a página que o utilizador selecionou no menu
-        pg = st.navigation(pages)
-        
-        # --- Barra Lateral Centralizada ---
-        # Desenha a sidebar com as informações do utilizador e o botão de logout
-        st.sidebar.divider()
-        st.sidebar.success(f"Sessão iniciada como: **{st.session_state['name']}**")
-        st.sidebar.info(f"Nível de Acesso: **{st.session_state['role']}**")
-        
-        # Lógica de logout 
-        if st.sidebar.button("Logout", use_container_width=True):
-            logout()
-            st.rerun()
+        col1, col2 = st.columns([4,1])
+        with col1:
+            st.title(f"Olá, {st.session_state['name']}!")
 
+        with col2:
+            # espaço expansível
+            spacer = st.container()
+            spacer.write(" " * 50)  # cria altura
+            
+            if st.button("Logout", use_container_width=True, type="primary"):
+                logout()
+                st.rerun()
+
+        tab_titles = ["🏠 Página Inicial", "📝 Novo Simulado", "📊 Histórico"]
+        if get_user_role() == 'admin':
+            tab_titles.append("⚙️ Administração")
         
-        pg.run()
-    
-   
+        tab1, tab2, tab3, *admin_tab = st.tabs(tab_titles)
+
+        with tab1:
+            pagina_inicial.render_page()
+        with tab2:
+            novo_simulado.render_page()
+        with tab3:
+            historico.render_page()
+        if get_user_role() == 'admin' and admin_tab:
+            with admin_tab[0]:
+                administracao.render_page()
 
 if __name__ == "__main__":
     main()
+

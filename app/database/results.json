@@ -48,6 +48,787 @@
             "score_percent": 0.0,
             "time_taken_seconds": 115.42139935493469,
             "date": "2025-09-02T10:53:59.053920"
+        },
+        {
+            "total_questions": 20,
+            "correct_answers": 0,
+            "score_percent": 0.0,
+            "time_taken_seconds": 8.163872241973877,
+            "area_performance": {
+                "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial": {
+                    "correct": 0,
+                    "total": 20
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "q4",
+                        "questao": "O valor necess\u00e1rio para custear os benef\u00edcios futuros dos participantes que ainda est\u00e3o na ativa \u00e9 denominado:",
+                        "alternativas": [
+                            {
+                                "texto": "Reserva de Benef\u00edcios Concedidos (RBC)",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Reserva de Benef\u00edcios a Conceder (RBAC)",
+                                "correta": true,
+                                "justificativa": "Correto. A Reserva de Benef\u00edcios a Conceder (RBAC) representa a obriga\u00e7\u00e3o futura do plano com seus participantes ativos. \u00c9 o montante que precisa estar provisionado para honrar os benef\u00edcios que ser\u00e3o concedidos a esses participantes quando se aposentarem."
+                            },
+                            {
+                                "texto": "Custo Normal",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Ativos Garantidores",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Passivo Atuarial",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Reserva de Benef\u00edcios a Conceder (RBAC)",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q7",
+                        "questao": "O custo anual do novo benef\u00edcio que \u00e9 adquirido pelos participantes no per\u00edodo, em um plano em equil\u00edbrio, \u00e9 denominado:",
+                        "alternativas": [
+                            {
+                                "texto": "Custo Suplementar",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Custo Normal",
+                                "correta": true,
+                                "justificativa": "Correto. O Custo Normal representa o valor presente dos benef\u00edcios futuros que os participantes 'adquirem' (ou acumulam) em um determinado ano de trabalho. \u00c9 o custo te\u00f3rico do plano se n\u00e3o houvesse desvios passados."
+                            },
+                            {
+                                "texto": "Custo Corrente",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Custo Actuarial Total",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Custo de Benef\u00edcios Concedidos",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Custo Normal",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q10",
+                        "questao": "Qual dos seguintes N\u00c3O \u00e9 um tipo de plano previdenci\u00e1rio do ponto de vista atuarial?",
+                        "alternativas": [
+                            {
+                                "texto": "Benef\u00edcio Definido",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Contribui\u00e7\u00e3o Definida",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Contribui\u00e7\u00e3o Vari\u00e1vel",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Custeio Definido",
+                                "correta": true,
+                                "justificativa": "Correto. Os tipos de planos previdenci\u00e1rios s\u00e3o Benef\u00edcio Definido (BD), Contribui\u00e7\u00e3o Definida (CD) e Contribui\u00e7\u00e3o Vari\u00e1vel (CV). 'Custeio Definido' n\u00e3o \u00e9 uma categoria t\u00e9cnica reconhecida na classifica\u00e7\u00e3o atuarial de planos."
+                            },
+                            {
+                                "texto": "Todos os itens s\u00e3o tipos de plano.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Custeio Definido",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q5",
+                        "questao": "Qual regime financeiro \u00e9 preconizado pela Lei 9.717/1998 para os RPPS, combinando a forma\u00e7\u00e3o de poupan\u00e7a com a solidariedade entre gera\u00e7\u00f5es?",
+                        "alternativas": [
+                            {
+                                "texto": "Regime de Reparti\u00e7\u00e3o Simples",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Regime de Capitaliza\u00e7\u00e3o",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Regime de Capitais de Cobertura",
+                                "correta": true,
+                                "justificativa": "Correto. O Regime de Capitais de Cobertura (ou Reparti\u00e7\u00e3o de Capitais de Cobertura) \u00e9 o modelo adotado. Nele, forma-se uma reserva matem\u00e1tica (poupan\u00e7a), mas as contribui\u00e7\u00f5es dos ativos tamb\u00e9m ajudam a financiar os benef\u00edcios correntes, combinando capitaliza\u00e7\u00e3o e reparti\u00e7\u00e3o."
+                            },
+                            {
+                                "texto": "Regime de N\u00e3o Capitaliza\u00e7\u00e3o",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Regime de Solidariedade Mista",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Regime de Capitais de Cobertura",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q8",
+                        "questao": "Qual Emenda Constitucional tornou obrigat\u00f3ria a contribui\u00e7\u00e3o previdenci\u00e1ria dos aposentados e pensionistas dos RPPS?",
+                        "alternativas": [
+                            {
+                                "texto": "EC 41/2003",
+                                "correta": false
+                            },
+                            {
+                                "texto": "EC 20/1998",
+                                "correta": false
+                            },
+                            {
+                                "texto": "EC 47/2005",
+                                "correta": false
+                            },
+                            {
+                                "texto": "EC 70/2012",
+                                "correta": true,
+                                "justificativa": "Correto. A EC 70/2012 tornou obrigat\u00f3ria a contribui\u00e7\u00e3o dos inativos e pensionistas que j\u00e1 percebiam valores acima do teto do RGPS, ampliando significativamente a base de custeio dos RPPS."
+                            },
+                            {
+                                "texto": "EC 103/2019",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "EC 70/2012",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q14",
+                        "questao": "Qual termo se refere \u00e0s estimativas sobre o futuro (como juros, mortalidade, sal\u00e1rios) que fundamentam os c\u00e1lculos atuariais?",
+                        "alternativas": [
+                            {
+                                "texto": "Fluxos Atuariais",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Premissas e Hip\u00f3teses Atuariais",
+                                "correta": true,
+                                "justificativa": "Correto. Premissas e Hip\u00f3teses Atuariais s\u00e3o suposi\u00e7\u00f5es t\u00e9cnicas sobre vari\u00e1veis futuras (taxa de desconto, t\u00e1buas de mortalidade, taxas de sal\u00e1rio e infla\u00e7\u00e3o) que s\u00e3o a base de qualquer proje\u00e7\u00e3o e c\u00e1lculo atuarial. A qualidade do resultado depende da qualidade das premissas."
+                            },
+                            {
+                                "texto": "Reservas Matem\u00e1ticas",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Custos Atuariais",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Ativos Garantidores",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Premissas e Hip\u00f3teses Atuariais",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q20",
+                        "questao": "Proje\u00e7\u00f5es financeiras de longo prazo que mostram as entradas e sa\u00eddas esperadas de um plano previdenci\u00e1rio s\u00e3o conhecidas como:",
+                        "alternativas": [
+                            {
+                                "texto": "Notas T\u00e9cnicas",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Fluxos Atuariais",
+                                "correta": true,
+                                "justificativa": "Correto. Fluxos Atuariais s\u00e3o proje\u00e7\u00f5es que estimam, ano a ano, por um longo per\u00edodo (ex.: 50 anos), as receitas (contribui\u00e7\u00f5es, rendimentos) e as despesas (benef\u00edcios, custeio administrativo) do plano. S\u00e3o essenciais para visualizar a sustentabilidade futura."
+                            },
+                            {
+                                "texto": "Demonstra\u00e7\u00f5es Cont\u00e1beis",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Balan\u00e7os Patrimoniais",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Or\u00e7amentos Anuais",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Fluxos Atuariais",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q15",
+                        "questao": "O regime financeiro em que as contribui\u00e7\u00f5es dos trabalhadores ativos s\u00e3o usadas diretamente para pagar os benef\u00edcios dos inativos, sem forma\u00e7\u00e3o de poupan\u00e7a, \u00e9 o:",
+                        "alternativas": [
+                            {
+                                "texto": "Regime de Capitaliza\u00e7\u00e3o",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Regime de Capitais de Cobertura",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Regime de Reparti\u00e7\u00e3o Simples",
+                                "correta": true,
+                                "justificativa": "Correto. O Regime de Reparti\u00e7\u00e3o Simples \u00e9 o modelo 'pay-as-you-go'. N\u00e3o h\u00e1 acumula\u00e7\u00e3o de reservas. As contribui\u00e7\u00f5es correntes financiam diretamente os benef\u00edcios correntes. Este modelo \u00e9 sens\u00edvel a mudan\u00e7as demogr\u00e1ficas (envelhecimento da popula\u00e7\u00e3o) e foi majoritariamente substitu\u00eddo."
+                            },
+                            {
+                                "texto": "Regime de Solidariedade",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Regime de N\u00e3o Capitaliza\u00e7\u00e3o",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Regime de Reparti\u00e7\u00e3o Simples",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q2",
+                        "questao": "Qual lei \u00e9 considerada a lei de custeio dos Regimes Pr\u00f3prios de Previd\u00eancia Social (RPPS)?",
+                        "alternativas": [
+                            {
+                                "texto": "Lei 8.213/1991",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei 9.796/1999",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei 9.717/1998",
+                                "correta": true,
+                                "justificativa": "Correto. A Lei n\u00ba 9.717/1998 disp\u00f5e sobre as regras de financiamento, contribui\u00e7\u00f5es e equil\u00edbrio financeiro e atuarial dos RPPS, estabelecendo par\u00e2metros fundamentais para sua sustentabilidade."
+                            },
+                            {
+                                "texto": "Lei 10.887/2004",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei 8.112/1990",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Lei 9.717/1998",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q1",
+                        "questao": "Qual Emenda Constitucional estabeleceu pela primeira vez a idade m\u00ednima para aposentadoria dos servidores p\u00fablicos?",
+                        "alternativas": [
+                            {
+                                "texto": "EC 41/2003",
+                                "correta": false
+                            },
+                            {
+                                "texto": "EC 20/1998",
+                                "correta": true,
+                                "justificativa": "Correto. A EC 20/1998 foi um marco ao introduzir a idade m\u00ednima de 53 anos para homem e 48 para mulher, al\u00e9m dos requisitos de tempo de contribui\u00e7\u00e3o e de servi\u00e7o p\u00fablico, rompendo com a tradi\u00e7\u00e3o da aposentadoria apenas por tempo de contribui\u00e7\u00e3o."
+                            },
+                            {
+                                "texto": "EC 103/2019",
+                                "correta": false
+                            },
+                            {
+                                "texto": "EC 70/2012",
+                                "correta": false
+                            },
+                            {
+                                "texto": "EC 47/2005",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "EC 20/1998",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q6",
+                        "questao": "Qual \u00e9 o principal relat\u00f3rio t\u00e9cnico, de car\u00e1ter detalhado, que descreve toda a metodologia, premissas e resultados de uma avalia\u00e7\u00e3o atuarial?",
+                        "alternativas": [
+                            {
+                                "texto": "Demonstrativo de Resultados da Avalia\u00e7\u00e3o Atuarial (DRAA)",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Nota T\u00e9cnica Atuarial (NTA)",
+                                "correta": true,
+                                "justificativa": "Correto. A Nota T\u00e9cnica Atuarial (NTA) \u00e9 o documento completo e detalhado, elaborado pelo atu\u00e1rio, que serve como pe\u00e7a t\u00e9cnica fundamental da avalia\u00e7\u00e3o. O DRAA \u00e9 um resumo de f\u00e1cil compreens\u00e3o extra\u00eddo da NTA."
+                            },
+                            {
+                                "texto": "Demonstra\u00e7\u00e3o de Viabilidade do Plano",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Parecer do Gestor do RPPS",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Relat\u00f3rio de Auditoria",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Nota T\u00e9cnica Atuarial (NTA)",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q17",
+                        "questao": "Os investimentos e aplica\u00e7\u00f5es financeiras de um RPPS, que formam a sua poupan\u00e7a, s\u00e3o tecnicamente chamados de:",
+                        "alternativas": [
+                            {
+                                "texto": "Reserva Matem\u00e1tica",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Ativos Garantidores",
+                                "correta": true,
+                                "justificativa": "Correto. Ativos Garantidores s\u00e3o os recursos financeiros (aplica\u00e7\u00f5es, t\u00edtulos, im\u00f3veis) que o RPPS det\u00e9m para fazer frente \u00e0s suas obriga\u00e7\u00f5es com os participantes. Eles 'garantem' o pagamento dos benef\u00edcios futuros."
+                            },
+                            {
+                                "texto": "Passivo Atuarial",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Super\u00e1vit Financeiro",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Fundo de Previd\u00eancia",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Ativos Garantidores",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q18",
+                        "questao": "Qual EC permitiu a cobran\u00e7a de contribui\u00e7\u00e3o previdenci\u00e1ria dos inativos e pensionistas?",
+                        "alternativas": [
+                            {
+                                "texto": "EC 20/1998",
+                                "correta": false
+                            },
+                            {
+                                "texto": "EC 41/2003",
+                                "correta": true,
+                                "justificativa": "Correto. A EC 41/2003 instituiu a possibilidade de cobran\u00e7a de contribui\u00e7\u00e3o dos inativos e pensionistas que percebessem proventos acima do teto do RGPS, marcando o in\u00edcio da contribui\u00e7\u00e3o dos j\u00e1 aposentados."
+                            },
+                            {
+                                "texto": "EC 103/2019",
+                                "correta": false
+                            },
+                            {
+                                "texto": "EC 70/2012",
+                                "correta": false
+                            },
+                            {
+                                "texto": "EC 47/2005",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "EC 41/2003",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q16",
+                        "questao": "Qual \u00e9 a finalidade da Demonstra\u00e7\u00e3o de Viabilidade do Plano de Custeio?",
+                        "alternativas": [
+                            {
+                                "texto": "Comprovar que o valor dos benef\u00edcios est\u00e1 dentro do teto do RGPS.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Garantir que as regras do plano est\u00e3o de acordo com a Constitui\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Comprovar que as fontes de custeio s\u00e3o suficientes para manter o equil\u00edbrio atuarial.",
+                                "correta": true,
+                                "justificativa": "Correto. A Demonstra\u00e7\u00e3o de Viabilidade do Plano de Custeio \u00e9 um documento que atesta, com base em proje\u00e7\u00f5es atuariais, que as contribui\u00e7\u00f5es previstas (aliadas aos ativos existentes) s\u00e3o capazes de financiar os benef\u00edcios futuros prometidos pelo plano, mantendo-o em equil\u00edbrio de longo prazo."
+                            },
+                            {
+                                "texto": "Listar todos os participantes do RPPS.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Demonstrar o fluxo de caixa do \u00faltimo exerc\u00edcio.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Comprovar que as fontes de custeio s\u00e3o suficientes para manter o equil\u00edbrio atuarial.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q13",
+                        "questao": "Segundo a EC 103/2019, o valor da aposentadoria no RPPS \u00e9 calculado com base:",
+                        "alternativas": [
+                            {
+                                "texto": "No \u00faltimo sal\u00e1rio do servidor.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Na m\u00e9dia de todos os sal\u00e1rios de contribui\u00e7\u00e3o, corrigidos monetariamente.",
+                                "correta": true,
+                                "justificativa": "Correto. A Reforma alterou a regra de c\u00e1lculo. Agora, considera-se a m\u00e9dia de 100% dos sal\u00e1rios de contribui\u00e7\u00e3o, corrigidos monetariamente, sobre a qual se aplica um coeficiente (60% + 2% por ano de contribui\u00e7\u00e3o beyond 20/15 anos)."
+                            },
+                            {
+                                "texto": "No maior sal\u00e1rio de contribui\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Na m\u00e9dia dos \u00faltimos 36 meses de contribui\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Em 80% do \u00faltimo sal\u00e1rio.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Na m\u00e9dia de todos os sal\u00e1rios de contribui\u00e7\u00e3o, corrigidos monetariamente.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q9",
+                        "questao": "A situa\u00e7\u00e3o em que o valor presente das obriga\u00e7\u00f5es (passivo) de um RPPS \u00e9 maior que o valor presente de seus ativos e contribui\u00e7\u00f5es futuras \u00e9 conhecida como:",
+                        "alternativas": [
+                            {
+                                "texto": "Super\u00e1vit Atuarial",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Equil\u00edbrio Atuarial",
+                                "correta": false
+                            },
+                            {
+                                "texto": "D\u00e9ficit Atuarial",
+                                "correta": true,
+                                "justificativa": "Correto. O D\u00e9ficit Atuarial \u00e9 a situa\u00e7\u00e3o de desequil\u00edbrio de longo prazo onde as obriga\u00e7\u00f5es do plano superam sua capacidade de pagamento. \u00c9 o principal indicador de insustentabilidade que exige medidas corretivas."
+                            },
+                            {
+                                "texto": "D\u00e9ficit Financeiro",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Passivo L\u00edquido",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "D\u00e9ficit Atuarial",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q3",
+                        "questao": "De acordo com a EC 103/2019, qual \u00e9 a idade m\u00ednima para aposentadoria de uma servidora p\u00fablica?",
+                        "alternativas": [
+                            {
+                                "texto": "60 anos",
+                                "correta": false
+                            },
+                            {
+                                "texto": "55 anos",
+                                "correta": false
+                            },
+                            {
+                                "texto": "65 anos",
+                                "correta": false
+                            },
+                            {
+                                "texto": "62 anos",
+                                "correta": true,
+                                "justificativa": "Correto. A Reforma da Previd\u00eancia (EC 103/2019) uniformizou as regras e estabeleceu a idade m\u00ednima de 62 anos para mulheres e 65 anos para homens, tanto no RGPS quanto nos RPPS, com certas exce\u00e7\u00f5es para categorias espec\u00edficas."
+                            },
+                            {
+                                "texto": "N\u00e3o h\u00e1 idade m\u00ednima, apenas tempo de contribui\u00e7\u00e3o.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "62 anos",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q11",
+                        "questao": "A obrigatoriedade de os RPPS realizarem avalia\u00e7\u00f5es atuariais foi institu\u00edda pela lei:",
+                        "alternativas": [
+                            {
+                                "texto": "Lei 9.717/1998",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei 10.887/2004",
+                                "correta": true,
+                                "justificativa": "Correto. A Lei n\u00ba 10.887/2004 tornou obrigat\u00f3ria a realiza\u00e7\u00e3o de avalia\u00e7\u00f5es atuariais completas a cada dois anos e de avalia\u00e7\u00f5es de follow-up anuais, impondo um novo patamar de transpar\u00eancia e controle na gest\u00e3o dos RPPS."
+                            },
+                            {
+                                "texto": "Lei 8.212/1991",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei 9.796/1999",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei 8.112/1990",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Lei 10.887/2004",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q19",
+                        "questao": "O custo atuarial que representa a parcela do d\u00e9ficit passado a ser financiada anualmente \u00e9 o:",
+                        "alternativas": [
+                            {
+                                "texto": "Custo Normal",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Custo Suplementar",
+                                "correta": true,
+                                "justificativa": "Correto. O Custo Suplementar (ou Custo do D\u00e9ficit) \u00e9 o componente do custo total que reflete o financiamento de um desequil\u00edbrio passado (d\u00e9ficit atuarial). Ele representa a amortiza\u00e7\u00e3o anual desse d\u00e9ficit para que o plano retorne ao equil\u00edbrio em um per\u00edodo de tempo determinado."
+                            },
+                            {
+                                "texto": "Custo Corrente",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Custo de Transi\u00e7\u00e3o",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Custo de Benef\u00edcios",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Custo Suplementar",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q12",
+                        "questao": "Qual \u00e9 o nome do documento-s\u00edntese, de f\u00e1cil compreens\u00e3o, que apresenta o resultado da avalia\u00e7\u00e3o atuarial?",
+                        "alternativas": [
+                            {
+                                "texto": "Nota T\u00e9cnica Atuarial (NTA)",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Demonstrativo de Resultados da Avalia\u00e7\u00e3o Atuarial (DRAA)",
+                                "correta": true,
+                                "justificativa": "Correto. O Demonstrativo de Resultados da Avalia\u00e7\u00e3o Atuarial (DRAA) \u00e9 um relat\u00f3rio simplificado, destinado a gestores e ao p\u00fablico n\u00e3o especializado, que resume as conclus\u00f5es principais da avalia\u00e7\u00e3o atuarial detalhada contida na NTA."
+                            },
+                            {
+                                "texto": "Parecer do Minist\u00e9rio P\u00fablico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Relat\u00f3rio de Auditoria Independente",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Demonstra\u00e7\u00e3o de Viabilidade do Plano",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Previdenci\u00e1rio e Avalia\u00e7\u00e3o Atuarial",
+                    "user_answer": null,
+                    "correct_answer": "Demonstrativo de Resultados da Avalia\u00e7\u00e3o Atuarial (DRAA)",
+                    "is_correct": false
+                }
+            ],
+            "date": "2025-09-15T15:44:10.837573"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 2,
+            "score_percent": 66.66666666666666,
+            "time_taken_seconds": 13.211719274520874,
+            "area_performance": {
+                "area_conhecimento_2": {
+                    "correct": 1,
+                    "total": 1
+                },
+                "area_conhecimento_1": {
+                    "correct": 1,
+                    "total": 2
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "q3",
+                        "questao": "Quem escreveu 'Dom Quixote'?",
+                        "alternativas": [
+                            {
+                                "texto": "Machado de Assis",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Miguel de Cervantes",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            },
+                            {
+                                "texto": "William Shakespeare",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Gabriel Garc\u00eda M\u00e1rquez",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_2",
+                    "user_answer": "Miguel de Cervantes",
+                    "correct_answer": "Miguel de Cervantes",
+                    "is_correct": true
+                },
+                {
+                    "question_obj": {
+                        "id": "q2",
+                        "questao": "Qual \u00e9 o maior oceano do mundo?",
+                        "alternativas": [
+                            {
+                                "texto": "Atl\u00e2ntico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00cdndico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00c1rtico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Pac\u00edfico",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_1",
+                    "user_answer": "Atl\u00e2ntico",
+                    "correct_answer": "Pac\u00edfico",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q1",
+                        "questao": "Qual \u00e9 a capital da Fran\u00e7a?",
+                        "alternativas": [
+                            {
+                                "texto": "Berlim",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Madri",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Paris",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            },
+                            {
+                                "texto": "Roma",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_1",
+                    "user_answer": "Paris",
+                    "correct_answer": "Paris",
+                    "is_correct": true
+                }
+            ],
+            "date": "2025-09-15T15:45:47.369636"
         }
     ],
     "user": [
@@ -382,6 +1163,218 @@
                 }
             ],
             "date": "2025-09-04T16:48:13.120091"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 3,
+            "score_percent": 100.0,
+            "time_taken_seconds": 8.981537818908691,
+            "area_performance": {
+                "area_conhecimento_1": {
+                    "correct": 2,
+                    "total": 2
+                },
+                "area_conhecimento_2": {
+                    "correct": 1,
+                    "total": 1
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "q2",
+                        "questao": "Qual \u00e9 o maior oceano do mundo?",
+                        "alternativas": [
+                            {
+                                "texto": "Atl\u00e2ntico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00cdndico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00c1rtico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Pac\u00edfico",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_1",
+                    "user_answer": "Pac\u00edfico",
+                    "correct_answer": "Pac\u00edfico",
+                    "is_correct": true
+                },
+                {
+                    "question_obj": {
+                        "id": "q1",
+                        "questao": "Qual \u00e9 a capital da Fran\u00e7a?",
+                        "alternativas": [
+                            {
+                                "texto": "Berlim",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Madri",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Paris",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            },
+                            {
+                                "texto": "Roma",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_1",
+                    "user_answer": "Paris",
+                    "correct_answer": "Paris",
+                    "is_correct": true
+                },
+                {
+                    "question_obj": {
+                        "id": "q3",
+                        "questao": "Quem escreveu 'Dom Quixote'?",
+                        "alternativas": [
+                            {
+                                "texto": "Machado de Assis",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Miguel de Cervantes",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            },
+                            {
+                                "texto": "William Shakespeare",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Gabriel Garc\u00eda M\u00e1rquez",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_2",
+                    "user_answer": "Miguel de Cervantes",
+                    "correct_answer": "Miguel de Cervantes",
+                    "is_correct": true
+                }
+            ],
+            "date": "2025-09-15T15:46:58.787296"
+        },
+        {
+            "total_questions": 3,
+            "correct_answers": 3,
+            "score_percent": 100.0,
+            "time_taken_seconds": 11.578386306762695,
+            "area_performance": {
+                "area_conhecimento_1": {
+                    "correct": 2,
+                    "total": 2
+                },
+                "area_conhecimento_2": {
+                    "correct": 1,
+                    "total": 1
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "q2",
+                        "questao": "Qual \u00e9 o maior oceano do mundo?",
+                        "alternativas": [
+                            {
+                                "texto": "Atl\u00e2ntico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00cdndico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "\u00c1rtico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Pac\u00edfico",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_1",
+                    "user_answer": "Pac\u00edfico",
+                    "correct_answer": "Pac\u00edfico",
+                    "is_correct": true
+                },
+                {
+                    "question_obj": {
+                        "id": "q3",
+                        "questao": "Quem escreveu 'Dom Quixote'?",
+                        "alternativas": [
+                            {
+                                "texto": "Machado de Assis",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Miguel de Cervantes",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            },
+                            {
+                                "texto": "William Shakespeare",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Gabriel Garc\u00eda M\u00e1rquez",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_2",
+                    "user_answer": "Miguel de Cervantes",
+                    "correct_answer": "Miguel de Cervantes",
+                    "is_correct": true
+                },
+                {
+                    "question_obj": {
+                        "id": "q1",
+                        "questao": "Qual \u00e9 a capital da Fran\u00e7a?",
+                        "alternativas": [
+                            {
+                                "texto": "Berlim",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Madri",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Paris",
+                                "correta": true,
+                                "justificativa": "Bras\u00edlia foi inaugurada em 1960 durante o governo de Juscelino Kubitschek para ser a nova capital do pa\u00eds."
+                            },
+                            {
+                                "texto": "Roma",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "area_conhecimento_1",
+                    "user_answer": "Paris",
+                    "correct_answer": "Paris",
+                    "is_correct": true
+                }
+            ],
+            "date": "2025-09-15T16:20:23.916958"
         }
     ]
 }
