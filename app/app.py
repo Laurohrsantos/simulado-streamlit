@@ -20,7 +20,7 @@ def main():
                 else:
                     st.error(message)
     else:
-        col1, col2 = st.columns([4,1])
+        col1, col2 = st.columns([0.85, 0.15])
         with col1:
             st.title(f"Olá, {st.session_state['name']}!")
 
@@ -29,7 +29,7 @@ def main():
             spacer = st.container()
             spacer.write(" " * 50)  # cria altura
             
-            if st.button("Logout", use_container_width=True, type="primary"):
+            if st.button("Sair", use_container_width=True, type="primary"):
                 logout()
                 st.rerun()
 

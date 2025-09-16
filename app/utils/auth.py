@@ -1,16 +1,18 @@
 import streamlit as st
 from database.db_handler import get_user
 from passlib.context import CryptContext
-from passlib.hash import bcrypt
 import datetime
 
 # --- CONFIGURAÇÃO DE CRIPTOGRAFIA ---
-# Usamos passlib para uma gestão de senhas segura
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
 
 def verify_password(plain_password, hashed_password):
-    normalized_hash = bcrypt.normhash(hashed_password)
-    return pwd_context.verify(plain_password, normalized_hash)
+    """Verifica uma senha em texto plano contra um hash."""
+    return pwd_context.verify(plain_password, hashed_password)
+
+def hash_password(password):
+    """Gera um hash para uma nova senha."""
+    return pwd_context.hash(password)
 
 def login(username, password):
     """
@@ -18,25 +20,22 @@ def login(username, password):
     """
     user_data = get_user(username)
     if not user_data:
-        return False, "Usuário ou senha incorretos."
+        return False, "Utilizador ou senha incorretos."
 
-    # 1. Verifica a senha
     if not verify_password(password, user_data.get('password_hash', '')):
-        return False, "Usuário ou senha incorretos."
+        return False, "Utilizador ou senha incorretos."
 
-    # 2. Verifica a data de expiração do acesso
     expiry_date_str = user_data.get('access_expires_on')
     if expiry_date_str:
         expiry_date = datetime.datetime.strptime(expiry_date_str, "%Y-%m-%d").date()
         if datetime.date.today() > expiry_date:
             return False, "O seu acesso a esta plataforma expirou."
 
-    # Se tudo estiver correto, armazena os dados na sessão
     st.session_state['authenticated'] = True
     st.session_state['username'] = username
     st.session_state['role'] = user_data['role']
     st.session_state['name'] = user_data.get('name', username)
-    st.session_state['access_expires_on'] = user_data['access_expires_on']
+    st.session_state['access_expires_on'] = user_data.get('access_expires_on')
     return True, "Login bem-sucedido!"
 
 def logout():
@@ -52,13 +51,4 @@ def is_authenticated():
 def get_user_role():
     """Devolve o papel (role) do utilizador com sessão iniciada."""
     return st.session_state.get('role')
-
-def require_auth():
-    """
-    Função de guarda para páginas protegidas. Verifica a autenticação em cada carregamento.
-    """
-    if not is_authenticated():
-        st.error("Precisa de ter uma sessão iniciada para aceder a esta página.")
-        st.info("Por favor, retorne à página principal para fazer o login.")
-        st.stop()
 

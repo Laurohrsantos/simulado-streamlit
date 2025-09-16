@@ -23,25 +23,27 @@ def render_page():
             area_performance[area]['total'] += stats['total']
     
     if area_performance:
-        st.subheader("Desempenho Geral por Área")
-        area_data = {"Área": [], "Acertos (%)": []}
-        for area, stats in area_performance.items():
-            percentage = (stats['correct'] / stats['total']) * 100 if stats['total'] > 0 else 0
-            area_data["Área"].append(area)
-            area_data["Acertos (%)"].append(percentage)
-        df_area = pd.DataFrame(area_data).set_index("Área")
-        st.bar_chart(df_area)
+        with st.container(border=True):
+            st.subheader("Desempenho Geral por Área")
+            area_data = {"Área": [], "Acertos (%)": []}
+            for area, stats in area_performance.items():
+                percentage = (stats['correct'] / stats['total']) * 100 if stats['total'] > 0 else 0
+                area_data["Área"].append(area)
+                area_data["Acertos (%)"].append(percentage)
+            df_area = pd.DataFrame(area_data).set_index("Área")
+            st.bar_chart(df_area)
 
     st.divider()
     
     # --- GRÁFICO DE EVOLUÇÃO ---
-    st.subheader("Evolução do Desempenho ao Longo do Tempo")
-    df_data = {
-        "Data": [datetime.datetime.fromisoformat(r['date']) for r in results],
-        "Pontuação (%)": [r['score_percent'] for r in results],
-    }
-    df_evolution = pd.DataFrame(df_data).set_index("Data")
-    st.line_chart(df_evolution)
+    with st.container(border=True):
+        st.subheader("Evolução do Desempenho ao Longo do Tempo")
+        df_data = {
+            "Data": [datetime.datetime.fromisoformat(r['date']) for r in results],
+            "Pontuação (%)": [r['score_percent'] for r in results],
+        }
+        df_evolution = pd.DataFrame(df_data).set_index("Data")
+        st.line_chart(df_evolution)
     
     st.divider()
 
@@ -49,10 +51,8 @@ def render_page():
     st.subheader("Análise Detalhada dos Simulados")
     results.reverse() # Mostra os mais recentes primeiro
     for result in results:
-        # ... (código existente para expander, sem alterações)
         date_obj = datetime.datetime.fromisoformat(result['date'])
         date_str = date_obj.strftime("%d/%m/%Y às %H:%M")
         with st.expander(f"Simulado de {date_str} - {result['score_percent']:.2f}% de acerto"):
-            # ... (resto do código de detalhes)
-            pass # Adicione o seu código de detalhe de resultado aqui
-
+            # Adicione o seu código de detalhe de resultado aqui
+            st.write("Detalhes do simulado...")

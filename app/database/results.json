@@ -1375,6 +1375,1415 @@
                 }
             ],
             "date": "2025-09-15T16:20:23.916958"
+        },
+        {
+            "total_questions": 5,
+            "correct_answers": 2,
+            "score_percent": 40.0,
+            "time_taken_seconds": 19.663134336471558,
+            "area_performance": {
+                "Direito Processual Civil": {
+                    "correct": 1,
+                    "total": 1
+                },
+                "Contabilidade Geral": {
+                    "correct": 0,
+                    "total": 1
+                },
+                "Estat\u00edstica": {
+                    "correct": 0,
+                    "total": 1
+                },
+                "No\u00e7\u00f5es de Direito Penal": {
+                    "correct": 1,
+                    "total": 1
+                },
+                "Direito Financeiro": {
+                    "correct": 0,
+                    "total": 1
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "DPC_001",
+                        "questao": "No Direito Processual Civil, os princ\u00edpios que regem o processo s\u00e3o fundamentais para assegurar a justi\u00e7a e a legalidade das decis\u00f5es judiciais. Dentre esses princ\u00edpios, o contradit\u00f3rio e a ampla defesa s\u00e3o pilares do devido processo legal. Qual das alternativas a seguir descreve corretamente a aplica\u00e7\u00e3o do princ\u00edpio do contradit\u00f3rio no processo civil?",
+                        "alternativas": [
+                            {
+                                "texto": "A garantia de que as partes ter\u00e3o conhecimento de todos os atos processuais e a oportunidade de se manifestar sobre eles, influenciando na forma\u00e7\u00e3o do convencimento do juiz.",
+                                "correta": true
+                            },
+                            {
+                                "texto": "A prerrogativa de que o juiz pode decidir com base em seu livre convencimento, sem a necessidade de fundamentar suas decis\u00f5es em provas produzidas pelas partes.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "A possibilidade de as partes apresentarem recursos ilimitados contra as decis\u00f5es judiciais, visando \u00e0 protela\u00e7\u00e3o do processo.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "A obrigatoriedade de que todas as provas sejam produzidas exclusivamente por meio de documentos escritos, vedando-se a prova testemunhal.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "A dispensa da participa\u00e7\u00e3o do Minist\u00e9rio P\u00fablico em todas as fases do processo, mesmo quando houver interesse p\u00fablico envolvido.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Processual Civil",
+                    "user_answer": "A garantia de que as partes ter\u00e3o conhecimento de todos os atos processuais e a oportunidade de se manifestar sobre eles, influenciando na forma\u00e7\u00e3o do convencimento do juiz.",
+                    "correct_answer": "A garantia de que as partes ter\u00e3o conhecimento de todos os atos processuais e a oportunidade de se manifestar sobre eles, influenciando na forma\u00e7\u00e3o do convencimento do juiz.",
+                    "is_correct": true
+                },
+                {
+                    "question_obj": {
+                        "id": "CG_001",
+                        "questao": "No \u00e2mbito da Contabilidade Geral, o patrim\u00f4nio de uma entidade \u00e9 composto por bens, direitos e obriga\u00e7\u00f5es. A equa\u00e7\u00e3o fundamental do patrim\u00f4nio (Ativo = Passivo + Patrim\u00f4nio L\u00edquido) reflete a estrutura financeira da empresa. Dentre os componentes patrimoniais, qual das alternativas a seguir representa um bem que, por sua natureza, n\u00e3o se destina \u00e0 venda, mas sim \u00e0 manuten\u00e7\u00e3o das atividades da empresa?",
+                        "alternativas": [
+                            {
+                                "texto": "Estoques de mercadorias para revenda, que representam bens destinados \u00e0 comercializa\u00e7\u00e3o no curso normal das opera\u00e7\u00f5es.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Contas a receber de clientes, que configuram direitos da empresa sobre terceiros decorrentes de vendas a prazo.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "M\u00e1quinas e equipamentos utilizados na produ\u00e7\u00e3o, que s\u00e3o bens de uso e representam investimentos de longo prazo da empresa.",
+                                "correta": true
+                            },
+                            {
+                                "texto": "Empr\u00e9stimos banc\u00e1rios a pagar, que correspondem a obriga\u00e7\u00f5es da empresa com institui\u00e7\u00f5es financeiras.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Aplica\u00e7\u00f5es financeiras de curto prazo, que s\u00e3o investimentos com alta liquidez e baixo risco.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Contabilidade Geral",
+                    "user_answer": "Aplica\u00e7\u00f5es financeiras de curto prazo, que s\u00e3o investimentos com alta liquidez e baixo risco.",
+                    "correct_answer": "M\u00e1quinas e equipamentos utilizados na produ\u00e7\u00e3o, que s\u00e3o bens de uso e representam investimentos de longo prazo da empresa.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "EST_001",
+                        "questao": "No estudo de medidas de tend\u00eancia central, a m\u00e9dia aritm\u00e9tica \u00e9 amplamente utilizada para representar um conjunto de dados. Contudo, em certas situa\u00e7\u00f5es, outras medidas podem ser mais apropriadas. Qual das alternativas a seguir descreve corretamente uma situa\u00e7\u00e3o em que a mediana seria uma medida de tend\u00eancia central mais representativa do que a m\u00e9dia aritm\u00e9tica?",
+                        "alternativas": [
+                            {
+                                "texto": "Quando os dados apresentam uma distribui\u00e7\u00e3o sim\u00e9trica e sem a presen\u00e7a de valores extremos (outliers).",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Em conjuntos de dados nos quais a soma de todos os valores \u00e9 o principal foco de an\u00e1lise, independentemente da dispers\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Quando o conjunto de dados possui valores discrepantes (outliers) que podem distorcer significativamente o valor da m\u00e9dia aritm\u00e9tica.",
+                                "correta": true
+                            },
+                            {
+                                "texto": "Para dados de natureza qualitativa ordinal, onde a ordena\u00e7\u00e3o dos valores \u00e9 mais relevante do que seus valores num\u00e9ricos absolutos.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Em situa\u00e7\u00f5es onde se deseja identificar o valor que ocorre com maior frequ\u00eancia em um conjunto de dados, independentemente de sua posi\u00e7\u00e3o central.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Estat\u00edstica",
+                    "user_answer": "Em conjuntos de dados nos quais a soma de todos os valores \u00e9 o principal foco de an\u00e1lise, independentemente da dispers\u00e3o.",
+                    "correct_answer": "Quando o conjunto de dados possui valores discrepantes (outliers) que podem distorcer significativamente o valor da m\u00e9dia aritm\u00e9tica.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "DPEN_001",
+                        "questao": "No\u00e7\u00f5es de Direito Penal: Os crimes contra a administra\u00e7\u00e3o p\u00fablica s\u00e3o de suma import\u00e2ncia para a integridade do servi\u00e7o p\u00fablico. Dentre os crimes praticados por funcion\u00e1rio p\u00fablico contra a administra\u00e7\u00e3o em geral, qual das alternativas a seguir descreve corretamente o crime de peculato?",
+                        "alternativas": [
+                            {
+                                "texto": "Exigir, para si ou para outrem, direta ou indiretamente, ainda que fora da fun\u00e7\u00e3o ou antes de assumi-la, mas em raz\u00e3o dela, vantagem indevida.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Apropriar-se o funcion\u00e1rio p\u00fablico de dinheiro, valor ou qualquer outro bem m\u00f3vel, p\u00fablico ou particular, de que tem a posse em raz\u00e3o do cargo, ou desvi\u00e1-lo, em proveito pr\u00f3prio ou alheio.",
+                                "correta": true
+                            },
+                            {
+                                "texto": "Retardar ou deixar de praticar, indevidamente, ato de of\u00edcio, ou pratic\u00e1-lo contra disposi\u00e7\u00e3o expressa de lei, para satisfazer interesse ou sentimento pessoal.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Patrocinar, direta ou indiretamente, interesse privado perante a administra\u00e7\u00e3o p\u00fablica, valendo-se da qualidade de funcion\u00e1rio.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Revelar fato de que tem ci\u00eancia em raz\u00e3o do cargo e que deva permanecer em segredo, ou facilitar-lhe a revela\u00e7\u00e3o.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "No\u00e7\u00f5es de Direito Penal",
+                    "user_answer": "Apropriar-se o funcion\u00e1rio p\u00fablico de dinheiro, valor ou qualquer outro bem m\u00f3vel, p\u00fablico ou particular, de que tem a posse em raz\u00e3o do cargo, ou desvi\u00e1-lo, em proveito pr\u00f3prio ou alheio.",
+                    "correct_answer": "Apropriar-se o funcion\u00e1rio p\u00fablico de dinheiro, valor ou qualquer outro bem m\u00f3vel, p\u00fablico ou particular, de que tem a posse em raz\u00e3o do cargo, ou desvi\u00e1-lo, em proveito pr\u00f3prio ou alheio.",
+                    "is_correct": true
+                },
+                {
+                    "question_obj": {
+                        "id": "DF_001",
+                        "questao": "No \u00e2mbito do Direito Financeiro, a Lei de Responsabilidade Fiscal (Lei Complementar n\u00ba 101/2000) estabelece normas de finan\u00e7as p\u00fablicas voltadas para a responsabilidade na gest\u00e3o fiscal. Dentre os instrumentos previstos por essa lei para garantir a transpar\u00eancia e o controle da gest\u00e3o fiscal, qual das alternativas a seguir apresenta um mecanismo que visa aprimorar a presta\u00e7\u00e3o de contas e o acesso da sociedade \u00e0s informa\u00e7\u00f5es or\u00e7ament\u00e1rias e financeiras?",
+                        "alternativas": [
+                            {
+                                "texto": "A obrigatoriedade de publica\u00e7\u00e3o do Relat\u00f3rio de Gest\u00e3o Fiscal (RGF) e do Relat\u00f3rio Resumido da Execu\u00e7\u00e3o Or\u00e7ament\u00e1ria (RREO), com ampla divulga\u00e7\u00e3o, inclusive por meios eletr\u00f4nicos.",
+                                "correta": true
+                            },
+                            {
+                                "texto": "A permiss\u00e3o para que os entes da federa\u00e7\u00e3o contraiam d\u00edvidas sem limites preestabelecidos, desde que haja autoriza\u00e7\u00e3o legislativa espec\u00edfica para cada opera\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "A dispensa de apresenta\u00e7\u00e3o de metas fiscais anuais, permitindo maior flexibilidade na gest\u00e3o or\u00e7ament\u00e1ria em per\u00edodos de instabilidade econ\u00f4mica.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "A veda\u00e7\u00e3o total de transfer\u00eancias volunt\u00e1rias entre os entes da federa\u00e7\u00e3o, independentemente do cumprimento de requisitos de transpar\u00eancia e adimpl\u00eancia.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "A exclus\u00e3o da responsabilidade dos gestores p\u00fablicos em caso de descumprimento das metas fiscais, desde que comprovada a ocorr\u00eancia de eventos imprevis\u00edveis.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Direito Financeiro",
+                    "user_answer": "A veda\u00e7\u00e3o total de transfer\u00eancias volunt\u00e1rias entre os entes da federa\u00e7\u00e3o, independentemente do cumprimento de requisitos de transpar\u00eancia e adimpl\u00eancia.",
+                    "correct_answer": "A obrigatoriedade de publica\u00e7\u00e3o do Relat\u00f3rio de Gest\u00e3o Fiscal (RGF) e do Relat\u00f3rio Resumido da Execu\u00e7\u00e3o Or\u00e7ament\u00e1ria (RREO), com ampla divulga\u00e7\u00e3o, inclusive por meios eletr\u00f4nicos.",
+                    "is_correct": false
+                }
+            ],
+            "date": "2025-09-16T13:52:58.704065"
+        },
+        {
+            "total_questions": 5,
+            "correct_answers": 0,
+            "score_percent": 0.0,
+            "time_taken_seconds": 2.9428162574768066,
+            "area_performance": {
+                "Crimes contra a Administra\u00e7\u00e3o e a F\u00e9 P\u00fablica": {
+                    "correct": 0,
+                    "total": 5
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "q20",
+                        "questao": "A conduta de fazer uso de um diploma universit\u00e1rio falso para assumir um cargo p\u00fablico que exige n\u00edvel superior configura, em rela\u00e7\u00e3o ao uso do documento:",
+                        "alternativas": [
+                            {
+                                "texto": "A) Falsifica\u00e7\u00e3o de Documento P\u00fablico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "B) Falsidade Ideol\u00f3gica",
+                                "correta": false
+                            },
+                            {
+                                "texto": "C) Uso de Documento Falso",
+                                "correta": true,
+                                "justificativa": "Correto. O diploma, mesmo sendo falso, \u00e9 um documento. Fazer uso dele, sabendo de sua falsidade, para obter uma vantagem (assumir o cargo p\u00fablico) configura perfeitamente o crime aut\u00f4nomo de uso de documento falso (art. 304 do CP)."
+                            },
+                            {
+                                "texto": "D) Estelionato",
+                                "correta": false
+                            },
+                            {
+                                "texto": "E) Exerc\u00edcio Funcional Ilegal",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Crimes contra a Administra\u00e7\u00e3o e a F\u00e9 P\u00fablica",
+                    "user_answer": null,
+                    "correct_answer": "C) Uso de Documento Falso",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q8",
+                        "questao": "Mesmo sabendo que um documento \u00e9 falso, um servidor p\u00fablico o utiliza para dar andamento a um processo administrativo. Al\u00e9m de outros crimes, ele comete:",
+                        "alternativas": [
+                            {
+                                "texto": "A) Falsifica\u00e7\u00e3o de Documento P\u00fablico",
+                                "correta": false
+                            },
+                            {
+                                "texto": "B) Falsidade Ideol\u00f3gica",
+                                "correta": false
+                            },
+                            {
+                                "texto": "C) Uso de Documento Falso",
+                                "correta": true,
+                                "justificativa": "Correto. O uso de documento falso (art. 304 do CP) \u00e9 um crime aut\u00f4nomo. Basta que o agente, sabendo da falsidade do documento, dele fa\u00e7a uso. N\u00e3o \u00e9 necess\u00e1rio que ele pr\u00f3prio tenha falsificado o documento."
+                            },
+                            {
+                                "texto": "D) Corrup\u00e7\u00e3o Passiva",
+                                "correta": false
+                            },
+                            {
+                                "texto": "E) Peculato",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Crimes contra a Administra\u00e7\u00e3o e a F\u00e9 P\u00fablica",
+                    "user_answer": null,
+                    "correct_answer": "C) Uso de Documento Falso",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q2",
+                        "questao": "Um servidor p\u00fablico, sabendo que um tributo j\u00e1 havia sido pago pelo contribuinte, exige o pagamento uma segunda vez, amea\u00e7ando aplicar uma multa. Neste caso, o crime praticado \u00e9:",
+                        "alternativas": [
+                            {
+                                "texto": "A) Peculato",
+                                "correta": false
+                            },
+                            {
+                                "texto": "B) Concuss\u00e3o",
+                                "correta": true,
+                                "justificativa": "Correto. A concuss\u00e3o (art. 316 do CP) caracteriza-se pela exig\u00eancia de vantagem indevida por parte do funcion\u00e1rio p\u00fablico. Exigir um tributo indevido (j\u00e1 pago) configura-se como exig\u00eancia de vantagem indevida, tipificando o crime."
+                            },
+                            {
+                                "texto": "C) Corrup\u00e7\u00e3o Passiva",
+                                "correta": false
+                            },
+                            {
+                                "texto": "D) Excess\u00e3o de Exa\u00e7\u00e3o",
+                                "correta": false
+                            },
+                            {
+                                "texto": "E) Prevarica\u00e7\u00e3o",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Crimes contra a Administra\u00e7\u00e3o e a F\u00e9 P\u00fablica",
+                    "user_answer": null,
+                    "correct_answer": "B) Concuss\u00e3o",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q16",
+                        "questao": "A viol\u00eancia praticada por um agente p\u00fablico, a pretexto de exercer suas fun\u00e7\u00f5es, caracteriza o crime de:",
+                        "alternativas": [
+                            {
+                                "texto": "A) Les\u00e3o Corporal",
+                                "correta": false
+                            },
+                            {
+                                "texto": "B) Abuso de Autoridade",
+                                "correta": false
+                            },
+                            {
+                                "texto": "C) Concuss\u00e3o",
+                                "correta": false
+                            },
+                            {
+                                "texto": "D) Viol\u00eancia Arbitr\u00e1ria",
+                                "correta": true,
+                                "justificativa": "Correto. A viol\u00eancia arbitr\u00e1ria (art. 322 do CP) \u00e9 o crime espec\u00edfico em que o funcion\u00e1rio p\u00fablico pratica viol\u00eancia, seja no exerc\u00edcio da fun\u00e7\u00e3o, seja a pretexto de exerc\u00ea-la."
+                            },
+                            {
+                                "texto": "E) Prevarica\u00e7\u00e3o",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Crimes contra a Administra\u00e7\u00e3o e a F\u00e9 P\u00fablica",
+                    "user_answer": null,
+                    "correct_answer": "D) Viol\u00eancia Arbitr\u00e1ria",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q7",
+                        "questao": "O crime de inserir dados falsos em um sistema informatizado da administra\u00e7\u00e3o p\u00fablica, com o intuito de obter vantagem, est\u00e1 previsto no art. 313-A do CP e \u00e9 uma modalidade de:",
+                        "alternativas": [
+                            {
+                                "texto": "A) Crime contra a F\u00e9 P\u00fablica",
+                                "correta": false
+                            },
+                            {
+                                "texto": "B) Crime contra as Finan\u00e7as P\u00fablicas",
+                                "correta": false
+                            },
+                            {
+                                "texto": "C) Crime praticado por particular contra a Administra\u00e7\u00e3o",
+                                "correta": false
+                            },
+                            {
+                                "texto": "D) Crime praticado por funcion\u00e1rio p\u00fablico contra a Administra\u00e7\u00e3o",
+                                "correta": true,
+                                "justificativa": "Correto. O art. 313-A est\u00e1 inserido no Cap\u00edtulo dos Crimes Praticados por Funcion\u00e1rios P\u00fablicos contra a Administra\u00e7\u00e3o em Geral. Sujeito ativo \u00e9 o funcion\u00e1rio p\u00fablico que, valendo-se dessa condi\u00e7\u00e3o, insere ou altera dados em sistema de informa\u00e7\u00f5es."
+                            },
+                            {
+                                "texto": "E) Crime de Furto",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "Crimes contra a Administra\u00e7\u00e3o e a F\u00e9 P\u00fablica",
+                    "user_answer": null,
+                    "correct_answer": "D) Crime praticado por funcion\u00e1rio p\u00fablico contra a Administra\u00e7\u00e3o",
+                    "is_correct": false
+                }
+            ],
+            "date": "2025-09-16T16:38:07.236036"
+        },
+        {
+            "total_questions": 5,
+            "correct_answers": 1,
+            "score_percent": 20.0,
+            "time_taken_seconds": 12.240236282348633,
+            "area_performance": {
+                "lingua_portuguesa": {
+                    "correct": 1,
+                    "total": 5
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "q8",
+                        "questao": "A express\u00e3o '\u00e0 medida que', no contexto '\u00c0 medida que os trabalhos avan\u00e7avam, novas demandas surgiam.', pode ser substitu\u00edda, sem altera\u00e7\u00e3o de sentido, por:",
+                        "alternativas": [
+                            {
+                                "texto": "pelo fato de que.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "ao passo que.",
+                                "correta": true,
+                                "justificativa": "'\u00c0 medida que' e 'ao passo que' s\u00e3o locu\u00e7\u00f5es conjuntivas que expressam propor\u00e7\u00e3o/gradualidade, indicando que duas a\u00e7\u00f5es ocorrem simultaneamente e de forma progressiva."
+                            },
+                            {
+                                "texto": "a n\u00e3o ser que.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "uma vez que.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "embora.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "lingua_portuguesa",
+                    "user_answer": "a n\u00e3o ser que.",
+                    "correct_answer": "ao passo que.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q13",
+                        "questao": "A norma-padr\u00e3o est\u00e1 plenamente observada na reescrita do segmento:",
+                        "texto_base": "'Vi ele na sess\u00e3o do tribunal ontem.'",
+                        "alternativas": [
+                            {
+                                "texto": "Eu vi ele na sess\u00e3o do tribunal ontem.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Vi-o na sess\u00e3o do tribunal ontem.",
+                                "correta": true,
+                                "justificativa": "A forma correta do pronome obl\u00edquo \u00e1tono que substitui 'ele' ap\u00f3s verbo terminado em vogal (na oralidade) \u00e9 '-o'. A pr\u00f3clise ('Eu o vi') tamb\u00e9m seria aceit\u00e1vel, mas esta op\u00e7\u00e3o apresenta a \u00eanclise corretamente."
+                            },
+                            {
+                                "texto": "Vi-lhe na sess\u00e3o do tribunal ontem.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Foi visto por mim na sess\u00e3o do tribunal ontem.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Estive com ele na sess\u00e3o do tribunal ontem.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "lingua_portuguesa",
+                    "user_answer": "Vi-lhe na sess\u00e3o do tribunal ontem.",
+                    "correct_answer": "Vi-o na sess\u00e3o do tribunal ontem.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q10",
+                        "questao": "A figura de linguagem presente na frase 'A *voz* das *raz\u00f5es* foi ouvida no julgamento.' \u00e9:",
+                        "alternativas": [
+                            {
+                                "texto": "Meton\u00edmia.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Ironia.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Hip\u00e9rbole.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Personifica\u00e7\u00e3o.",
+                                "correta": true,
+                                "justificativa": "H\u00e1 personifica\u00e7\u00e3o (prosopopeia) ao se atribuir a entidades abstratas ('raz\u00f5es') uma caracter\u00edstica humana ('voz') e a a\u00e7\u00e3o de 'ser ouvida'."
+                            },
+                            {
+                                "texto": "Ant\u00edtese.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "lingua_portuguesa",
+                    "user_answer": "Ant\u00edtese.",
+                    "correct_answer": "Personifica\u00e7\u00e3o.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q4",
+                        "questao": "Assinale a alternativa em que a coloca\u00e7\u00e3o pronominal est\u00e1 de acordo com a norma-padr\u00e3o:",
+                        "alternativas": [
+                            {
+                                "texto": "N\u00e3o *se ouviram* os argumentos com aten\u00e7\u00e3o.",
+                                "correta": true,
+                                "justificativa": "A pr\u00f3clise \u00e9 obrigat\u00f3ria na presen\u00e7a de palavra de sentido negativo ('n\u00e3o'), que atrai o pronome \u00e1tono."
+                            },
+                            {
+                                "texto": "*Envio-lhe* agora os documentos solicitados.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Espero que *se equipe* melhor o tribunal.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Aqueles processos *arquivar-se-\u00e3o* amanh\u00e3.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "S\u00f3 *se defender\u00e1* o interesse p\u00fablico assim.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "lingua_portuguesa",
+                    "user_answer": "Aqueles processos *arquivar-se-\u00e3o* amanh\u00e3.",
+                    "correct_answer": "N\u00e3o *se ouviram* os argumentos com aten\u00e7\u00e3o.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q17",
+                        "questao": "A ora\u00e7\u00e3o 'Embora o prazo fosse ex\u00edguo,' classifica-se como:",
+                        "alternativas": [
+                            {
+                                "texto": "coordenada sind\u00e9tica adversativa.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "subordinada adverbial concessiva.",
+                                "correta": true,
+                                "justificativa": "A ora\u00e7\u00e3o \u00e9 introduzida pela conjun\u00e7\u00e3o 'embora', que indica uma ideia de concess\u00e3o (contrariedade \u00e0 expectativa), caracterizando uma subordinada adverbial concessiva."
+                            },
+                            {
+                                "texto": "subordinada adverbial causal.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "subordinada substantiva completiva nominal.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "coordenada sind\u00e9tica explicativa.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "lingua_portuguesa",
+                    "user_answer": "subordinada adverbial concessiva.",
+                    "correct_answer": "subordinada adverbial concessiva.",
+                    "is_correct": true
+                }
+            ],
+            "date": "2025-09-16T16:39:27.402286"
+        }
+    ],
+    "lauro": [
+        {
+            "total_questions": 20,
+            "correct_answers": 0,
+            "score_percent": 0.0,
+            "time_taken_seconds": 4.0293097496032715,
+            "area_performance": {
+                "direito_financeiro": {
+                    "correct": 0,
+                    "total": 20
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "q1",
+                        "questao": "O princ\u00edpio or\u00e7ament\u00e1rio que determina que a Lei Or\u00e7ament\u00e1ria Anual deve conter todas as receitas e todas as despesas do ente p\u00fablico, sem exclus\u00f5es, \u00e9 o princ\u00edpio da:",
+                        "alternativas": [
+                            {
+                                "texto": "Unidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Universalidade.",
+                                "correta": true,
+                                "justificativa": "O princ\u00edpio da universalidade, previsto no Art. 2\u00ba da Lei 4.320/64, estabelece que a lei or\u00e7ament\u00e1ria deve compreender todas as receitas e todas as despesas pelos seus totais, garantindo transpar\u00eancia e vis\u00e3o completa das finan\u00e7as p\u00fablicas."
+                            },
+                            {
+                                "texto": "Anualidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Especializa\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Exclusividade.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Universalidade.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q15",
+                        "questao": "A receita origin\u00e1ria caracteriza-se por derivar:",
+                        "alternativas": [
+                            {
+                                "texto": "do poder de imp\u00e9rio do Estado, como os tributos.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "da explora\u00e7\u00e3o do patrim\u00f4nio ou de atividades econ\u00f4micas pelo Estado.",
+                                "correta": true,
+                                "justificativa": "Receita Origin\u00e1ria \u00e9 aquela que o Estado obt\u00e9m por atuar em condi\u00e7\u00f5es de igualdade com os particulares, explorando seu patrim\u00f4nio (aluguel de im\u00f3veis) ou atividades econ\u00f4micas (lucro de empresas estatais). Diferencia-se da Receita Derivada, que adv\u00e9m do seu poder de imp\u00e9rio (tributos)."
+                            },
+                            {
+                                "texto": "de transfer\u00eancias de outros entes federados.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "de opera\u00e7\u00f5es de cr\u00e9dito.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "de aliena\u00e7\u00e3o de bens m\u00f3veis.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "da explora\u00e7\u00e3o do patrim\u00f4nio ou de atividades econ\u00f4micas pelo Estado.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q5",
+                        "questao": "Os 'Restos a Pagar', na execu\u00e7\u00e3o or\u00e7ament\u00e1ria, representam despesas:",
+                        "alternativas": [
+                            {
+                                "texto": "inscritas no or\u00e7amento do exerc\u00edcio seguinte.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "empenhadas e n\u00e3o pagas at\u00e9 o final do exerc\u00edcio financeiro.",
+                                "correta": true,
+                                "justificativa": "Conforme o Art. 36 da Lei 4.320/64, Restos a Pagar s\u00e3o as despesas empenhadas (cuja obriga\u00e7\u00e3o de pagar foi assumida) no exerc\u00edcio, mas n\u00e3o pagas at\u00e9 31 de dezembro. Eles s\u00e3o processados e pagos no exerc\u00edcio financeiro seguinte, mas pertencem \u00e0 despesa do exerc\u00edcio anterior."
+                            },
+                            {
+                                "texto": "liquidadas e em processamento de pagamento.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "previstas mas n\u00e3o empenhadas.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "de exerc\u00edcios anteriores j\u00e1 pagas.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "empenhadas e n\u00e3o pagas at\u00e9 o final do exerc\u00edcio financeiro.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q2",
+                        "questao": "A lei or\u00e7ament\u00e1ria que estabelece as diretrizes, objetivos e metas da administra\u00e7\u00e3o p\u00fablica federal para um per\u00edodo de quatro anos \u00e9 o:",
+                        "alternativas": [
+                            {
+                                "texto": "Plano Plurianual (PPA).",
+                                "correta": true,
+                                "justificativa": "Conforme o Art. 165, \u00a71\u00ba, da CF/88, o Plano Plurianual (PPA) \u00e9 o instrumento de planejamento de m\u00e9dio prazo que define as diretrizes, objetivos e metas da administra\u00e7\u00e3o p\u00fablica para um per\u00edodo de quatro anos, orientando a elabora\u00e7\u00e3o das leis or\u00e7ament\u00e1rias anuais."
+                            },
+                            {
+                                "texto": "Lei de Diretrizes Or\u00e7ament\u00e1rias (LDO).",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei Or\u00e7ament\u00e1ria Anual (LOA).",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei de Responsabilidade Fiscal (LRF).",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei de Meios.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Plano Plurianual (PPA).",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q10",
+                        "questao": "A Lei de Diretrizes Or\u00e7ament\u00e1rias (LDO) tem, entre suas principais fun\u00e7\u00f5es,:",
+                        "alternativas": [
+                            {
+                                "texto": "autorizar a abertura de cr\u00e9ditos suplementares.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "estabelecer as metas e prioridades para o exerc\u00edcio financeiro seguinte.",
+                                "correta": true,
+                                "justificativa": "Conforme o Art. 165, \u00a72\u00ba, da CF/88, a LDO compreende as metas e prioridades da administra\u00e7\u00e3o p\u00fablica para o exerc\u00edcio financeiro seguinte, orienta a elabora\u00e7\u00e3o da LOA, disp\u00f5e sobre altera\u00e7\u00f5es na legisla\u00e7\u00e3o tribut\u00e1ria e estabelece a pol\u00edtica de aplica\u00e7\u00e3o das ag\u00eancias financeiras oficiais de fomento."
+                            },
+                            {
+                                "texto": "fixar a despesa das autarquias.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "detalhar todos os programas de governo.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "criar tributos.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "estabelecer as metas e prioridades para o exerc\u00edcio financeiro seguinte.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q3",
+                        "questao": "De acordo com a Lei de Responsabilidade Fiscal (LC 101/2000), os Relat\u00f3rios Resumidos da Execu\u00e7\u00e3o Or\u00e7ament\u00e1ria (RREO) e Relat\u00f3rios de Gest\u00e3o Fiscal (RGF) devem ser disponibilizados para amplo acesso:",
+                        "alternativas": [
+                            {
+                                "texto": "apenas ao Tribunal de Contas.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "em meio impresso, no di\u00e1rio oficial.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "em meio eletr\u00f4nico de acesso p\u00fablico.",
+                                "correta": true,
+                                "justificativa": "A LRF, em seu Art. 54, determina a obrigatoriedade de transpar\u00eancia da gest\u00e3o fiscal. Os RREO e RGF devem ser disponibilizados em meios eletr\u00f4nicos de acesso p\u00fablico, como portais da transpar\u00eancia, assegurando o amplo conhecimento da sociedade."
+                            },
+                            {
+                                "texto": "apenas para o Poder Legislativo.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "mediante requerimento formal do cidad\u00e3o.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "em meio eletr\u00f4nico de acesso p\u00fablico.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q11",
+                        "questao": "O est\u00e1gio da receita em que ocorre o reconhecimento legal do cr\u00e9dito fiscal, individualizando o devedor e o valor devido, \u00e9 o:",
+                        "alternativas": [
+                            {
+                                "texto": "Previs\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lan\u00e7amento.",
+                                "correta": true,
+                                "justificativa": "O lan\u00e7amento \u00e9 o ato administrativo que realiza a liquida\u00e7\u00e3o da obriga\u00e7\u00e3o tribut\u00e1ria, identificando o sujeito passivo (devedor), determinando o valor devido e tornando certo e exig\u00edvel o cr\u00e9dito da Fazenda P\u00fablica. \u00c9 regulado pela legisla\u00e7\u00e3o tribut\u00e1ria."
+                            },
+                            {
+                                "texto": "Arrecada\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Recolhimento.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Reconhecimento.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Lan\u00e7amento.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q12",
+                        "questao": "A Lei Complementar n\u00ba 101/2000 (Lei de Responsabilidade Fiscal) determina que, se a realiza\u00e7\u00e3o da receita for inferior \u00e0 prevista, a redu\u00e7\u00e3o das despesas deve ser feita:",
+                        "alternativas": [
+                            {
+                                "texto": "em rateio igualit\u00e1rio entre todos os \u00f3rg\u00e3os.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "por blocos de gest\u00e3o, definidos pelo Chefe do Poder Executivo.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "de forma proporcional, por categoria de programa\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "nas mesmas propor\u00e7\u00f5es, por categoria econ\u00f4mica.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "de acordo com os crit\u00e9rios fixados pela LDO.",
+                                "correta": true,
+                                "justificativa": "O Art. 9\u00ba da LRF estabelece que, no caso de insufici\u00eancia de arrecada\u00e7\u00e3o, o cancelamento ou o contingenciamento de despesas ser\u00e1 efetuado observando-se a ordem de prioridade estabelecida na Lei de Diretrizes Or\u00e7ament\u00e1rias (LDO) daquele exerc\u00edcio."
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "de acordo com os crit\u00e9rios fixados pela LDO.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q6",
+                        "questao": "A veda\u00e7\u00e3o constitucional que impede a realiza\u00e7\u00e3o de opera\u00e7\u00f5es de cr\u00e9dito que excedam o montante das despesas de capital, ressalvadas as para refinanciamento da d\u00edvida mobili\u00e1ria, \u00e9 conhecida como:",
+                        "alternativas": [
+                            {
+                                "texto": "Regra de Ouro.",
+                                "correta": true,
+                                "justificativa": "A 'Regra de Ouro' est\u00e1 prevista no Art. 167, III, da CF/88. Ela veda a realiza\u00e7\u00e3o de opera\u00e7\u00f5es de cr\u00e9dito que excedam o total das despesas de capital, exceto as destinadas ao refinanciamento do principal da d\u00edvida mobili\u00e1ria. Seu objetivo \u00e9 evitar que o governo se endivide para custear despesas correntes."
+                            },
+                            {
+                                "texto": "Princ\u00edpio da Anualidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Limite de Empenho.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Teto de Gastos.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Meta Fiscal.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Regra de Ouro.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q17",
+                        "questao": "A fase do ciclo or\u00e7ament\u00e1rio em que o Poder Executivo elabora a proposta da LOA e a envia ao Poder Legislativo \u00e9 a fase de:",
+                        "alternativas": [
+                            {
+                                "texto": "Discuss\u00e3o e Vota\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Elabora\u00e7\u00e3o da Proposta.",
+                                "correta": true,
+                                "justificativa": "A fase de elabora\u00e7\u00e3o da proposta or\u00e7ament\u00e1ria \u00e9 de iniciativa do Poder Executivo. Nela, com base no PPA e na LDO, os \u00f3rg\u00e3os setoriais preparam suas propostas, que s\u00e3o consolidadas pelo \u00f3rg\u00e3o central de planejamento e or\u00e7amento (ex.: SOF na Uni\u00e3o) e, ent\u00e3o, encaminhadas ao Poder Legislativo para discuss\u00e3o e vota\u00e7\u00e3o."
+                            },
+                            {
+                                "texto": "Aprova\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Execu\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Controle.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Elabora\u00e7\u00e3o da Proposta.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q8",
+                        "questao": "Para os Estados, o limite m\u00e1ximo de despesa total com pessoal estabelecido pela Lei de Responsabilidade Fiscal \u00e9 de:",
+                        "alternativas": [
+                            {
+                                "texto": "60% da receita corrente l\u00edquida.",
+                                "correta": true,
+                                "justificativa": "O Art. 19 da LRF estabelece os limites para a despesa total com pessoal: 60% da Receita Corrente L\u00edquida (RCL) para Estados e Munic\u00edpios, e 50% da RCL para a Uni\u00e3o. O descumprimento desses limites acarreta graves consequ\u00eancias para o gestor."
+                            },
+                            {
+                                "texto": "50% da receita corrente l\u00edquida.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "60% da receita tribut\u00e1ria.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "50% da receita de capital.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "49% da receita corrente l\u00edquida.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "60% da receita corrente l\u00edquida.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q16",
+                        "questao": "De acordo com a LRF, a exist\u00eancia de despesas com pessoal que exceda o limite prudencial define a situa\u00e7\u00e3o de:",
+                        "alternativas": [
+                            {
+                                "texto": "Alerta.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Normalidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Risco.",
+                                "correta": true,
+                                "justificativa": "A LRF estabelece tr\u00eas patamares para a despesa com pessoal. O limite m\u00e1ximo \u00e9 de 95% do total permitido. Se a despesa ultrapassar 95% (atingindo entre 95,1% e 100%), configura-se o estado de RISCO, demandando medidas corretivas mais en\u00e9rgicas do gestor."
+                            },
+                            {
+                                "texto": "Calamidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Interven\u00e7\u00e3o.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Risco.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q14",
+                        "questao": "O princ\u00edpio or\u00e7ament\u00e1rio que veda a inclus\u00e3o de mat\u00e9ria estranha \u00e0 previs\u00e3o de receita e \u00e0 fixa\u00e7\u00e3o de despesa na lei or\u00e7ament\u00e1ria \u00e9 o princ\u00edpio da:",
+                        "alternativas": [
+                            {
+                                "texto": "Universalidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Exclusividade.",
+                                "correta": true,
+                                "justificativa": "O princ\u00edpio da exclusividade, previsto no Art. 165, \u00a78\u00ba, da CF/88, determina que a lei or\u00e7ament\u00e1ria n\u00e3o pode conter dispositivo estranho \u00e0 previs\u00e3o da receita e \u00e0 fixa\u00e7\u00e3o da despesa. Isso impede que o or\u00e7amento seja usado para veicular normas sobre outros assuntos, mantendo-o focado em sua finalidade financeira."
+                            },
+                            {
+                                "texto": "Unidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Especializa\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Legalidade.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Exclusividade.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q20",
+                        "questao": "A Lei de Responsabilidade Fiscal estabelece que a ren\u00fancia de receita deve estar acompanhada de:",
+                        "alternativas": [
+                            {
+                                "texto": "estimativa de impacto patrimonial.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "demonstra\u00e7\u00e3o de seu impacto sobre as metas fiscais.",
+                                "correta": true,
+                                "justificativa": "O Art. 14 da LRF determina que a ren\u00fancia de receita (concess\u00e3o de isen\u00e7\u00f5es, anistias, remiss\u00f5es) s\u00f3 poder\u00e1 ser feita mediante estimativa do impacto or\u00e7ament\u00e1rio-financeiro e demonstra\u00e7\u00e3o de que n\u00e3o afetar\u00e1 as metas fiscais anuais ou a trajet\u00f3ria sustent\u00e1vel das contas p\u00fablicas no m\u00e9dio e longo prazo."
+                            },
+                            {
+                                "texto": "aprova\u00e7\u00e3o popular por plebiscito.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "autoriza\u00e7\u00e3o do Tribunal de Contas.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "compensa\u00e7\u00e3o por aumento de outra receita.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "demonstra\u00e7\u00e3o de seu impacto sobre as metas fiscais.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q9",
+                        "questao": "A classifica\u00e7\u00e3o da receita p\u00fablica que distingue as receitas correntes das receitas de capital \u00e9 a classifica\u00e7\u00e3o por:",
+                        "alternativas": [
+                            {
+                                "texto": "Categoria Econ\u00f4mica.",
+                                "correta": true,
+                                "justificativa": "A classifica\u00e7\u00e3o por categoria econ\u00f4mica, prevista no Art. 11 da Lei 4.320/64, divide a receita em duas grandes categorias: Receitas Correntes (provenientes de tributos, taxas, contribui\u00e7\u00f5es) e Receitas de Capital (oriundas de opera\u00e7\u00f5es de cr\u00e9dito, aliena\u00e7\u00e3o de bens, amortiza\u00e7\u00e3o de empr\u00e9stimos)."
+                            },
+                            {
+                                "texto": "Fonte/Detalhamento.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Natureza.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Rubrica.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Esp\u00e9cie.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Categoria Econ\u00f4mica.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q7",
+                        "questao": "Um cr\u00e9dito adicional destinado a refor\u00e7ar uma dota\u00e7\u00e3o or\u00e7ament\u00e1ria existente na LOA, mas que se mostrou insuficiente, \u00e9 classificado como:",
+                        "alternativas": [
+                            {
+                                "texto": "Cr\u00e9dito Extraordin\u00e1rio.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Cr\u00e9dito Suplementar.",
+                                "correta": true,
+                                "justificativa": "O cr\u00e9dito suplementar \u00e9 a esp\u00e9cie de cr\u00e9dito adicional destinado precisely to refor\u00e7ar dota\u00e7\u00e3o or\u00e7ament\u00e1ria j\u00e1 existente na LOA, conforme Art. 41 da Lei 4.320/64. Sua abertura depende da exist\u00eancia de recursos dispon\u00edveis para a despesa."
+                            },
+                            {
+                                "texto": "Cr\u00e9dito Especial.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Cr\u00e9dito de Abertura.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Cr\u00e9dito de Refor\u00e7o.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Cr\u00e9dito Suplementar.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q19",
+                        "questao": "A despesa p\u00fablica que n\u00e3o depende de autoriza\u00e7\u00e3o legislativa espec\u00edfica para ser realizada, pois j\u00e1 foi autorizada previamente na LOA, \u00e9 a despesa:",
+                        "alternativas": [
+                            {
+                                "texto": "Sob Restos a Pagar.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "De Exerc\u00edcios Anteriores.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Ordin\u00e1ria.",
+                                "correta": true,
+                                "justificativa": "Despesa Ordin\u00e1ria \u00e9 aquela autorizada diretamente pela Lei Or\u00e7ament\u00e1ria Anual (LOA). Para sua realiza\u00e7\u00e3o, basta o empenho pela administra\u00e7\u00e3o, n\u00e3o sendo necess\u00e1ria uma nova autoriza\u00e7\u00e3o legislativa. Diferencia-se das despesas com cr\u00e9ditos adicionais, que dependem de autoriza\u00e7\u00e3o legislativa espec\u00edfica."
+                            },
+                            {
+                                "texto": "Com Cr\u00e9dito Adicional.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Extraordin\u00e1ria.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Ordin\u00e1ria.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q18",
+                        "questao": "O princ\u00edpio que determina que o or\u00e7amento \u00e9 v\u00e1lido por um exerc\u00edcio financeiro, coincidente com o ano civil, \u00e9 o princ\u00edpio da:",
+                        "alternativas": [
+                            {
+                                "texto": "Unidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Anualidade ou Periodicidade.",
+                                "correta": true,
+                                "justificativa": "O princ\u00edpio da anualidade, tamb\u00e9m chamado de periodicidade, est\u00e1 previsto no Art. 2\u00ba da Lei 4.320/64. Ele estabelece que o per\u00edodo de vig\u00eancia da lei or\u00e7ament\u00e1ria \u00e9 o exerc\u00edcio financeiro, que no Brasil coincide com o ano civil (1\u00ba de janeiro a 31 de dezembro)."
+                            },
+                            {
+                                "texto": "Universalidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Especializa\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Exclusividade.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Anualidade ou Periodicidade.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q4",
+                        "questao": "O est\u00e1gio da despesa p\u00fablica em que se verifica o direito do credor, constatando que o bem foi entregue ou o servi\u00e7o foi realizado, \u00e9 a:",
+                        "alternativas": [
+                            {
+                                "texto": "Empenho.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Liquida\u00e7\u00e3o.",
+                                "correta": true,
+                                "justificativa": "A liquida\u00e7\u00e3o \u00e9 a fase em que se apura a conformidade do que foi contratado ou determinado (Art. 63 da Lei 4.320/64). Nela, verifica-se se o fornecedor cumpriu sua obriga\u00e7\u00e3o, quanto e a quem deve ser pago, gerando a obriga\u00e7\u00e3o de pagar para a Administra\u00e7\u00e3o."
+                            },
+                            {
+                                "texto": "Pagamento.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lan\u00e7amento.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Programa\u00e7\u00e3o.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Liquida\u00e7\u00e3o.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q13",
+                        "questao": "Despesas com aquisi\u00e7\u00e3o de material de consumo para o funcionamento administrativo s\u00e3o classificadas, por sua natureza econ\u00f4mica, como:",
+                        "alternativas": [
+                            {
+                                "texto": "Despesas de Capital.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Despesas Correntes.",
+                                "correta": true,
+                                "justificativa": "Despesas Correntes s\u00e3o aquelas destinadas \u00e0 manuten\u00e7\u00e3o e ao funcionamento dos servi\u00e7os p\u00fablicos. A aquisi\u00e7\u00e3o de material de consumo (papel, canetas, toner) \u00e9 uma despesa de custeio t\u00edpica, enquadrada na categoria econ\u00f4mica de Despesas Correntes."
+                            },
+                            {
+                                "texto": "Investimentos.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Invers\u00f5es Financeiras.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Amortiza\u00e7\u00e3o da D\u00edvida.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": null,
+                    "correct_answer": "Despesas Correntes.",
+                    "is_correct": false
+                }
+            ],
+            "date": "2025-09-16T16:41:40.819510"
+        },
+        {
+            "total_questions": 5,
+            "correct_answers": 1,
+            "score_percent": 20.0,
+            "time_taken_seconds": 11.710286378860474,
+            "area_performance": {
+                "direito_financeiro": {
+                    "correct": 1,
+                    "total": 5
+                }
+            },
+            "detailed_results": [
+                {
+                    "question_obj": {
+                        "id": "q20",
+                        "questao": "A Lei de Responsabilidade Fiscal estabelece que a ren\u00fancia de receita deve estar acompanhada de:",
+                        "alternativas": [
+                            {
+                                "texto": "estimativa de impacto patrimonial.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "demonstra\u00e7\u00e3o de seu impacto sobre as metas fiscais.",
+                                "correta": true,
+                                "justificativa": "O Art. 14 da LRF determina que a ren\u00fancia de receita (concess\u00e3o de isen\u00e7\u00f5es, anistias, remiss\u00f5es) s\u00f3 poder\u00e1 ser feita mediante estimativa do impacto or\u00e7ament\u00e1rio-financeiro e demonstra\u00e7\u00e3o de que n\u00e3o afetar\u00e1 as metas fiscais anuais ou a trajet\u00f3ria sustent\u00e1vel das contas p\u00fablicas no m\u00e9dio e longo prazo."
+                            },
+                            {
+                                "texto": "aprova\u00e7\u00e3o popular por plebiscito.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "autoriza\u00e7\u00e3o do Tribunal de Contas.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "compensa\u00e7\u00e3o por aumento de outra receita.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": "aprova\u00e7\u00e3o popular por plebiscito.",
+                    "correct_answer": "demonstra\u00e7\u00e3o de seu impacto sobre as metas fiscais.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q2",
+                        "questao": "A lei or\u00e7ament\u00e1ria que estabelece as diretrizes, objetivos e metas da administra\u00e7\u00e3o p\u00fablica federal para um per\u00edodo de quatro anos \u00e9 o:",
+                        "alternativas": [
+                            {
+                                "texto": "Plano Plurianual (PPA).",
+                                "correta": true,
+                                "justificativa": "Conforme o Art. 165, \u00a71\u00ba, da CF/88, o Plano Plurianual (PPA) \u00e9 o instrumento de planejamento de m\u00e9dio prazo que define as diretrizes, objetivos e metas da administra\u00e7\u00e3o p\u00fablica para um per\u00edodo de quatro anos, orientando a elabora\u00e7\u00e3o das leis or\u00e7ament\u00e1rias anuais."
+                            },
+                            {
+                                "texto": "Lei de Diretrizes Or\u00e7ament\u00e1rias (LDO).",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei Or\u00e7ament\u00e1ria Anual (LOA).",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei de Responsabilidade Fiscal (LRF).",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Lei de Meios.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": "Lei de Meios.",
+                    "correct_answer": "Plano Plurianual (PPA).",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q5",
+                        "questao": "Os 'Restos a Pagar', na execu\u00e7\u00e3o or\u00e7ament\u00e1ria, representam despesas:",
+                        "alternativas": [
+                            {
+                                "texto": "inscritas no or\u00e7amento do exerc\u00edcio seguinte.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "empenhadas e n\u00e3o pagas at\u00e9 o final do exerc\u00edcio financeiro.",
+                                "correta": true,
+                                "justificativa": "Conforme o Art. 36 da Lei 4.320/64, Restos a Pagar s\u00e3o as despesas empenhadas (cuja obriga\u00e7\u00e3o de pagar foi assumida) no exerc\u00edcio, mas n\u00e3o pagas at\u00e9 31 de dezembro. Eles s\u00e3o processados e pagos no exerc\u00edcio financeiro seguinte, mas pertencem \u00e0 despesa do exerc\u00edcio anterior."
+                            },
+                            {
+                                "texto": "liquidadas e em processamento de pagamento.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "previstas mas n\u00e3o empenhadas.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "de exerc\u00edcios anteriores j\u00e1 pagas.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": "empenhadas e n\u00e3o pagas at\u00e9 o final do exerc\u00edcio financeiro.",
+                    "correct_answer": "empenhadas e n\u00e3o pagas at\u00e9 o final do exerc\u00edcio financeiro.",
+                    "is_correct": true
+                },
+                {
+                    "question_obj": {
+                        "id": "q14",
+                        "questao": "O princ\u00edpio or\u00e7ament\u00e1rio que veda a inclus\u00e3o de mat\u00e9ria estranha \u00e0 previs\u00e3o de receita e \u00e0 fixa\u00e7\u00e3o de despesa na lei or\u00e7ament\u00e1ria \u00e9 o princ\u00edpio da:",
+                        "alternativas": [
+                            {
+                                "texto": "Universalidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Exclusividade.",
+                                "correta": true,
+                                "justificativa": "O princ\u00edpio da exclusividade, previsto no Art. 165, \u00a78\u00ba, da CF/88, determina que a lei or\u00e7ament\u00e1ria n\u00e3o pode conter dispositivo estranho \u00e0 previs\u00e3o da receita e \u00e0 fixa\u00e7\u00e3o da despesa. Isso impede que o or\u00e7amento seja usado para veicular normas sobre outros assuntos, mantendo-o focado em sua finalidade financeira."
+                            },
+                            {
+                                "texto": "Unidade.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Especializa\u00e7\u00e3o.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "Legalidade.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": "Especializa\u00e7\u00e3o.",
+                    "correct_answer": "Exclusividade.",
+                    "is_correct": false
+                },
+                {
+                    "question_obj": {
+                        "id": "q15",
+                        "questao": "A receita origin\u00e1ria caracteriza-se por derivar:",
+                        "alternativas": [
+                            {
+                                "texto": "do poder de imp\u00e9rio do Estado, como os tributos.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "da explora\u00e7\u00e3o do patrim\u00f4nio ou de atividades econ\u00f4micas pelo Estado.",
+                                "correta": true,
+                                "justificativa": "Receita Origin\u00e1ria \u00e9 aquela que o Estado obt\u00e9m por atuar em condi\u00e7\u00f5es de igualdade com os particulares, explorando seu patrim\u00f4nio (aluguel de im\u00f3veis) ou atividades econ\u00f4micas (lucro de empresas estatais). Diferencia-se da Receita Derivada, que adv\u00e9m do seu poder de imp\u00e9rio (tributos)."
+                            },
+                            {
+                                "texto": "de transfer\u00eancias de outros entes federados.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "de opera\u00e7\u00f5es de cr\u00e9dito.",
+                                "correta": false
+                            },
+                            {
+                                "texto": "de aliena\u00e7\u00e3o de bens m\u00f3veis.",
+                                "correta": false
+                            }
+                        ]
+                    },
+                    "area": "direito_financeiro",
+                    "user_answer": "de opera\u00e7\u00f5es de cr\u00e9dito.",
+                    "correct_answer": "da explora\u00e7\u00e3o do patrim\u00f4nio ou de atividades econ\u00f4micas pelo Estado.",
+                    "is_correct": false
+                }
+            ],
+            "date": "2025-09-16T16:41:59.353269"
         }
     ]
 }

@@ -11,8 +11,19 @@
         "password_hash": "$2b$12$ZC7OO11TXXxnVncoSc/qYunnd4MY7ig160Uzjg178IrbdlDQ0zbGS",
         "role": "user",
         "available_simulations": [
-            "primeiro modelo deep.json"
+            "simulado controle externo.json",
+            "simulado de nocoes de direito penal.json",
+            "simulado portugues.json"
         ],
-        "access_expires_on": "2025-12-31"
+        "access_expires_on": "2025-12-02"
+    },
+    "lauro": {
+        "name": "Lauro Santos",
+        "password_hash": "$2b$12$I16dzg6F6tyYAhjr4.zusepHMNZmEDJ95XawaATCQJZinRxiQV1/y",
+        "role": "user",
+        "available_simulations": [
+            "simulado de direito financeiro.json"
+        ],
+        "access_expires_on": "2025-09-16"
     }
 }

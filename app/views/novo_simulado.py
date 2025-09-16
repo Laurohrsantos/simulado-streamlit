@@ -7,14 +7,9 @@ from database.db_handler import get_user, get_all_question_banks, save_simulatio
 
 def render_page():
     """Renderiza a página completa de criação e execução de simulados."""
+    if 'quiz_started' not in st.session_state: st.session_state.quiz_started = False
 
-    # Inicializa o estado do quiz
-    if 'quiz_started' not in st.session_state:
-        st.session_state.quiz_started = False
-
-    # --- FUNÇÕES AUXILIARES ---
     def load_questions_from_banks(selected_banks):
-        """Carrega questões dos bancos de dados selecionados."""
         all_questions = []
         data_dir = Path(__file__).parent.parent / "data"
         for bank_name in selected_banks:
@@ -28,14 +23,10 @@ def render_page():
         return all_questions
 
     def reset_quiz():
-        """Reinicia o estado da sessão para permitir um novo simulado."""
         keys_to_reset = ['quiz_started', 'quiz_finished', 'selected_questions', 'user_answers', 'current_question_index', 'shuffled_alts', 'full_result']
         for key in keys_to_reset:
-            if key in st.session_state:
-                del st.session_state[key]
+            if key in st.session_state: del st.session_state[key]
         st.rerun()
-
-    # --- LÓGICA DE RENDERIZAÇÃO ---
 
     # ETAPA 1: ECRÃ DE CONFIGURAÇÃO DO SIMULADO
     if not st.session_state.quiz_started:
@@ -45,40 +36,41 @@ def render_page():
         
         if st.session_state['role'] == 'admin':
             available_banks = get_all_question_banks()
-            st.info("Como administrador, tem acesso a todos os bancos de questões.")
         else:
             available_banks = user_info.get('available_simulations', [])
 
         if not available_banks:
-            st.warning("Não tem acesso a nenhum banco de questões no momento.")
-            st.info("Por favor, peça a um administrador para libertar o seu acesso.")
+            st.warning("Não tem acesso a nenhum banco de questões no momento. Peça a um administrador para libertar o seu acesso.")
         else:
-            with st.form("simulado_config"):
-                selected_banks = st.multiselect(
-                    "Selecione os bancos de questões para este simulado:",
-                    available_banks,
-                    default=available_banks if len(available_banks) == 1 else []
-                )
-                num_questions = st.slider("Número de questões desejado:", 5, 100, 20)
-                submitted = st.form_submit_button("Iniciar Simulado")
+            with st.container(border=True):
+                with st.form("simulado_config"):
+                    st.subheader("⚙️ Configurações")
+                    selected_banks = st.multiselect(
+                        "1. Selecione os bancos de questões para este simulado:",
+                        available_banks,
+                        default=available_banks if len(available_banks) == 1 else []
+                    )
+                    num_questions = st.slider("2. Selecione o número de questões desejado:", 5, 100, 20)
+                                        
+                    submitted = st.form_submit_button("🚀 Iniciar Simulado")
 
-                if submitted:
-                    if not selected_banks:
-                        st.error("Selecione pelo menos um banco de questões.")
-                    else:
-                        all_q = load_questions_from_banks(selected_banks)
-                        if not all_q:
-                            st.error("Nenhuma questão encontrada nos bancos selecionados.")
+                    if submitted:
+                        if not selected_banks:
+                            st.error("Selecione pelo menos um banco de questões.")
                         else:
-                            num_to_sample = min(num_questions, len(all_q))
-                            st.session_state.selected_questions = random.sample(all_q, num_to_sample)
-                            st.session_state.user_answers = [None] * num_to_sample
-                            st.session_state.current_question_index = 0
-                            st.session_state.quiz_started = True
-                            st.session_state.quiz_finished = False
-                            st.session_state.start_time = time.time()
-                            st.session_state.shuffled_alts = {}
-                            st.rerun()
+                            all_q = load_questions_from_banks(selected_banks)
+                            if not all_q:
+                                st.error("Nenhuma questão encontrada nos bancos selecionados.")
+                            else:
+                                num_to_sample = min(num_questions, len(all_q))
+                                st.session_state.selected_questions = random.sample(all_q, num_to_sample)
+                                st.session_state.user_answers = [None] * num_to_sample
+                                st.session_state.current_question_index = 0
+                                st.session_state.quiz_started = True
+                                st.session_state.quiz_finished = False
+                                st.session_state.start_time = time.time()
+                                st.session_state.shuffled_alts = {}
+                                st.rerun()
 
     # ETAPA 2: DURANTE O SIMULADO
     elif not st.session_state.get('quiz_finished', False):
@@ -87,7 +79,6 @@ def render_page():
         question_info = questions[current_idx]
         question = question_info['question']
 
-        # A barra lateral agora está livre para a navegação do quiz
         with st.sidebar:
             st.subheader("Navegar Questões")
             cols = st.columns(5)
@@ -99,7 +90,6 @@ def render_page():
                     st.session_state.current_question_index = i
                     st.rerun()
 
-        # Renderização da questão atual no contentor principal
         st.header(f"Questão {current_idx + 1}/{len(questions)}")
         st.write(f"**Área:** {question_info['area']}")
         st.markdown(f"> {question['questao']}")
@@ -122,47 +112,35 @@ def render_page():
         
         col1, _, col3 = st.columns([1, 2, 1])
         if col1.button("<< Anterior", disabled=(current_idx == 0), use_container_width=True):
-            st.session_state.current_question_index -= 1
-            st.rerun()
+            st.session_state.current_question_index -= 1; st.rerun()
         if col3.button("Próxima >>", disabled=(current_idx == len(questions) - 1), use_container_width=True):
-            st.session_state.current_question_index += 1
-            st.rerun()
+            st.session_state.current_question_index += 1; st.rerun()
 
         st.divider()
         if st.button("Finalizar e Ver Resultado", type="primary", use_container_width=True):
-            st.session_state.quiz_finished = True
-            st.rerun()
+            st.session_state.quiz_finished = True; st.rerun()
 
     # ETAPA 3: ECRÃ DE RESULTADOS E REVISÃO
     else:
         if 'full_result' not in st.session_state:
-            correct = 0
-            detailed_results = []
-            area_performance = {}
-
+            correct, detailed_results, area_performance = 0, [], {}
             for i, q_info in enumerate(st.session_state.selected_questions):
-                q = q_info['question']
-                area = q_info['area']
-                
+                q, area = q_info['question'], q_info['area']
                 if area not in area_performance: area_performance[area] = {'correct': 0, 'total': 0}
                 area_performance[area]['total'] += 1
                 
                 correct_answer = next((a["texto"] for a in q["alternativas"] if a["correta"]), None)
                 user_answer = st.session_state.user_answers[i]
                 is_correct = user_answer == correct_answer
-                
                 if is_correct:
-                    correct += 1
-                    area_performance[area]['correct'] += 1
+                    correct += 1; area_performance[area]['correct'] += 1
                 
                 detailed_results.append({
                     "question_obj": q, "area": area, "user_answer": user_answer,
                     "correct_answer": correct_answer, "is_correct": is_correct
                 })
-
             total = len(st.session_state.selected_questions)
             score = (correct / total) * 100 if total > 0 else 0
-            
             st.session_state.full_result = {
                 "total_questions": total, "correct_answers": correct, "score_percent": score,
                 "time_taken_seconds": time.time() - st.session_state.start_time,
@@ -201,3 +179,4 @@ def render_page():
         st.divider()
         if st.button("Fazer Novo Simulado", use_container_width=True, type="primary"):
             reset_quiz()
+
